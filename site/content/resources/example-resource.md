@@ -1,5 +1,5 @@
 ---
-title: Example Resource
+title: Example Resource Testing longer title
 meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
 meta_description: This is a detailed description of the page.
 banner_title: Interview with Dr Heather Bolton, Unmind
