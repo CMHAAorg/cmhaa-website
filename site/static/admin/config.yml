@@ -7,6 +7,8 @@ collections: # A list of collections the CMS should be able to edit
     label: "Post" # Used in the UI, ie.: "New Post"
     folder: "site/content/post" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    editor:
+      preview: false
     fields: # The fields each document in this collection have
       - { label: "Title", name: "title", widget: "string", required: true }
       - { label: "Metadata Keywords", name: "meta_keywords", widget: "string", required: true, default: "Mental Awareness, CMHAA, Keyword, Keyword." }
@@ -247,6 +249,8 @@ collections: # A list of collections the CMS should be able to edit
     label: "Resources"
     folder: "site/content/resources"
     create: true
+    editor:
+      preview: false
     fields:
       - { label: "Title", name: "title", widget: "string", required: true }
       - { label: "Metadata Keywords", name: "meta_keywords", widget: "string", required: true, default: "Mental Awareness, CMHAA, Keyword, Keyword." }
@@ -798,6 +802,8 @@ collections: # A list of collections the CMS should be able to edit
     label: "Global Settings"
     folder: "site/content/settings"
     slug: "settings"
+    editor:
+      preview: false
     fields:
       - { label: "Title", name: "title", widget: "string", default: "Global Settings" }
       - label: "Footer"
