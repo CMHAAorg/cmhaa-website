@@ -64,6 +64,11 @@ modules:
       * It was important to make the mental health awareness campaign more than just about the ribbon. Whilst the wearing of the ribbon is fundamental, and showing visible support is essential, it is important organisations think about what goes with that and how to facilitate the conversation to really generate culture change. For example, training in mental health literacy, effective signposting to sources of help and support, and sustained and engaging communications are key.
   - type: feature_resource
     resource: Another Resource
+  - type: quote
+    quote_text: “Organizing times where people can go for a lunchtime walk led by
+      wellbeing champions. This is an opportunity to connect, have conversations
+      and check in with each other.”
+    quote_author: Sam Brunno
 ---
 ### The Challenge
 
