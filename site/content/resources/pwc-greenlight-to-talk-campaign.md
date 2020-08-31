@@ -19,6 +19,10 @@ modules:
     gallery:
       - gallery_image: img/galleryimagetest1.jpg
       - gallery_image: img/galleryimagetest2.jpg
+  - type: youtube_with_quote
+    youtube_quote_id: 7uWEucoGfG0
+    youtube_quote_text: This is my quote text
+    youtube_quote_author: Vicki
   - type: rich-text
     richtext_top: false
     richtext: >-
@@ -33,10 +37,6 @@ modules:
       * **Green ribbon**: A key result of the Green Light to Talk campaign is that in 2017 the Lord Mayor’s Appeal approached PwC and asked to incorporate the Green Ribbon into the This is Me campaign, complementing This is Me story-telling from Barclays. As a result, this has gone far beyond just a PwC campaign and in Mental Health Awareness Week 2019 over 250,000 people wore a green ribbon across the UK. In addition, increasingly people at PwC are wearing green ribbons all year around and taking them to client sites. PwC has now launched this campaign in other offices around the world including Australia and the US.
 
       * **Green ribbon**: A key result of the Green Light to Talk campaign is that in 2017 the Lord Mayor’s Appeal approached PwC and asked to incorporate the Green Ribbon into the This is Me campaign, complementing This is Me story-telling from Barclays. As a result, this has gone far beyond just a PwC campaign and in Mental Health Awareness Week 2019 over 250,000 people wore a green ribbon across the UK. In addition, increasingly people at PwC are wearing green ribbons all year around and taking them to client sites. PwC has now launched this campaign in other offices around the world including Australia and the US.
-  - type: youtube_with_quote
-    youtube_quote_id: 7uWEucoGfG0
-    youtube_quote_text: This is my quote text
-    youtube_quote_author: Vicki
   - type: split_title_content_background
     disable_leftright: true
     title: Time and resources needed
@@ -53,6 +53,15 @@ modules:
 
       A third challenge was getting the balance between setting up the campaign and not wanting to control it too much and stifle creativity. Every year PwC produces a Green Light to Talk Resource Toolkit which has ideas as to what local teams can do and how they can bring the campaign to life. The Toolkit provides some structure and acts as a starting point for teams to create their own ideas. Examples of team-led initiatives include:
     leadtext: This is lead text
+  - type: rich-text
+    richtext_top: false
+    richtext: >-
+      ### Outcomes
+
+
+      * It was important to make the mental health awareness campaign more than just about the ribbon. Whilst the wearing of the ribbon is fundamental, and showing visible support is essential, it is important organisations think about what goes with that and how to facilitate the conversation to really generate culture change. For example, training in mental health literacy, effective signposting to sources of help and support, and sustained and engaging communications are key.
+
+      * It was important to make the mental health awareness campaign more than just about the ribbon. Whilst the wearing of the ribbon is fundamental, and showing visible support is essential, it is important organisations think about what goes with that and how to facilitate the conversation to really generate culture change. For example, training in mental health literacy, effective signposting to sources of help and support, and sustained and engaging communications are key.
 ---
 ### The Challenge
 
