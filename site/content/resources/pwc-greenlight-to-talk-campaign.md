@@ -68,7 +68,35 @@ modules:
     quote_text: “Organizing times where people can go for a lunchtime walk led by
       wellbeing champions. This is an opportunity to connect, have conversations
       and check in with each other.”
-    quote_author: Sam Brunno
+    quote_author: ""
+  - type: rich-text
+    richtext_top: false
+    richtext: >-
+      ### Insights
+
+
+      Training in mental health literacy, effective signposting to sources of help and support, and sustained and engaging communications are key.
+
+
+      Training in mental health literacy, effective signposting to sources of help and support, and sustained and engaging communications are key.
+
+
+      Training in mental health literacy, effective signposting to sources of help and support, and sustained and engaging communications are key.
+  - type: pdf-downloads
+    pdf_downloads_heading: Download resources
+    pdf_downloads_list:
+      - pdf_downloads_list_heading: PDF Download
+        pdf_downloads_list_file: img/dummy.pdf
+        pdf_downloads_list_text: "Supporting the mental health of furloughed workers
+          during the coronavirus outbreak "
+      - pdf_downloads_list_heading: PDF Download 2
+        pdf_downloads_list_file: img/dummy.pdf
+        pdf_downloads_list_text: "Supporting the mental health of furloughed workers
+          during the coronavirus outbreak "
+      - pdf_downloads_list_heading: PDF Download 3
+        pdf_downloads_list_file: img/dummy.pdf
+        pdf_downloads_list_text: Supporting the mental health of furloughed workers
+          during the coronavirus outbreak.
 ---
 ### The Challenge
 
