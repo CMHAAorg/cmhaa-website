@@ -37,6 +37,22 @@ modules:
     youtube_quote_id: 7uWEucoGfG0
     youtube_quote_text: This is my quote text
     youtube_quote_author: Vicki
+  - type: split_title_content_background
+    disable_leftright: true
+    title: Time and resources needed
+    content: >-
+      PwC’s main challenge in 2016 was not knowing whether people would pick up
+      and wear a green ribbon, so in the build up to launch PwC did a huge
+      amount of communication around what it meant to wear a green ribbon. PwC
+      didn’t want people to just wear one and not realise that it was showing a
+      willingness to have a conversation and listen to someone. To help with
+      this the firm created a flyer that people could take with them to client
+      sites, explaining what the green ribbon symbolised.
+
+      A second challenge is that PwC has a lot of people working off-site remotely. In order to reach those people with the Green Ribbon campaign PwC created a virtual green ribbon that people could put on their e-mail signatures.
+
+      A third challenge was getting the balance between setting up the campaign and not wanting to control it too much and stifle creativity. Every year PwC produces a Green Light to Talk Resource Toolkit which has ideas as to what local teams can do and how they can bring the campaign to life. The Toolkit provides some structure and acts as a starting point for teams to create their own ideas. Examples of team-led initiatives include:
+    leadtext: This is lead text
 ---
 ### The Challenge
 
