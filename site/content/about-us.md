@@ -57,6 +57,7 @@ modules:
 
 
       Our strength lies in the unique collaboration of our members, working together to draw upon the vast pool of knowledge and experience from across business, and with guidance from our expert advisors, to find, test and deliver solutions that work for our members.
+    disable_leftright: false
   - type: split_title_content
     image: img/guiding-principles.jpg
     title: Our guiding principles
@@ -347,6 +348,7 @@ modules:
       - friend_text: "Colin Seery, CEO, Lifeline "
       - friend_text: Mitch Wallis, Heart on my sleeve movement (HOMS)
       - friend_text: Jennifer Westacott, Business Council of Australia (BCA)
+      - friend_text: Sam Brunno
   - type: split_title_content_background
     title: Our members
     leadtext: "CMHAA welcomes businesses of all sizes and from all sectors, to join
