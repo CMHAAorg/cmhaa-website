@@ -5,6 +5,7 @@ meta_description: PWC, This is a detailed description of the page.
 banner_title: PWC' Greenlight to talk campaign
 banner_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   Cras quam libero, luctus et posuere nec, euismod sed consectetur adipiscing.
+banner_right_image: img/bannerrightimage.jpg
 date: 2020-08-31T00:36:31.889Z
 description: PwC UK wanted to create an open culture, where employees felt
   comfortable talking about mental health, and were more likely to speak up when
