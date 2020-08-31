@@ -485,7 +485,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: object
             fields:
               - { label: Quote Text, name: quote_text, widget: markdown }
-              - { label: Quote Author, name: quote_author, widget: string }
+              - { label: Quote Author, name: quote_author, widget: string, required: false }
           - label: "C16: Contact form"
             name: "contact-form"
             widget: object

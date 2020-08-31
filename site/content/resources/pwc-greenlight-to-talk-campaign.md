@@ -66,8 +66,8 @@ modules:
     resource: Another Resource
   - type: quote
     quote_text: “Organizing times where people can go for a lunchtime walk led by
-      wellbeing champions. This is an opportunity to connect, have conversations
-      and check in with each other.”
+      wellbeing champions. This is an opportunity to connect, have conversations
+      and check in with each other.”
     quote_author: ""
   - type: rich-text
     richtext_top: false
