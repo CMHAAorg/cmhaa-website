@@ -14,6 +14,11 @@ focus: Improving workplace culture
 role: Senior manager
 organisation_size: Medium (50-249 employees)
 industry: Occupational Health & Rehabilitation
+modules:
+  - type: image_gallery
+    gallery:
+      - gallery_image: img/galleryimagetest1.jpg
+      - gallery_image: img/galleryimagetest2.jpg
 ---
 ### The Challenge
 
