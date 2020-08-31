@@ -98,6 +98,9 @@ modules:
         pdf_downloads_list_file: img/dummy.pdf
         pdf_downloads_list_text: Supporting the mental health of furloughed workers
           during the coronavirus outbreak.
+  - type: soundcloud
+    souncloud_heading: This is soundcloud
+    souncloud_url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/831910681&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
 ---
 ### The Challenge
 
