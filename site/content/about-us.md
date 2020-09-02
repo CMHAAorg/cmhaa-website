@@ -80,6 +80,34 @@ modules:
       * We share our successes widely with others to accelerate learning and enhance people’s experiences in the workplace.
   - our_board_exec_linkedin: https://www.linkedin.com/
     board:
+      - our_board_name: BEN FITZPATRICK
+        our_board_image: img/aia-aus_ben-fitzpatrick.jpg
+        our_board_title: Workplace Health & Safety Manager, AIA Australia
+        our_board_description: >-
+          Ben’s career in Workplace Health and Safety began over 15 years ago.
+          Joining AIA in 2018 because of their commitment to the health and
+          wellbeing of all Australians, mental health has been one of Ben’s key
+          focuses where he is leading the operational planning and execution of
+          the associated framework.
+
+
+          Lived experience has aided Ben to develop a more personalised perspective of the impact mental ill-health has within the workplace setting and within the community more broadly. Being a father, husband and avid watcher of the English Premier League, Ben has his hands full but has found the time to peruse Psychology studies at Monash University.
+        our_board_linkedin: https://www.linkedin.com/in/ben-fitzpatrick-097592160/
+      - our_board_name: HELEN SILVER AO
+        our_board_title: Chief General Manager, Corporate Governance and Conduct,
+          Allianz Australia Insurance Ltd
+        our_board_image: img/helen-silver.jpg
+        our_board_linkedin: https://www.linkedin.com/in/silverhelen/
+        our_board_description: >-
+          Helen Silver is Allianz Australia’s Chief General Manager, Corporate
+          Governance and Conduct.
+
+
+          Prior to joining Allianz Australia, Helen had spent more than 25 years in executive roles in the Victoria and Commonwealth public sectors, culminating in the position of Secretary of the Victorian Department of Premier and Cabinet.
+
+
+          Helen also currently serves on a number of boards including the Victorian Arts Centre Trust, the Judicial Commission and the Melbourne Symphony Orchestra.
+        our_board_quote: ""
       - our_board_image: img/david-brewster.jpg
         our_board_name: DAVID BREWSTER
         our_board_title: Chief Legal Officer, Coles
@@ -227,22 +255,6 @@ modules:
       - our_board_name: MICHAEL SCHNEIDER
         our_board_image: img/michael-schneider.jpg
         our_board_title: Managing Director, Bunnings Group Limited
-        our_board_linkedin: https://www.linkedin.com/
-        our_board_description: Lorem Ipsum in hac habitasse platea dictumst. Ut
-          sollicitudin a neque ac placerat. Cras mattis consequat ex, et posuere
-          nibh dictum eu. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas. Pellentesque efficitur
-          eros et diam porttitor, sed laoreet erat aliquam. Nulla et nulla
-          turpis. Proin efficitur sapien at consequat faucibus. Aliquam in
-          mauris finibus, lobortis mi ac, hendrerit purus. Vestibulum quis
-          aliquet dolor. In consequat risus lacus, id accumsan dui vulputate at.
-          Integer ac pellentesque est. Maecenas commodo semper hendrerit.
-        our_board_quote: '"Everyone has mental health in the same way that everyone has
-          physical health. It’s up to us as employers to create an environment
-          where everyone in the workplace feels comfortable."'
-      - our_board_name: HELEN SILVER
-        our_board_title: Governance & Conduct, Allianz Australia
-        our_board_image: img/helen-silver.jpg
         our_board_linkedin: https://www.linkedin.com/
         our_board_description: Lorem Ipsum in hac habitasse platea dictumst. Ut
           sollicitudin a neque ac placerat. Cras mattis consequat ex, et posuere
