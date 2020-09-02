@@ -96,7 +96,7 @@ modules:
       - our_board_name: HELEN SILVER AO
         our_board_title: Chief General Manager, Corporate Governance and Conduct,
           Allianz Australia Insurance Ltd
-        our_board_image: img/helen-silver.jpg
+        our_board_image: img/helen-silver-14-bio-pic.jpg
         our_board_linkedin: https://www.linkedin.com/in/silverhelen/
         our_board_description: >-
           Helen Silver is Allianz Australia’s Chief General Manager, Corporate
@@ -108,6 +108,36 @@ modules:
 
           Helen also currently serves on a number of boards including the Victorian Arts Centre Trust, the Judicial Commission and the Melbourne Symphony Orchestra.
         our_board_quote: ""
+      - our_board_name: MICHAEL SCHNEIDER
+        our_board_image: img/mike-4-july-2019.jpg
+        our_board_title: Managing Director, Bunnings Group Limited
+        our_board_linkedin: https://www.linkedin.com/in/michael-schneider-72116917/
+        our_board_description: >-
+          Michael Schneider was appointed Managing Director Bunnings Australia
+          and New Zealand in March 2016.
+
+
+          He is committed to developing diverse teams that challenge the status quo and embrace innovation to drive high performance which is critical in today’s competitive retail environment. As a leader, he is known for his collaborative, genuine and honest style and for having a real passion and energy for the Bunnings business.
+
+
+          Michael believes that team members’ ability to connect with customers and the local community is key to the business’ success and that this requires an ongoing investment in building the best team as well as creating a culture that builds trust, inspires action, develops people and drives performance.
+        our_board_quote: ""
+      - our_board_name: BRUCE COOPER
+        our_board_image: img/clayton_cooperbruce_externalprint_2000x2000.jpg
+        our_board_title: Chief Executive Partner, Clayton Utz
+        our_board_quote: ""
+        our_board_description: >-
+          Bruce's career in law spans 30 years in Australia and overseas as a
+          project, infrastructure and finance lawyer. He has been a partner at
+          two firms and is admitted to practice in Australia, England and Hong
+          Kong.
+
+
+          Returning to Australia in 2010, he was elected to the Clayton Utz Board in 2012 and made Deputy Chief Executive Partner in 2014. He was appointed the Chief Executive Partner on May 15, 2020.
+
+
+          Outside law, Bruce is the Deputy Chair of the Australian String Quartet, skis, collects vintage land rovers and WW1 militaria (both mostly while his wife, Bronwyn, is not looking) and acts as a hired hand in her cattle business.
+        our_board_linkedin: https://www.linkedin.com/in/bruce-cooper-960934b/
       - our_board_image: img/david-brewster.jpg
         our_board_name: DAVID BREWSTER
         our_board_title: Chief Legal Officer, Coles
@@ -127,22 +157,6 @@ modules:
       - our_board_image: img/andrew-culleton.jpg
         our_board_name: ANDREW CULLETON
         our_board_title: Executive General Manager Group People Services, CBA
-        our_board_quote: '"Everyone has mental health in the same way that everyone has
-          physical health. It’s up to us as employers to create an environment
-          where everyone in the workplace feels comfortable."'
-        our_board_description: Lorem Ipsum in hac habitasse platea dictumst. Ut
-          sollicitudin a neque ac placerat. Cras mattis consequat ex, et posuere
-          nibh dictum eu. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas. Pellentesque efficitur
-          eros et diam porttitor, sed laoreet erat aliquam. Nulla et nulla
-          turpis. Proin efficitur sapien at consequat faucibus. Aliquam in
-          mauris finibus, lobortis mi ac, hendrerit purus. Vestibulum quis
-          aliquet dolor. In consequat risus lacus, id accumsan dui vulputate at.
-          Integer ac pellentesque est. Maecenas commodo semper hendrerit.
-        our_board_linkedin: https://www.linkedin.com/
-      - our_board_name: BRUCE COOPER
-        our_board_image: img/bruce-cooper.jpg
-        our_board_title: Chief Executive Partner Clayton Utz
         our_board_quote: '"Everyone has mental health in the same way that everyone has
           physical health. It’s up to us as employers to create an environment
           where everyone in the workplace feels comfortable."'
@@ -239,22 +253,6 @@ modules:
       - our_board_name: MELINDA UPTON
         our_board_image: img/melinda-upton.jpg
         our_board_title: "Global Co-Chair, Intellectual Property & Technology, DLA Piper "
-        our_board_linkedin: https://www.linkedin.com/
-        our_board_description: Lorem Ipsum in hac habitasse platea dictumst. Ut
-          sollicitudin a neque ac placerat. Cras mattis consequat ex, et posuere
-          nibh dictum eu. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas. Pellentesque efficitur
-          eros et diam porttitor, sed laoreet erat aliquam. Nulla et nulla
-          turpis. Proin efficitur sapien at consequat faucibus. Aliquam in
-          mauris finibus, lobortis mi ac, hendrerit purus. Vestibulum quis
-          aliquet dolor. In consequat risus lacus, id accumsan dui vulputate at.
-          Integer ac pellentesque est. Maecenas commodo semper hendrerit.
-        our_board_quote: '"Everyone has mental health in the same way that everyone has
-          physical health. It’s up to us as employers to create an environment
-          where everyone in the workplace feels comfortable."'
-      - our_board_name: MICHAEL SCHNEIDER
-        our_board_image: img/michael-schneider.jpg
-        our_board_title: Managing Director, Bunnings Group Limited
         our_board_linkedin: https://www.linkedin.com/
         our_board_description: Lorem Ipsum in hac habitasse platea dictumst. Ut
           sollicitudin a neque ac placerat. Cras mattis consequat ex, et posuere
