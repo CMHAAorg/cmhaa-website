@@ -88,13 +88,15 @@ modules:
       Together,  they are leading a movement for positive change across
       Australia, and the world, as a part of the CMHAGlobal network.
     member:
-      - our_member_image: img/allianz.jpg
+      - our_member_image: img/aia_corporate_logo_rgb.png
+        our_member_link: http://www.aia.com.au/
+      - our_member_image: img/allianz_logo_positive_cmyk_c.jpg
         our_member_link: https://www.allianz.com.au/
-      - our_member_image: img/bunnings.jpg
+      - our_member_image: img/bunnings_warehouse_colour_pos.png
         our_member_link: https://www.bunnings.com.au/
-      - our_member_image: img/clayton.jpg
+      - our_member_image: img/clayton_utz_logo_tab_mono.jpg
         our_member_link: https://www.claytonutz.com/
-      - our_member_image: img/coles.jpg
+      - our_member_image: img/coles_group_stacked__rgb.png
         our_member_link: https://www.colesgroup.com.au/home/
       - our_member_image: img/commbank.jpg
         our_member_link: https://www.commbank.com.au/
