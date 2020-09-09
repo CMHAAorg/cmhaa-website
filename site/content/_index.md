@@ -17,7 +17,7 @@ modules:
       pool their knowledge and resources and work with each other in a
       collaborative, non-competitive way, more sustainable outcomes can be
       achieved for our people, and for the wider community. More text.
-    image: img/ourleadership.jpg
+    image: img/banner-image.jpg
   - type: spotlight_image_content
     image: img/ourvision.jpg
     title1: Our vision
