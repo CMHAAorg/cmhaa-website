@@ -185,6 +185,22 @@ modules:
 
           Ellen plays an active role in local and national charitable foundations, including Cystic Fibrosis Australia, and is a mentor for the Centre for Economic Development of Australia and the Institute of Public Administration Australia.
         our_board_quote: ""
+      - our_board_name: MELINDA UPTON
+        our_board_image: img/internet_5y6a0050-edit.jpg
+        our_board_title: Partner, Global Co-Chair IPT, DLA Piper
+        our_board_linkedin: https://www.linkedin.com/in/melindaupton/
+        our_board_description: >-
+          Melinda Upton is a leading intellectual property lawyer and Global
+          Co-Chair of Intellectual Property and Technology (IPT) at global law
+          firm DLA Piper. The firm’s IPT practice group comprises over 500
+          lawyers across 25 countries.
+
+
+          Melinda is a passionate advocate for workplace health and wellbeing in the legal profession. She established DLA Piper’s first bespoke mental health and wellbeing program called SPEAK, is a founding member of DLA Piper’s International Health & Wellbeing Steering Committee and works tirelessly to raise awareness about mental ill-health and help drive positive change across our industry.
+
+
+          When Melinda isn’t working, you’ll find her enjoying backyard cricket with her family and friends, on the tennis court or doing “the bay” with one of her running friends or gorgeous collie, Watson.
+        our_board_quote: ""
       - our_board_name: BERKELEY COX
         our_board_image: img/berkely-cox.jpg
         our_board_title: Chief Executive Partner, KWM Australia
@@ -249,22 +265,6 @@ modules:
         our_board_title: Chief Legal Counsel, Johnson & Johnson
         our_board_image: img/felicity-mcdowell.jpg
         our_board_linkedin: https://www.linkedin.com/
-      - our_board_name: MELINDA UPTON
-        our_board_image: img/melinda-upton.jpg
-        our_board_title: "Global Co-Chair, Intellectual Property & Technology, DLA Piper "
-        our_board_linkedin: https://www.linkedin.com/
-        our_board_description: Lorem Ipsum in hac habitasse platea dictumst. Ut
-          sollicitudin a neque ac placerat. Cras mattis consequat ex, et posuere
-          nibh dictum eu. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas. Pellentesque efficitur
-          eros et diam porttitor, sed laoreet erat aliquam. Nulla et nulla
-          turpis. Proin efficitur sapien at consequat faucibus. Aliquam in
-          mauris finibus, lobortis mi ac, hendrerit purus. Vestibulum quis
-          aliquet dolor. In consequat risus lacus, id accumsan dui vulputate at.
-          Integer ac pellentesque est. Maecenas commodo semper hendrerit.
-        our_board_quote: '"Everyone has mental health in the same way that everyone has
-          physical health. It’s up to us as employers to create an environment
-          where everyone in the workplace feels comfortable."'
       - our_board_name: DEBORAH YATES
         our_board_image: img/deborah-yates.jpg
         our_board_title: "National Managing Partner People, Corporate Affairs and
