@@ -1,6 +1,7 @@
 ---
 title: "Personal Story: Bruce Cooper"
-meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
+meta_keywords: Bruce Cooper, Clayton Utz, Mental Awareness, CMHAA, Mental
+  Health, Corporate Mental Health Alliance, City Mental Health Alliance
 meta_description: This is a detailed description of the page.
 banner_title: "Personal Story: Bruce Cooper"
 banner_right_image: img/clayton_cooperbruce_externalprint_2000x2000.jpg
