@@ -168,6 +168,23 @@ modules:
 
           Andrew lives in Sydney with his wife and four children.
         our_board_linkedin: https://www.linkedin.com/in/andrew-culleton-757aab2/
+      - our_board_name: ELLEN DERRICK
+        our_board_image: img/ellen_derrick_2_lrg.jpg
+        our_board_title: National Leader for Public Sector & Public Policy, Deloitte Australia
+        our_board_linkedin: https://www.linkedin.com/in/ellen-derrick-33126030/
+        our_board_description: >-
+          Ellen is responsible for driving market growth and brand eminence
+          across public sector accounts and industry sectors and defining and
+          executing the Firm’s public policy strategy. She is also the Advisory
+          Partner for the Australian Federal Government, NSW, Victorian and
+          Western Australian Government accounts.
+
+
+          She has significant experience working within health and human services, social policy and regulatory agencies to embrace digital transformation, improve service delivery outcomes, and enhance operational efficiency.
+
+
+          Ellen plays an active role in local and national charitable foundations, including Cystic Fibrosis Australia, and is a mentor for the Centre for Economic Development of Australia and the Institute of Public Administration Australia.
+        our_board_quote: ""
       - our_board_name: BERKELEY COX
         our_board_image: img/berkely-cox.jpg
         our_board_title: Chief Executive Partner, KWM Australia
@@ -184,22 +201,6 @@ modules:
           aliquet dolor. In consequat risus lacus, id accumsan dui vulputate at.
           Integer ac pellentesque est. Maecenas commodo semper hendrerit.
         our_board_linkedin: https://www.linkedin.com/
-      - our_board_name: ELLEN DERRICK
-        our_board_image: img/ellen-derrick.jpg
-        our_board_title: National Leader, Public Sector and Public Policy, Deloitte
-        our_board_linkedin: https://www.linkedin.com/
-        our_board_description: Lorem Ipsum in hac habitasse platea dictumst. Ut
-          sollicitudin a neque ac placerat. Cras mattis consequat ex, et posuere
-          nibh dictum eu. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas. Pellentesque efficitur
-          eros et diam porttitor, sed laoreet erat aliquam. Nulla et nulla
-          turpis. Proin efficitur sapien at consequat faucibus. Aliquam in
-          mauris finibus, lobortis mi ac, hendrerit purus. Vestibulum quis
-          aliquet dolor. In consequat risus lacus, id accumsan dui vulputate at.
-          Integer ac pellentesque est. Maecenas commodo semper hendrerit.
-        our_board_quote: '"Everyone has mental health in the same way that everyone has
-          physical health. It’s up to us as employers to create an environment
-          where everyone in the workplace feels comfortable."'
       - our_board_name: ANNETTE KIMMITT
         our_board_image: img/annette-kimmitt.jpg
         our_board_title: CEO and Managing Partner, MinterEllison
