@@ -1,6 +1,7 @@
 ---
 title: "Personal Story: Deborah Yates"
-meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
+meta_keywords: Deborah Yates, KPMG, Mental Awareness, CMHAA, Mental Health,
+  Corporate Mental Health Alliance, City Mental Health Alliance
 meta_description: This is a detailed description of the page.
 banner_title: "Personal Story: Deborah Yates"
 banner_right_image: img/deb-yates-high-res-head-shot.jpg
