@@ -292,7 +292,7 @@ modules:
           Annette has been married to her husband Rod for over 34 years, and they have two children, Rhys and Courtney.
         our_board_quote: ""
       - our_board_name: BRIAN LONG
-        our_board_image: img/brian-long.jpg
+        our_board_image: img/img_20200826_105910_4.jpg
         our_board_title: General Manager Safety, Health & Wellbeing, Woolworths Group
         our_board_linkedin: https://www.linkedin.com/in/brian-long-6710469/
         our_board_description: >-
