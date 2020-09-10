@@ -13,7 +13,7 @@ description: >
   I’m one of five kids in a big, loving family from Far North Queensland. 
 
   When I was a teenager, I remember my parents talking to me about my younger brother, Tim. Tim struggled with what I now know as depression.
-image: img/cba-culleton-a-023.jpg
+image: ""
 category: Personal stories
 focus: Support for managers, colleagues and staff
 role: CEO or leadership role
