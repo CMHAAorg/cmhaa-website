@@ -201,6 +201,21 @@ modules:
 
           When Melinda isn’t working, you’ll find her enjoying backyard cricket with her family and friends, on the tennis court or doing “the bay” with one of her running friends or gorgeous collie, Watson.
         our_board_quote: ""
+      - our_board_name: FELICITY MCDOWELL
+        our_board_description: >-
+          Felicity McDowell is the Legal Director of the Consumer Health
+          business of the Johnson & Johnson family of companies in Australia and
+          New Zealand and has held this role for many years.
+
+
+          She is passionate about people and mental wellbeing and openly shares her lived experience. Felicity co-leads the companies’ Mental Health Diplomats Employee Resource Group and is an Accredited Mental Health First Aider.
+
+
+          Felicity loves being in and around the water and is learning synchronised swimming with her 8-year-old daughter Genevieve.
+        our_board_quote: ""
+        our_board_title: Legal Director, Johnson & Johnson Family of Companies
+        our_board_image: img/felicity2.jpg
+        our_board_linkedin: ""
       - our_board_name: BERKELEY COX
         our_board_image: img/berkely-cox.jpg
         our_board_title: Chief Executive Partner, KWM Australia
@@ -249,22 +264,6 @@ modules:
         our_board_quote: '"Everyone has mental health in the same way that everyone has
           physical health. It’s up to us as employers to create an environment
           where everyone in the workplace feels comfortable."'
-      - our_board_name: FELICITY MCDOWELL
-        our_board_description: Lorem Ipsum in hac habitasse platea dictumst. Ut
-          sollicitudin a neque ac placerat. Cras mattis consequat ex, et posuere
-          nibh dictum eu. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas. Pellentesque efficitur
-          eros et diam porttitor, sed laoreet erat aliquam. Nulla et nulla
-          turpis. Proin efficitur sapien at consequat faucibus. Aliquam in
-          mauris finibus, lobortis mi ac, hendrerit purus. Vestibulum quis
-          aliquet dolor. In consequat risus lacus, id accumsan dui vulputate at.
-          Integer ac pellentesque est. Maecenas commodo semper hendrerit.
-        our_board_quote: '"Everyone has mental health in the same way that everyone has
-          physical health. It’s up to us as employers to create an environment
-          where everyone in the workplace feels comfortable."'
-        our_board_title: Chief Legal Counsel, Johnson & Johnson
-        our_board_image: img/felicity-mcdowell.jpg
-        our_board_linkedin: https://www.linkedin.com/
       - our_board_name: DEBORAH YATES
         our_board_image: img/deborah-yates.jpg
         our_board_title: "National Managing Partner People, Corporate Affairs and
