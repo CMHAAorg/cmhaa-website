@@ -138,38 +138,36 @@ modules:
 
           Outside law, Bruce is the Deputy Chair of the Australian String Quartet, skis, collects vintage land rovers and WW1 militaria (both mostly while his wife, Bronwyn, is not looking) and acts as a hired hand in her cattle business.
         our_board_linkedin: https://www.linkedin.com/in/bruce-cooper-960934b/
-      - our_board_image: img/david-brewster.jpg
+      - our_board_image: img/david-brewster-11297.jpg
         our_board_name: DAVID BREWSTER
-        our_board_title: Chief Legal Officer, Coles
-        our_board_quote: '"Everyone has mental health in the same way that everyone has
-          physical health. It’s up to us as employers to create an environment
-          where everyone in the workplace feels comfortable."'
-        our_board_description: Lorem Ipsum in hac habitasse platea dictumst. Ut
-          sollicitudin a neque ac placerat. Cras mattis consequat ex, et posuere
-          nibh dictum eu. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas. Pellentesque efficitur
-          eros et diam porttitor, sed laoreet erat aliquam. Nulla et nulla
-          turpis. Proin efficitur sapien at consequat faucibus. Aliquam in
-          mauris finibus, lobortis mi ac, hendrerit purus. Vestibulum quis
-          aliquet dolor. In consequat risus lacus, id accumsan dui vulputate at.
-          Integer ac pellentesque est. Maecenas commodo semper hendrerit.
-        our_board_linkedin: https://www.linkedin.com/
-      - our_board_image: img/andrew-culleton.jpg
+        our_board_title: Chief Legal & Safety Officer, Coles Group
+        our_board_quote: ""
+        our_board_description: David’s extensive legal career includes 13 years as
+          partner at Allens Linklaters, and prior to that the Australian
+          Competition and Consumer Commission. David joined Coles in early 2016
+          and leads the Health, Safety and Wellbeing teams, as well as legal,
+          risk, regulatory compliance and employee relations teams. He is a
+          member of the Coles Executive team and co-chairs the Coles Better
+          Together diversity committee responsible for LGBTI issues. He is a
+          member of the board of Queensland Venue Company, a joint venture
+          operating hotels and retail liquor outlets throughout Queensland.
+        our_board_linkedin: https://www.linkedin.com/in/davidabrewster/
+      - our_board_image: img/cba-culleton-a-023.jpg
         our_board_name: ANDREW CULLETON
-        our_board_title: Executive General Manager Group People Services, CBA
-        our_board_quote: '"Everyone has mental health in the same way that everyone has
-          physical health. It’s up to us as employers to create an environment
-          where everyone in the workplace feels comfortable."'
-        our_board_description: Lorem Ipsum in hac habitasse platea dictumst. Ut
-          sollicitudin a neque ac placerat. Cras mattis consequat ex, et posuere
-          nibh dictum eu. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas. Pellentesque efficitur
-          eros et diam porttitor, sed laoreet erat aliquam. Nulla et nulla
-          turpis. Proin efficitur sapien at consequat faucibus. Aliquam in
-          mauris finibus, lobortis mi ac, hendrerit purus. Vestibulum quis
-          aliquet dolor. In consequat risus lacus, id accumsan dui vulputate at.
-          Integer ac pellentesque est. Maecenas commodo semper hendrerit.
-        our_board_linkedin: https://www.linkedin.com/
+        our_board_title: Executive General Manager Group People Services, Commonwealth
+          Bank of Australia
+        our_board_quote: ""
+        our_board_description: >-
+          Andrew is responsible for creating a better day at work for employees
+          at the Commonwealth Bank, guided by the Bank’s purpose – to improve
+          the financial wellbeing of its customers and communities.
+
+
+          Andrew believes that, as one of Australia’s largest organisations, CBA has an opportunity and obligation to enhance the lives of millions each year by supporting their financial wellbeing. To do the best for the customers and communities that rely on CBA, it’s people need to be at their best themselves. This is what makes finding new ways to preserve, protect and care for people’s physical and mental health, no matter where they are currently on the health continuum, one of Andrew’s most important priorities.
+
+
+          Andrew lives in Sydney with his wife and four children.
+        our_board_linkedin: https://www.linkedin.com/in/andrew-culleton-757aab2/
       - our_board_name: BERKELEY COX
         our_board_image: img/berkely-cox.jpg
         our_board_title: Chief Executive Partner, KWM Australia
