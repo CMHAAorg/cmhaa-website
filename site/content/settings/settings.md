@@ -19,8 +19,6 @@ footer:
         footer_social_link_url: http://linkedin.com/
       - footer_social_link_platform: twitter
         footer_social_link_url: http://twitter.com/
-      - footer_social_link_url: http://www.instagram.com/chmaa
-        footer_social_link_platform: instagram
     footer_pirvacy_link:
       - footer_pirvacy_link_text: Privacy policy
         footer_pirvacy_link_url: /privacy-policy
