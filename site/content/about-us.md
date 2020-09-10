@@ -217,7 +217,7 @@ modules:
         our_board_image: img/felicity2-copy.jpg
         our_board_linkedin: ""
       - our_board_name: BERKELEY COX
-        our_board_image: img/berkely-cox.jpg
+        our_board_image: img/berkley-cox_port.jpg
         our_board_title: Chief Executive Partner, King & Wood Mallesons
         our_board_quote: ""
         our_board_description: >-
