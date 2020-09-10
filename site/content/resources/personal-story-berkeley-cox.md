@@ -12,7 +12,7 @@ description: >-
 
 
   I have been in law since I was 18. It’s been an exciting journey that’s involved a few years in the US, umpteen trips to China and other places, working with amazing people as well as leadership of a top tier law firm in Australia.
-image: img/berkley-cox_port.jpg
+image: ""
 category: Personal stories
 focus: Support for managers, colleagues and staff
 role: CEO or leadership role
