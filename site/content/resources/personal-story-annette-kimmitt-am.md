@@ -4,13 +4,14 @@ meta_keywords: MinterEllison, Annette Kimmitt, Mental Awareness, CMHAA, Mental
   Health, Corporate Mental Health Alliance, City Mental Health Alliance
 meta_description: This is a detailed description of the page.
 banner_title: "Personal Story: Annette Kimmitt AM"
-banner_image: img/kimmitt_annette_photo_1200.jpg
+banner_image: ""
+banner_right_image: img/kimmitt_annette_photo_1200.jpg
 date: 2020-09-10T09:29:35.311Z
 description: "Mental health, for me, is all about psychological fitness. Feeling
   well, enjoying the challenges of life and work, and feeling equipped to deal
   with what’s in front of you in the workplace. That headspace allows you to
   support family, friends and colleagues as well. "
-image: img/kimmitt_annette_photo_1200.jpg
+image: ""
 category: Personal stories
 focus: Support for managers, colleagues and staff
 role: CEO or leadership role
