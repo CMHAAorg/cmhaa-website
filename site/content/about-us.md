@@ -273,20 +273,24 @@ modules:
         our_board_title: Managing Director, Microsoft Australia
       - our_board_name: ANNETTE KIMMITT
         our_board_image: img/annette-kimmitt.jpg
-        our_board_title: CEO and Managing Partner, MinterEllison
-        our_board_linkedin: https://www.linkedin.com/
-        our_board_description: Lorem Ipsum in hac habitasse platea dictumst. Ut
-          sollicitudin a neque ac placerat. Cras mattis consequat ex, et posuere
-          nibh dictum eu. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas. Pellentesque efficitur
-          eros et diam porttitor, sed laoreet erat aliquam. Nulla et nulla
-          turpis. Proin efficitur sapien at consequat faucibus. Aliquam in
-          mauris finibus, lobortis mi ac, hendrerit purus. Vestibulum quis
-          aliquet dolor. In consequat risus lacus, id accumsan dui vulputate at.
-          Integer ac pellentesque est. Maecenas commodo semper hendrerit.
-        our_board_quote: '"Everyone has mental health in the same way that everyone has
-          physical health. It’s up to us as employers to create an environment
-          where everyone in the workplace feels comfortable."'
+        our_board_title: CEO & Managing Partner of the Firm, MinterEllison
+        our_board_linkedin: " https://www.linkedin.com/in/annettekimmitt/"
+        our_board_description: >-
+          With over 35 years experience, Annette's executive career has included
+          a range of senior roles and she has extensive local and international
+          experience in designing and implementing large, complex
+          transformations, and a strong track record in unlocking organisational
+          potential.
+
+
+          Annette is a member of the Business Council of Australia's Economic Policy and Competitiveness Committee and was appointed in 2019 as 'Pay Equity Ambassador' by the Australian Government's Workplace Gender Equality Agency in recognition of her significant contribution to empowering and supporting women and in advocating for gender pay equity.
+
+
+          Serving as the Victorian Chair of the Institute of Chartered Accountants in 2009 she pioneered the accounting profession's focus on supporting the mental health and wellbeing of its members.
+
+
+          Annette has been married to her husband Rod for over 34 years, and they have two children, Rhys and Courtney.
+        our_board_quote: ""
       - our_board_name: BRIAN LONG
         our_board_image: img/brian-long.jpg
         our_board_title: Executive Safety, Health & Wellbeing Leader, Woolworths Group
