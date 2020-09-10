@@ -291,6 +291,20 @@ modules:
 
           Annette has been married to her husband Rod for over 34 years, and they have two children, Rhys and Courtney.
         our_board_quote: ""
+      - our_board_name: KRISTIN STUBBINS
+        our_board_image: img/pwc_kristin-stubbins-photo-2-.jpg
+        our_board_title: Partner, PwC Australia
+        our_board_linkedin: https://www.linkedin.com/in/kristinstubbins/
+        our_board_description: >-
+          Kristin is a member of the Executive Board of PwC Australia as leader
+          of the Audit business. She has a deep commitment to improving the
+          mental wealth of our country through innovation. Kristin is a founder
+          of InnoWell, a joint venture between PwC and the University of Sydney
+          to develop technology to transform mental health and wellbeing service
+          delivery in Australia and globally.
+
+
+          Kristin was named as one of the Australian Financial Review’s “100 Women of Influence” in 2019, having been nominated in the innovation category. She is a Board Member of Mindgardens (an alliance aiming to bring mental health and neurological research closer to patients) and works with a group of senior female business leaders seeking to empower women in developing nations through education.
       - our_board_name: BRIAN LONG
         our_board_image: img/img_20200826_105910_4.jpg
         our_board_title: General Manager Safety, Health & Wellbeing, Woolworths Group
