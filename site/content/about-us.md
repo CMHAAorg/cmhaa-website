@@ -237,6 +237,24 @@ modules:
 
           Berkeley enjoys spending time with his family and with the rich and diverse natural environment that we are fortunate to share in this country.
         our_board_linkedin: https://www.linkedin.com/in/berkeley-cox-004372a2/
+      - our_board_name: DEBORAH YATES
+        our_board_image: img/deborah-yates.jpg
+        our_board_title: National Managing Partner – People Performance & Culture &
+          Corporate Affairs, KPMG Australia
+        our_board_linkedin: " https://www.linkedin.com/in/deborah-yates-68ab768/"
+        our_board_quote: ""
+        our_board_description: >-
+          Deborah has significant experience in leading culture change, large
+          acquisitions from deal negotiation through to full business
+          integration, change management, restructuring and crisis management.
+          Deb is a respected coach and mentor to senior leaders and senior
+          leadership teams.
+
+
+          Since joining KPMG in January 2018 Deb has led the people strategy with particular focus on creating a mentally healthy culture with leaders confident and competent in leading the charge in an inclusive and diverse culture. She also leads the Corporate Affairs strategy which includes the Corporate Citizenship mental health pillar with a focus on partnering with NFPs and peak bodies dedicated to supporting people with mental illness externally in the community. Deborah also sits on the board of The Sanctuary – The Hills Women’s Shelter.
+
+
+          Deborah is married to Michael who together are parents to two teenage boys, and she loves to run, cook and entertain at her home in Sydney after many years of living abroad.
       - our_board_name: ANNETTE KIMMITT
         our_board_image: img/annette-kimmitt.jpg
         our_board_title: CEO and Managing Partner, MinterEllison
@@ -269,23 +287,6 @@ modules:
         our_board_quote: '"Everyone has mental health in the same way that everyone has
           physical health. It’s up to us as employers to create an environment
           where everyone in the workplace feels comfortable."'
-      - our_board_name: DEBORAH YATES
-        our_board_image: img/deborah-yates.jpg
-        our_board_title: "National Managing Partner People, Corporate Affairs and
-          Corporate Citizenship, KPMG "
-        our_board_linkedin: https://www.linkedin.com/
-        our_board_quote: '"Everyone has mental health in the same way that everyone has
-          physical health. It’s up to us as employers to create an environment
-          where everyone in the workplace feels comfortable."'
-        our_board_description: Lorem Ipsum in hac habitasse platea dictumst. Ut
-          sollicitudin a neque ac placerat. Cras mattis consequat ex, et posuere
-          nibh dictum eu. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas. Pellentesque efficitur
-          eros et diam porttitor, sed laoreet erat aliquam. Nulla et nulla
-          turpis. Proin efficitur sapien at consequat faucibus. Aliquam in
-          mauris finibus, lobortis mi ac, hendrerit purus. Vestibulum quis
-          aliquet dolor. In consequat risus lacus, id accumsan dui vulputate at.
-          Integer ac pellentesque est. Maecenas commodo semper hendrerit.
       - our_board_linkedin: https://www.linkedin.com/
         our_board_description: Lorem Ipsum in hac habitasse platea dictumst. Ut
           sollicitudin a neque ac placerat. Cras mattis consequat ex, et posuere
