@@ -255,6 +255,22 @@ modules:
 
 
           Deborah is married to Michael who together are parents to two teenage boys, and she loves to run, cook and entertain at her home in Sydney after many years of living abroad.
+      - our_board_linkedin: https://www.linkedin.com/in/stevenworrallmicrosoft/
+        our_board_description: >-
+          As Managing Director, Steven Worrall is responsible for Microsoft’s
+          overall business in Australia. He ensures the company meets the needs
+          of its customers and the more than 11,000 partners and independent
+          software vendors that sell or build on the Microsoft platform.
+
+
+          Steven joined Microsoft in March 2014 as Director, Enterprise and Partner Group, responsible for driving business growth and building strong customer and partner relationships in the Australian Commercial and Public Sector markets.
+
+
+          Steven holds an Honours degree in Electrical Engineering and a Master’s in Business Administration. He is a member of the Australian Institute of Company Directors and lives in Sydney with his wife and three children.
+        our_board_quote: ""
+        our_board_image: img/steven-worrall.jpg
+        our_board_name: STEVEN WORRALL
+        our_board_title: Managing Director, Microsoft Australia
       - our_board_name: ANNETTE KIMMITT
         our_board_image: img/annette-kimmitt.jpg
         our_board_title: CEO and Managing Partner, MinterEllison
@@ -287,22 +303,6 @@ modules:
         our_board_quote: '"Everyone has mental health in the same way that everyone has
           physical health. It’s up to us as employers to create an environment
           where everyone in the workplace feels comfortable."'
-      - our_board_linkedin: https://www.linkedin.com/
-        our_board_description: Lorem Ipsum in hac habitasse platea dictumst. Ut
-          sollicitudin a neque ac placerat. Cras mattis consequat ex, et posuere
-          nibh dictum eu. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas. Pellentesque efficitur
-          eros et diam porttitor, sed laoreet erat aliquam. Nulla et nulla
-          turpis. Proin efficitur sapien at consequat faucibus. Aliquam in
-          mauris finibus, lobortis mi ac, hendrerit purus. Vestibulum quis
-          aliquet dolor. In consequat risus lacus, id accumsan dui vulputate at.
-          Integer ac pellentesque est. Maecenas commodo semper hendrerit.
-        our_board_quote: '"Everyone has mental health in the same way that everyone has
-          physical health. It’s up to us as employers to create an environment
-          where everyone in the workplace feels comfortable."'
-        our_board_image: img/steven-worrall.jpg
-        our_board_name: STEVEN WORRALL
-        our_board_title: Chair, CMHAA, Managing Director, Microsoft Australia
     our_board_title: Our board
     our_board_exec_name: Vicki Forbes
     our_board_description: CMHAA is governed by a Board comprised of leaders from
