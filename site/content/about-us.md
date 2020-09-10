@@ -214,7 +214,7 @@ modules:
           Felicity loves being in and around the water and is learning synchronised swimming with her 8-year-old daughter Genevieve.
         our_board_quote: ""
         our_board_title: Legal Director, Johnson & Johnson Family of Companies
-        our_board_image: img/felicity2.jpg
+        our_board_image: img/cba-culleton-a-023.jpg
         our_board_linkedin: ""
       - our_board_name: BERKELEY COX
         our_board_image: img/berkely-cox.jpg
