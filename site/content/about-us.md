@@ -1,8 +1,9 @@
 ---
 page_title: About us
-title: About us
-meta_keywords: Mental Awareness, CMHAA, About Us, Keyword, Keyword.
-meta_description: This is a detailed description of the about us page.
+title: About
+meta_keywords: Mental Awareness, Mental Health, CMHAA, About, Corporate Mental
+  Health Alliance, City Mental Health Alliance
+meta_description: Business-led. Expert-guided.
 banner_title: Working together to advance the business community's approach to
   mental health in the workplace.
 banner_image: img/about-us.jpg
