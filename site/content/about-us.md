@@ -218,20 +218,25 @@ modules:
         our_board_linkedin: ""
       - our_board_name: BERKELEY COX
         our_board_image: img/berkely-cox.jpg
-        our_board_title: Chief Executive Partner, KWM Australia
-        our_board_quote: '"Everyone has mental health in the same way that everyone has
-          physical health. It’s up to us as employers to create an environment
-          where everyone in the workplace feels comfortable."'
-        our_board_description: Lorem Ipsum in hac habitasse platea dictumst. Ut
-          sollicitudin a neque ac placerat. Cras mattis consequat ex, et posuere
-          nibh dictum eu. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas. Pellentesque efficitur
-          eros et diam porttitor, sed laoreet erat aliquam. Nulla et nulla
-          turpis. Proin efficitur sapien at consequat faucibus. Aliquam in
-          mauris finibus, lobortis mi ac, hendrerit purus. Vestibulum quis
-          aliquet dolor. In consequat risus lacus, id accumsan dui vulputate at.
-          Integer ac pellentesque est. Maecenas commodo semper hendrerit.
-        our_board_linkedin: https://www.linkedin.com/
+        our_board_title: Chief Executive Partner, King & Wood Mallesons
+        our_board_quote: ""
+        our_board_description: >-
+          Berkeley Cox is the Chief Executive Partner of the Australian
+          operations of King & Wood Mallesons, a global law firm headquartered
+          in Asia. He leads the strategic direction of the Australian firm
+          (comprising approximately 1,000 lawyers and 600 shared services and
+          support personnel) and drives execution against firm priorities and on
+          its client, people, international, innovation and community agenda.
+
+
+          King & Wood Mallesons is seeking to challenge traditional ‘big law’ notions by creating a workplace where all individuals and teams can maximise their performance and wellbeing in a sustainable way by focussing on both systemic and proximate change and on improving the everyday experience for all.
+
+
+          He currently serves as a Director on the Boards of Workplace Giving Australia (WGA) and Act for Kids.
+
+
+          Berkeley enjoys spending time with his family and with the rich and diverse natural environment that we are fortunate to share in this country.
+        our_board_linkedin: https://www.linkedin.com/in/berkeley-cox-004372a2/
       - our_board_name: ANNETTE KIMMITT
         our_board_image: img/annette-kimmitt.jpg
         our_board_title: CEO and Managing Partner, MinterEllison
