@@ -268,7 +268,7 @@ modules:
 
           Steven holds an Honours degree in Electrical Engineering and a Master’s in Business Administration. He is a member of the Australian Institute of Company Directors and lives in Sydney with his wife and three children.
         our_board_quote: ""
-        our_board_image: img/steven-worrall.jpg
+        our_board_image: img/steve-worrall-print.jpg
         our_board_name: STEVEN WORRALL
         our_board_title: Managing Director, Microsoft Australia
       - our_board_name: ANNETTE KIMMITT
