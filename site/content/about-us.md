@@ -238,7 +238,7 @@ modules:
           Berkeley enjoys spending time with his family and with the rich and diverse natural environment that we are fortunate to share in this country.
         our_board_linkedin: https://www.linkedin.com/in/berkeley-cox-004372a2/
       - our_board_name: DEBORAH YATES
-        our_board_image: img/deborah-yates.jpg
+        our_board_image: img/deb-yates-high-res-head-shot.jpg
         our_board_title: National Managing Partner – People Performance & Culture &
           Corporate Affairs, KPMG Australia
         our_board_linkedin: " https://www.linkedin.com/in/deborah-yates-68ab768/"
