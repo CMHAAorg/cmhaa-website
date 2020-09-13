@@ -1,5 +1,5 @@
 ---
-title: PWC’s Greenlight to talk campaign
+title: PWC’s Green Light to Talk campaign
 meta_keywords: Keywords, Keyword.
 meta_description: Description of page
 banner_title: PWC’s Green Light to Talk campaign
