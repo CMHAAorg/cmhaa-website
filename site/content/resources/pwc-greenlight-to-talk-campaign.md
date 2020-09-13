@@ -1,8 +1,8 @@
 ---
-title: PWC' Greenlight to talk campaign
+title: PWC's Green Light to Talk campaign
 meta_keywords: PWC, Mental Awareness, CMHAA, Keyword, Keyword.
 meta_description: PWC, This is a detailed description of the page.
-banner_title: PWC' Greenlight to talk campaign
+banner_title: PWC's Green Light to Talk campaign
 banner_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   Cras quam libero, luctus et posuere nec, euismod sed consectetur adipiscing.
 banner_right_image: img/bannerrightimage.jpg
@@ -55,7 +55,7 @@ modules:
       A third challenge was getting the balance between setting up the campaign and not wanting to control it too much and stifle creativity. Every year PwC produces a Green Light to Talk Resource Toolkit which has ideas as to what local teams can do and how they can bring the campaign to life. The Toolkit provides some structure and acts as a starting point for teams to create their own ideas. Examples of team-led initiatives include:
     leadtext: This is lead text
   - type: rich-text
-    richtext_top: false
+    richtext_top: true
     richtext: >-
       ### Outcomes
 
@@ -69,7 +69,7 @@ modules:
     quote_text: “Organizing times where people can go for a lunchtime walk led by
       wellbeing champions. This is an opportunity to connect, have conversations
       and check in with each other.”
-    quote_author: ""
+    quote_author: Quote author
   - type: rich-text
     richtext_top: false
     richtext: >-
