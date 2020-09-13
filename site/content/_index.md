@@ -9,13 +9,14 @@ modules:
     title: Who we are
     leadtext: We are a business-led, expert-guided member organisation dedicated to
       transforming workplaces into mentally healthy environments for our people.
-    content: Why? Because when it comes to mental health in the workplace, we know
-      that we can do better, and that doing better begins with business leaders
+    content: >-
+      Why? Because when it comes to mental health in the workplace, we know that
+      we can do better, and that doing better begins with business leaders
       prioritising mental health in ways that are experienced by all of their
-      employees. We also know that when businesses pool their knowledge and
-      resources and work with each other in a collaborative, non-competitive
-      way, more sustainable outcomes can be achieved for our people, and for the
-      wider community. More text.
+      employees. 
+
+
+      We also know that when businesses pool their knowledge and resources and work with each other in a collaborative, non-competitive way, more sustainable outcomes can be achieved for our people, and for the wider community.
     image: img/banner-image.jpg
   - type: spotlight_image_content
     image: img/ourvision.jpg
