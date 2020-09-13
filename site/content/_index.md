@@ -21,11 +21,10 @@ modules:
     image: img/ourvision.jpg
     title1: Our vision
     content1: To create a culture of good mental health for workers, where everyone
-      feels safe to talk about their mental health without fear of stigma or
-      discrimination.
+      feels safe to talk about their mental health without fear of stigma.
     title2: Our mission
-    content2: Drive improvements in how Australian businesses respond and adapt to
-      this rapidly evolving and growing challenge by providing evidence-based
+    content2: To drive improvements in how Australian businesses respond and adapt
+      to this rapidly evolving and growing challenge by providing evidence-based
       recommendations.
   - stat_number_1: 3
     stat_number_2: 12.8
@@ -55,7 +54,7 @@ modules:
       safe settings, share credible practice, and drive lasting change.
     type: pillar-content-cards
     card_title_1: Provide safe settings
-    card_title_2: Equip our leaders
+    card_title_2: Share credible practice
     card_title_3: Drive lasting change
     card_image_1: img/safesettings.png
     card_image_2: img/equipourleaders.png
