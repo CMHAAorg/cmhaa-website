@@ -1,8 +1,8 @@
 ---
-title: PWC's Green Light to Talk campaign
+title: PwC's Green Light to Talk campaign
 meta_keywords: PWC, Mental Awareness, CMHAA, Keyword, Keyword.
 meta_description: PWC, This is a detailed description of the page.
-banner_title: PWC's Green Light to Talk campaign
+banner_title: PwC's Green Light to Talk campaign
 banner_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   Cras quam libero, luctus et posuere nec, euismod sed consectetur adipiscing.
 banner_right_image: img/bannerrightimage.jpg
