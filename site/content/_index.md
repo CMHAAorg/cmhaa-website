@@ -12,8 +12,8 @@ modules:
     content: >-
       Why? Because when it comes to mental health in the workplace, we know that
       we can do better, and that doing better begins with business leaders
-      prioritising mental health in ways that are experienced by all of their
-      employees. 
+      prioritising mental health in ways that are experienced by their employees
+      every day.
 
 
       We also know that when businesses pool their knowledge and resources and work with each other in a collaborative, non-competitive way, more sustainable outcomes can be achieved for our people, and for the wider community.
