@@ -79,7 +79,7 @@ modules:
       Member organisations. Their involvement with CMHAA is supported at an
       operational level through their sponsorship of a Functional Lead
       representative.
-    stacked_cta_link: /meet-the-board
+    stacked_cta_link: https://adoring-easley-b6cc0a.netlify.app/about-us/
     stacked_cta_text: MEET THE BOARD
   - type: our_members
     our_members_title: Our Members
