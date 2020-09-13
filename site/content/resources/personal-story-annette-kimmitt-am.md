@@ -18,8 +18,6 @@ role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Law & Legal Services
 ---
-Mental health, for me, is all about psychological fitness. Feeling well, enjoying the challenges of life and work, and feeling equipped to deal with what’s in front of you in the workplace. That headspace allows you to support family, friends and colleagues as well.
-
 But there was one point in my life where I didn’t feel psychologically fit. It was 26 years ago when my second child was born and I was diagnosed with post-natal depression. I was in a very black place.
 
 With support, I came through it. But to this day that continues to count as a strike against me by insurance providers. I still can’t get income insurance or life insurance without exclusions for stress-related or mental illness. It’s disappointing the world hasn’t evolved beyond this and is a sign that there continues to be a level of stigma attached to mental illness.
@@ -47,8 +45,6 @@ There's still so much to do when it comes to supporting good mental health in th
 So, when Steven Worrell reached out to me to talk about Corporate Mental Health Alliance Australia, it was a no-brainer. We just didn't hesitate to get involved.
 
 We're really delighted to be included amongst the founding members of the Alliance because we see how critical this is to the long-term sustainability of our people, and therefore of our business.
-
-
 
 **Annette Kimmitt, Chief Executive Officer and Managing Partner, MinterEllison**
 
