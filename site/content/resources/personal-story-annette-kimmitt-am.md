@@ -36,7 +36,7 @@ Firstly, we know that clarity about what you stand for as an organisation – in
 
 Two years ago, we started a journey to explore our firm's history and to better understand who we are and what we stand for as a firm. What became clear through that process of discovery is that our purpose – our why – is to create lasting impacts with our clients, our people and the communities we are part of. That clarity of purpose has seen levels of engagement amongst our people rise, enabling them to draw greater meaning from their everyday work and actions.
 
-Secondly, we now have an integrated talent strategy grounded in supporting and enabling the physical and mental health and wellbeing of our people. That dual approach has come to the fore as we navigated the challenges posed by the COVID-19 pandemic. Our purpose combined with our deliberate focus on prioritising the health and wellbeing of our people gave us the framework for important decision making and allowed the firm and all of our people to pivot quickly and successfully. The agility and resilience of our people throughout the pandemic has been mind-blowing.
+Secondly, we now have an integrated talent strategy grounded in supporting and enabling the physical and mental health and wellbeing of our people. That dual approach has come to the fore as we navigated the challenges posed by the COVID-19 pandemic. Our purpose combined with our deliberate focus on prioritising the health and wellbeing of our people gave us the framework for important decision making and allowed the firm and all of our people to pivot quickly and successfully. The agility and resilience of our people throughout the pandemic have been mind-blowing.
 
 **A no-brainer**
 
