@@ -146,7 +146,10 @@ modules:
       - our_board_image: img/david-brewster-11297.jpg
         our_board_name: DAVID BREWSTER
         our_board_title: Chief Legal & Safety Officer, Coles Group
-        our_board_quote: ""
+        our_board_quote: We want to help reduce the stigma that comes with talking about
+          it in the workplace. People should be able to go to work and feel safe
+          and comfortable to be their authentic selves, including being able to
+          open up about their mental health.
         our_board_description: David’s extensive legal career includes 13 years as
           partner at Allens Linklaters, and prior to that the Australian
           Competition and Consumer Commission. David joined Coles in early 2016
