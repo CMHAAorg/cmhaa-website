@@ -82,7 +82,7 @@ modules:
     stacked_cta_link: https://adoring-easley-b6cc0a.netlify.app/about-us/
     stacked_cta_text: MEET THE BOARD
   - type: our_members
-    our_members_title: Our Members
+    our_members_title: Our members
     our_members_description: Our members see it as their responsibility to protect,
       support and create mentally healthy workplaces for their people.
       Together,  they are leading a movement for positive change across
@@ -136,6 +136,10 @@ modules:
         feat_member_link: /link-to-member
         feat_member_cta: HEAR HER STORY
     feat_member_read_more: /link-to-more-stories
+    our_members_description: Our members see it as their responsibility to protect,
+      support and create mentally healthy workplaces for their people.
+      Together,  they are leading a movement for positive change across
+      Australia, and the world, as a part of the CMHA Global network.
 slug: homepage
 banner_cta_link: /about-us
 banner_cta_text: Find out how
