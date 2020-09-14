@@ -17,7 +17,7 @@ modules:
 
 
       We also know that when businesses pool their knowledge and resources and work with each other in a collaborative, non-competitive way, more sustainable outcomes can be achieved for our people, and for the wider community.
-    image: img/banner-image.jpg
+    image: ""
   - type: spotlight_image_content
     image: img/ourvision.jpg
     title1: Our vision
