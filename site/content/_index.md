@@ -18,15 +18,6 @@ modules:
 
       We also know that when businesses pool their knowledge and resources and work with each other in a collaborative, non-competitive way, more sustainable outcomes can be achieved for our people, and for the wider community.
     image: ""
-  - type: spotlight_image_content
-    image: img/ourvision.jpg
-    title1: Our vision
-    content1: To create a culture of good mental health for workers, where everyone
-      feels safe to talk about their mental health without fear of stigma.
-    title2: Our mission
-    content2: To drive improvements in how Australian businesses respond and adapt
-      to this rapidly evolving and growing challenge by providing evidence-based
-      recommendations.
   - stat_number_1: 3
     stat_number_2: 12.8
     stat_number_3: 70
@@ -42,6 +33,15 @@ modules:
     stat_type_2: b
     stat_type_3: "%"
     type: statistics
+  - type: spotlight_image_content
+    image: img/ourvision.jpg
+    title1: Our vision
+    content1: To create a culture of good mental health for workers, where everyone
+      feels safe to talk about their mental health without fear of stigma.
+    title2: Our mission
+    content2: To drive improvements in how Australian businesses respond and adapt
+      to this rapidly evolving and growing challenge by providing evidence-based
+      recommendations.
   - card_image_3: img/drivelastingchange.png
     card_description_2: To openly share our knowledge and resources to educate,
       equip and support our fellow business leaders to take action on mental
