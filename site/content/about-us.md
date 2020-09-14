@@ -157,7 +157,9 @@ modules:
         our_board_name: ANDREW CULLETON
         our_board_title: Executive General Manager Group People Services, Commonwealth
           Bank of Australia
-        our_board_quote: ""
+        our_board_quote: When you genuinely care about mental wellbeing, you have a
+          responsibility to expose yourself to new ideas, new ways of thinking
+          and working. You also have a responsibility to make an impact.
         our_board_description: >-
           Andrew is responsible for creating a better day at work for employees
           at the Commonwealth Bank, guided by the Bank’s purpose – to improve
