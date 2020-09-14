@@ -46,6 +46,6 @@ So, when Steven Worrall reached out to me to talk about Corporate Mental Health 
 
 We're really delighted to be included amongst the founding members of the Alliance because we see how critical this is to the long-term sustainability of our people, and therefore of our business.
 
-**Annette Kimmitt, Chief Executive Officer and Managing Partner, MinterEllison**
+**Annette Kimmitt AM, Chief Executive Officer and Managing Partner of the Firm, MinterEllison**
 
 **Board Member, Corporate Mental Health Alliance Australia**
