@@ -329,7 +329,11 @@ modules:
 
 
           As a globally influential Safety, Resilience, Wellbeing and Sustainability Leader, with a proven track record in delivering tangible business outcomes, whilst maintaining an unflinching commitment to improving the lives of the people he interacts with.
-        our_board_quote: ""
+        our_board_quote: "I learnt the importance of being vulnerable and getting
+          support. I reflected on myself and my work. I created space to live
+          the genuine life I wanted to live. I added things outside of work that
+          gave me joy and fulfilment. Mental health is now a crucial element in
+          my whole being. "
     our_board_title: Our board
     our_board_exec_name: Vicki Forbes
     our_board_description: CMHAA is governed by a Board comprised of leaders from
