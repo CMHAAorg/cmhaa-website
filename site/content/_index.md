@@ -142,5 +142,5 @@ modules:
       Australia, and the world, as a part of the CMHA Global network.
 slug: homepage
 banner_cta_link: /about-us
-banner_cta_text: Find out how
+banner_cta_text: WATCH HOW
 ---
