@@ -5,6 +5,13 @@ meta_description: This is a detailed description of the page.
 banner_title: Together in the business of workplace mental health.
 banner_image: img/main-hero.jpg
 modules:
+  - type: split_title_content_background
+    disable_leftright: false
+    leadtext: We are a business-led, expert-guided member organisation dedicated to
+      transforming workplaces into mentally healthy environments for our people.
+      We are a business-led, expert-guided member organisation dedicated to
+      transforming workplaces into mentally healthy environments for our people.
+    title: Hello.
   - type: split_title_content
     title: Who we are
     leadtext: We are a business-led, expert-guided member organisation dedicated to
