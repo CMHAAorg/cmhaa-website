@@ -42,7 +42,7 @@ Secondly, we now have an integrated talent strategy grounded in supporting and e
 
 There's still so much to do when it comes to supporting good mental health in the corporate environment and the legal profession.
 
-So, when Steven Worrell reached out to me to talk about Corporate Mental Health Alliance Australia, it was a no-brainer. We just didn't hesitate to get involved.
+So, when Steven Worrall reached out to me to talk about Corporate Mental Health Alliance Australia, it was a no-brainer. We just didn't hesitate to get involved.
 
 We're really delighted to be included amongst the founding members of the Alliance because we see how critical this is to the long-term sustainability of our people, and therefore of our business.
 
