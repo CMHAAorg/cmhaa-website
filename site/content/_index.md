@@ -6,7 +6,7 @@ banner_title: Together in the business of workplace mental health.
 banner_image: img/main-hero.jpg
 modules:
   - type: split_title_content_background
-    disable_leftright: false
+    disable_leftright: true
     leadtext: We are a business-led, expert-guided member organisation dedicated to
       transforming workplaces into mentally healthy environments for our people.
       We are a business-led, expert-guided member organisation dedicated to
