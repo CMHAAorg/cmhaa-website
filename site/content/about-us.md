@@ -274,7 +274,7 @@ modules:
         our_board_image: img/steve-worrall-print.jpg
         our_board_name: STEVEN WORRALL
         our_board_title: Managing Director, Microsoft Australia
-      - our_board_name: ANNETTE KIMMITT
+      - our_board_name: ANNETTE KIMMITT AM
         our_board_image: img/kimmitt_annette_photo_1200.jpg
         our_board_title: CEO & Managing Partner of the Firm, MinterEllison
         our_board_linkedin: " https://www.linkedin.com/in/annettekimmitt/"
