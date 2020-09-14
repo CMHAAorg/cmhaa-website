@@ -55,7 +55,7 @@ modules:
       safe settings, share credible practice, and drive lasting change.
     type: pillar-content-cards
     card_title_1: Provide safe settings
-    card_title_2: Share credible practice
+    card_title_2: Empower our leaders
     card_title_3: Drive lasting change
     card_image_1: img/safesettings.png
     card_image_2: img/equipourleaders.png
