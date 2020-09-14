@@ -293,7 +293,11 @@ modules:
 
 
           Annette has been married to her husband Rod for over 34 years, and they have two children, Rhys and Courtney.
-        our_board_quote: ""
+        our_board_quote: "Mental health, for me, is all about psychological fitness.
+          Feeling well, enjoying the challenges of life and work, and feeling
+          equipped to deal with what’s in front of you in the workplace. That
+          headspace allows you to support family, friends and colleagues as
+          well. "
       - our_board_name: KRISTIN STUBBINS
         our_board_image: img/pwc_kristin-stubbins-photo-2-.jpg
         our_board_title: Partner, PwC Australia
