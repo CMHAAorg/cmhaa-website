@@ -327,6 +327,9 @@ modules:
 
 
           Kristin was named as one of the Australian Financial Review’s “100 Women of Influence” in 2019, having been nominated in the innovation category. She is a Board Member of Mindgardens (an alliance aiming to bring mental health and neurological research closer to patients) and works with a group of senior female business leaders seeking to empower women in developing nations through education.
+        our_board_quote: We’re aiming to start a movement that leads to all employees
+          going to work feeling genuinely cared for, knowing there is support
+          for them in their personal life as well as their work life.
       - our_board_name: BRIAN LONG
         our_board_image: img/img_20200826_105910_4.jpg
         our_board_title: General Manager Safety, Health & Wellbeing, Woolworths Group
