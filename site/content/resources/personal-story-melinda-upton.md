@@ -1,14 +1,15 @@
 ---
-title: "Personal Story: Melinda Upton"
+title: "Personal Story: Melinda Upton, DLA Piper"
 meta_keywords: Melinda Upton, DLA Piper, Mental Awareness, CMHAA, Mental Health,
   Corporate Mental Health Alliance, City Mental Health Alliance
 meta_description: This is a detailed description of the page.
-banner_title: "Personal Story: Melinda Upton"
+banner_title: "Personal Story: Melinda Upton, DLA Piper"
 banner_right_image: img/internet_5y6a0050-edit.jpg
 date: 2020-09-10T09:56:27.301Z
 description: >-
-  I’ve seen firsthand the damage and pain that poor mental health can cause. One
-  story about a colleague, in particular, fuels my drive to make a difference.
+  I’ve seen first-hand the damage and pain that poor mental health can cause.
+  One story about a colleague, in particular, fuels my drive to make a
+  difference.
 
 
   He was preoccupied with the personal and professional expectations of what a lawyer ‘should be’. He was a perfectionist: falling short was seen as a failure.
@@ -18,7 +19,7 @@ role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Law & Legal Services
 ---
-I’ve seen firsthand the damage and pain that poor mental health can cause. One story about a colleague, in particular, fuels my drive to make a difference.
+I’ve seen first-hand the damage and pain that poor mental health can cause. One story about a colleague, in particular, fuels my drive to make a difference.
 
 He was preoccupied with the personal and professional expectations of what a lawyer ‘should be’. He was a perfectionist: falling short was seen as a failure.
 
@@ -38,13 +39,13 @@ I carry these questions with me as a reminder to always be open, vulnerable and 
 
 **Okay to not be okay**
 
-Mental health issues among lawyers are alarmingly high. It’s estimated that around 30% suffer disability and distress due to depression.
+Mental health issues among lawyers are alarmingly high. It’s estimated that around 30 per cent suffer disability and distress due to depression.
 
 At DLA Piper, we recognise that positive change needs to be championed from the top. Our Global co-CEO, Simon Levine, is a strong supporter of mental wellness across the firm.
 
 We also try and humanise the workplace as much as possible. Leaders are encouraged to lead from the front and make talking about mental health normal. We also encourage people to connect with others.
 
-By showing our vulnerability as leaders, we teach to our people that it’s ‘okay to not be okay’. We start to erode the barriers that have kept people silent for so long.
+By showing our vulnerability as leaders, we teach to our people that it’s okay to not be okay. We start to erode the barriers that have kept people silent for so long.
 
 I feel incredibly proud that I work at a firm where having these conversations is part of our strategy.
 
