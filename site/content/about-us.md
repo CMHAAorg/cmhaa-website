@@ -108,7 +108,10 @@ modules:
 
 
           Helen also currently serves on a number of boards including the Victorian Arts Centre Trust, the Judicial Commission and the Melbourne Symphony Orchestra.
-        our_board_quote: ""
+        our_board_quote: If we are to get people to seek help early, we need to reduce
+          the stigma associated with asking for that help. As leaders we have a
+          role in that. If leaders open up about mental health, the quicker it
+          will become a part of our everyday and overall health conversations.
       - our_board_name: MICHAEL SCHNEIDER
         our_board_image: img/mike-4-july-2019.jpg
         our_board_title: Managing Director, Bunnings Group Limited
