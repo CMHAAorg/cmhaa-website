@@ -213,7 +213,9 @@ modules:
 
 
           When Melinda isn’t working, you’ll find her enjoying backyard cricket with her family and friends, on the tennis court or doing “the bay” with one of her running friends or gorgeous collie, Watson.
-        our_board_quote: ""
+        our_board_quote: By showing our vulnerability as leaders, we teach to our people
+          that it’s okay to not be okay. We start to erode the barriers that
+          have kept people silent for so long.
       - our_board_name: FELICITY MCDOWELL
         our_board_description: >-
           Felicity McDowell is the Legal Director of the Consumer Health
