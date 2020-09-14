@@ -138,5 +138,5 @@ modules:
     feat_member_read_more: /link-to-more-stories
 slug: homepage
 banner_cta_link: /about-us
-banner_cta_text: FIND OUT HOW
+banner_cta_text: Find out how
 ---
