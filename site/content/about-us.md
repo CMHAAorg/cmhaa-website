@@ -126,7 +126,11 @@ modules:
       - our_board_name: BRUCE COOPER
         our_board_image: img/clayton_cooperbruce_externalprint_2000x2000.jpg
         our_board_title: Chief Executive Partner, Clayton Utz
-        our_board_quote: ""
+        our_board_quote: Good mental health is about maintaining perspective and
+          maintaining a strong outlook. No matter how resilient we are, all of
+          us have hills to climb and obstacles to overcome. What matters is how
+          one approaches challenges and how one is equipped to manage those
+          approaches.
         our_board_description: >-
           Bruce's career in law spans 30 years in Australia and overseas as a
           project, infrastructure and finance lawyer. He has been a partner at
