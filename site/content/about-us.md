@@ -125,7 +125,10 @@ modules:
 
 
           Michael believes that team members’ ability to connect with customers and the local community is key to the business’ success and that this requires an ongoing investment in building the best team as well as creating a culture that builds trust, inspires action, develops people and drives performance.
-        our_board_quote: ""
+        our_board_quote: As a leader, improving mental health starts with a willingness
+          to make yourself vulnerable. If you can accept your own short-comings
+          and open some of those up to others, people feel less alone. That’s
+          all a lot of people in the world want, to feel less alone.
       - our_board_name: BRUCE COOPER
         our_board_image: img/clayton_cooperbruce_externalprint_2000x2000.jpg
         our_board_title: Chief Executive Partner, Clayton Utz
