@@ -222,7 +222,10 @@ modules:
       - our_board_name: BERKELEY COX
         our_board_image: img/berkley-cox_port.jpg
         our_board_title: Chief Executive Partner, King & Wood Mallesons
-        our_board_quote: ""
+        our_board_quote: But by being open about my own challenges, I hope to help
+          destigmatise mental health and wellness in the workplace. I want
+          people to appreciate that you can have your own mental health
+          struggles, be vulnerable and have a successful and fulfilling career.
         our_board_description: >-
           Berkeley Cox is the Chief Executive Partner of the Australian
           operations of King & Wood Mallesons, a global law firm headquartered
