@@ -230,7 +230,10 @@ modules:
 
 
           Felicity loves being in and around the water and is learning synchronised swimming with her 8-year-old daughter Genevieve.
-        our_board_quote: ""
+        our_board_quote: It’s a chance for businesses to come together as a united voice
+          to pursue a vision of improving workplace mental health, where
+          everyone feels safe to talk about their mental health without fear of
+          stigma or discrimination.
         our_board_title: Legal Director, Johnson & Johnson Family of Companies
         our_board_image: img/felicity2-copy.jpg
         our_board_linkedin: ""
