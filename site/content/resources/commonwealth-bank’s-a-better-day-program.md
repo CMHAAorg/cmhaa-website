@@ -41,9 +41,9 @@ modules:
       CBA’s current challenge is to ensure employees continue to engage with and utilise the resources of *A Better Day* to drive behavioural change and maximise the benefits of the Program. As a starting point, ongoing promotion and advocacy of the Program will be required.
     title: Time and resources required
   - type: quote
-    quote_text: "*“I'm still quite new to the program however I found the article
-      extremely helpful with my current situation and feel as though it will
-      also help others.”*"
+    quote_text: "*“Just completed my survey and it looks like another great tool
+      that we have to assist meet our wellbeing needs. How lucky are we to work
+      for a company that provides us with these wonderful tools!!”*"
     quote_author: CBA employee
   - type: rich-text
     richtext_top: true
