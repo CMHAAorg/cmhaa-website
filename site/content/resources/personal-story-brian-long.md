@@ -1,27 +1,21 @@
 ---
-title: "Personal Story: Brian Long"
+title: Brian Long, Woolworths Group
 meta_keywords: Brian Long, Woolworths, Mental Awareness, CMHAA, Mental Health,
   Corporate Mental Health Alliance, City Mental Health Alliance
 meta_description: This is a detailed description of the page.
-banner_title: "Personal Story: Brian Long"
+banner_title: Brian Long, Woolworths Group
 banner_right_image: img/img_20200826_105910_4.jpg
 date: 2020-09-10T09:39:36.209Z
-description: >-
-  In my previous roles, serious injury and death were a reality. When people got
-  hurt, I needed to be resilient; to remain positive to keep everybody else’s
-  spirits up.
-
-
-  I took on too much of that burden however, and by 2017-18 I was completely worn out physically and mentally. I was a shell of the person I was before or wanted to be.
+description: In my previous roles, serious injury and death were a reality. When
+  people got hurt, I needed to be resilient; to remain positive to keep
+  everybody else’s spirits up.
 category: Personal stories
 focus: Support for managers, colleagues and staff
 role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Retail & Consumer
 ---
-In my previous roles, serious injury and death were a reality. When people got hurt, I needed to be resilient; to remain positive to keep everybody else’s spirits up.
-
-I took on too much of that burden however, and by 2017-18 I was completely worn out physically and mentally. I was a shell of the person I was before or wanted to be.
+I took on too much of that burden, however, and by 2017-18 I was completely worn out physically and mentally. I was a shell of the person I was before or wanted to be.
 
 But I learnt the importance of being vulnerable and getting support. I reflected on myself and my work. I created space to live the genuine life I wanted to live. I added things outside of work that gave me joy and fulfilment.
 
