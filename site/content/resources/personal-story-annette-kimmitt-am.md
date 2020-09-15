@@ -1,9 +1,9 @@
 ---
-title: "Personal Story: Annette Kimmitt AM"
+title: Annette Kimmitt AM, MinterEllison
 meta_keywords: MinterEllison, Annette Kimmitt, Mental Awareness, CMHAA, Mental
   Health, Corporate Mental Health Alliance, City Mental Health Alliance
 meta_description: This is a detailed description of the page.
-banner_title: "Personal Story: Annette Kimmitt AM"
+banner_title: Annette Kimmitt AM, MinterEllison
 banner_image: ""
 banner_right_image: img/kimmitt_annette_photo_1200.jpg
 date: 2020-09-10T09:29:35.311Z
