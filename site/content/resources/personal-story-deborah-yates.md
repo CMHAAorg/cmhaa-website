@@ -1,26 +1,20 @@
 ---
-title: "Personal Story: Deborah Yates"
+title: Deborah Yates, KPMG
 meta_keywords: Deborah Yates, KPMG, Mental Awareness, CMHAA, Mental Health,
   Corporate Mental Health Alliance, City Mental Health Alliance
 meta_description: This is a detailed description of the page.
-banner_title: "Personal Story: Deborah Yates"
+banner_title: Deborah Yates, KPMG
 banner_right_image: img/deb-yates-high-res-head-shot.jpg
 date: 2020-09-10T09:47:27.229Z
-description: >-
-  I’ve always thought of myself as someone who can manage all the demands made
-  of me both as a leader role at work and as a wife and mother at home.
-
-
-  But there came a point in 2017 when it all seemed too much. I felt like I was giving all the time, and I just didn’t have anything more to give.
+description: I’ve always thought of myself as someone who can manage all the
+  demands made of me both as a leader at work and as a wife and mother at home.
 category: Personal stories
 focus: Support for managers, colleagues and staff
 role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Business Consulting & Management
 ---
-I’ve always thought of myself as someone who can manage all the demands made of me both as a leader role at work and as a wife and mother at home.
-
-But there came a point in 2017 when it all seemed too much. I felt like I was giving all the time, and I just didn’t have anything more to give.
+But there came a point in 2017 when it all seemed too much. I felt like I was giving all the time and I just didn’t have anything more to give.
 
 Fortunately, I discovered running. Doing something physical really helped me rediscover my mental balance. And no-one wanted to do it with me, so I got precious time to myself.
 
@@ -30,7 +24,7 @@ Now, I want to make sure the next generation of young women or the next leaders 
 
 **People need peers**
 
-At KPMG, we’re focused on creating a psychologically safe culture. We want our people to know they can reach out and ask for help wherever they’re at. The way we think about it is “be you, be well”.
+At KPMG, we’re focused on creating a psychologically safe culture. We want our people to know they can reach out and ask for help wherever they’re at. The way we think about it is: Be you, be well.
 
 But it’s also important that our wellness strategy evolves.
 
