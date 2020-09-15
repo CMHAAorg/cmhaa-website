@@ -45,6 +45,6 @@ It’s a chance for businesses to come together as a united voice to pursue a vi
 
 We highly value this opportunity to work collaboratively – pooling our knowledge and resources – so together we can achieve better health outcomes.
 
-**Felicity McDowell, Legal Director, Johnson & Johnson Family of Companies**
+**Felicity McDowell, Legal Director - Consumer Health, Johnson & Johnson Family of Companies**
 
 **Board Member, Corporate Mental Health Alliance Australia**
