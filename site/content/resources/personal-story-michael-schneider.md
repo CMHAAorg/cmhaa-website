@@ -6,21 +6,15 @@ meta_description: This is a detailed description of the page.
 banner_title: Michael Schneider, Bunnings Group Limited
 banner_right_image: img/mike-4-july-2019.jpg
 date: 2020-09-10T09:58:38.612Z
-description: >-
-  A couple of times when I’ve been under significant pressure, I’ve had a close
-  colleague have the courage to say to me: “Things aren’t right, you’re not your
-  normal self,”. They’ve encouraged me to get support.
-
-
-  I’ve had lots of ups and downs on a personal and business front. I’ve also had family members suffer from depression, bipolar and anxiety. All of us feel some of those things at times.
+description: "A couple of times when I’ve been under significant pressure, I’ve
+  had a close colleague have the courage to say to me: “Things aren’t right,
+  you’re not your normal self,”. They’ve encouraged me to get support."
 category: Personal stories
 focus: Support for managers, colleagues and staff
 role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Retail & Consumer
 ---
-A couple of times when I’ve been under significant pressure, I’ve had a close colleague have the courage to say to me: “Things aren’t right, you’re not your normal self,”. They’ve encouraged me to get support.
-
 I’ve had lots of ups and downs on a personal and business front. I’ve also had family members suffer from depression, bipolar and anxiety. All of us feel some of those things at times.
 
 But it was that nudge at a personal level – when I was pushing against headwinds – to realise that we really needed to support our team at Bunnings around mental health.
