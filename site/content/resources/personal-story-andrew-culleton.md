@@ -1,18 +1,16 @@
 ---
-title: "Personal Story: Andrew Culleton"
+title: Andrew Culleton, Commonwealth Bank of Australia
 meta_keywords: Mental Awareness, CMHAA, Commonwealth Bank of Australia, CBA,
   Andrew Culleton, Mental Health, Corporate Mental Health Alliance, City Mental
   Health Alliance
 meta_description: This is a detailed description of the page.
-banner_title: "Personal Story: Andrew Culleton"
+banner_title: Andrew Culleton, Commonwealth Bank of Australia
 banner_right_image: img/cba-culleton-a-023.jpg
 date: 2020-09-10T09:16:20.292Z
-description: >
-  This is the first time I’ve shared this story.
+description: >+
+  This is the first time I’ve shared this story. I’m one of five kids in a big,
+  loving family from Far North Queensland.
 
-  I’m one of five kids in a big, loving family from Far North Queensland. 
-
-  When I was a teenager, I remember my parents talking to me about my younger brother, Tim. Tim struggled with what I now know as depression.
 image: ""
 category: Personal stories
 focus: Support for managers, colleagues and staff
@@ -20,10 +18,6 @@ role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Financial & Insurance Services
 ---
-This is the first time I’ve shared this story.
-
-I’m one of five kids in a big, loving family from Far North Queensland.
-
 When I was a teenager, I remember my parents talking to me about my younger brother, Tim. Tim struggled with what I now know as depression.
 
 But at the time, I didn’t really understand what that was, or what my parents really meant. I thought my brother was just acting out and looking for attention, so I used to trivialise the situation. Looking back, I think I was quite cynical about it all.
@@ -59,8 +53,6 @@ At the Commonwealth Bank, we have over 50,000 employees and many more alumni aro
 And it’s even greater now we have joined Corporate Mental Health Alliance Australia. Because whatever you can achieve on your own, it is only ever amplified when you are part of something bigger.
 
 So together, by sharing ideas, giving freely and learning from each other as part of the Alliance, we have the potential to create a tipping point in the way Australian companies look after their people.
-
-
 
 **Andrew Culleton, Executive General Manager Group People Services, Commonwealth Bank of Australia**
 
