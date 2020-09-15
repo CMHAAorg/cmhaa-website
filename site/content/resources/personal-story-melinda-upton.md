@@ -1,9 +1,9 @@
 ---
-title: "Personal Story: Melinda Upton, DLA Piper"
+title: Melinda Upton, DLA Piper
 meta_keywords: Melinda Upton, DLA Piper, Mental Awareness, CMHAA, Mental Health,
   Corporate Mental Health Alliance, City Mental Health Alliance
 meta_description: This is a detailed description of the page.
-banner_title: "Personal Story: Melinda Upton, DLA Piper"
+banner_title: Melinda Upton, DLA Piper
 banner_right_image: img/internet_5y6a0050-edit.jpg
 date: 2020-09-10T09:56:27.301Z
 description: >-
