@@ -1,29 +1,23 @@
 ---
-title: "Personal Story: Helen Silver AO"
+title: Helen Silver AO, Allianz Australia Insurance Ltd
 meta_keywords: Helen Silver, Allianz, Insurance, Mental Awareness, CMHAA, Mental
   Health, Corporate Mental Health Alliance, City Mental Health Alliance
 meta_description: This is a detailed description of the page.
-banner_title: "Personal Story: Helen Silver AO"
+banner_title: Helen Silver AO, Allianz Australia Insurance Ltd
 banner_right_image: img/helen-silver-14-bio-pic.jpg
 date: 2020-09-10T09:51:27.727Z
-description: >-
-  I’ve had to confront some challenging situations in my career. But the most
-  difficult was the aftermath of the 2009 Black Saturday Bushfires when I was
-  running the Victorian public service.
-
-
-  None of us had experienced such death and destruction. We went into overdrive. We worked tirelessly to help the fire-affected.
+description: I’ve had to confront some challenging situations in my career. But
+  the most difficult was the aftermath of the 2009 Black Saturday Bushfires when
+  I was running the Victorian public service.
 category: Personal stories
 focus: Support for managers, colleagues and staff
 role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Financial & Insurance Services
 ---
-I’ve had to confront some challenging situations in my career. But the most difficult was the aftermath of the 2009 Black Saturday Bushfires when I was running the Victorian public service.
+None of us had experienced such death and destruction. We went into overdrive. We worked tirelessly to help the fire-affected community.
 
-None of us had experienced such death and destruction. We went into overdrive. We worked tirelessly to help the fire-affected.
-
-I witnessed extraordinary levels of resilience, kindness and endurance. But it also took a toll. Some of our team started fraying at the edges, not making the best decisions. Others would unexpectedly burst into tears.
+I witnessed extraordinary levels of resilience, kindness and endurance. But it also took a toll. Some of our team members started fraying at the edges; not making the best decisions. Others would unexpectedly burst into tears.
 
 I learnt that it was vital to prioritise mental health and to know when it’s time to step back and take a break.
 
