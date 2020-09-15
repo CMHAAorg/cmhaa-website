@@ -6,21 +6,15 @@ meta_description: This is a detailed description of the page.
 banner_title: Melinda Upton, DLA Piper
 banner_right_image: img/internet_5y6a0050-edit.jpg
 date: 2020-09-10T09:56:27.301Z
-description: >-
-  I’ve seen first-hand the damage and pain that poor mental health can cause.
-  One story about a colleague, in particular, fuels my drive to make a
-  difference.
-
-
-  He was preoccupied with the personal and professional expectations of what a lawyer ‘should be’. He was a perfectionist: falling short was seen as a failure.
+description: I’ve seen first-hand the damage and pain that poor mental health
+  can cause. One story about a colleague, in particular, fuels my drive to make
+  a difference.
 category: Personal stories
 focus: Support for managers, colleagues and staff
 role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Law & Legal Services
 ---
-I’ve seen first-hand the damage and pain that poor mental health can cause. One story about a colleague, in particular, fuels my drive to make a difference.
-
 He was preoccupied with the personal and professional expectations of what a lawyer ‘should be’. He was a perfectionist: falling short was seen as a failure.
 
 But stigma and shame prevented him from talking about his struggles. He suppressed his emotions and suffered in silence.
