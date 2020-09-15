@@ -1,9 +1,9 @@
 ---
-title: "Personal Story: Michael Schneider, Bunnings Group Limited"
+title: Michael Schneider, Bunnings Group Limited
 meta_keywords: Michael Schneider, Bunnings, Mental Awareness, CMHAA, Mental
   Health, Corporate Mental Health Alliance, City Mental Health Alliance
 meta_description: This is a detailed description of the page.
-banner_title: "Personal Story: Michael Schneider, Bunnings Group Limited"
+banner_title: Michael Schneider, Bunnings Group Limited
 banner_right_image: img/mike-4-july-2019.jpg
 date: 2020-09-10T09:58:38.612Z
 description: >-
