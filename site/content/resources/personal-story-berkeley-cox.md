@@ -1,19 +1,15 @@
 ---
-title: "Personal Story: Berkeley Cox"
+title: Berkeley Cox, King Wood & Mallesons Australia
 meta_keywords: Berkeley Cox, KWM, King and Wood Mallesons, Mental Awareness,
   CMHAA, Mental Health, Corporate Mental Health Alliance, City Mental Health
   Alliance
 meta_description: This is a detailed description of the page.
-banner_title: "Personal Story: Berkeley Cox"
+banner_title: Berkeley Cox, King Wood & Mallesons Australia
 banner_description: ""
 banner_right_image: img/berkley-cox_port.jpg
 date: 2020-09-10T09:32:41.304Z
-description: >-
-  I feel lucky that my career has been very fulfilling, but I’ve had lots of
-  wobbles along the way.
-
-
-  I have been in law since I was 18. It’s been an exciting journey that’s involved a few years in the US, umpteen trips to China and other places, working with amazing people as well as leadership of a top tier law firm in Australia.
+description: I feel lucky that my career has been very fulfilling, but I’ve had
+  lots of wobbles along the way.
 image: ""
 category: Personal stories
 focus: Support for managers, colleagues and staff
@@ -21,8 +17,6 @@ role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Law & Legal Services
 ---
-I feel lucky that my career has been very fulfilling, but I’ve had lots of wobbles along the way.
-
 I have been in law since I was 18. It’s been an exciting journey that’s involved a few years in the US, umpteen trips to China and other places, working with amazing people as well as leadership of a top tier law firm in Australia.
 
 But at various times I have struggled with anxiety, work addiction, perfectionism, compulsive rumination and imposter syndrome.
@@ -47,7 +41,7 @@ To answer that question, we engaged with our people, deployed strategies and con
 
 There is a beautiful alignment between supporting wellbeing for our people and how they perform at work.
 
-We found that happy teams are high-performing teams. In fact, the quality of a person’s relationship with their immediate supervisor accounts for 75% of their overall work experience.
+We found that happy teams are high-performing teams. In fact, the quality of a person’s relationship with their immediate supervisor accounts for 75 per cent of their overall work experience.
 
 Building on these insights, we started working with our leaders. We invested in helping them grow their capability and accountability for supporting their teams at a deeper level.
 
