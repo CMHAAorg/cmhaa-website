@@ -1,28 +1,22 @@
 ---
-title: "Personal Story: Bruce Cooper"
+title: Bruce Cooper, Clayton Utz
 meta_keywords: Bruce Cooper, Clayton Utz, Mental Awareness, CMHAA, Mental
   Health, Corporate Mental Health Alliance, City Mental Health Alliance
 meta_description: This is a detailed description of the page.
-banner_title: "Personal Story: Bruce Cooper"
+banner_title: Bruce Cooper, Clayton Utz
 banner_right_image: img/clayton_cooperbruce_externalprint_2000x2000.jpg
 date: 2020-09-10T09:45:00.323Z
-description: >-
-  I’ve seen first-hand how attitudes and behaviours can adversely impact people
-  dealing with mental health issues at work.
-
-
-  Several years ago, a colleague spoke up about their struggle with a mental health condition. It came as something of a surprise – many of us hadn’t realised there was a problem.
+description: I’ve seen first-hand how attitudes and behaviours can adversely
+  impact people dealing with mental health issues at work.
 category: Personal stories
 focus: Support for managers, colleagues and staff
 role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Law & Legal Services
 ---
-I’ve seen first-hand how attitudes and behaviours can adversely impact people dealing with mental health issues at work.
-
 Several years ago, a colleague spoke up about their struggle with a mental health condition. It came as something of a surprise – many of us hadn’t realised there was a problem.
 
-Some time afterwards, there was an incident outside work: some fairly aberrant behaviour, that was drawn to management attention. For some, a link was not clearly drawn between the previous admission of mental health challenges and the unusual incident. As a result, there was (not widespread but it only takes someone in a senior position…) an unhelpful reaction to the incident. At a time when our colleague needed help and support, there was a degree of scepticism and a failure to recognise that the incident was a result of mental health issues and not some fundamental character flaw.
+Some time afterwards, there was an incident outside work: some fairly aberrant behaviour, that was drawn to management attention. For some, a link was not clearly drawn between the previous admission of mental health challenges and the unusual incident. As a result, there was an unhelpful reaction to the incident (not widespread but it only takes someone in a senior position…). At a time when our colleague needed help and support, there was a degree of scepticism and a failure to recognise that the incident was a result of mental health issues and not some fundamental character flaw.
 
 Fortunately, the story ended well.
 
@@ -42,9 +36,9 @@ At the same time, there’s more to it than our individual mindset. In workplace
 
 So, I’m proud that mental health is a priority for Clayton Utz, and that it’s been a priority for some time.
 
-We know those in the legal profession are subject to elevated rates of anxiety and depression. Our goal is to make sure that our people can thrive, that they can engage, that they can be focused, and that they can be energized at work.
+We know those in the legal profession are subject to elevated rates of anxiety and depression. Our goal is to make sure that our people can thrive, that they can engage, that they can be focused, and that they can be energised at work.
 
-We've trained over 200 mental health Champions and first aiders. We are one of the first firms in Australia to have a trained psychologist as our mental health manager.
+We've trained over 200 mental health champions and first aiders. We are one of the first firms in Australia to have a trained psychologist as our mental health manager.
 
 Mental health is a fundamental part of our holistic approach to ensure the wellbeing of our people.
 
