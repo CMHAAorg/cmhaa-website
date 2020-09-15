@@ -22,7 +22,7 @@ modules:
       where everyone in the workplace feels comfortable.”
     youtube_quote_author: Bruce Cooper, Chief Executive Partner, Clayton Utz
     youtube_quote_url: c2pz2mlSfXA
-    youtube_quote_id: 7uWEucoGfG0
+    youtube_quote_id: https://vimeo.com/457647049
   - type: split_title_content
     title: Our origins
     leadtext: In 2011, during an informal conversation, three senior business
@@ -230,10 +230,7 @@ modules:
 
 
           Felicity loves being in and around the water and is learning synchronised swimming with her 8-year-old daughter Genevieve.
-        our_board_quote: It’s a chance for businesses to come together as a united voice
-          to pursue a vision of improving workplace mental health, where
-          everyone feels safe to talk about their mental health without fear of
-          stigma or discrimination.
+        our_board_quote: ""
         our_board_title: Legal Director, Johnson & Johnson Family of Companies
         our_board_image: img/felicity2-copy.jpg
         our_board_linkedin: ""
