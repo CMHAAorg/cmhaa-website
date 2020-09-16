@@ -94,6 +94,10 @@ modules:
 
           Lived experience has aided Ben to develop a more personalised perspective of the impact mental ill-health has within the workplace setting and within the community more broadly. Being a father, husband and avid watcher of the English Premier League, Ben has his hands full but has found the time to peruse Psychology studies at Monash University.
         our_board_linkedin: https://www.linkedin.com/in/ben-fitzpatrick-097592160/
+        our_board_quote: My goal is to create an environment that others have created
+          for me. That’s providing an open workplace for people to be
+          themselves, to be vulnerable, and if they need to share their story,
+          they can without being judged.
       - our_board_name: HELEN SILVER AO
         our_board_title: Chief General Manager, Corporate Governance and Conduct,
           Allianz Australia Insurance Ltd
