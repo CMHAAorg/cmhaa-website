@@ -297,7 +297,10 @@ modules:
 
 
           Steven holds an Honours degree in Electrical Engineering and a Master’s in Business Administration. He is a member of the Australian Institute of Company Directors and lives in Sydney with his wife and three children.
-        our_board_quote: ""
+        our_board_quote: None of us think we have all the answers, but we're all doing
+          lots of things and in many cases lots of really good things [to
+          support mental health]. The idea is to get together and share what's
+          working with each other.
         our_board_image: img/steve-worrall-print.jpg
         our_board_name: STEVEN WORRALL
         our_board_title: Managing Director, Microsoft Australia
