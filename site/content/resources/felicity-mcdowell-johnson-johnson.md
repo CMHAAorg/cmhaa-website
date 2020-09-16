@@ -1,9 +1,9 @@
 ---
-title: Felicity McDowell, Johnson & Johnson
+title: Felicity McDowell, Johnson & Johnson Family of Companies
 meta_keywords: Felicity McDowell, Johnson & Johnson, Mental Awareness, CMHAA,
   Mental Health, Corporate Mental Health Alliance, City Mental Health Alliance
 meta_description: This is a detailed description of the page.
-banner_title: Felicity McDowell, Johnson & Johnson
+banner_title: Felicity McDowell, Johnson & Johnson Family of Companies
 banner_right_image: img/felicity2-copy.jpg
 date: 2020-09-15T06:04:19.844Z
 description: For me, mental health and physical health have always been connected.
