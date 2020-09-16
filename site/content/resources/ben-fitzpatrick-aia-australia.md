@@ -1,6 +1,7 @@
 ---
 title: Ben Fitzpatrick, AIA Australia
-meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
+meta_keywords: Ben Fitzpatrick, AIA Australia, Mental Awareness, CMHAA, Mental
+  Health, Corporate Mental Health Alliance, City Mental Health Alliance
 meta_description: This is a detailed description of the page.
 banner_title: Ben Fitzpatrick, AIA Australia
 banner_right_image: img/aia-aus_ben-fitzpatrick.jpg
