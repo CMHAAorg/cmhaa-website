@@ -31,7 +31,7 @@ modules:
   - type: youtube
     youtube: https://vimeo.com/427549655/8a3fad9cae
   - type: split_title_content_background
-    disable_leftright: false
+    disable_leftright: true
     content: >-
       The Program was designed and built in-house over several months. In order
       to develop a truly holistic program, the resources within the Program were
@@ -46,7 +46,7 @@ modules:
 
 
       CBA’s current challenge is to ensure employees continue to engage with and utilise the resources of *A Better Day* to drive behavioural change and maximise the benefits of the Program. As a starting point, ongoing promotion and advocacy of the Program will be required.
-    title: Time and resources required
+    title: Time and resources needed
   - type: rich-text
     richtext_top: true
     richtext: >-
