@@ -233,7 +233,7 @@ modules:
           She is passionate about people and mental wellbeing and openly shares her lived experience. Felicity co-leads the companies’ Mental Health Diplomats Employee Resource Group and is an Accredited Mental Health First Aider.
 
 
-          Felicity loves being in and around the water and is learning synchronised swimming with her 8-year-old daughter Genevieve.
+          Felicity loves being in and around the water and is learning synchronised swimming with her daughter.
         our_board_quote: It’s a chance for businesses to come together as a united voice
           to pursue a vision of improving workplace mental health, where
           everyone feels safe to talk about their mental health without fear of
