@@ -1,9 +1,9 @@
 ---
-title: Ellen Derrick, Deloitte
+title: Ellen Derrick, Deloitte Australia
 meta_keywords: Ellen Derrick, Deloitte, Mental Awareness, CMHAA, Mental Health,
   Corporate Mental Health Alliance, City Mental Health Alliance
 meta_description: This is a detailed description of the page.
-banner_title: Ellen Derrick, Deloitte
+banner_title: Ellen Derrick, Deloitte Australia
 banner_right_image: img/ellen_derrick_2_lrg.jpg
 date: 2020-09-17T03:43:54.023Z
 description: My daughter Kate lives with two significant chronic illnesses,
@@ -43,6 +43,6 @@ The Alliance allows us to share best practice so we can get better, but we also 
 
 What is particularly energising about the Alliance is the willingness to share and collaborate with competitors in the room. To put that competition aside and say this is not about us, this is about something more and something critically important – to us in our teams, and our employees, to our families and friends, and to the country.
 
-**Ellen Derrick, National Leader, Public Sector and Public Policy, Deloitte**
+**Ellen Derrick, National Leader for Public Sector & Public Policy, Deloitte Australia**
 
 **Board Member, Corporate Mental Health Alliance Australia**
