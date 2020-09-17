@@ -30,6 +30,23 @@ modules:
     quote_author: CBA employee
   - type: youtube
     youtube: https://vimeo.com/427549655/8a3fad9cae
+  - type: split_title_content_background
+    disable_leftright: false
+    content: >-
+      The Program was designed and built in-house over several months. In order
+      to develop a truly holistic program, the resources within the Program were
+      developed in consultation with a number of leading industry experts
+      including psychologists, sleep specialists, exercise physiologists, and
+      dieticians. To ensure the content developed was relevant and accessible to
+      all, a number of channels of engagement also had to be considered, such as
+      podcasts, articles, videos, infographics and interactive PDFs. 
+
+
+      An added challenge within the current context of COVID-19, was that many employees were working remotely at the time of the Program’s launch, requiring much greater focus to be placed on internal communications as a means of promotions since no physical launch event could be held. Channels of promotion included Intranet articles, leader’s notes, a direct email to all employees, Yammer posts, as well incorporating the Program into webinar/Skype sessions delivered to teams on the wellbeing resources available.
+
+
+      CBA’s current challenge is to ensure employees continue to engage with and utilise the resources of *A Better Day* to drive behavioural change and maximise the benefits of the Program. As a starting point, ongoing promotion and advocacy of the Program will be required.
+    title: Time and resources required
   - type: rich-text
     richtext_top: true
     richtext: >-
@@ -53,23 +70,6 @@ modules:
       - gallery_image: img/a-better-day-screen-1.jpg
       - gallery_image: img/a-better-day-screen-2.jpg
       - gallery_image: img/a-better-day-screen-3.jpg
-  - type: split_title_content_background
-    disable_leftright: false
-    content: >-
-      The Program was designed and built in-house over several months. In order
-      to develop a truly holistic program, the resources within the Program were
-      developed in consultation with a number of leading industry experts
-      including psychologists, sleep specialists, exercise physiologists, and
-      dieticians. To ensure the content developed was relevant and accessible to
-      all, a number of channels of engagement also had to be considered, such as
-      podcasts, articles, videos, infographics and interactive PDFs. 
-
-
-      An added challenge within the current context of COVID-19, was that many employees were working remotely at the time of the Program’s launch, requiring much greater focus to be placed on internal communications as a means of promotions since no physical launch event could be held. Channels of promotion included Intranet articles, leader’s notes, a direct email to all employees, Yammer posts, as well incorporating the Program into webinar/Skype sessions delivered to teams on the wellbeing resources available.
-
-
-      CBA’s current challenge is to ensure employees continue to engage with and utilise the resources of *A Better Day* to drive behavioural change and maximise the benefits of the Program. As a starting point, ongoing promotion and advocacy of the Program will be required.
-    title: Time and resources required
 ---
 **Our challenge**
 
