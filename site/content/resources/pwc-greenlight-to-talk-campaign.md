@@ -104,6 +104,10 @@ modules:
       - pdf_downloads_list_heading: GLTT Advocate Role
         pdf_downloads_list_file: img/copy-of-gltt-advocate-role.pptx
         pdf_downloads_list_text: ""
+  - type: soundcloud
+    souncloud_heading: 'Revolutionaries of Wellbeing - Episode 12: "Green Light to
+      Talk" - Mental health at PwC'
+    souncloud_url: https://www.podbean.com/eu/pb-2k4sv-e7b9ba
 ---
 Mental health is an issue that touches so many of us, whether directly or through someone we know. Rates of depression, anxiety, suicide and self-harm in Australian workplaces continue to rise at an alarming pace.
 
