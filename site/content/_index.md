@@ -117,24 +117,28 @@ modules:
   - type: feature-member-stories
     feat_member_intro: Hear from some of our members and get to know their story.
     feat_member:
-      - feat_member_image: img/member1.jpg
-        feat_member_description: '"Neque porro quisquam est qui dolorem ipsum quia dolor
-          sit amet, ipsum quia dolor sit amet. Neque porro quisquam est qui
-          dolorem ipsum quia dolor sit amet, ipsum quia dolor sit amet”'
-        feat_member_link: /link-to-member
-        feat_member_cta: HEAR HER STORY
-      - feat_member_image: img/member2.jpg
-        feat_member_description: '"Neque porro quisquam est qui dolorem ipsum quia dolor
-          sit amet, ipsum quia dolor sit amet. Neque porro quisquam est qui
-          dolorem ipsum quia dolor sit amet, ipsum quia dolor sit amet”'
-        feat_member_link: /link-to-member
-        feat_member_cta: HEAR HIS STORY
-      - feat_member_image: img/member3.jpg
-        feat_member_description: '"Neque porro quisquam est qui dolorem ipsum quia dolor
-          sit amet, ipsum quia dolor sit amet. Neque porro quisquam est qui
-          dolorem ipsum quia dolor sit amet, ipsum quia dolor sit amet”'
-        feat_member_link: /link-to-member
-        feat_member_cta: HEAR HER STORY
+      - feat_member_image: img/steve-worrall-print.jpg
+        feat_member_description: I really appreciated how important mental health was
+          after dealing with the final stages of my father’s cancer (he passed
+          away three years ago). We had to manage his palliative care at home.
+          At the same time, Mum was developing dementia, and I started a new
+          role at Microsoft.
+        feat_member_link: resources/steven-worrall-microsoft-australia/
+        feat_member_cta: HEAR STEVEN'S STORY
+      - feat_member_image: img/melinda-upton.jpg
+        feat_member_description: I’ve seen first-hand the damage and pain that poor
+          mental health can cause. One story about a colleague, in particular,
+          fuels my drive to make a difference.
+        feat_member_link: /resources/personal-story-melinda-upton/
+        feat_member_cta: HEAR MELINDA'S STORY
+      - feat_member_image: img/pwc_kristin-stubbins-photo-2-.jpg
+        feat_member_description: Since I was a small child, the issue of mental health
+          has been around my life. I grew up in a rural area and I heard many
+          stories of young men struggling with stress or relationship breakups
+          who shot themselves. I had an uncle who died by suicide. When I was
+          young, it almost seemed normalised.
+        feat_member_link: /resources/personal-story-kristin-stubbins/
+        feat_member_cta: HEAR KRISTIN'S STORY
     feat_member_read_more: /link-to-more-stories
     our_members_description: Our members see it as their responsibility to protect,
       support and create mentally healthy workplaces for their people.
