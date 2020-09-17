@@ -6,8 +6,8 @@ banner_title: PwC's Green Light to Talk Program
 banner_description: "This initiative was launched in 2018 to help create an open
   culture at the firm where people felt comfortable to talk about their mental
   health and knew how to access support if they needed it. "
-banner_image: img/gltt-advocate-photo.jpg
-banner_right_image: ""
+banner_image: ""
+banner_right_image: img/gltt-advocate-photo.jpg
 date: 2020-08-31T00:36:31.889Z
 description: PwC UK wanted to create an open culture, where employees felt
   comfortable talking about mental health, and were more likely to speak up when
