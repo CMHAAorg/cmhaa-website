@@ -204,7 +204,10 @@ modules:
 
 
           Ellen plays an active role in local and national charitable foundations, including Cystic Fibrosis Australia, and is a mentor for the Centre for Economic Development of Australia and the Institute of Public Administration Australia.
-        our_board_quote: ""
+        our_board_quote: I love the power of a significant number of Australian business
+          leaders stating that mental health is critically important and that in
+          a way we're not doing enough, so together we’re going to do more, and
+          we’re going to be better in our organisations and together.
       - our_board_name: MELINDA UPTON
         our_board_image: img/internet_5y6a0050-edit.jpg
         our_board_title: Partner, Global Co-Chair IPT, DLA Piper
