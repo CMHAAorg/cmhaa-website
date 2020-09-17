@@ -8,7 +8,8 @@ banner_title: "Commonwealth Bank’s A Better Day Program "
 banner_description: "A program designed to improve mental wellbeing and
   resilience by assisting employees in better identifying, responding and
   mitigating life’s stressors. "
-banner_image: img/sunrise-opening-image.jpg
+banner_image: ""
+banner_right_image: img/sunrise-opening-image.jpg
 date: 2020-09-15T06:56:39.615Z
 description: The Commonwealth Bank (CBA) identifies stress management and a
   resilient mindset as critical skills required in the current and future
