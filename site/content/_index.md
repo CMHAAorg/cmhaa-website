@@ -5,6 +5,21 @@ meta_description: This is a detailed description of the page.
 banner_title: Together in the business of workplace mental health.
 banner_image: img/main-hero.jpg
 modules:
+  - stat_number_1: 3
+    stat_number_2: 12.8
+    stat_number_3: 70
+    stat_info_1: working Australians have mental ill-health or care for someone with
+      mental ill-health.
+    stat_info_2: is lost by Australian businesses each year due to untreated mental
+      health conditions through absenteeism, reduced productivity and
+      compensation claims.
+    stat_info_3: of employees do not seek help for their mental health, and less
+      than 3% use an Employee Assistance Program.
+    background_color: Light
+    stat_type_1: m
+    stat_type_2: b
+    stat_type_3: "%"
+    type: statistics
   - type: stacked-content-top-image
     stacked_image: img/ourleadership.jpg
     stacked_title: Who we are
@@ -15,21 +30,6 @@ modules:
       better.
     stacked_cta_link: /about-us
     stacked_cta_text: JOIN US
-  - stat_number_1: 3
-    stat_number_2: 12.8
-    stat_number_3: 70
-    stat_info_1: working Australians either have mental ill-health or are carers of
-      someone with mental ill-health
-    stat_info_2: Untreated mental health conditions cost Australian employers
-      approximately $12.8 billion yearly through absenteeism, reduced
-      productivity and compensation claims
-    stat_info_3: of employees do not seek help, and less than 3% use an Employee
-      Assistance Program
-    background_color: Light
-    stat_type_1: m
-    stat_type_2: b
-    stat_type_3: "%"
-    type: statistics
   - type: spotlight_image_content
     image: img/ourvision.jpg
     title1: Our vision
