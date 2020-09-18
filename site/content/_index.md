@@ -58,25 +58,6 @@ modules:
     card_image_2: img/equipourleaders.png
     card_description_1: We help businesses create an environment where everyone
       feels safe to talk about their mental health at work - including leaders.
-  - type: callout-image-text-cta
-    callout_image: img/half.jpg
-    callout_title: Resources to support your people through COVID-19
-    callout_description: CMHAA’s counterparts in the United Kingdom and Hong Kong
-      have worked with businesses from across their international membership,
-      guided by mental health experts, to develop a range of evidence-informed
-      resources to help workplaces support the mental health and wellbeing of
-      their people through these challenging times..
-    callout_cta_link: /about-us
-    callout_cta_text: FIND OUT MORE
-  - type: stacked-content-top-image
-    stacked_image: img/ourleadership.jpg
-    stacked_title: Our leadership
-    stacked_description: Our Board is comprised of leaders from within our Founding
-      Member organisations. Their involvement with CMHAA is supported at an
-      operational level through their sponsorship of a Functional Lead
-      representative.
-    stacked_cta_link: https://adoring-easley-b6cc0a.netlify.app/about-us/
-    stacked_cta_text: MEET THE BOARD
   - type: our_members
     our_members_title: Our members
     our_members_description: Our members see it as their responsibility to protect,
@@ -110,6 +91,25 @@ modules:
         our_member_link: https://www.microsoft.com/en-au
       - our_member_image: img/minterellison.jpg
         our_member_link: https://www.minterellison.com/
+  - type: callout-image-text-cta
+    callout_image: img/half.jpg
+    callout_title: Resources to support your people through COVID-19
+    callout_description: CMHAA’s counterparts in the United Kingdom and Hong Kong
+      have worked with businesses from across their international membership,
+      guided by mental health experts, to develop a range of evidence-informed
+      resources to help workplaces support the mental health and wellbeing of
+      their people through these challenging times..
+    callout_cta_link: /about-us
+    callout_cta_text: FIND OUT MORE
+  - type: stacked-content-top-image
+    stacked_image: img/ourleadership.jpg
+    stacked_title: Our leadership
+    stacked_description: Our Board is comprised of leaders from within our Founding
+      Member organisations. Their involvement with CMHAA is supported at an
+      operational level through their sponsorship of a Functional Lead
+      representative.
+    stacked_cta_link: https://adoring-easley-b6cc0a.netlify.app/about-us/
+    stacked_cta_text: MEET THE BOARD
   - type: feature-member-stories
     feat_member_intro: Hear from some of our members and get to know their story.
     feat_member:
