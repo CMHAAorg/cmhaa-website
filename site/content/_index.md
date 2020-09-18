@@ -33,12 +33,13 @@ modules:
   - type: spotlight_image_content
     image: img/ourvision.jpg
     title1: Our vision
-    content1: To create a culture of good mental health for workers, where everyone
-      feels safe to talk about their mental health without fear of stigma.
+    content1: Our vision is for every Australian workplace to be a mentally healthy
+      workplace, where businesses encourage people's mental wellness, and
+      conversations about mental health are a part of people's working day.
     title2: Our mission
-    content2: To drive improvements in how Australian businesses respond and adapt
-      to this rapidly evolving and growing challenge by providing evidence-based
-      recommendations.
+    content2: Our mission is to drive improvements in the way Australian businesses
+      respond and adapt to this rapidly evolving and growing challenge by
+      providing evidence-based guidance and insights.
   - card_image_3: img/drivelastingchange.png
     card_description_2: To openly share our knowledge and resources to educate,
       equip and support our fellow business leaders to take action on mental
