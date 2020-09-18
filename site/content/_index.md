@@ -5,6 +5,16 @@ meta_description: This is a detailed description of the page.
 banner_title: Together in the business of workplace mental health.
 banner_image: img/main-hero.jpg
 modules:
+  - type: stacked-content-top-image
+    stacked_image: img/ourleadership.jpg
+    stacked_title: Who we are
+    stacked_description: We are an alliance of Australian businesses dedicated to
+      providing mentally healthy workplace environments for our people. We are
+      business-led and expert-guided. We share our data, insights and
+      experience. Together, we have the power to change people's lives for the
+      better.
+    stacked_cta_link: /about-us
+    stacked_cta_text: JOIN US
   - stat_number_1: 3
     stat_number_2: 12.8
     stat_number_3: 70
@@ -20,15 +30,6 @@ modules:
     stat_type_2: b
     stat_type_3: "%"
     type: statistics
-  - type: stacked-content-top-image
-    stacked_image: img/ourleadership.jpg
-    stacked_title: Our leadership
-    stacked_description: Our Board is comprised of leaders from within our Founding
-      Member organisations. Their involvement with CMHAA is supported at an
-      operational level through their sponsorship of a Functional Lead
-      representative.
-    stacked_cta_link: https://adoring-easley-b6cc0a.netlify.app/about-us/
-    stacked_cta_text: MEET THE BOARD
   - type: spotlight_image_content
     image: img/ourvision.jpg
     title1: Our vision
@@ -68,6 +69,15 @@ modules:
       their people through these challenging times..
     callout_cta_link: /about-us
     callout_cta_text: FIND OUT MORE
+  - type: stacked-content-top-image
+    stacked_image: img/ourleadership.jpg
+    stacked_title: Our leadership
+    stacked_description: Our Board is comprised of leaders from within our Founding
+      Member organisations. Their involvement with CMHAA is supported at an
+      operational level through their sponsorship of a Functional Lead
+      representative.
+    stacked_cta_link: https://adoring-easley-b6cc0a.netlify.app/about-us/
+    stacked_cta_text: MEET THE BOARD
   - type: our_members
     our_members_title: Our members
     our_members_description: Our members see it as their responsibility to protect,
@@ -131,16 +141,6 @@ modules:
       support and create mentally healthy workplaces for their people.
       Together,  they are leading a movement for positive change across
       Australia, and the world, as a part of the CMHA Global network.
-  - type: stacked-content-top-image
-    stacked_image: img/ourleadership.jpg
-    stacked_title: Who we are
-    stacked_description: We are an alliance of Australian businesses dedicated to
-      providing mentally healthy workplace environments for our people. We are
-      business-led and expert-guided. We share our data, insights and
-      experience. Together, we have the power to change people's lives for the
-      better.
-    stacked_cta_link: /about-us
-    stacked_cta_text: JOIN US
 slug: homepage
 banner_cta_link: /about-us
 banner_cta_text: WATCH HOW
