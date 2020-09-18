@@ -20,16 +20,13 @@ modules:
     stat_type_2: b
     stat_type_3: "%"
     type: statistics
-  - type: stacked-content-top-image
-    stacked_image: img/ourleadership.jpg
-    stacked_title: Who we are
-    stacked_description: We are an alliance of Australian businesses dedicated to
-      providing mentally healthy workplace environments for our people. We are
+  - type: split_title_content
+    title: Who we are
+    leadtext: We are an alliance of Australian businesses dedicated to providing
+      mentally healthy workplace environments for our people. We are
       business-led and expert-guided. We share our data, insights and
       experience. Together, we have the power to change people's lives for the
       better.
-    stacked_cta_link: /about-us
-    stacked_cta_text: JOIN US
   - type: spotlight_image_content
     image: img/ourvision.jpg
     title1: Our vision
@@ -39,7 +36,7 @@ modules:
     title2: Our mission
     content2: Our mission is to drive improvements in the way Australian businesses
       respond and adapt to this rapidly evolving and growing challenge by
-      providing expert-informed, evidence-based guidance and insights.
+      providing practical, evidence-based guidance and insights.
   - card_image_3: img/drivelastingchange.png
     card_description_2: We share our knowledge and resources to support business
       leaders to take action on mental health in their own workplaces.
