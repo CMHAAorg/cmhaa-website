@@ -90,14 +90,14 @@ modules:
         our_member_link: https://www.minterellison.com/
   - type: callout-image-text-cta
     callout_image: img/half.jpg
-    callout_title: Resources to support your people through COVID-19
+    callout_title: Become a member
     callout_description: CMHAA’s counterparts in the United Kingdom and Hong Kong
       have worked with businesses from across their international membership,
       guided by mental health experts, to develop a range of evidence-informed
       resources to help workplaces support the mental health and wellbeing of
       their people through these challenging times..
     callout_cta_link: /about-us
-    callout_cta_text: FIND OUT MORE
+    callout_cta_text: ENQUIRE ABOUT MEMBERSHIP
   - type: stacked-content-top-image
     stacked_image: img/ourleadership.jpg
     stacked_title: Our leadership
@@ -107,6 +107,8 @@ modules:
       representative.
     stacked_cta_link: https://adoring-easley-b6cc0a.netlify.app/about-us/
     stacked_cta_text: MEET THE BOARD
+    callout_description: Be part of the movement for better workplace mental health.
+      Join our global community of business leaders, experts and change-makers.
   - type: feature-member-stories
     feat_member_intro: Hear from some of our members and get to know their story.
     feat_member:
