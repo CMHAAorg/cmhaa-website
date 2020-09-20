@@ -91,11 +91,6 @@ modules:
         our_member_link: https://www.microsoft.com/en-au
       - our_member_image: img/minterellison.jpg
         our_member_link: https://www.minterellison.com/
-  - type: quote
-    quote_text: As a community, we know Australian business can do better, and that
-      doing better begins with business leaders prioritising mental health in
-      ways that are experienced by all of their employees.
-    quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
   - type: callout-image-text-cta
     callout_image: img/istockphoto-842866300-1024x1024_membership.jpg
     callout_title: Interested in joining us?
@@ -106,17 +101,11 @@ modules:
       positive change in workplace mental health.
     callout_cta_link: /contact-us/
     callout_cta_text: ENQUIRE ABOUT MEMBERSHIP
-  - type: stacked-content-top-image
-    stacked_image: img/ourleadership.jpg
-    stacked_title: Our leadership
-    stacked_description: Our Board is comprised of leaders from within our Founding
-      Member organisations. Their involvement with CMHAA is supported at an
-      operational level through their sponsorship of a Functional Lead
-      representative.
-    stacked_cta_link: https://adoring-easley-b6cc0a.netlify.app/about-us/
-    stacked_cta_text: MEET THE BOARD
-    callout_description: Be part of the movement for better workplace mental health.
-      Join our global community of business leaders, experts and change-makers.
+  - type: quote
+    quote_text: As a community, we know Australian business can do better, and that
+      doing better begins with business leaders prioritising mental health in
+      ways that are experienced by all of their employees.
+    quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
   - type: feature-member-stories
     feat_member_intro: Why does mental health matter? Read our members' stories and find out.
     feat_member:
