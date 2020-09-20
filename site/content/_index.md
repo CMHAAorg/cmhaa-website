@@ -61,8 +61,8 @@ modules:
       feels safe to talk about their mental health at work - including leaders
       at all levels.
   - type: our_members
-    our_members_title: Our founding members
-    our_members_description: We are grateful for the support of our 15 Founding Members.
+    our_members_title: Our members
+    our_members_description: We are grateful for the support of our Founding Members.
     member:
       - our_member_image: img/aia_corporate_logo_rgb.png
         our_member_link: http://www.aia.com.au/
