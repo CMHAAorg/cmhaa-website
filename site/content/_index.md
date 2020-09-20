@@ -98,11 +98,13 @@ modules:
   - type: callout-image-text-cta
     callout_image: img/istockphoto-842866300-1024x1024_membership.jpg
     callout_title: Interested in joining us?
-    callout_description: Our members are united by a commitment to share openly and
-      work collaboratively, so that better, more sustainable mental health
-      outcomes can be achieved for more people. Join our global community of
-      business leaders, experts and influencers, and be part of the movement for
-      positive change in workplace mental health.
+    callout_description: >-
+      Our members are united by a commitment to share openly and work
+      collaboratively, so that better, more sustainable mental health outcomes
+      can be achieved for more people. 
+
+
+      Join our global community of business leaders, experts and influencers, and be part of the movement for positive change in workplace mental health.
     callout_cta_link: /contact-us/
     callout_cta_text: ENQUIRE ABOUT MEMBERSHIP
   - type: feature-member-stories
