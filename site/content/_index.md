@@ -142,7 +142,7 @@ modules:
           young, it almost seemed normalised.
         feat_member_link: /resources/personal-story-kristin-stubbins/
         feat_member_cta: HEAR KRISTIN'S STORY
-    feat_member_read_more: /resources
+    feat_member_read_more: /resources/
     our_members_description: Our members see it as their responsibility to protect,
       support and create mentally healthy workplaces for their people.
       Together,  they are leading a movement for positive change across
