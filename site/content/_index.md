@@ -69,7 +69,8 @@ modules:
     our_members_title: Our members
     our_members_description: We are grateful to our Founding Members for their
       leadership and support in establishing the Corporate Mental Health
-      Alliance Australia.
+      Alliance Australia - at a time when a community like ours couldn't be more
+      needed.
     member:
       - our_member_image: img/aia_corporate_logo_rgb.png
         our_member_link: http://www.aia.com.au/
