@@ -24,10 +24,11 @@ modules:
     image: img/ourleadership.jpg
   - type: split_title_content
     title: Who we are
-    leadtext: >-
-      We are an alliance of Australian businesses dedicated to providing
+    leadtext: We are an alliance of Australian businesses dedicated to providing
       mentally healthy workplaces for our people. We are business-led and
-      expert-guided. We share our data, insights and experience. 
+      expert-guided.
+    content: >-
+      We share our data, insights and experience. 
 
 
       Together, we have the power to change people's experience of the workplace for the better.
