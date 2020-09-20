@@ -48,7 +48,7 @@ modules:
       Judy’s full story and commitment to Green Light to Talk can be viewed below.
     leadtext: ""
   - type: youtube
-    youtube: https://www.youtube.com/watch?v=aQHtO5tQvng&feature=youtu.be
+    youtube: /aQHtO5tQvng
     content: >-
       On World Mental Health Day (10 October, 2018) PwC launched Green Light to
       Talk (GLTT), a movement that began at PwC UK, and aims to dial up the
