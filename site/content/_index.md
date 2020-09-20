@@ -20,6 +20,11 @@ modules:
     stat_type_2: b
     stat_type_3: "%"
     type: statistics
+  - type: quote
+    quote_text: As a community, we know Australian business can do better, and that
+      doing better begins with business leaders prioritising mental health in
+      ways that are experienced by all of their employees.
+    quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
   - type: image
     image: img/ourleadership.jpg
   - type: split_title_content
@@ -107,11 +112,6 @@ modules:
       positive change in workplace mental health.
     callout_cta_link: /contact-us/
     callout_cta_text: ENQUIRE ABOUT MEMBERSHIP
-  - type: quote
-    quote_text: As a community, we know Australian business can do better, and that
-      doing better begins with business leaders prioritising mental health in
-      ways that are experienced by all of their employees.
-    quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
   - type: feature-member-stories
     feat_member_intro: Why does mental health matter? Read our members' stories and find out.
     feat_member:
