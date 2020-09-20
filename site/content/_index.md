@@ -38,7 +38,7 @@ modules:
       Together, we have the power to change people's experience of the workplace for the better.
     content: ""
   - type: spotlight_image_content
-    image: img/ourvision.jpg
+    image: img/istockphoto-1049086992-1024x1024_provide-safe-settings.jpg
     title1: Our vision
     content1: Our vision is for every Australian workplace to be mentally healthy,
       where businesses encourage people's mental wellness, and conversations
