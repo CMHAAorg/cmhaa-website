@@ -56,8 +56,8 @@ modules:
     intro_title: What we do
     intro_description: Our strength lies in the unique collaboration of our members.
       Together, we bring a vast pool of knowledge from each of our businesses.
-      With guidance from expert advisors, we find, test and deliver solutions
-      that work for our people.
+      With guidance from experts, we find, test and deliver solutions that work
+      for our people.
     type: pillar-content-cards
     card_title_1: Provide safe settings
     card_title_2: Empower leaders
