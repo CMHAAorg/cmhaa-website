@@ -67,7 +67,7 @@ modules:
       all levels.
   - type: our_members
     our_members_title: Our members
-    our_members_description: Our 15 Founding Members
+    our_members_description: We are
     member:
       - our_member_image: img/aia_corporate_logo_rgb.png
         our_member_link: http://www.aia.com.au/
@@ -137,5 +137,5 @@ modules:
       Australia, and the world, as a part of the CMHA Global network.
 slug: homepage
 banner_cta_link: https://vimeo.com/457647049
-banner_cta_text: SEE HO
+banner_cta_text: SEE HOW
 ---
