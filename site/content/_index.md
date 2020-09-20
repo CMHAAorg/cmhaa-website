@@ -61,9 +61,11 @@ modules:
       feels safe to talk about their mental health at work - including leaders
       at all levels.
   - type: our_members
-    our_members_title: Our members
-    our_members_description: Our members are leading a movement for positive change
-      across Australia, and the world, as a part of the CMHA Global network.
+    our_members_title: Our founding members
+    our_members_description: We are grateful for the support of our 15 founding
+      members, united by a commitment to share openly and work collaboratively,
+      so that better, more sustainable mental health outcomes can be achieved
+      for more people.
     member:
       - our_member_image: img/aia_corporate_logo_rgb.png
         our_member_link: http://www.aia.com.au/
@@ -93,12 +95,17 @@ modules:
         our_member_link: https://www.minterellison.com/
   - type: callout-image-text-cta
     callout_image: img/half.jpg
-    callout_title: Become a member
-    callout_description: CMHAA’s counterparts in the United Kingdom and Hong Kong
-      have worked with businesses from across their international membership,
-      guided by mental health experts, to develop a range of evidence-informed
-      resources to help workplaces support the mental health and wellbeing of
-      their people through these challenging times..
+    callout_title: We invite you to join us
+    callout_description: >-
+      By collaborating and sharing our knowledge, supported by expert
+      consultancy and business-led practical support, our members are leading
+      the way on building mentally healthy workplaces.
+
+
+      By becoming a CMHA member, your business will accelerate its journey towards achieving a mentally healthy workplace in a measurable and sustainable way. 
+
+
+      Our members are leading a movement for positive change in workplace mental health across Australia.
     callout_cta_link: /about-us
     callout_cta_text: ENQUIRE ABOUT MEMBERSHIP
   - type: stacked-content-top-image
