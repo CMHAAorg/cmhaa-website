@@ -20,11 +20,6 @@ modules:
     stat_type_2: b
     stat_type_3: "%"
     type: statistics
-  - type: quote
-    quote_text: As a community, we know Australian business can do better, and that
-      doing better begins with business leaders prioritising mental health in
-      ways that are experienced by all of their employees.
-    quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
   - type: image
     image: img/ourleadership.jpg
   - type: split_title_content
@@ -74,7 +69,7 @@ modules:
       all levels.
   - type: our_members
     our_members_title: Our members
-    our_members_description: We have 15 Founding Members
+    our_members_description: Our 15 Founding Members
     member:
       - our_member_image: img/aia_corporate_logo_rgb.png
         our_member_link: http://www.aia.com.au/
@@ -102,6 +97,11 @@ modules:
         our_member_link: https://www.microsoft.com/en-au
       - our_member_image: img/minterellison.jpg
         our_member_link: https://www.minterellison.com/
+  - type: quote
+    quote_text: As a community, we know Australian business can do better, and that
+      doing better begins with business leaders prioritising mental health in
+      ways that are experienced by all of their employees.
+    quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
   - type: callout-image-text-cta
     callout_image: img/istockphoto-842866300-1024x1024_membership.jpg
     callout_title: Interested in joining us?
@@ -144,5 +144,5 @@ modules:
       Australia, and the world, as a part of the CMHA Global network.
 slug: homepage
 banner_cta_link: https://vimeo.com/457647049
-banner_cta_text: WATCH HOW
+banner_cta_text: SEE HOW
 ---
