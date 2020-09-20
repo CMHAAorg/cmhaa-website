@@ -13,11 +13,6 @@ modules:
       have the power to change people's experience of the workplace for the
       better.
     content: ""
-  - type: quote
-    quote_text: As a community, we know Australian business can do better, and that
-      doing better begins with business leaders prioritising mental health in
-      ways that are experienced by all of their employees.
-    quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
   - type: image
     image: img/ourleadership.jpg
   - stat_number_1: 3
@@ -45,6 +40,11 @@ modules:
     content2: Our mission is to drive improvements in the way Australian businesses
       respond and adapt to this rapidly evolving and growing challenge by
       providing practical, evidence-based guidance and insights.
+  - type: quote
+    quote_text: As a community, we know Australian business can do better, and that
+      doing better begins with business leaders prioritising mental health in
+      ways that are experienced by all of their employees.
+    quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
   - card_image_3: img/istockphoto-187896492-1024x1024_drive-lasting-change.jpg
     card_description_2: We share our knowledge and resources to support business
       leaders to take action on mental health in their own workplaces.
