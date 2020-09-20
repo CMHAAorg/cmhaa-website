@@ -46,11 +46,10 @@ modules:
       chains and the broader community, and contribute to the shaping of public
       policy.
     intro_title: What we do
-    intro_description: We believe that every person should be respected for who they
-      are, wherever they are on the continuum of mental health through life's
-      many stages. We believe that every workplace has an opportunity and a
-      responsibility to protect, support and create positive mental health for
-      their people so that they can thrive.
+    intro_description: Our strength lies in the unique collaboration of our members.
+      Together, we bring a vast pool of knowledge from each of our businesses.
+      With guidance from expert advisors, we find, test and deliver solutions
+      that work for our people.
     type: pillar-content-cards
     card_title_1: Provide safe settings
     card_title_2: Empower leaders
@@ -91,10 +90,11 @@ modules:
       - our_member_image: img/minterellison.jpg
         our_member_link: https://www.minterellison.com/
   - type: quote
-    quote_text: Our strength lies in the unique collaboration of our members.
-      Together, we bring a vast pool of knowledge from each of our businesses.
-      With guidance from expert advisors, we find, test and deliver solutions
-      that work for our people.
+    quote_text: We believe that every person should be respected for who they are,
+      wherever they are on the continuum of mental health through life's many
+      stages. We believe that every workplace has an opportunity and a
+      responsibility to protect, support and create positive mental health for
+      their people so that they can thrive.
     quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
   - type: callout-image-text-cta
     callout_image: img/half.jpg
