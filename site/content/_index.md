@@ -5,11 +5,21 @@ meta_description: This is a detailed description of the page.
 banner_title: Together in the business of workplace mental health.
 banner_image: img/main-hero.jpg
 modules:
+  - type: split_title_content
+    title: Who we are
+    leadtext: We are an alliance of Australian businesses dedicated to providing
+      mentally healthy workplaces for our people. We are business-led and
+      expert-guided. We share our data, insights and experience. Together, we
+      have the power to change people's experience of the workplace for the
+      better.
+    content: ""
   - type: quote
     quote_text: As a community, we know Australian business can do better, and that
       doing better begins with business leaders prioritising mental health in
       ways that are experienced by all of their employees.
     quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
+  - type: image
+    image: img/ourleadership.jpg
   - stat_number_1: 3
     stat_number_2: 12.8
     stat_number_3: 70
@@ -25,23 +35,6 @@ modules:
     stat_type_2: b
     stat_type_3: "%"
     type: statistics
-  - type: image
-    image: img/ourleadership.jpg
-  - type: split_title_content
-    title: Who we are
-    leadtext: >-
-      We are an alliance of Australian businesses dedicated to providing
-      mentally healthy workplaces for our people. 
-
-
-      We are business-led and expert-guided. 
-
-
-      We share our data, insights and experience. 
-
-
-      Together, we have the power to change people's experience of the workplace for the better.
-    content: ""
   - type: spotlight_image_content
     image: img/ourvision.jpg
     title1: Our vision
@@ -144,5 +137,5 @@ modules:
       Australia, and the world, as a part of the CMHA Global network.
 slug: homepage
 banner_cta_link: https://vimeo.com/457647049
-banner_cta_text: SEE HOW
+banner_cta_text: SEE HO
 ---
