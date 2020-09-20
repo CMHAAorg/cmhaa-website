@@ -142,6 +142,12 @@ modules:
       support and create mentally healthy workplaces for their people.
       Together,  they are leading a movement for positive change across
       Australia, and the world, as a part of the CMHA Global network.
+  - type: quote
+    quote_text: Our strength lies in the unique collaboration of our members.
+      Together, we bring a vast pool of knowledge from each of our businesses.
+      With guidance from expert advisors, we find, test and deliver solutions
+      that work for our people.
+    quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
 slug: homepage
 banner_cta_link: https://vimeo.com/457647049
 banner_cta_text: WATCH HOW
