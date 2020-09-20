@@ -92,9 +92,9 @@ modules:
   - type: quote
     quote_text: We believe that every person should be respected for who they are,
       wherever they are on the continuum of mental health through life's many
-      stages. We believe that every workplace has an opportunity and a
-      responsibility to protect, support and create positive mental health for
-      their people so that they can thrive.
+      stages. As a community, we know Australian business can do better, and
+      that doing better begins with business leaders prioritising mental health
+      in ways that are experienced by all of their employees.
     quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
   - type: callout-image-text-cta
     callout_image: img/half.jpg
@@ -142,7 +142,7 @@ modules:
           young, it almost seemed normalised.
         feat_member_link: /resources/personal-story-kristin-stubbins/
         feat_member_cta: HEAR KRISTIN'S STORY
-    feat_member_read_more: /resources
+    feat_member_read_more: /link-to-more-stories
     our_members_description: Our members see it as their responsibility to protect,
       support and create mentally healthy workplaces for their people.
       Together,  they are leading a movement for positive change across
