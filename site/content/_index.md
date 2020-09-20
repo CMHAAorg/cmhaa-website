@@ -62,10 +62,7 @@ modules:
       at all levels.
   - type: our_members
     our_members_title: Our founding members
-    our_members_description: We are grateful for the support of our 15 founding
-      members, united by a commitment to share openly and work collaboratively,
-      so that better, more sustainable mental health outcomes can be achieved
-      for more people.
+    our_members_description: We are grateful for the support of our 15 Founding Members.
     member:
       - our_member_image: img/aia_corporate_logo_rgb.png
         our_member_link: http://www.aia.com.au/
@@ -95,10 +92,12 @@ modules:
         our_member_link: https://www.minterellison.com/
   - type: callout-image-text-cta
     callout_image: img/half.jpg
-    callout_title: Join us
-    callout_description: Join our global community of business leaders, experts and
-      influencers, and be part of the movement for positive change in workplace
-      mental health.
+    callout_title: Interested in joining us?
+    callout_description: Our members are united by a commitment to share openly and
+      work collaboratively, so that better, more sustainable mental health
+      outcomes can be achieved for more people. Join our global community of
+      business leaders, experts and influencers, and be part of the movement for
+      positive change in workplace mental health.
     callout_cta_link: /contact-us/
     callout_cta_text: ENQUIRE ABOUT MEMBERSHIP
   - type: stacked-content-top-image
