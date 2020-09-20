@@ -20,6 +20,8 @@ modules:
     stat_type_2: b
     stat_type_3: "%"
     type: statistics
+  - type: image
+    image: img/ourleadership.jpg
   - type: split_title_content
     title: Who we are
     leadtext: >-
