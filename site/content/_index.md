@@ -40,6 +40,11 @@ modules:
     content2: Our mission is to drive improvements in the way Australian businesses
       respond and adapt to this rapidly evolving and growing challenge by
       providing practical, evidence-based guidance and insights.
+  - type: quote
+    quote_text: As a community, we know Australian business can do better, and that
+      doing better begins with business leaders prioritising mental health in
+      ways that are experienced by all of their employees.
+    quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
   - card_image_3: img/istockphoto-187896492-1024x1024_drive-lasting-change.jpg
     card_description_2: We share our knowledge and resources to support business
       leaders to take action on mental health in their own workplaces.
@@ -60,11 +65,6 @@ modules:
     card_description_1: We help businesses create an environment where everyone
       feels safe to talk about their mental health at work, including leaders at
       all levels.
-  - type: quote
-    quote_text: As a community, we know Australian business can do better, and that
-      doing better begins with business leaders prioritising mental health in
-      ways that are experienced by all of their employees.
-    quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
   - type: our_members
     our_members_title: Our members
     our_members_description: We are
@@ -95,9 +95,13 @@ modules:
         our_member_link: https://www.microsoft.com/en-au
       - our_member_image: img/minterellison.jpg
         our_member_link: https://www.minterellison.com/
+      - our_member_image: img/woolworths-group_rgb_positive_logo.png
+        our_member_link: https://www.woolworthsgroup.com.au/
+      - our_member_link: https://www.pwc.com.au/
+        our_member_image: img/pwc200142067_v3_final.jpg
   - type: callout-image-text-cta
     callout_image: img/istockphoto-842866300-1024x1024_membership.jpg
-    callout_title: Interested in joining us?
+    callout_title: Join our member community
     callout_description: >-
       Our members are united by a commitment to share openly and work
       collaboratively, so that better, more sustainable mental health outcomes
