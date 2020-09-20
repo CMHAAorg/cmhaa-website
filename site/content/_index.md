@@ -31,7 +31,7 @@ modules:
     title1: Our vision
     content1: Our vision is for every Australian workplace to be mentally healthy,
       where businesses encourage people's mental wellness, and conversations
-      about mental health are an everyday part of the working day.
+      about mental health are an everyday part of people's working day.
     title2: Our mission
     content2: Our mission is to drive improvements in the way Australian businesses
       respond and adapt to this rapidly evolving and growing challenge by
@@ -43,9 +43,11 @@ modules:
       chains and the broader community, and contribute to the shaping of public
       policy.
     intro_title: What we do
-    intro_description: Informed by our collective data, research and experience, and
-      with the guidance of mental health advisors, we work together to provide
-      safe settings, share credible practice, and drive lasting change.
+    intro_description: We believe that every person should be respected for who they
+      are, wherever they are on the continuum of mental health through life's
+      many stages. We believe that every workplace has an opportunity and a
+      responsibility to protect, support and create positive mental health for
+      their people so that they can thrive.
     type: pillar-content-cards
     card_title_1: Provide safe settings
     card_title_2: Empower leaders
@@ -53,7 +55,8 @@ modules:
     card_image_1: img/safesettings.png
     card_image_2: img/equipourleaders.png
     card_description_1: We help businesses create an environment where everyone
-      feels safe to talk about their mental health at work - including leaders.
+      feels safe to talk about their mental health at work - including leaders
+      at all levels.
   - type: our_members
     our_members_title: Our members
     our_members_description: Our members see it as their responsibility to protect,
