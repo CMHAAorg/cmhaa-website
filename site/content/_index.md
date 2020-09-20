@@ -67,7 +67,16 @@ modules:
       all levels.
   - type: our_members
     our_members_title: Our members
-    our_members_description: We are
+    our_members_description: >-
+      Our members are a part of the global movement 
+
+
+
+
+      Shared Value Project membership is an opportunity to be part of the urgent shift towards using business as a force for good.
+
+
+      As a community, we have convened the region’s leading shared value practitioners, visionaries and brightest minds to help us innovate new solutions to shared social and environmental problems. We do this through education, networking events and by providing evidence around why shared value makes good business sense.
     member:
       - our_member_image: img/aia_corporate_logo_rgb.png
         our_member_link: http://www.aia.com.au/
@@ -99,6 +108,18 @@ modules:
         our_member_link: https://www.woolworthsgroup.com.au/
       - our_member_link: https://www.pwc.com.au/
         our_member_image: img/pwc200142067_v3_final.jpg
+  - type: stacked-content-top-image
+    stacked_image: img/istockphoto-1172976280-2048x2048-join-our-community.jpg
+    stacked_description: >-
+      Our members are united by a commitment to share openly and work
+      collaboratively, so that better, more sustainable mental health outcomes
+      can be achieved for more people. 
+
+
+      Join our global community of business leaders, experts and influencers, and be part of the movement for positive change in workplace mental health.
+    stacked_title: Join our community
+    stacked_cta_link: /contact-us/
+    stacked_cta_text: Enquire about membership
   - type: callout-image-text-cta
     callout_image: img/istockphoto-842866300-1024x1024_membership.jpg
     callout_title: Join our member community
