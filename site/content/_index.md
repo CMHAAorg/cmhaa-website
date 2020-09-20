@@ -95,18 +95,11 @@ modules:
         our_member_link: https://www.minterellison.com/
   - type: callout-image-text-cta
     callout_image: img/half.jpg
-    callout_title: We invite you to join us
-    callout_description: >-
-      By collaborating and sharing our knowledge, supported by expert
-      consultancy and business-led practical support, our members are leading
-      the way on building mentally healthy workplaces.
-
-
-      By becoming a CMHA member, your business will accelerate its journey towards achieving a mentally healthy workplace in a measurable and sustainable way. 
-
-
-      Our members are leading a movement for positive change in workplace mental health across Australia.
-    callout_cta_link: /about-us
+    callout_title: Join us
+    callout_description: Join our global community of business leaders, experts and
+      influencers, and be part of the movement for positive change in workplace
+      mental health.
+    callout_cta_link: /contact-us/
     callout_cta_text: ENQUIRE ABOUT MEMBERSHIP
   - type: stacked-content-top-image
     stacked_image: img/ourleadership.jpg
