@@ -103,28 +103,12 @@ modules:
         our_member_image: img/pwc200142067_v3_final.jpg
   - type: stacked-content-top-image
     stacked_image: img/istockphoto-1172976280-2048x2048-join-our-community.jpg
-    stacked_description: >-
-      Join our global community of business leaders, experts and influencers,
-      and be part of the movement for positive change in workplace mental
-      health. 
-
-
-      Be part of the movement for better workplace mental health. Join our global community of business leaders, experts and partner organisations.
+    stacked_description: Join our global community of business leaders, experts and
+      partner organisations, and be part of the movement for positive change in
+      workplace mental health.
     stacked_title: Join us
     stacked_cta_link: /contact-us/
     stacked_cta_text: Enquire about membership
-  - type: callout-image-text-cta
-    callout_image: img/istockphoto-842866300-1024x1024_membership.jpg
-    callout_title: Join us
-    callout_description: >-
-      Be part of the movement for better workplace mental health. Join our
-      global community of business leaders, experts and partner organisations so
-      that, together, we can have an 
-
-
-      By becoming a CMHA member, your business will accelerate its journey towards achieving a mentally healthy workplace in a measurable and sustainable way.
-    callout_cta_link: /contact-us/
-    callout_cta_text: ENQUIRE ABOUT MEMBERSHIP
   - type: feature-member-stories
     feat_member_intro: Why does mental health matter? Read our members' stories and find out.
     feat_member:
