@@ -118,7 +118,7 @@ modules:
     callout_description: Be part of the movement for better workplace mental health.
       Join our global community of business leaders, experts and change-makers.
   - type: feature-member-stories
-    feat_member_intro: Hear from some of our members and get to know their story.
+    feat_member_intro: Why does mental health matter? Read our members' stories and find out.
     feat_member:
       - feat_member_image: img/steve-worrall-print.jpg
         feat_member_description: I really appreciated how important mental health was
