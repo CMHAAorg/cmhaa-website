@@ -47,7 +47,7 @@ modules:
     content2: Our mission is to drive improvements in the way Australian businesses
       respond and adapt to this rapidly evolving and growing challenge by
       providing practical, evidence-based guidance and insights.
-  - card_image_3: img/drivelastingchange.png
+  - card_image_3: img/istockphoto-589971186-612x612_drive-lasting-change.jpg
     card_description_2: We share our knowledge and resources to support business
       leaders to take action on mental health in their own workplaces.
     card_description_3: We advocate for systemic change within business, supply
@@ -65,8 +65,8 @@ modules:
     card_image_1: img/istockphoto-1049086992-1024x1024_provide-safe-settings.jpg
     card_image_2: img/istockphoto-842864960-1024x1024_empower-leaders.jpg
     card_description_1: We help businesses create an environment where everyone
-      feels safe to talk about their mental health at work - including leaders
-      at all levels.
+      feels safe to talk about their mental health at work, including leaders at
+      all levels.
   - type: our_members
     our_members_title: Our members
     our_members_description: We have 15 Founding Members
