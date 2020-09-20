@@ -99,7 +99,7 @@ modules:
       in ways that are experienced by all of their employees.
     quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
   - type: callout-image-text-cta
-    callout_image: img/istockphoto-943479036-1024x1024_membership.jpg
+    callout_image: img/istockphoto-842866300-1024x1024_membership.jpg
     callout_title: Interested in joining us?
     callout_description: Our members are united by a commitment to share openly and
       work collaboratively, so that better, more sustainable mental health
