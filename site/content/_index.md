@@ -52,7 +52,7 @@ modules:
     content2: Our mission is to drive improvements in the way Australian businesses
       respond and adapt to this rapidly evolving and growing challenge by
       providing practical, evidence-based guidance and insights.
-  - card_image_3: img/istockphoto-589971186-612x612_drive-lasting-change.jpg
+  - card_image_3: img/istockphoto-187896492-1024x1024_drive-lasting-change.jpg
     card_description_2: We share our knowledge and resources to support business
       leaders to take action on mental health in their own workplaces.
     card_description_3: We advocate for systemic change within business, supply
