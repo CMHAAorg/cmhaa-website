@@ -36,7 +36,7 @@ modules:
     title1: Our vision
     content1: Our vision is for every Australian workplace to be mentally healthy,
       where businesses encourage people's mental wellness, and conversations
-      about mental health are an everyday part of people's working day.
+      about mental health are a normal part of people's working day.
     title2: Our mission
     content2: Our mission is to drive improvements in the way Australian businesses
       respond and adapt to this rapidly evolving and growing challenge by
@@ -92,11 +92,9 @@ modules:
       - our_member_image: img/minterellison.jpg
         our_member_link: https://www.minterellison.com/
   - type: quote
-    quote_text: We believe that every person should be respected for who they are,
-      wherever they are on the continuum of mental health through life's many
-      stages. As a community, we know Australian business can do better, and
-      that doing better begins with business leaders prioritising mental health
-      in ways that are experienced by all of their employees.
+    quote_text: As a community, we know Australian business can do better, and that
+      doing better begins with business leaders prioritising mental health in
+      ways that are experienced by all of their employees.
     quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
   - type: callout-image-text-cta
     callout_image: img/istockphoto-842866300-1024x1024_membership.jpg
