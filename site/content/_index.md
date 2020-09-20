@@ -5,6 +5,13 @@ meta_description: This is a detailed description of the page.
 banner_title: Together in the business of workplace mental health.
 banner_image: img/main-hero.jpg
 modules:
+  - type: quote
+    quote_text: As a community, we know Australian business can do better, and that
+      doing better begins with business leaders prioritising mental health in
+      ways that are experienced by all of their employees.
+    quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
+  - type: image
+    image: img/ourleadership.jpg
   - stat_number_1: 3
     stat_number_2: 12.8
     stat_number_3: 70
@@ -20,8 +27,6 @@ modules:
     stat_type_2: b
     stat_type_3: "%"
     type: statistics
-  - type: image
-    image: img/ourleadership.jpg
   - type: split_title_content
     title: Who we are
     leadtext: >-
@@ -97,11 +102,6 @@ modules:
         our_member_link: https://www.microsoft.com/en-au
       - our_member_image: img/minterellison.jpg
         our_member_link: https://www.minterellison.com/
-  - type: quote
-    quote_text: As a community, we know Australian business can do better, and that
-      doing better begins with business leaders prioritising mental health in
-      ways that are experienced by all of their employees.
-    quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
   - type: callout-image-text-cta
     callout_image: img/istockphoto-842866300-1024x1024_membership.jpg
     callout_title: Interested in joining us?
