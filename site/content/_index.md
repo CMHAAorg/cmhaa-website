@@ -120,13 +120,13 @@ modules:
           At the same time, Mum was developing dementia, and I started a new
           role at Microsoft.
         feat_member_link: resources/steven-worrall-microsoft-australia/
-        feat_member_cta: HEAR STEVEN'S STORY
+        feat_member_cta: READ STEVEN'S STORY
       - feat_member_image: img/melinda-upton.jpg
         feat_member_description: I’ve seen first-hand the damage and pain that poor
           mental health can cause. One story about a colleague, in particular,
           fuels my drive to make a difference.
         feat_member_link: /resources/personal-story-melinda-upton/
-        feat_member_cta: HEAR MELINDA'S STORY
+        feat_member_cta: READ MELINDA'S STORY
       - feat_member_image: img/pwc_kristin-stubbins-photo-2-.jpg
         feat_member_description: Since I was a small child, the issue of mental health
           has been around my life. I grew up in a rural area and I heard many
@@ -134,7 +134,7 @@ modules:
           who shot themselves. I had an uncle who died by suicide. When I was
           young, it almost seemed normalised.
         feat_member_link: /resources/personal-story-kristin-stubbins/
-        feat_member_cta: HEAR KRISTIN'S STORY
+        feat_member_cta: READ KRISTIN'S STORY
     feat_member_read_more: /link-to-more-stories
     our_members_description: Our members see it as their responsibility to protect,
       support and create mentally healthy workplaces for their people.
