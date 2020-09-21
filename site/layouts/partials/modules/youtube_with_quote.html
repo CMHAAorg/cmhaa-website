@@ -3,7 +3,7 @@
         {{if .Module.youtube_quote_id}}
         <div class="C10-youtube-quote__iframe-container uk-container uk-container-xsmall">
                 <div class="C10-youtube-quote__iframe">
-                    <iframe class="uk-align-center " src="https://www.youtube-nocookie.com/embed/{{ .Module.youtube_quote_id}}?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1" width="" height="" frameborder="0" uk-responsive uk-video="automute: false"></iframe>
+                    <iframe class="uk-align-center " src="https://www.youtube-nocookie.com/embed/{{- .Module.youtube_quote_id -}}?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1" width="" height="" frameborder="0" uk-responsive uk-video="autoplay: false"></iframe>
                 </div>
             </div>
         {{ end }}
@@ -25,7 +25,7 @@
                     <div class="uk-width-1-1 uk-align-center">
                         <p class="uk-text-lead uk-text-center">{{ .Module.youtube_quote_text }}</p>
                         {{if .Module.youtube_quote_author}}
-                            <p class="uk-text-center C10-youtube-quote__author">{{ .Module.youtube_quote_author }}</p>
+                            <p class="uk-text-center C10-youtube-quote__author">{{- .Module.youtube_quote_author -}}</p>
                         {{ end }}
                     </div>
                 </div>
