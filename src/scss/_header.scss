@@ -120,26 +120,23 @@
 
   .logo {
     align-self: center;
-    transition: $transition-fast;
     flex-shrink: 0;
+    height: 32px;
+    width: auto;
 
-    &--white {
-      .sticky-header &,
-      .uk-navbar-white &, {
-        opacity: 0;
-      }
+    @media (min-width: $breakpoint-medium) {
+      height: 45px;
     }
 
-    &--color {
-      position: absolute;
-      top: 0;
-      left: 0;
-      opacity: 0;
+    .st1 {
+      transition: $transition-fast;
+    }
 
-      .sticky-header &,
-      .uk-navbar-white &,
-      {
-        opacity: 1;
+    .sticky-header &,
+    .uk-navbar-white &,
+    {
+      .st1 {
+        fill: #6A6D71;
       }
     }
   }
