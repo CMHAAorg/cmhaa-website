@@ -2,7 +2,8 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "CMHAA"
-assetDir="static"
+assetDir = "static"
+publish_mode = "editorial_workflow"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:

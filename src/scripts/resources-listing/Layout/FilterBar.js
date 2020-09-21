@@ -5,6 +5,12 @@ import TextFilter from "../Components/TextFilter";
 
 const FilterBar = (props) => {
   const filters = Object.keys(props.filters).map((filterName) => {
+    /* Initial launch we only want to show categories -
+    When ready just remove this line below to get all the chops back */
+    if (filterName !== "category") {
+      return null;
+    }
+
     if (filterName === "industry") {
       return <TextFilter key={filterName} name={filterName} update={props.update} categories={props.filters[filterName]} />;
     }
