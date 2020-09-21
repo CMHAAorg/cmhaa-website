@@ -37,6 +37,7 @@ modules:
       participating firms in October 2012.
   - type: image
     image: img/origins.jpg
+    image_caption: This is a caption
   - type: split_title_content_background
     title: What we do
     content: >-
