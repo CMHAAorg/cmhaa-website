@@ -14,7 +14,7 @@
     </svg>
     <div class="uk-container uk-container-xsmall">
       <div class="uk-width-1-1@s uk-align-center" uk-grid>
-        <p>{{ .Description }}</p>
+        <p class="uk-text-lead">{{ .Description }}</p>
         {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
         {{ .Content }}
       </div>
