@@ -28,10 +28,11 @@ class Listing extends React.Component {
     const cards = this.props.results
       .filter((result, index) => index < pagedItems)
       .map((result) => {
+        const image = result.banner_image ? result.banner_image : "/img/placeholder-noimage.gif";
         return (
           <a href={result.permalink} key={result.permalink} className="card card--resource">
             <div className="card__image-wrapper">
-              <img src={result.banner_image} alt="" />
+              <img src={image} alt="" />
             </div>
             <div className="card__content">
               <span className={`card__category ${result.category_tag}`}>{result.category}</span>

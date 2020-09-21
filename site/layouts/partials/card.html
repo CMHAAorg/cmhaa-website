@@ -1,6 +1,7 @@
 <a href="{{ .item.RelPermalink }}" class="card{{ if .class }} {{ .class }}{{ end }}">
   <div class="card__image-wrapper">
-    {{ $image := "/img/placeholder-noimage.gif" }}
+    {{ $placeholderPath := "/img/placeholder-noimage.gif" }}
+    {{ $image := $placeholderPath }}
     {{ if .item.Params.banner_image}}
       {{ $image = .item.Params.banner_image }}
     {{ else if .item.Params.banner_right_image }}
@@ -8,7 +9,12 @@
     {{ else if .item.Params.image }}
       {{ $image = .item.Params.image }}
     {{end}}      
-    <img src={{ $image }} alt="" />
+    {{- if ne $image $placeholderPath }}
+      {{- $path := resources.Get $image -}} {{- $thumb := ($path.Resize "600x").RelPermalink }}
+      <img src="{{ $thumb }}" alt=""> 
+    {{ else }}
+      <img src="{{ $image }}" alt=""> 
+    {{ end }}
   </div>
   <div>
     <div class="card__content">
