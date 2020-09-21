@@ -6,8 +6,14 @@
     {{- if or (and (.IsDescendant $section) (and (not .Draft) (not .Params.private))) $section.IsHome -}}
       {{- $post_date := dateFormat "Jan 02, 2006" .Params.date -}}
       {{- $post_date_timestamp := mul 1000 (time .Params.date).Unix -}}
-      {{- $category_tag := .Params.category | urlize }}
-      {{- $.Scratch.Add "index" (dict "objectID" .File.UniqueID "permalink" .Permalink "title" .Title "post_date" $post_date "post_date_timestamp" $post_date_timestamp "banner_image" .Params.banner_image "type" .Type "category" .Params.category "category_tag" $category_tag "focus" .Params.focus "role" .Params.role "organisation_size" .Params.organisation_size "industry" .Params.industry )}}
+      {{- $category_tag := .Params.category | urlize -}}
+      {{- $banner_image := "" -}}
+      {{- if isset .Params "banner_image" -}}
+        {{- $banner_image = .Params.banner_image -}}
+      {{- else -}}
+        {{- $banner_image = .Params.banner_right_image -}}
+      {{- end -}}
+      {{- $.Scratch.Add "index" (dict "objectID" .File.UniqueID "permalink" .Permalink "title" .Title "post_date" $post_date "post_date_timestamp" $post_date_timestamp "banner_image" $banner_image "type" .Type "category" .Params.category "category_tag" $category_tag "focus" .Params.focus "role" .Params.role "organisation_size" .Params.organisation_size "industry" .Params.industry )}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
