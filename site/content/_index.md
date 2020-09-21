@@ -10,10 +10,9 @@ modules:
     leadtext: We are an alliance of Australian businesses dedicated to providing
       mentally healthy workplaces for our people. We are business-led and
       expert-guided. We share our data, insights and experience. Together, we
-      have the power to change people's experience of the workplace for the
-      better.
+      have the power to change people's workplace experience for the better.
     content: ""
-    image: img/liz-liam-nicole-crop.png
+    image: ""
   - type: image
     image: img/liz-liam-nicole-crop.png
   - stat_number_1: 3
