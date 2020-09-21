@@ -103,7 +103,7 @@ modules:
       - our_member_image: img/woolworths-group_rgb_positive_logo.png
         our_member_link: https://www.woolworthsgroup.com.au/
   - type: stacked-content-top-image
-    stacked_image: img/istockphoto-1059661424-1024x1024-join-us.jpg
+    stacked_image: img/liz-liam-nicole-crop.png
     stacked_description: Join our global community of business leaders, experts and
       partner organisations, and be part of the movement for positive change in
       workplace mental health.
