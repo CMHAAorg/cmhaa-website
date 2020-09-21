@@ -13,6 +13,7 @@ modules:
       have the power to change people's experience of the workplace for the
       better.
     content: ""
+    image: img/liz-liam-nicole-crop.png
   - type: image
     image: img/liz-liam-nicole-crop.png
   - stat_number_1: 3
