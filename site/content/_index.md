@@ -14,7 +14,7 @@ modules:
       better.
     content: ""
   - type: image
-    image: img/ourleadership.jpg
+    image: img/liz-liam-nicole-crop.png
   - stat_number_1: 3
     stat_number_2: 12.8
     stat_number_3: 70
