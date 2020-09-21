@@ -9,9 +9,9 @@ banner_image: img/contact-us.jpg
 modules:
   - type: contact-form
     contact_title: Contact us
-    contact_lead: Optional lead text if wanting.
+    contact_lead: Please let us know how we may assist you.
     contact_description: Please complete the form below with your details and
-      outline the nature of your enquiry;
+      outline the nature of your enquiry.
   - type: recommended_resources
     heading: ""
 ---
