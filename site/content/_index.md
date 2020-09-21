@@ -65,8 +65,6 @@ modules:
     card_description_1: We help businesses create an environment where everyone
       feels safe to talk about their mental health at work, including leaders at
       all levels.
-  - type: image
-    image: img/ourleadership.jpg
   - type: our_members
     our_members_title: Our members
     our_members_description: We are grateful to our Founding Members for their
