@@ -5,4 +5,7 @@
             <canvas width="600" height="400"></canvas>
         </div>
     </div>
+    {{ if .Module.image_caption }}
+        <p class="uk-align-center uk-text-center">{{- .Module.image_caption -}}</p>
+    {{end}}
 </div>

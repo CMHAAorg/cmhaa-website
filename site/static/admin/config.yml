@@ -668,6 +668,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: object
             fields:
               - { label: Image, name: image, widget: image, required: true }
+              - { label: Caption, name: image_caption, widget: string, required: false }
           - label: "C12: Split Title with Content & Background"
             name: "split_title_content_background"
             widget: object
