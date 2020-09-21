@@ -13,6 +13,7 @@ modules:
       have the power to change people's experience of the workplace for the
       better.
     content: ""
+    image: img/liz-liam-nicole-crop.png
   - type: image
     image: img/liz-liam-nicole-crop.png
   - stat_number_1: 3
@@ -65,6 +66,8 @@ modules:
     card_description_1: We help businesses create an environment where everyone
       feels safe to talk about their mental health at work, including leaders at
       all levels.
+  - type: image
+    image: img/ourleadership.jpg
   - type: our_members
     our_members_title: Our members
     our_members_description: We are grateful to our Founding Members for their
