@@ -83,3 +83,23 @@
     top: -2px;
   }
 }
+
+.btn-show-more {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  transition: $transition-fast;
+  padding: 8px 10px;
+  border-radius: 2px;
+  outline: none;
+
+  &:hover,
+  &:active {
+    background: rgba($global-black, 0.15);
+    outline: none;
+  }
+
+  &:disabled {
+    opacity: 0.5;
+  }
+}
