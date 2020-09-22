@@ -6,6 +6,12 @@
     padding-top: 64px;
   }
 
+  &__bio {
+    @media (min-width: $breakpoint-medium) {
+      padding-left: 60px;
+    }
+  }
+
   &__member {
     .uk-card {
       h6 {
@@ -46,10 +52,7 @@
       padding-top: 0;
     }
     &-image {
-      max-width: 328px;
-      @media (max-width: $breakpoint-small) {
-        max-width: 100%;
-      }
+      max-width: 100%;
     }
     &-content {
       font-size: 20px;
@@ -139,6 +142,12 @@
           overflow: hidden;
         }
       }
+    }
+  }
+
+  .uk-modal-dialog {
+    @media (min-width: $breakpoint-medium) {
+      padding: 10px 30px;
     }
   }
 
