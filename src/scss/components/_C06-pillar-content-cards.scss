@@ -23,4 +23,10 @@
       }
     }
   }
+
+  @media (min-width: $breakpoint-medium) {
+    &--container {
+      padding-right: 30px;
+    }
+  }
 }
