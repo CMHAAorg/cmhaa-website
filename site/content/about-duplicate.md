@@ -17,9 +17,9 @@ modules:
     title: About us
     image: ""
   - type: youtube_with_quote
-    youtube_quote_text: “Everyone has mental health in the same way that everyone
-      has physical health. It’s up to us as employers to create an environment
-      where everyone in the workplace feels comfortable.”
+    youtube_quote_text: We’re aiming to start a movement that leads to all employees
+      going to work feeling genuinely cared for, knowing there is support for
+      them in their personal life as well as their work life.
     youtube_quote_author: Bruce Cooper, Chief Executive Partner, Clayton Utz
     youtube_quote_url: c2pz2mlSfXA
     youtube_quote_id: https://vimeo.com/457647049
