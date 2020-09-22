@@ -17,10 +17,14 @@ modules:
     title: About us
     image: ""
   - type: youtube_with_quote
-    youtube_quote_text: We’re aiming to start a movement that leads to all employees
-      going to work feeling genuinely cared for, knowing there is support for
-      them in their personal life as well as their work life.
-    youtube_quote_author: Bruce Cooper, Chief Executive Partner, Clayton Utz
+    youtube_quote_text: The last thing we want as leaders is to have employees
+      feeling stressed, depressed or anxious, or suffer an undiagnosed mental
+      health condition that’s making their lives miserable. But there’s a
+      feeling of helplessness among us all about what to do. There is no magic
+      solution to dealing with mental health. But I’m hopeful that initiatives
+      like Corporate Mental Health Alliance Australia become the ‘secret sauce’
+      that help businesses take that next step.
+    youtube_quote_author: Kristin Stubbins, Partner, PwC Australia
     youtube_quote_url: c2pz2mlSfXA
     youtube_quote_id: https://vimeo.com/457647049
   - type: split_title_content
