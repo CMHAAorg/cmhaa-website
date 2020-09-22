@@ -19,7 +19,7 @@ modules:
   - type: youtube_with_quote
     youtube_quote_text: The last thing we want as leaders is to have employees
       feeling stressed, depressed or anxious, or suffer an undiagnosed mental
-      health condition that’s making their lives miserable. But there’s also a
+      health condition that’s making their lives miserable. But there’s a
       feeling of helplessness among us all about what to do. There is no magic
       solution to dealing with mental health. But I’m hopeful that initiatives
       like Corporate Mental Health Alliance Australia become the ‘secret sauce’
