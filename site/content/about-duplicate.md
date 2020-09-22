@@ -24,7 +24,7 @@ modules:
       solution to dealing with mental health. But I’m hopeful that initiatives
       like Corporate Mental Health Alliance Australia become the ‘secret sauce’
       that help businesses take that next step.
-    youtube_quote_author: Bruce Cooper, Chief Executive Partner, Clayton Utz
+    youtube_quote_author: Kristin Stubbins, Partner, PwC Australia
     youtube_quote_url: c2pz2mlSfXA
     youtube_quote_id: https://vimeo.com/457647049
   - type: split_title_content
