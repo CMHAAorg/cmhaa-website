@@ -16,5 +16,6 @@ modules:
     stacked_description: test
     stacked_cta_link: http://www.google.com
     stacked_cta_text: Testing
+    stacked_image_caption: Heres an image caption
 ---
 test
