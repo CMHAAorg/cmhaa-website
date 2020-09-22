@@ -17,9 +17,9 @@ modules:
     title: About us
     image: ""
   - type: youtube_with_quote
-    youtube_quote_text: “Everyone has mental health in the same way that everyone
-      has physical health. It’s up to us as employers to create an environment
-      where everyone in the workplace feels comfortable.”
+    youtube_quote_text: We’re aiming to start a movement that leads to all employees
+      going to work feeling genuinely cared for, knowing there is support for
+      them in their personal life as well as their work life.
     youtube_quote_author: Bruce Cooper, Chief Executive Partner, Clayton Utz
     youtube_quote_url: c2pz2mlSfXA
     youtube_quote_id: https://vimeo.com/457647049
@@ -389,7 +389,7 @@ modules:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tincidunt, odio ac lacinia faucibus, orci elit finibus nisl, ut ullamcorper enim purus ut nisl.
         exec_board_name: Vicki Forbes
         exec_board_image: img/vicki-forbes.jpg
-        exec_board_title: Program Director, CMHAA
+        exec_board_title: Program Director, Corporate Mental Health Alliance Australia
         exec_board_quote: '"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           Quisque tincidunt, odio ac lacinia faucibus, orci elit finibus nisl,
           ut ullamcorper enim purus ut nisl."'
