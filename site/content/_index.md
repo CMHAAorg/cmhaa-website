@@ -10,7 +10,8 @@ modules:
     leadtext: We are an alliance of Australian businesses dedicated to providing
       mentally healthy workplaces for our people. We are business-led and
       expert-guided. We share our data, insights and experience. Together, we
-      have the power to change people's workplace experience for the better.
+      have the power to change people's experience of the workplace for the
+      better.
     content: ""
     image: ""
   - type: image
@@ -69,8 +70,7 @@ modules:
     our_members_title: Our members
     our_members_description: We are grateful to our Founding Members for their
       leadership and support in establishing the Corporate Mental Health
-      Alliance Australia, especially at a time when the need in our community is
-      so great.
+      Alliance Australia.
     member:
       - our_member_image: img/aia_corporate_logo_rgb.png
         our_member_link: http://www.aia.com.au/
