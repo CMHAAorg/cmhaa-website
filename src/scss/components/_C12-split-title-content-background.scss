@@ -18,16 +18,5 @@
       padding-top: $global-padding-medium-mobile;
       padding-bottom: $global-padding-medium-mobile / 2;
     }
-  }
-
-  a {
-    color: $global-black;
-    text-decoration: underline;
-    font-size: 16px;
-    line-height: 140%;
-
-    &:hover {
-      text-decoration: none;
-    }
-  }
+  }  
 }

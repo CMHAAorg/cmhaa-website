@@ -26,7 +26,7 @@
             <p class="uk-text-lead uk-margin-small-bottom">{{ .Module.leadtext }}</p>
             {{ end }}
             {{if .Module.content }}
-            {{ .Module.content | markdownify }}
+            <div class="content-body">{{ .Module.content | markdownify }}</div>
             {{ end }}
             {{if .Module.cta_link }}
             <a href="{{ .Module.cta_link }}" class="uk-button uk-button-primary">{{ .Module.cta_text }} <span uk-icon="chevron-right"></span></a>

@@ -4,4 +4,15 @@
     padding-top: 28px;
     padding-bottom: 28px;
   }
+
+  a {
+    color: $global-black;
+    text-decoration: underline;
+    font-size: inherit;
+    line-height: 140%;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
 }
