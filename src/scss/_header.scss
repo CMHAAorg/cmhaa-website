@@ -40,7 +40,7 @@
     &:after {
       content: "";
       position: absolute;
-      bottom: -1px;
+      bottom: 20px;
       width: 0;
       height: 2px;
       margin: 0;
@@ -48,14 +48,18 @@
       transition-duration: 0.15s;
       opacity: 0;
       background-color: darken($brand-primary,5%);
-      left: 0;
+      left: 15px;
+
+      @media (max-width: $breakpoint-medium) {
+        bottom: -1px;
+      }
     }
 
     &:hover {
       cursor: pointer;
       &:before,
       &:after {
-        width: 100%;
+        width: calc(100% - 30px);
         opacity: 1;
       }
     }
@@ -79,32 +83,6 @@
     .uk-navbar-nav > li > a,
     a {
       color: $global-black;
-      transition: all 0.2s ease-in-out;
-      position: relative;
-
-      &:before,
-      &:after {
-        content: "";
-        position: absolute;
-        bottom: -1px;
-        width: 0;
-        height: 2px;
-        margin: 0;
-        transition: all 0.2s ease-in-out;
-        transition-duration: 0.15s;
-        opacity: 0;
-        background-color: darken($brand-primary,5%);
-        left: 0;
-      }
-
-      &:hover {
-        cursor: pointer;
-        &:before,
-        &:after {
-          width: 100%;
-          opacity: 1;
-        }
-      }
     }
 
     .main-nav-toggle {

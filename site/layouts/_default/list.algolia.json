@@ -14,7 +14,6 @@
         {{- $banner_image = .Params.banner_right_image -}}
       {{- end -}}
       {{- with $banner_image }}
-        {{- $path := resources.Get $banner_image -}}
         {{- $path := resources.Get $banner_image -}} 
         {{- $banner_image = ($path.Resize "600x").RelPermalink }}
       {{- end }}    

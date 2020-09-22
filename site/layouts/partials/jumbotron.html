@@ -3,7 +3,7 @@
     {{if .banner_right_image}}
       <div class="uk-container">
         <div class="uk-child-width-expand@s uk-flex-middle" uk-grid>
-          <div class="uk-grid-item-match">
+          <div class="uk-grid-item-match uk-margin-top uk-margin-bottom">
             <h1 class="C01-hero__title mb3">{{- .banner_title -}}</h1>
             {{if .banner_description }}
               <p>{{- .banner_description -}}</p>
@@ -21,9 +21,11 @@
             </svg>
           </div>
           <div class="C01-hero__banner-right-container">
-              <img src="{{.banner_right_image}}" alt="">
-            </div>
-  </div>
+            {{- $path := resources.Get .banner_right_image -}} 
+            {{- $image := ($path.Fill "640x500 Center").RelPermalink }}
+            <img src="{{$image}}" alt="">
+          </div>
+        </div>
       </div>
     {{else}}
       <!-- if background image, show this template -->
