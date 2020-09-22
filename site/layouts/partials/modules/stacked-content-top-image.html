@@ -13,7 +13,12 @@
             <div class="uk-card uk-card-white">
                 {{if .Module.stacked_image}}
                 <div class="uk-card-media-top uk-margin-bottom">
-                    <img src="{{ .Module.stacked_image }}" alt="">
+                    <figure>
+                        <img src="{{ .Module.stacked_image }}" alt="">
+                        {{ if .Module.stacked_image_caption }}
+                            <figcaption>{{ .Module.stacked_image_caption }}</figcaption>
+                        {{ end }}
+                    </figure>
                 </div>
                 {{ end }}
                 <div class="uk-card-body">
