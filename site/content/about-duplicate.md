@@ -389,7 +389,7 @@ modules:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tincidunt, odio ac lacinia faucibus, orci elit finibus nisl, ut ullamcorper enim purus ut nisl.
         exec_board_name: Vicki Forbes
         exec_board_image: img/vicki-forbes.jpg
-        exec_board_title: Program Director, CMHAA
+        exec_board_title: Program Director, Corporate Mental Health Alliance Australia
         exec_board_quote: '"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           Quisque tincidunt, odio ac lacinia faucibus, orci elit finibus nisl,
           ut ullamcorper enim purus ut nisl."'
