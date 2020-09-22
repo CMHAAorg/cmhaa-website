@@ -113,6 +113,8 @@ Mental health is an issue that touches so many of us, whether directly or throug
 
 Australia spends over $9 billion each year on mental health, with psychological issues now the most common reason to visit your GP.
 
+![test](img/about-us.jpg "test")
+
 Driven by our purpose to build trust in society and solve important problems, PwC is committed to helping grow Australia’s mental wealth by:
 
 * *Starting conversations:* We all need to share our stories, voice our ideas and discuss ways that together we can grow our nation’s mental wealth.
