@@ -1,10 +1,10 @@
 ---
-title: Berkeley Cox, King Wood & Mallesons Australia
+title: Berkeley Cox, King & Wood Mallesons Australia
 meta_keywords: Berkeley Cox, KWM, King and Wood Mallesons, Mental Awareness,
   CMHAA, Mental Health, Corporate Mental Health Alliance, City Mental Health
   Alliance
 meta_description: This is a detailed description of the page.
-banner_title: Berkeley Cox, King Wood & Mallesons Australia
+banner_title: Berkeley Cox, King & Wood Mallesons Australia
 banner_description: ""
 banner_right_image: img/berkley-cox_port.jpg
 date: 2020-09-10T09:32:41.304Z
