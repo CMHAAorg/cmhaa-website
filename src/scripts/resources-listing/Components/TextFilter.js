@@ -1,6 +1,7 @@
 import React from "react";
 
 import prettifyName from "../Utils/prettyName";
+import focusInCurrentTarget from "../Utils/focusCurrent";
 
 class TextFilter extends React.Component {
   constructor(props) {
@@ -13,14 +14,17 @@ class TextFilter extends React.Component {
     };
 
     this._inputChange = this._inputChange.bind(this);
+    this._onFocus = this._onFocus.bind(this);
+    this._onBlur = this._onBlur.bind(this);
   }
 
-  _inputChange(e) {
-    const input = e.target.value;
+  _showOptions(input) {
     let availableOptions = [];
-    if (input.length > 2) {
+    if (input.length === "") {
+      availableOptions = this.state.categories;
+    } else {
       availableOptions = this.state.categories.filter((cat) => {
-        const pos = cat.name.toLowerCase().indexOf(input.toLowerCase());
+        const pos = cat.name.toLowerCase().indexOf(input.toLowerCase().trim());
 
         if (pos === -1) {
           return false;
@@ -29,6 +33,29 @@ class TextFilter extends React.Component {
         return true;
       });
     }
+
+    return availableOptions;
+  }
+
+  _onFocus() {
+    const availableOptions = this._showOptions("");
+
+    this.setState({
+      searchFiltered: availableOptions,
+    });
+  }
+
+  _onBlur(e) {
+    if (!focusInCurrentTarget(e)) {
+      this.setState({
+        searchFiltered: [],
+      });
+    }
+  }
+
+  _inputChange(e) {
+    const input = e.target.value;
+    const availableOptions = this._showOptions(input);
 
     this.setState({
       searchText: input,
@@ -47,15 +74,17 @@ class TextFilter extends React.Component {
   render() {
     const title = prettifyName(this.props.name);
 
-    const textComplete = this.state.searchFiltered.map((el, i) => {
-      return (
-        <li key={i}>
-          <button onClick={() => this._addFilter(el)} disabled={!el.enabled}>
-            {el.name}
-          </button>
-        </li>
-      );
-    });
+    const textComplete = this.state.searchFiltered
+      .filter((el) => el.active !== true)
+      .map((el, i) => {
+        return (
+          <li key={i}>
+            <button onClick={() => this._addFilter(el)} disabled={!el.enabled}>
+              {el.name}
+            </button>
+          </li>
+        );
+      });
 
     const activeElements = this.state.categories
       .filter((el) => el.active === true)
@@ -76,8 +105,8 @@ class TextFilter extends React.Component {
     return (
       <div className="filter">
         <h3>{title}</h3>
-        <div className="text-filter__wrap">
-          <input type="text" value={this.state.searchText} onChange={this._inputChange} placeholder="Type to search" />
+        <div className="text-filter__wrap" onBlur={this._onBlur}>
+          <input type="text" value={this.state.searchText} onChange={this._inputChange} onFocus={this._onFocus} placeholder="Type to search" />
           <ul className="text-filter__autocomplete">{textComplete}</ul>
         </div>
         <ul className="text-filter__selected">{activeElements}</ul>
