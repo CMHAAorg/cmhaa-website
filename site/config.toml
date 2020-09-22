@@ -38,9 +38,9 @@ pages = "/:slug/"
 
 [menu]
   [[menu.main]]
-    identifier = "about-us"
-    name = "About us"
-    url = "/about-us/"
+    identifier = "about"
+    name = "About"
+    url = "/about/"
     weight = 1
 
   [[menu.main]]

@@ -1,5 +1,5 @@
 ---
-page_title: About us
+page_title: About
 title: About
 meta_keywords: Mental Awareness, Mental Health, CMHAA, About, Corporate Mental
   Health Alliance, City Mental Health Alliance
