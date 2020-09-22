@@ -61,9 +61,9 @@ class Listing extends React.Component {
           </div>
           {showButton ? (
             <div className="uk-text-center uk-margin-large-top uk-margin-large-bottom">
-              <button class="btn-show-more" onClick={this.props.pageUpdate}>
+              <button className="btn-show-more" onClick={this.props.pageUpdate}>
                 <svg
-                  class="C14-friends-cmhaa__button-shown"
+                  className="C14-friends-cmhaa__button-shown"
                   width="154"
                   height="30"
                   viewBox="0 0 154 30"
@@ -83,21 +83,18 @@ class Listing extends React.Component {
                     fill="black"
                   />
                   <path
-                    fill-rule="evenodd"
-                    clip-rule="evenodd"
+                    fillRule="evenodd"
+                    clipRule="evenodd"
                     d="M15.6559 4.375C16.0011 4.375 16.2809 4.65482 16.2809 5V23.75H15.0309V5C15.0309 4.65482 15.3108 4.375 15.6559 4.375Z"
                     fill="black"
                   />
                   <path
                     d="M15.625 25.1253L14.7494 24.2497L23.9431 15.056C24.1849 14.8142 24.5769 14.8142 24.8187 15.056C25.0604 15.2978 25.0604 15.6898 24.8187 15.9316L15.625 25.1253ZM15.625 25.1253L16.5006 24.2497L7.30693 15.056C7.06514 14.8142 6.67313 14.8142 6.43134 15.056C6.18955 15.2978 6.18955 15.6898 6.43134 15.9316L15.625 25.1253ZM16.2809 5C16.2809 4.65482 16.0011 4.375 15.6559 4.375C15.3108 4.375 15.0309 4.65482 15.0309 5V23.75H16.2809V5Z"
                     stroke="black"
-                    stroke-width="0.5"
+                    strokeWidth="0.5"
                   />
                 </svg>
               </button>
-              {/* <button  className="resource-listing__show-more">
-                Show More
-              </button> */}
             </div>
           ) : (
             ""

@@ -11,7 +11,7 @@
       > a {
         &:before,
         &:after {
-          width: 100%;
+          width: calc(100% - 30px);
           opacity: 1;
         }
       }
@@ -69,17 +69,6 @@
   .uk-navbar-white & {
     background: white;
 
-    .uk-navbar-nav > li {
-      &.active {
-        > a {
-          &:before,
-          &:after {
-            width: 100%;
-            opacity: 1;
-          }
-        }
-      }
-    }
     .uk-navbar-nav > li > a,
     a {
       color: $global-black;

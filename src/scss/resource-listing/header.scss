@@ -14,55 +14,52 @@
     padding: 9px 12px 9px 12px;
   }
 
-  .order-toggle {
-    position: relative;
-
-    button {
+  .Dropdown {
+    &-arrow {
+      width: 20px;
+      height: 20px;
       border: none;
-      background: transparent;
-      color: #000;
-      font-weight: 500;
-      font-size: 16px;
-      padding: 10px;
+      background-image: url('/img/icons/up-chevron.svg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      transition: 200ms ease;
+      transform: rotate(-180deg);
+    }
 
-      img {
-        transition: 200ms ease;
-        margin-left: 10px;
+    &-control {
+      background-color: transparent;
+      border: none;
+
+      &:hover {
+        box-shadow: none;
       }
     }
 
-    > div {
-      position: absolute;
-      top: 100%;
-      right: 0;
-      background: #595B5F;
-      opacity: 0;
-      pointer-events: none;
-      transition: 200ms ease;      
+    &-menu {
+      background: #595b5f;
+      border-radius: 3px;
+    }
 
-      button {
+    &-option {
+      background: #595b5f;
+      color: #fff;
+
+      &.is-selected {
         color: #fff;
-        width: 100%;
-
-        &:hover {
-          background-color: #3a3b3e;
-        }
+        background-color: #595b5f;
       }
 
+      &:hover {
+        color: #fff;
+        background-color: #3a3b3e;
+      }
     }
+  }
 
-    &.open {
-      > button {
-        img {
-          transform: rotate(180deg);
-        }
-      }
-
-      > div {
-        opacity: 1;
-        pointer-events: auto;
-        z-index: 100;
-      }
+  .is-open .Dropdown {
+    &-arrow {
+      transform: rotate(0deg);
     }
   }
 }
