@@ -1,0 +1,16 @@
+<div class="C25-want-know-more uk-container uk-background-muted uk-container-xsmall uk-margin-large-bottom ">
+    <div class="uk-text-left uk-padding-small">
+        {{if .Module.article_title}}
+        <h3 class="uk-margin-small-top">{{.Module.article_title}}</h3>
+        {{end}}
+        {{if .Module.article_description}}
+        <p>{{.Module.article_description}}</p>
+        {{end}}
+        {{if .Module.article_description}}
+        <h4 class="uk-margin-remove-bottom">{{.Module.article_fullname}}</h4>
+        {{end}}
+        {{if .Module.article_email}}
+        <a href="mailto:{{.Module.article_email}}" class="uk-link-heading" style="font-size: 16px;">{{.Module.article_email}}</a>
+        {{end}}
+    </div>
+</div>

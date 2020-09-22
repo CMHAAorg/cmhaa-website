@@ -559,6 +559,15 @@ collections: # A list of collections the CMS should be able to edit
             widget: object
             fields:
               - { label: Heading, name: heading, widget: string, required: false }
+          - label: "C25: Want to know more"
+            name: "want_know_more"
+            widget: "list"
+            allow_add: false
+            fields:
+              - { label: Title, name: article_title, widget: text, required: true, default: "Want to know more?" }
+              - { label: Description, name: article_description, widget: text, required: false, default: "Get in with our team and we can run you through the success of this bespoke program." }
+              - { label: Full Name, name: article_fullname, widget: string, required: false }
+              - { label: Email Address, name: article_email, widget: string, required: false }
 
   - name: "pages"
     label: "Pages"
@@ -799,6 +808,15 @@ collections: # A list of collections the CMS should be able to edit
             widget: object
             fields:
               - { label: Heading, name: heading, widget: string, required: false }
+          - label: "C25: Want to know more"
+            name: "want_know_more"
+            widget: "list"
+            allow_add: false
+            fields:
+              - { label: Title, name: article_title, widget: text, required: true, default: "Want to know more?" }
+              - { label: Description, name: article_description, widget: text, required: false, default: "Get in with our team and we can run you through the success of this bespoke program." }
+              - { label: Full Name, name: article_fullname, widget: string, required: false }
+              - { label: Email Address, name: article_email, widget: string, required: false }
 
   - name: "settings"
     label: "Global Settings"
@@ -849,15 +867,6 @@ collections: # A list of collections the CMS should be able to edit
           - { label: OG Type, name: seo_og_type, widget: string, required: false }
           - { label: OG Description, name: seo_og_description, widget: string, required: false }
           - { label: OG Twitter, name: seo_og_twitter, widget: string, required: false }
-      - label: "Article Settings"
-        name: "article"
-        widget: "list"
-        allow_add: false
-        fields:
-          - { label: Title, name: article_title, widget: string, required: false }
-          - { label: Description, name: article_description, widget: string, required: false }
-          - { label: Full Name, name: article_fullname, widget: string, required: false }
-          - { label: Email Address, name: article_email, widget: string, required: false }
       - label: "Resources Settings"
         name: "resources"
         widget: "list"
