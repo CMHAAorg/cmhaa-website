@@ -14,4 +14,10 @@
       font-size: 17px;
     }
   }
+
+  @media (min-width: $breakpoint-large) {
+    .uk-card-body {
+      padding-right: 0;
+    }
+  }
 }

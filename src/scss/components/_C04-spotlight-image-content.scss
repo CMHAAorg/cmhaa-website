@@ -12,6 +12,18 @@
     margin-top: 0;
   }
 
+  @media(min-width: $breakpoint-medium) {
+    .uk-card-body {
+      padding: 40px;
+    }
+  }
+
+  @media(min-width: $breakpoint-large) {
+    &__text {
+      padding-left: 40px;
+    }
+  }
+
   &__svg {
     padding-bottom: 10px;
 
