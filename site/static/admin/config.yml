@@ -28,7 +28,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "category"
         widget: "select"
         options: [
-          "News & Blogs",
+          "News & Views",
           "Personal stories",
           "Case studies",
           "Fact sheets",
