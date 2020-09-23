@@ -18,7 +18,7 @@ modules:
   - type: feature_resource
     resource: Steven Worrall, Microsoft Australia
   - type: rich-text
-    richtext_top: true
+    richtext_top: false
     richtext: >-
       **Speaking up**
 
