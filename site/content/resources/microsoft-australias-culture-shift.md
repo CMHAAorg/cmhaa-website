@@ -53,7 +53,7 @@ Those lessons have informed our approach today. When we first started, we focuse
 
 **The COVID challenge**
 
-Looking forward, we are thinking deeply about howwe continue to create a culture of profound care and empathy, whilst also running a very high performing organisation that has big ambitions. 
+Looking forward, we are thinking deeply about how we continue to create a culture of profound care and empathy, whilst also running a very high performing organisation that has big ambitions. 
 
 Caring for our people and driving business outcomes are not mutually exclusive but at times, in the current environment, it can feel conflicted. For example, what do performance coaching conversations look like when we know someone is not at their optimum?
 
