@@ -60,7 +60,7 @@ modules:
       for our people.
     type: pillar-content-cards
     card_title_1: Provide safe settings
-    card_title_2: Empower leaders
+    card_title_2: Empower our leaders
     card_title_3: Drive lasting change
     card_image_1: img/istockphoto-1049086992-1024x1024_provide-safe-settings.jpg
     card_image_2: img/istockphoto-654774714-2048x2048-about.jpg
