@@ -42,7 +42,7 @@ article:
     article_email: functionallead@emailaddress.com
 resources:
   - resources_title: Resources
-    resources_banner_title: Sharing our resources openly for the benefit of all.
+    resources_banner_title: Sharing openly for the benefit of all.
     resources_banner_image: img/istockphoto-945738094-2048x2048-resources-banner.jpg
     resources_meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
     resources_meta_description: This is a detailed description of the page.
