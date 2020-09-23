@@ -332,6 +332,13 @@ collections: # A list of collections the CMS should be able to edit
             widget: object
             fields:
               - { label: Vimeo ID, name: vimeo, widget: string, required: false, default: "76979871" }
+          - label: "C27: Vimeo with Quote"
+            name: "vimeo_with_quote"
+            widget: object
+            fields:
+              - { label: Vimeo ID, name: vimeo_quote_id, widget: string, required: false, default: "76979871" }
+              - { label: Quote Text, name: vimeo_quote_text, widget: markdown }
+              - { label: Quote Author, name: vimeo_quote_author, widget: string }
 
   - name: "pages"
     label: "Pages"
@@ -587,6 +594,13 @@ collections: # A list of collections the CMS should be able to edit
             widget: object
             fields:
               - { label: Vimeo ID, name: vimeo, widget: string, required: false, default: "76979871" }
+          - label: "C27: Vimeo with Quote"
+            name: "vimeo_with_quote"
+            widget: object
+            fields:
+              - { label: Vimeo ID, name: vimeo_quote_id, widget: string, required: false, default: "76979871" }
+              - { label: Quote Text, name: vimeo_quote_text, widget: markdown }
+              - { label: Quote Author, name: vimeo_quote_author, widget: string }
 
   - name: "settings"
     label: "Global Settings"
