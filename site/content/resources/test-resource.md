@@ -2,6 +2,7 @@
 title: Test Resource
 meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
 meta_description: This is a detailed description of the page.
+banner_title: banner title
 date: 2020-09-23T02:56:23.084Z
 description: Intro blurb
 category: Case studies
