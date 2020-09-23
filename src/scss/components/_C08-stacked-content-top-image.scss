@@ -1,4 +1,6 @@
 .C08-stacked-content-top-image {
+  @include svgLine();
+
   figure {
     position: relative;
 
