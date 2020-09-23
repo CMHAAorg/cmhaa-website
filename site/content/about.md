@@ -368,6 +368,11 @@ modules:
           the genuine life I wanted to live. I added things outside of work that
           gave me joy and fulfilment. Mental health is now a crucial element in
           my whole being. "
+      - our_board_name: TEST IMAGE RESIZE
+        our_board_image: img/_f9a0241-2.jpg
+        our_board_title: SAM BRUNNO, DEV
+        our_board_quote: I like quotes
+        our_board_description: all around good guy and dev
     our_board_title: Our board
     our_board_exec_name: Vicki Forbes
     our_board_description: CMHAA is governed by a Board comprised of leaders from
