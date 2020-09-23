@@ -122,7 +122,7 @@ modules:
           role at Microsoft.
         feat_member_link: resources/steven-worrall-microsoft-australia/
         feat_member_cta: READ STEVEN'S STORY
-      - feat_member_image: img/melinda-upton.jpg
+      - feat_member_image: img/internet_5y6a0050-edit.jpg
         feat_member_description: I’ve seen first-hand the damage and pain that poor
           mental health can cause. One story about a colleague, in particular,
           fuels my drive to make a difference.
