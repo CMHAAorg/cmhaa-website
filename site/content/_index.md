@@ -32,7 +32,7 @@ modules:
     stat_type_3: "%"
     type: statistics
   - type: spotlight_image_content
-    image: img/ourvision.jpg
+    image: img/istockphoto-629667248-2048x2048-vision.jpg
     title1: Our vision
     content1: Our vision is for every Australian workplace to be mentally healthy,
       where businesses encourage people's mental wellness, and conversations
@@ -42,9 +42,10 @@ modules:
       respond and adapt to this rapidly evolving and growing challenge by
       providing practical, evidence-based guidance and insights.
   - type: quote
-    quote_text: As a community, we know Australian business can do better, and that
-      doing better begins with business leaders prioritising mental health in
-      ways that are experienced by all of their employees.
+    quote_text: One of the great outcomes of the Alliance so far is that we’re
+      opening up a little more frequently and maybe more easily, and just
+      acknowledging the reality of the moment we’re all facing. We have to build
+      on that as we look to the future.
     quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
   - card_image_3: img/istockphoto-187896492-1024x1024_drive-lasting-change.jpg
     card_description_2: We share our knowledge and resources to support business
