@@ -110,7 +110,7 @@ modules:
     stacked_title: Join us
     stacked_cta_link: /contact-us/
     stacked_cta_text: Enquire about membership
-    stacked_image_caption: test image caption
+    stacked_image_caption: This is a caption
   - type: feature-member-stories
     feat_member_intro: Why does mental health matter? Read our members' stories and find out.
     feat_member:
@@ -141,6 +141,16 @@ modules:
       support and create mentally healthy workplaces for their people.
       Together,  they are leading a movement for positive change across
       Australia, and the world, as a part of the CMHA Global network.
+  - type: callout-image-text-cta
+    callout_image: img/istockphoto-842866300-1024x1024_membership.jpg
+    callout_title: Interested in joing us?
+    callout_cta_link: /contact-us/
+    callout_description: Our members are united by a commitment to share openly and
+      work collaboratively, so that better, more sustainable mental health
+      outcomes can be achieved for more people. Join our global community of
+      business leaders, experts and influencers, and be part of the movement fo
+      positive change in the workplace mental health.
+    callout_cta_text: ENQUIRE ABOUT MEMBERSHIP
 slug: homepage
 banner_cta_link: https://vimeo.com/457647049
 banner_cta_text: SEE WHO'S INVOLVED
