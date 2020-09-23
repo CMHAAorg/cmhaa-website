@@ -9,5 +9,10 @@ focus: Assessing organisational approach
 role: Senior manager
 organisation_size: Micro (<10 employees)
 industry: Defence
+modules:
+  - type: vimeo_with_quote
+    vimeo_quote_id: "76979871"
+    vimeo_quote_text: asdfasdfasdf
+    vimeo_quote_author: test author
 ---
 test
