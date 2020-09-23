@@ -159,7 +159,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: object
             fields:
               - { label: Stacked Image, name: stacked_image, widget: image }
-              - { label: Stacked Image Caption, name: stacked_image_caption, widget: string  }
+              - { label: Stacked Image Caption, name: stacked_image_caption, widget: string, required: false  }
               - { label: Stacked Title, name: stacked_title, widget: string, required: true }
               - { label: Stacked Description, name: stacked_description, widget: markdown, required: true }
               - { label: Stacked CTA Link, name: stacked_cta_link, widget: string }
@@ -408,7 +408,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: object
             fields:
               - { label: Stacked Image, name: stacked_image, widget: image }
-              - { label: Stacked Image Caption, name: stacked_image_caption, widget: string  }
+              - { label: Stacked Image Caption, name: stacked_image_caption, widget: string, required: false  }
               - { label: Stacked Title, name: stacked_title, widget: string, required: true }
               - { label: Stacked Description, name: stacked_description, widget: markdown, required: true }
               - { label: Stacked CTA Link, name: stacked_cta_link, widget: string }
