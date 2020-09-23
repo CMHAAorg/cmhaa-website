@@ -2,7 +2,12 @@
     <div class="uk-card uk-card-default uk-card-body uk-card-no-box-shadow">
         <div class="uk-child-width-1-1@s uk-child-width-1-2@l uk-text-left uk-flex uk-flex-middle" uk-grid>
             <div>
-                <img src="{{ .Module.image }}" alt="image for {{ .Module.title1 }} and {{ .Module.title2 }}">
+                <div class="uk-cover-container">
+                    <canvas width="515" height="515"></canvas>
+                    {{- $path := resources.Get .Module.image -}}
+                    {{- $image := ($path.Fill "515x515").RelPermalink }}
+                    <img src="{{ $image }}" alt="image for {{ .Module.title1 }} and {{ .Module.title2 }}" uk-cover>
+                </div>
             </div>
             <div>
                 {{if .Module.title1}}
