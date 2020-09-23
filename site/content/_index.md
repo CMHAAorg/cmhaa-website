@@ -110,6 +110,7 @@ modules:
     stacked_title: Join us
     stacked_cta_link: /contact-us/
     stacked_cta_text: Enquire about membership
+    stacked_image_caption: test image caption
   - type: feature-member-stories
     feat_member_intro: Why does mental health matter? Read our members' stories and find out.
     feat_member:
