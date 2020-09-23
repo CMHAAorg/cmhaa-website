@@ -1,6 +1,7 @@
 .C13-our-board {
   @include componentSpacingCompile();
   @include svgLine();
+  padding-top: 40px;
 
   &__count {
     padding-top: 64px;
@@ -149,6 +150,26 @@
     @media (min-width: $breakpoint-medium) {
       padding: 10px 30px;
     }
+
+    .uk-close.uk-icon {
+      top: 20px;
+      right: 20px;
+      
+      svg {
+        width: 20px;
+        height: 20px;
+
+        line {
+          stroke: black;
+        }
+      }
+
+      &:hover {
+        line {
+          opacity: 0.8;
+        }
+      }
+    }
   }
 
   .uk-modal-footer,
@@ -160,6 +181,37 @@
   }
   .uk-modal-footer {
     padding-bottom: 40px;
+
+    .uk-button {
+      display: flex;
+      align-items: center;
+
+      .uk-icon {
+        svg {
+          width: 25px;
+          height: 25px;
+
+          polyline {
+            stroke-width: 1.5;
+          }
+        }
+
+      }
+
+      > p {
+        display: flex;
+        padding-left: 5px;
+        padding-right: 5px;
+        flex-direction: column;
+        font-weight: 500;
+        margin: 0;
+
+        span {
+          font-size: 16px;
+          font-weight: 300;
+        }
+      }
+    }
   }
   .uk-modal-body {
     .uk-icon-button {
