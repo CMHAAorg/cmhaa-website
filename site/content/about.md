@@ -7,6 +7,8 @@ meta_description: Business-led. Expert-guided.
 banner_title: Business-led, expert-guided.
 banner_image: img/istockphoto-654774714-2048x2048-about.jpg
 modules:
+  - type: vimeo
+    vimeo: "76979871"
   - type: split_title_content
     leadtext: The Corporate Mental Health Alliance Australia (CMHAA) is a
       business-led, expert-guided non-profit organisation dedicated to
