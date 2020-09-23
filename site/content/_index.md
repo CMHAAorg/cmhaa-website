@@ -113,7 +113,7 @@ modules:
     stacked_image_caption: This is a caption
   - type: callout-image-text-cta
     callout_image: img/istockphoto-842866300-1024x1024_membership.jpg
-    callout_title: Interested in joing us?
+    callout_title: Interested in joining us?
     callout_cta_link: /contact-us/
     callout_description: >-
       Our members are united by a commitment to share openly and work
