@@ -4,6 +4,12 @@
     top: -2px;
   }
 
+  @media (min-width: $breakpoint-medium) {
+    .uk-button {
+      margin-top: 20px;
+    }
+  }
+
   &.isHome {
     .uk-background-cover {
       padding-top: 280px;
