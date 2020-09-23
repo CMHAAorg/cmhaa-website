@@ -62,7 +62,7 @@ modules:
     card_title_2: Empower leaders
     card_title_3: Drive lasting change
     card_image_1: img/istockphoto-1049086992-1024x1024_provide-safe-settings.jpg
-    card_image_2: img/istockphoto-842864960-1024x1024_empower-leaders.jpg
+    card_image_2: img/istockphoto-654774714-2048x2048-about.jpg
     card_description_1: We help businesses create an environment where everyone
       feels safe to talk about their mental health at work, including leaders at
       all levels.
@@ -103,7 +103,7 @@ modules:
       - our_member_image: img/woolworths-group_rgb_positive_logo.png
         our_member_link: https://www.woolworthsgroup.com.au/
   - type: stacked-content-top-image
-    stacked_image: img/istockphoto-654774714-2048x2048-about.jpg
+    stacked_image: img/istockphoto-1172976280-2048x2048-join-our-community.jpg
     stacked_description: Join our global community of business leaders, experts and
       partner organisations, and be a part of the movement for positive change
       in workplace mental health.
