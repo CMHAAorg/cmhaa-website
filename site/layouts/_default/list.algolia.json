@@ -8,9 +8,9 @@
       {{- $post_date_timestamp := mul 1000 (time .Params.date).Unix -}}
       {{- $category_tag := .Params.category | urlize -}}
       {{- $banner_image := "" -}}
-      {{- if isset .Params "banner_image" -}}
+      {{- if .Params.banner_image -}}
         {{- $banner_image = .Params.banner_image -}}
-      {{- else -}}
+      {{- else if .Params.banner_right_image -}}
         {{- $banner_image = .Params.banner_right_image -}}
       {{- end -}}
       {{- with $banner_image }}
