@@ -12,15 +12,9 @@ modules:
     contact_lead: Please let us know how we may assist you.
     contact_description: Please complete the form below with your details and
       outline the nature of your enquiry.
+  - type: separator-line
+    padding_top: true
+    padding_bottom: true
   - type: recommended_resources
     heading: ""
-  - type: C29_form
-    form_id: cmhaa-1
-    form_title: This is a form
-    components:
-      - type: FC01_email
-        email_id: emai_address
-        email_label: Email Address
-        email_required: true
-        email_error_message: Sorry email is needed
 ---
