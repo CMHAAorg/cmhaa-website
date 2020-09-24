@@ -54,7 +54,7 @@ class Form extends Component {
             if (!valid) {
               return false;
             }
-            return true;
+            elm.submit();
           });
         }
       });
