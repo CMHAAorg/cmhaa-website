@@ -14,4 +14,13 @@ modules:
       outline the nature of your enquiry.
   - type: recommended_resources
     heading: ""
+  - type: C29_form
+    form_id: cmhaa-1
+    form_title: This is a form
+    components:
+      - type: FC01_email
+        email_id: emai_address
+        email_label: Email Address
+        email_required: true
+        email_error_message: Sorry email is needed
 ---
