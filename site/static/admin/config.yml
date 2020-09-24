@@ -601,6 +601,12 @@ collections: # A list of collections the CMS should be able to edit
               - { label: Vimeo ID, name: vimeo_quote_id, widget: string, required: false, default: "76979871" }
               - { label: Quote Text, name: vimeo_quote_text, widget: markdown }
               - { label: Quote Author, name: vimeo_quote_author, widget: string }
+          - label: "C28: Separator Line"
+            name: "separator-line"
+            widget: object
+            fields:
+              - { label: Padding Top, name: padding_top, widget: boolean, required: false, default: true }
+              - { label: Padding Bottom, name: padding_bottom, widget: boolean, required: false, default: true }
 
   - name: "settings"
     label: "Global Settings"

@@ -1,0 +1,43 @@
+.C28-separator-line {
+
+  &.uk-padding-top {
+    padding-top: 60px;
+
+    @media (max-width: $breakpoint-medium) {
+      padding-top: 40px;
+    }
+
+    @media (max-width: $breakpoint-small) {
+      padding-top: 20px;
+    }
+  }
+
+  &.uk-padding-bottom {
+    padding-bottom: 60px;
+
+    @media (max-width: $breakpoint-medium) {
+      padding-bottom: 40px;
+    }
+
+    @media (max-width: $breakpoint-small) {
+      padding-bottom: 20px;
+    }
+  }
+
+  &__svg {
+    width: 100%;
+
+    @media (max-width: $breakpoint-small) {
+      display: none;
+    }
+
+    &-mobile {
+      display: none;
+
+      @media (max-width: $breakpoint-small) {
+        width: 100%;
+        display: block;
+      }
+    }
+  }
+}
