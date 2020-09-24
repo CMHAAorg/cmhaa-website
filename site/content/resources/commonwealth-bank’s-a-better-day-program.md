@@ -29,8 +29,6 @@ modules:
       that we have to assist meet our wellbeing needs. How lucky are we to work
       for a company that provides us with these wonderful tools!!”*"
     quote_author: CBA employee
-  - type: youtube
-    youtube: https://vimeo.com/427549655/8a3fad9cae
   - type: vimeo
     vimeo: 427549655/8a3fad9cae
   - type: split_title_content_background
