@@ -30,7 +30,7 @@ modules:
       for a company that provides us with these wonderful tools!!”*"
     quote_author: CBA employee
   - type: vimeo
-    vimeo: 427549655/8a3fad9cae
+    vimeo: "427549655"
   - type: split_title_content_background
     disable_leftright: true
     content: >-
