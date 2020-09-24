@@ -1,0 +1,51 @@
+<div class="uk-container C29-form">
+  <div class="uk-text-left" uk-grid>
+    <div class="uk-width-1-1@s uk-width-1-4@l">
+      <h3>{{ .Module.form_title }}</h3>
+    </div>
+    <div class="uk-width-1-1@s uk-width-3-4@l">
+      <div uk-grid>
+        <div class="uk-width-1-1@s uk-width-1-1@m uk-width-3-4@l">
+          {{if .Module.form_lead }}
+            <p class="uk-text-lead">{{ .Module.form_lead }}</p>
+          {{ end }}
+          {{if .Module.form_description }}
+            {{- .Module.form_description | markdownify -}}
+          {{ end }}
+
+          <div id="result"></div>
+          <form data-id="C29" id="{{ .Module.form_id }}" name="{{ .Module.form_id }}" class="uk-form" method="POST" data-netlify="true" novalidate>
+          <input type="hidden" name="form-name" value="contact" />
+          <p hidden class="uk-invisible">
+            <label>Don’t fill this out if you're human: <input name="bot-field"></label>
+          </p>
+            <!-- loop over components added to the form and generate appropriate html -->
+            {{ range $components := .Module.components }}
+              {{ if .email_label}}
+                {{ partial "form_components/FC01_email.html"  .}}
+              {{ else if .text_input_label }}
+                {{ partial "form_components/FC02_text_input.html" .}}
+              {{ else if .text_area_label }}
+                {{ partial "form_components/FC03_text_area.html" .}}
+              {{ else if .radio_buttons_label }}
+                {{ partial "form_components/FC04_radio_buttons.html" .}}
+              {{ else if .checkbox_label}}
+                {{ partial "form_components/FC05_checkbox.html" .}}
+              {{ else if .select_label}}
+                {{ partial "form_components/FC06_select.html" .}}
+              {{ else if .date_picker_label}}
+                {{ partial "form_components/FC07_date_picker.html" .}}
+              {{ else if .file_upload_label}}
+                {{ partial "form_components/FC08_file_upload.html" .}}
+              {{else}}
+              {{ end }}
+            {{ end}}
+          <p>
+            <button type="submit" class="uk-button uk-button-secondary">SUBMIT</button>
+          </p>
+        </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

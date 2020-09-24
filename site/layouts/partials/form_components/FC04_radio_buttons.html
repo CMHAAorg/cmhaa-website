@@ -1,0 +1,11 @@
+<div data-id="FC04" class="uk-margin">
+    <label class="uk-form-label">{{ .radio_buttons_label }} {{if eq .radio_buttons_required true }}<span class="uk-text-danger">*</span>{{ end }}</label>
+    <div id="{{ .radio_buttons_id}}" class="uk-form-controls">
+        {{ range $options := .radio_options }}
+        <label><input class="uk-radio" type="radio" name="{{ $.radio_buttons_id }}" {{if eq $.radio_buttons_required true}}required{{ end }}
+                      data-pristine-required-message="{{ $.radio_button_error_message }}">
+            {{ $options.option_text }}
+        </label>
+        {{ end }}
+    </div>
+</div>

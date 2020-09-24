@@ -22,5 +22,5 @@ export * from "./components/C02-StickyHeader";
 export * from "./components/C05-Statistics";
 export * from "./components/C09-Members";
 export * from "./components/C14-Friends";
-export * from "./components/C16-ContactForm";
 export * from "./components/C21-Share";
+export * from "./components/C29-Form";

@@ -1,0 +1,11 @@
+<div data-id="FC06" class="uk-margin">
+    <label class="uk-form-label">{{ .select_label }} {{if eq .select_required true }}<span class="uk-text-danger">*</span>{{ end }}</label>
+    <div class="uk-form-controls">
+        <select id="{{ .select_id }}" name="{{ .select_id }}" class="uk-select" {{if eq .select_required true}}required{{ end }} data-pristine-required-message="{{ .select_error_message }}">
+            <option value="">Please Select</option>
+            {{ range $options := .select_options }}
+            <option id="{{ $options.option_id }}"  name="{{ $options.option_id }}" value="{{ $options.option_text}}"> {{ $options.option_text }}</option>
+            {{ end }}
+        </select>
+    </div>
+</div>

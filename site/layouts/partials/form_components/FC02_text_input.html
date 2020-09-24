@@ -1,0 +1,7 @@
+<div data-id="FC02" class="uk-margin">
+    <label class="uk-form-label">{{ .text_input_label}} {{if eq .text_input_required true }}<span class="uk-text-danger">*</span>{{ end }}</label>
+    <div class="uk-form-controls">
+        <input id="{{ .text_field_id }}" class="uk-input" type="text" name="{{ .text_field_id }}" {{if eq .text_input_required true}}required{{ end }} minlength="{{ .text_field_min_char }}"
+               maxlength="{{ .text_field_max_char }}" data-pristine-required-message="{{ .text_field_error_message }}">
+    </div>
+</div>

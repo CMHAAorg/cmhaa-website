@@ -1,0 +1,9 @@
+<div data-id="FC01" class="uk-margin">
+    <label class="uk-form-label">{{ .email_label }} {{ if eq .email_required true }}<span class="uk-text-danger">*</span>{{ end }}</label>
+    <div class="uk-form-controls">
+        <input id="{{ .email_id }}" class="uk-input" type="email" name="{{ .email_id }}" {{if eq .email_required true}}required{{ end }}
+         data-pristine-required-message="{{ .email_error_message }}">
+
+    </div>
+</div>
+

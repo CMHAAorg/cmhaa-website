@@ -1,0 +1,11 @@
+<div data-id="FC05" class="uk-margin">
+    <label class="uk-form-label">{{ .checkbox_label }} {{if eq .checkbox_required true }}<span class="uk-text-danger">*</span>{{ end }}</label>
+    <div id="{{ .checkbox_id }}" class="uk-form-controls">
+        {{ range $options := .checkbox_options }}
+        <label><input class="uk-checkbox" type="checkbox" name="{{ $.checkbox_id }}" {{if eq $.checkbox_required true}}required{{ end }}
+        {{ if $.checkbox_num_choices }}min=" {{ $.checkbox_num_choices }} "{{ end }} data-pristine-min-message=" {{ $.checkbox_num_choice_error }}"
+        data-pristine-required-message="{{ $.checkbox_error_message }}"> {{ $options.option_text }}</label>
+        {{ end }}
+        <span class="uk-text-danger"></span>
+    </div>
+</div>

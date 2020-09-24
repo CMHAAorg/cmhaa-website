@@ -1,0 +1,9 @@
+<div data-id="FC03" class="uk-margin">
+    <label class="uk-form-label">{{ .text_area_label }} {{if eq .text_area_required true }}<span class="uk-text-danger">*</span>{{ end }}</label>
+    <div class="uk-form-controls">
+        <textarea id="{{ .text_area_id }}" class="uk-textarea uk-height-small" name="{{ .text_area_id }}"
+                  {{if eq .text_area_required true}}required{{ end }}
+                  maxlength="{{ .text_area_max_char }}"
+                  data-pristine-required-message="{{ .text_area_error_message }}"></textarea>
+    </div>
+</div>

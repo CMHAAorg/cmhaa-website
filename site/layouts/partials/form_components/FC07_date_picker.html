@@ -1,0 +1,6 @@
+<div data-id="FC07" class="uk-margin">
+    <label class="uk-form-label">{{ .date_picker_label }} {{if eq .date_picker_required true }}<span class="uk-text-danger">*</span>{{ end }}</label>
+    <div class="uk-form-controls">
+        <input class="uk-input" id="{{ .date_picker_id}}" type="date" {{if eq .date_picker_required true}}required{{ end }} data-pristine-required-message="{{ .date_picker_error_message }}">
+    </div>
+</div>

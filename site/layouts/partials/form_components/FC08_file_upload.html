@@ -1,0 +1,11 @@
+<div data-id="FC08" class="uk-margin">
+    <label class="uk-form-label">{{ .file_upload_label }} {{if eq .file_upload_required true }}<span class="uk-text-danger">*</span>{{ end }}</label>
+    <div class="uk-form-controls">
+        <div class="uk-width-1-1@l" uk-form-custom="target: true">
+            <input class="uk-input" id="{{ .file_upload_id}}" type="file" {{if eq .file_upload_required true}}required{{ end }}
+                   data-pristine-required-message="{{ .file_upload_error_message }}" maxlength="{{ mul .max_file_size 1000000}}">
+            <input class="uk-input" type="text" placeholder="{{ .file_upload_placeholder }}" {{if eq .file_upload_required true}}required{{ end }}
+                   data-pristine-required-message="{{ .file_upload_error_message }}" disabled maxlength="{{ mul .max_file_size 1000000}}">
+        </div>
+    </div>
+</div>
