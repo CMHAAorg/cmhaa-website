@@ -1,11 +1,11 @@
-<div class="uk-container global-padding-tb uk-padding-remove-top uk-margin-bottom">
+<div class="C11-image uk-container global-padding-tb uk-padding-remove-top uk-margin-bottom">
     <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-1@s uk-margin uk-card-no-box-shadow" uk-grid>
-        <div class="uk-card-media-left uk-cover-container">
+        <figure class="uk-card-media-left uk-cover-container">
             <img src="{{ .Module.image }}" alt="image for {{ .Module.image }}" uk-cover>
             <canvas width="600" height="400"></canvas>
-        </div>
+            {{ if .Module.image_caption }}
+            <figcaption>{{- .Module.image_caption -}}</figcaption>
+            {{end}}
+        </figure>
     </div>
-    {{ if .Module.image_caption }}
-        <p class="uk-align-center uk-text-center">{{- .Module.image_caption -}}</p>
-    {{end}}
 </div>

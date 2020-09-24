@@ -1,0 +1,15 @@
+.C11-image {
+  figure {
+    position: relative;
+
+    figcaption {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      color: $global-white;
+      background: rgba($global-black, 0.8);
+      padding: 5px 15px;
+      font-size: 17px;
+    }
+  }
+}
