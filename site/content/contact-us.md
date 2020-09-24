@@ -13,28 +13,28 @@ modules:
   - type: C29_form
     form_id: cmhaa-contact
     form_title: Contact us
-    components:
-      - type: FC02_text_input_area
-        text_field_id: name
-        text_input_label: name
-        text_input_required: true
-        text_field_error_message: Please enter your name.
-        text_field_min_char: 2
-        text_field_max_char: 50
-      - type: FC01_email
-        email_id: emai_address
-        email_label: Email Address
-        email_required: true
-        email_error_message: Sorry email is needed
-      - type: FC03_text_area
-        text_area_id: comment
-        text_area_label: Comment
-        text_area_required: true
-        text_area_error_message: Please enter your comment.
-        text_area_max_char: 1000
     form_lead: Please let us know how we may assist you.
     form_description: Please complete the form below with your details and outline
       the nature of your enquiry.
+    components:
+      - type: FC02_text_input_area
+        text_field_id: name
+        text_input_label: Name
+        text_input_required: true
+        text_field_error_message: Your name is required.
+        text_field_min_char: 2
+        text_field_max_char: 100
+      - type: FC01_email
+        email_id: email
+        email_label: Email address
+        email_required: true
+        email_error_message: Your email address is required.
+      - type: FC03_text_area
+        text_area_id: comments
+        text_area_label: Comments
+        text_area_required: true
+        text_area_error_message: Your comments are required.
+        text_area_max_char: 1000
   - type: recommended_resources
     heading: ""
 ---
