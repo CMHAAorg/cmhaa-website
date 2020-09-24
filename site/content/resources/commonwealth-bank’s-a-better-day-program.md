@@ -31,6 +31,8 @@ modules:
     quote_author: CBA employee
   - type: youtube
     youtube: https://vimeo.com/427549655/8a3fad9cae
+  - type: vimeo
+    vimeo: 427549655/8a3fad9cae
   - type: split_title_content_background
     disable_leftright: true
     content: >-
