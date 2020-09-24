@@ -29,13 +29,12 @@ modules:
         email_label: Email address
         email_required: true
         email_error_message: Your email address is required.
-      - type: FC02_text_input_area
-        text_field_id: comments
-        text_input_label: Comments
-        text_input_required: true
-        text_field_error_message: Your comments are required
-        text_field_min_char: 2
-        text_field_max_char: 1001
+      - type: FC03_text_area
+        text_area_id: comments
+        text_area_label: Comments
+        text_area_required: true
+        text_area_error_message: Your comments are required.
+        text_area_max_char: 1000
   - type: recommended_resources
     heading: ""
 ---
