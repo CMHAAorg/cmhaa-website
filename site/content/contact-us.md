@@ -10,15 +10,15 @@ modules:
   - type: separator-line
     padding_top: true
     padding_bottom: true
-  - type: C29_form
+  - type: form
     form_id: cmhaa-contact
-    form_title: Contact us
     form_lead: Please let us know how we may assist you.
     form_description: Please complete the form below with your details and outline
       the nature of your enquiry.
+    form_title: Contact us
     components:
       - type: FC02_text_input_area
-        text_field_id: name
+        text_field_id: fullname
         text_input_label: Name
         text_input_required: true
         text_field_error_message: Your name is required.
@@ -28,7 +28,7 @@ modules:
         email_id: email
         email_label: Email address
         email_required: true
-        email_error_message: Your email address is required.
+        email_error_message: A valid email address is required.
       - type: FC03_text_area
         text_area_id: comments
         text_area_label: Comments
