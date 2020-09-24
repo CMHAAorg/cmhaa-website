@@ -30,7 +30,7 @@ modules:
         email_required: true
         email_error_message: A valid email address is required.
       - type: FC03_text_area
-        text_area_id: comments
+        text_area_id: message
         text_area_label: Comments
         text_area_required: true
         text_area_error_message: Your comments are required.
