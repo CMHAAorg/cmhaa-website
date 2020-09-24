@@ -22,6 +22,12 @@ modules:
     youtube_quote_author: Bruce Cooper, Chief Executive Partner, Clayton Utz
     youtube_quote_url: c2pz2mlSfXA
     youtube_quote_id: https://vimeo.com/457647049
+  - type: vimeo_with_quote
+    vimeo_quote_id: "457647049"
+    vimeo_quote_text: “Everyone has mental health in the same way that everyone has
+      physical health. It’s up to us as employers to create an environment where
+      everyone in the workplace feels comfortable.”
+    vimeo_quote_author: Bruce Cooper, Chief Executive Partner, Clayton Utz
   - type: split_title_content
     title: Our origins
     leadtext: In 2011, during an informal conversation, three senior business
@@ -451,6 +457,7 @@ modules:
       * Build a more diverse workforce – mental health is an inclusion issue
     cta_text: ENQUIRE
     cta_link: /link-to-page
+    disable_leftright: false
   - type: separator-line
     padding_top: true
     padding_bottom: true
