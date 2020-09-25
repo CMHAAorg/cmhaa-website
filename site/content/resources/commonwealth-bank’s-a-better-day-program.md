@@ -27,7 +27,7 @@ modules:
   - type: quote
     quote_text: "*Just completed my survey and it looks like another great tool that
       we have to assist meet our wellbeing needs. How lucky are we to work for a
-      company that provides us with these wonderful tools!!*"
+      company that provides us with these wonderful tools!*"
     quote_author: CBA employee
   - type: vimeo
     vimeo: "427549655"
