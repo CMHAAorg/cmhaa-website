@@ -60,13 +60,13 @@ modules:
 
       * Increased awareness of the importance of staying mentally fit by creating a sustainable, self-paced platform that allows employees the opportunity to invest in their own wellbeing as and when they need it.
 
-        A reduction in employee’s overall perceived levels of stress and an improvement in levels of wellbeing which can be captured through the *A Better Day* Program Questionnaire.
+      * A reduction in employee’s overall perceived levels of stress and an improvement in levels of wellbeing which can be captured through the *A Better Day* Program Questionnaire.
 
-        Employee advocacy and endorsement of the Program through direct feedback and engagement in internal networking platforms such as Yammer.
+      * Employee advocacy and endorsement of the Program through direct feedback and engagement in internal networking platforms such as Yammer.
 
-        Increased levels of employee engagement and productivity demonstrated through annual engagement surveys.
+      * Increased levels of employee engagement and productivity demonstrated through annual engagement surveys.
 
-        A reduction in Lost Time Injury Rates related to work-related psychological injury; and reduced unplanned absences and staff turnover.
+      * A reduction in Lost Time Injury Rates related to work-related psychological injury; and reduced unplanned absences and staff turnover.
   - type: image_gallery
     gallery:
       - gallery_image: img/a-better-day-screen-1.jpg
