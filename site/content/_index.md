@@ -9,9 +9,9 @@ modules:
     title: Who we are
     leadtext: We are an alliance of Australian businesses dedicated to providing
       mentally healthy workplaces for our people. We are business-led and
-      expert-guided. We share credible practice, insights and experience.
-      Together, we have the power to change people's experience of the workplace
-      for the better.
+      expert-guided. We share our insights and experience openly. Together, we
+      have the power to change people's experience of the workplace for the
+      better.
     content: ""
     image: ""
   - type: image
@@ -113,7 +113,7 @@ modules:
     stacked_title: Join us
     stacked_cta_link: /contact-us/
     stacked_cta_text: Enquire about membership
-    stacked_image_caption: This is a caption
+    stacked_image_caption: ""
   - type: feature-member-stories
     feat_member_intro: Why does mental health matter? Read our members' stories and find out.
     feat_member:
