@@ -9,14 +9,15 @@ modules:
     title: Who we are
     leadtext: We are an alliance of Australian businesses dedicated to providing
       mentally healthy workplaces for our people. We are business-led and
-      expert-guided. We share our data, insights and experience. Together, we
-      have the power to change people's experience of the workplace for the
-      better.
+      expert-guided. We share credible practice, insights and experience.
+      Together, we have the power to change people's experience of the workplace
+      for the better.
     content: ""
     image: ""
   - type: image
     image: img/liz-liam-nicole-crop.png
-    image_caption: Corporate Mental Health Alliance Australia Strategy Day, January 2020.
+    image_caption: Corporate Mental Health Alliance Australia Strategy Day
+      facilitated by PwC's Impact Assembly, January 2020.
   - stat_number_1: 3
     stat_number_2: 12.8
     stat_number_3: 70
