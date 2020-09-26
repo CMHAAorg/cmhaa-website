@@ -1,9 +1,9 @@
 ---
-title: Contact us
+title: Contact
 meta_keywords: Contact Us, Mental Awareness, CMHAA, Corporate Mental Health
   Alliance, City Mental Health Alliance, Mental Health
 meta_description: Business-led. Expert-guided.
-banner_title: We'd love to hear from you.
+banner_title: "Don't "
 banner_description: ""
 banner_image: ""
 banner_right_image: img/screen-shot-2020-09-26-at-4.27.54-pm.png
