@@ -101,10 +101,9 @@ modules:
       - our_member_image: img/woolworths-group_rgb_positive_logo.png
         our_member_link: https://www.woolworthsgroup.com.au/
   - type: quote
-    quote_text: Through the Corporate Mental Health Alliance Australia, we’re aiming
-      to start a movement that leads to all employees going to work feeling
-      genuinely cared for, knowing there is support for them in their personal
-      life as well as their work life.
+    quote_text: We want to start a movement that leads to all employees going to
+      work feeling genuinely cared for, knowing there is support for them in
+      their personal life as well as their work life.
     quote_author: Kristin Stubbins, Partner, PwC Australia
   - type: stacked-content-top-image
     stacked_image: img/istockphoto-1172976280-2048x2048-join-our-community.jpg
