@@ -4,12 +4,12 @@ title: About
 meta_keywords: Mental Awareness, Mental Health, CMHAA, About, Corporate Mental
   Health Alliance, City Mental Health Alliance
 meta_description: Business-led. Expert-guided.
-banner_title: Business-led, expert-guided.
+banner_title: Business-led, expert-guided, human-centred.
 banner_image: img/screen-shot-2020-09-26-at-4.51.27-pm.png
 modules:
   - type: split_title_content
     leadtext: The Corporate Mental Health Alliance Australia (CMHAA) is a
-      business-led, expert-guided non-profit organisation dedicated to
+      business-led, expert-guided membership organisation dedicated to
       transforming workplaces into mentally healthy environments for their
       people. Together, we are leading a movement for positive change across the
       Australian business community.
@@ -378,17 +378,17 @@ modules:
           Vicki joined the Alliance as Program Director in May 2020.
 
 
-          Vicki has more than 25 years' experience in strategic communications, and has worked with, and consulted to, a range of organisations in the mental health sector and beyond, including ReachOut Australia; the Young and Well Cooperative Research Centre; Innowell Pty Ltd; The Kidman Centre UTS; TEDxSydney; and Sydney Opera House.
+          Vicki has more than 20 years' experience in strategic communications, and has worked with, and consulted to, a number of organisations in the mental health sector and beyond, with key engagements including ReachOut Australia as a part of the establishment team, the Young and Well Cooperative Research Centre, Innowell Pty Ltd, The Kidman Centre UTS, TEDxSydney, and Sydney Opera House.
 
 
-          Vicki is the proud co-founder of three little people. While she lives in Sydney, the Murray River from her childhood home still flows through her veins.
+          Vicki is the proud co-founder of three little people, and while she lives with her family in Sydney, the Murray River that ran through the land she grew up on still flows through her veins.
         exec_board_name: Vicki Forbes
         exec_board_image: img/img_0747.jpg
         exec_board_title: Program Director, Corporate Mental Health Alliance Australia
         exec_board_quote: I think good mental health comes from knowing that you are
           seen and heard for who you are, and valued for the contribution you
-          can make, wherever you are. The workplace is one of those places. It's
-          that simple, and at the same time, complex.
+          can make to the settings that are important to you. The workplace is
+          one of those settings. For me, it's that simple - and that complex.
         exec_board_linkedin: https://www.linkedin.com/in/vickiforbes/
     our_board_exec_image: img/vicki-forbes.jpg
     our_board_exec_quote: '**Quote "**Lorem ipsum dolor sit amet, consectetur
