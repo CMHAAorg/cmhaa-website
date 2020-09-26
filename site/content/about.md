@@ -457,6 +457,17 @@ modules:
   - type: quote
     quote_text: “Everyone has mental health in the same way that everyone has
       physical health. It’s up to us as employers to create an environment where
-      everyone in the workplace feels comfortable”
+      everyone in the workplace feels comfortable.”
     quote_author: Melinda Upton, Partner, DLA Piper
+  - type: callout-image-text-cta
+    callout_image: img/istockphoto-1180926063-1024x1024-join.jpg
+    callout_title: This is a test call out title
+    callout_description: >-
+      This is test call out description, to make sure we have the ability to add
+      a second paragraph. Let's see if that's possible...
+
+
+      Looks like it is! Everyone has mental health in the same way that everyone has physical health. It’s up to us as employers to create an environment where everyone in the workplace feels comfortable.
+    callout_cta_link: /about-us
+    callout_cta_text: Find out more
 ---
