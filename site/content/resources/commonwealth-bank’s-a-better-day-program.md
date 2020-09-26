@@ -73,15 +73,14 @@ modules:
       - gallery_image: img/a-better-day-screen-2.jpg
       - gallery_image: img/a-better-day-screen-3.jpg
   - type: want_know_more
-    article_title: Want to learn more about A Better Day?
-    article_description: Get in with our team and we can run you through the success
-      of this bespoke program.
+    article_title: Want to find out more?
+    article_description: Please reach out to us to find out more about this bespoke program.
     article_fullname: Justin Martin, General Manager, Health, Safety & Wellbeing
     article_email: justin.martin1@cba.com.au
 ---
 **Our challenge**
 
-Critical to the success of *A Better Day*, is the ability to provide a tailored solution to close to 50,000 employees based at over 1,400 locations across the globe. Recognising that there is no one-size-fits-all when it comes to managing wellbeing, to personalise an employee’s *A Better Day* journey, a short questionnaire must be completed first. Then, drawing on the knowledge from experts in a number of different fields, tailored solutions are provided to the employee via a personalised dashboard based on their responses to the questionnaire. Even for those feeling great, *A Better Day* can enhance the skills, awareness and understanding to stay that way.
+Critical to the success of A Better Day, is the ability to provide a tailored solution to close to 50,000 employees based at over 1,400 locations across the globe. Recognising that there is no one-size-fits-all when it comes to managing wellbeing, to personalise an employee’s *A Better Day* journey, a short questionnaire must be completed first. Then, drawing on the knowledge from experts in a number of different fields, tailored solutions are provided to the employee via a personalised dashboard based on their responses to the questionnaire. Even for those feeling great, *A Better Day* can enhance the skills, awareness and understanding to stay that way.
 
 Another key challenge is ensuring *A Better Day* provides holistic solutions in addressing mental health and wellbeing. From mindfulness practices, dietary guidance, best practice sleep techniques, to how to cope with change; the Program is designed to address the many interdependent parts that effect and contribute to an individual’s mental wellbeing.
 
