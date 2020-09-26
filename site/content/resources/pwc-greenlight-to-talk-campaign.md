@@ -117,10 +117,10 @@ Australia spends over $9 billion each year on mental health, with psychological 
 
 Driven by our purpose to build trust in society and solve important problems, PwC is committed to helping grow Australia’s mental wealth by:
 
-* *Starting conversations:* We all need to share our stories, voice our ideas and discuss ways that together we can grow our nation’s mental wealth.
-* *Investing in new technologies:* In partnership with the University of Sydney, PwC has invested in a new venture, Innowell Pty Ltd, which is developing transformative technology to help people and clinicians in the management of mental health and fitness.
-* *Finding solutions:* Drawing on our deep expertise in strategy and consulting, PwC is helping businesses, schools and universities build mental wealth.
-* *Walking the talk:* PwC actively supports a mental fitness and wellness agenda for its people by focusing on improving our level of conversation and awareness on mental health issues.
-* *Making an impact:* At PwC, social impact is all about harnessing the power of our skills, expertise and networks to deliver on our purpose. As a firm, we are making an impact on mental wealth by fostering and investing in collaborations between business, government and the community.
+* **Starting conversations:** We all need to share our stories, voice our ideas and discuss ways that together we can grow our nation’s mental wealth.
+* **Investing in new technologies:** In partnership with the University of Sydney, PwC has invested in a new venture, Innowell Pty Ltd, which is developing transformative technology to help people and clinicians in the management of mental health and fitness.
+* **Finding solutions:** Drawing on our deep expertise in strategy and consulting, PwC is helping businesses, schools and universities build mental wealth.
+* **Walking the talk:** PwC actively supports a mental fitness and wellness agenda for its people by focusing on improving our level of conversation and awareness on mental health issues.
+* **Making an impact:** At PwC, social impact is all about harnessing the power of our skills, expertise and networks to deliver on our purpose. As a firm, we are making an impact on mental wealth by fostering and investing in collaborations between business, government and the community.
 
 These five pillars underpin our firm's Mental Wealth program founded by PwC Partner, Kristin Stubbins. Kristin also represents PwC in its role as a Founding Participant of CMHAA.
