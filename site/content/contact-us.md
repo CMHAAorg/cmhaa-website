@@ -10,6 +10,9 @@ modules:
   - type: separator-line
     padding_top: true
     padding_bottom: true
+  - type: quote
+    quote_text: Testing the addition of another module to this page.
+    quote_author: Test author
   - type: form
     form_id: contact
     form_lead: Please let us know how we may assist you.
