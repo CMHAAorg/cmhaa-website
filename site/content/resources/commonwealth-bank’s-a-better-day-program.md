@@ -74,7 +74,7 @@ modules:
       - gallery_image: img/a-better-day-screen-3.jpg
   - type: want_know_more
     article_title: Want to find out more?
-    article_description: "Please reach out to us to learn more. "
+    article_description: Please reach out to us to find out more about this bespoke program.
     article_fullname: Justin Martin, General Manager, Health, Safety & Wellbeing
     article_email: justin.martin1@cba.com.au
 ---
