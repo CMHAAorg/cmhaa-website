@@ -43,11 +43,10 @@ modules:
       respond and adapt to this rapidly evolving and growing challenge by
       providing practical, evidence-based guidance and insights.
   - type: quote
-    quote_text: One of the great outcomes of the Alliance so far is that we’re
-      opening up a little more frequently and maybe more easily, and just
-      acknowledging the reality of the moment we’re all facing. We have to build
-      on that as we look to the future.
-    quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
+    quote_text: We’re aiming to start a movement that leads to all employees going
+      to work feeling genuinely cared for, knowing there is support for them in
+      their personal life as well as their work life.
+    quote_author: Kristin Stubbins, Partner, PwC Australia
   - card_image_3: img/istockphoto-187896492-1024x1024_drive-lasting-change.jpg
     card_description_2: We share our knowledge and resources to support business
       leaders to take action on mental health in their own workplaces.
