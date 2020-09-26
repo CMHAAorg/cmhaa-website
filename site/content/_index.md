@@ -44,11 +44,6 @@ modules:
     content2: Our mission is to put mental health at the heart of the business
       agenda. We want to drive improvements in the way Australian businesses
       respond and adapt to this rapidly evolving and growing challenge.
-  - type: quote
-    quote_text: We’re aiming to start a movement that leads to all employees going
-      to work feeling genuinely cared for, knowing there is support for them in
-      their personal life as well as their work life.
-    quote_author: Kristin Stubbins, Partner, PwC Australia
   - card_image_3: img/istockphoto-187896492-1024x1024_drive-lasting-change.jpg
     card_description_2: We share our knowledge and resources to enable business
       leaders to take action on mental health in their own workplaces.
@@ -105,6 +100,12 @@ modules:
         our_member_image: img/pwc200142067_v3_final.jpg
       - our_member_image: img/woolworths-group_rgb_positive_logo.png
         our_member_link: https://www.woolworthsgroup.com.au/
+  - type: quote
+    quote_text: Through the Corporate Mental Health Alliance Australia, we’re aiming
+      to start a movement that leads to all employees going to work feeling
+      genuinely cared for, knowing there is support for them in their personal
+      life as well as their work life.
+    quote_author: Kristin Stubbins, Partner, PwC Australia
   - type: stacked-content-top-image
     stacked_image: img/istockphoto-1172976280-2048x2048-join-our-community.jpg
     stacked_description: Join our global community of business leaders, experts and
