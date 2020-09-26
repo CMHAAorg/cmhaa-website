@@ -84,6 +84,10 @@ modules:
 
 
       In October 2019, again on World Mental Health day, an additional 200 Green Light to Talk advocates from across the firm were launched. These advocates were all volunteers, representative of different grades, geographies and business units, who were trained in Mental Health First Aid, as well as domestic and family violence support. These advocates wear green lanyards to signify their openness to having supportive conversations and that they are trained to do so.
+  - type: soundcloud
+    souncloud_heading: 'Revolutionaries of Wellbeing - Episode 12: "Green Light to
+      Talk" - Mental health at PwC'
+    souncloud_url: https://www.podbean.com/eu/pb-2k4sv-e7b9ba
   - type: rich-text
     richtext_top: true
     richtext: >-
@@ -106,10 +110,6 @@ modules:
       - pdf_downloads_list_heading: GLTT Advocate Role
         pdf_downloads_list_file: img/copy-of-gltt-advocate-role.pptx
         pdf_downloads_list_text: ""
-  - type: soundcloud
-    souncloud_heading: 'Revolutionaries of Wellbeing - Episode 12: "Green Light to
-      Talk" - Mental health at PwC'
-    souncloud_url: https://www.podbean.com/eu/pb-2k4sv-e7b9ba
 ---
 Mental health is an issue that touches so many of us, whether directly or through someone we know. Rates of depression, anxiety, suicide and self-harm in Australian workplaces continue to rise at an alarming pace.
 
