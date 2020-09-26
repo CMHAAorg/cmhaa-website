@@ -394,10 +394,9 @@ modules:
       adipiscing elit. Quisque tincidunt, odio ac lacinia faucibus, orci elit
       finibus nisl, ut ullamcorper enim purus ut nisl."'
     type: our_board
-    our_board_exec_description: We work hand-in-hand with businesses to build a
-      mentally healthy workplace – from identifying areas for development, to
-      measuring progress; from supporting on skills development and training, to
-      being a sounding board for your leadership team.
+    our_board_exec_description: Our executive works hand-in-hand with members to
+      support their involvement with CMHAA at a strategic level, and in the
+      day-to-day delivery of our initiatives.
   - type: friends_cmhaa
     friends_cmhaa_title: Friends of CMHAA
     friends_cmhaa_description: "CMHAA is guided by a group of mental health experts
