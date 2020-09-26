@@ -37,4 +37,7 @@ modules:
         text_area_max_char: 1000
   - type: recommended_resources
     heading: ""
+  - type: quote
+    quote_text: Testing the addition of another module to this page.
+    quote_author: Test author
 ---
