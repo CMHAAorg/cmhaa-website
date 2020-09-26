@@ -9,14 +9,15 @@ modules:
     title: Who we are
     leadtext: We are an alliance of Australian businesses dedicated to providing
       mentally healthy workplaces for our people. We are business-led and
-      expert-guided. We share our data, insights and experience. Together, we
+      expert-guided. We share our insights and experience openly. Together, we
       have the power to change people's experience of the workplace for the
       better.
     content: ""
     image: ""
   - type: image
     image: img/liz-liam-nicole-crop.png
-    image_caption: Corporate Mental Health Alliance Australia Strategy Day, January 2020.
+    image_caption: Corporate Mental Health Alliance Australia Strategy Day
+      facilitated by PwC's Impact Assembly, January 2020.
   - stat_number_1: 3
     stat_number_2: 12.8
     stat_number_3: 70
@@ -35,21 +36,21 @@ modules:
   - type: spotlight_image_content
     image: img/istockphoto-629667248-2048x2048-vision.jpg
     title1: Our vision
-    content1: Our vision is for every Australian workplace to be mentally healthy,
-      where businesses encourage people's mental wellness, and conversations
-      about mental health are a normal part of people's working day.
+    content1: Our vision is for every Australian workplace to be mentally healthy.
+      We want people to feel valued and supported in the workplace, and for
+      conversations about mental health to be a normal part of people's working
+      day.
     title2: Our mission
-    content2: Our mission is to drive improvements in the way Australian businesses
-      respond and adapt to this rapidly evolving and growing challenge by
-      providing practical, evidence-based guidance and insights.
+    content2: Our mission is to put mental health at the heart of the business
+      agenda. We want to drive improvements in the way Australian businesses
+      respond and adapt to this rapidly evolving and growing challenge.
   - type: quote
-    quote_text: One of the great outcomes of the Alliance so far is that we’re
-      opening up a little more frequently and maybe more easily, and just
-      acknowledging the reality of the moment we’re all facing. We have to build
-      on that as we look to the future.
-    quote_author: Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia
+    quote_text: We’re aiming to start a movement that leads to all employees going
+      to work feeling genuinely cared for, knowing there is support for them in
+      their personal life as well as their work life.
+    quote_author: Kristin Stubbins, Partner, PwC Australia
   - card_image_3: img/istockphoto-187896492-1024x1024_drive-lasting-change.jpg
-    card_description_2: We share our knowledge and resources to support business
+    card_description_2: We share our knowledge and resources to enable business
       leaders to take action on mental health in their own workplaces.
     card_description_3: We advocate for systemic change within business, supply
       chains and the broader community, and contribute to the shaping of public
@@ -70,7 +71,7 @@ modules:
       all levels.
   - type: our_members
     our_members_title: Our members
-    our_members_description: We are grateful to our Founding Members for their
+    our_members_description: We are grateful to our founding members for their
       leadership and support in establishing the Corporate Mental Health
       Alliance Australia.
     member:
@@ -112,7 +113,7 @@ modules:
     stacked_title: Join us
     stacked_cta_link: /contact-us/
     stacked_cta_text: Enquire about membership
-    stacked_image_caption: This is a caption
+    stacked_image_caption: ""
   - type: feature-member-stories
     feat_member_intro: Why does mental health matter? Read our members' stories and find out.
     feat_member:
