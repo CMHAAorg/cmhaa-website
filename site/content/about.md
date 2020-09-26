@@ -80,7 +80,7 @@ modules:
       * We share our successes widely with others to accelerate learning and enhance people’s experiences in the workplace.
   - our_board_exec_linkedin: https://www.linkedin.com/
     board:
-      - our_board_name: BEN FITZPATRICK
+      - our_board_name: Ben Fitzpatrick
         our_board_image: img/aia-aus_ben-fitzpatrick.jpg
         our_board_title: Workplace Health & Safety Manager, AIA Australia
         our_board_description: >-
