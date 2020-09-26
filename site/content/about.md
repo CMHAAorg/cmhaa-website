@@ -375,24 +375,20 @@ modules:
     our_board_exec_title: Program Director, CMHAA
     exec_board:
       - exec_board_description: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-          tincidunt, odio ac lacinia faucibus, orci elit finibus nisl, ut
-          ullamcorper enim purus ut nisl. Lorem ipsum dolor sit amet,
-          consectetur adipiscing elit. Quisque tincidunt, odio ac lacinia
-          faucibus, orci elit finibus nisl, ut ullamcorper enim purus ut nisl.
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-          tincidunt, odio ac lacinia faucibus, orci elit finibus nisl, ut
-          ullamcorper enim purus ut nisl.
+          Vicki joined the Alliance as Program Director in May 2020.
 
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tincidunt, odio ac lacinia faucibus, orci elit finibus nisl, ut ullamcorper enim purus ut nisl.
+          Vicki has more than 25 years' experience in strategic communications, and has worked with, and consulted to, a range of organisations in the mental health sector and beyond, including ReachOut Australia; the Young and Well Cooperative Research Centre; Innowell Pty Ltd; The Kidman Centre UTS; TEDxSydney; and Sydney Opera House.
+
+
+          Vicki is the proud co-founder of three little people. While she lives in Sydney, the Murray River from her childhood home still flows through her veins.
         exec_board_name: Vicki Forbes
-        exec_board_image: img/vicki-forbes.jpg
-        exec_board_title: Program Director, CMHAA
-        exec_board_quote: '"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Quisque tincidunt, odio ac lacinia faucibus, orci elit finibus nisl,
-          ut ullamcorper enim purus ut nisl."'
-        exec_board_linkedin: http://www.linkedin.com/
+        exec_board_image: img/img_0747.jpg
+        exec_board_title: Program Director, Corporate Mental Health Alliance Australia
+        exec_board_quote: I think good mental health comes through being seen, heard and
+          valued for who are you - and for the contribution you can make - in
+          any setting. It's that simple, and at the same time, complex.
+        exec_board_linkedin: https://www.linkedin.com/in/vickiforbes/
     our_board_exec_image: img/vicki-forbes.jpg
     our_board_exec_quote: '**Quote "**Lorem ipsum dolor sit amet, consectetur
       adipiscing elit. Quisque tincidunt, odio ac lacinia faucibus, orci elit
