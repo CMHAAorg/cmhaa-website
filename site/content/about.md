@@ -97,7 +97,7 @@ modules:
           for me. That’s providing an open workplace for people to be
           themselves, to be vulnerable, and if they need to share their story,
           they can without being judged.
-      - our_board_name: HELEN SILVER AO
+      - our_board_name: Helen Silver AO
         our_board_title: Chief General Manager, Corporate Governance and Conduct,
           Allianz Australia Insurance Ltd
         our_board_image: img/helen-silver-14-bio-pic.jpg
@@ -115,7 +115,7 @@ modules:
           the stigma associated with asking for that help. As leaders we have a
           role in that. If leaders open up about mental health, the quicker it
           will become a part of our everyday and overall health conversations.
-      - our_board_name: MICHAEL SCHNEIDER
+      - our_board_name: Michael Schneider
         our_board_image: img/mike-4-july-2019.jpg
         our_board_title: Managing Director, Bunnings Group Limited
         our_board_linkedin: https://www.linkedin.com/in/michael-schneider-72116917/
@@ -132,7 +132,7 @@ modules:
           to make yourself vulnerable. If you can accept your own short-comings
           and open some of those up to others, people feel less alone. That’s
           all a lot of people in the world want, to feel less alone.
-      - our_board_name: BRUCE COOPER
+      - our_board_name: Bruce Cooper
         our_board_image: img/clayton_cooperbruce_externalprint_2000x2000.jpg
         our_board_title: Chief Executive Partner, Clayton Utz
         our_board_quote: Good mental health is about maintaining perspective and
@@ -153,7 +153,7 @@ modules:
           Outside law, Bruce is the Deputy Chair of the Australian String Quartet, skis, collects vintage land rovers and WW1 militaria (both mostly while his wife, Bronwyn, is not looking) and acts as a hired hand in her cattle business.
         our_board_linkedin: https://www.linkedin.com/in/bruce-cooper-960934b/
       - our_board_image: img/david-brewster-11297.jpg
-        our_board_name: DAVID BREWSTER
+        our_board_name: David Brewster
         our_board_title: Chief Legal & Safety Officer, Coles Group
         our_board_quote: We want to help reduce the stigma that comes with talking about
           it in the workplace. People should be able to go to work and feel safe
@@ -170,7 +170,7 @@ modules:
           operating hotels and retail liquor outlets throughout Queensland.
         our_board_linkedin: https://www.linkedin.com/in/davidabrewster/
       - our_board_image: img/cba-culleton-a-023.jpg
-        our_board_name: ANDREW CULLETON
+        our_board_name: Andrew Culleton
         our_board_title: Executive General Manager Group People Services, Commonwealth
           Bank of Australia
         our_board_quote: When you genuinely care about mental wellbeing, you have a
@@ -187,7 +187,7 @@ modules:
 
           Andrew lives in Sydney with his wife and four children.
         our_board_linkedin: https://www.linkedin.com/in/andrew-culleton-757aab2/
-      - our_board_name: ELLEN DERRICK
+      - our_board_name: Ellen Derrick
         our_board_image: img/ellen_derrick_2_lrg.jpg
         our_board_title: National Leader for Public Sector & Public Policy, Deloitte Australia
         our_board_linkedin: https://www.linkedin.com/in/ellen-derrick-33126030/
@@ -207,7 +207,7 @@ modules:
           leaders stating that mental health is critically important and that in
           a way we're not doing enough, so together we’re going to do more, and
           we’re going to be better in our organisations and together.
-      - our_board_name: MELINDA UPTON
+      - our_board_name: Melinda Upton
         our_board_image: img/internet_5y6a0050-edit.jpg
         our_board_title: Partner, Global Co-Chair IPT, DLA Piper
         our_board_linkedin: https://www.linkedin.com/in/melindaupton/
@@ -225,7 +225,7 @@ modules:
         our_board_quote: By showing our vulnerability as leaders, we teach to our people
           that it’s okay to not be okay. We start to erode the barriers that
           have kept people silent for so long.
-      - our_board_name: FELICITY MCDOWELL
+      - our_board_name: Felicity McDowell
         our_board_description: >-
           Felicity McDowell is the Legal Director of the Consumer Health
           business of the Johnson & Johnson family of companies in Australia and
@@ -243,7 +243,7 @@ modules:
         our_board_title: Legal Director - Consumer Health, Johnson & Johnson Family of Companies
         our_board_image: img/felicity2-copy.jpg
         our_board_linkedin: ""
-      - our_board_name: BERKELEY COX
+      - our_board_name: Berkeley Cox
         our_board_image: img/berkley-cox_port.jpg
         our_board_title: Chief Executive Partner, King & Wood Mallesons
         our_board_quote: But by being open about my own challenges, I hope to help
@@ -267,7 +267,7 @@ modules:
 
           Berkeley enjoys spending time with his family and with the rich and diverse natural environment that we are fortunate to share in this country.
         our_board_linkedin: https://www.linkedin.com/in/berkeley-cox-004372a2/
-      - our_board_name: DEBORAH YATES
+      - our_board_name: Deborah Yates
         our_board_image: img/deb-yates-high-res-head-shot.jpg
         our_board_title: National Managing Partner – People Performance & Culture &
           Corporate Affairs, KPMG Australia
@@ -304,9 +304,9 @@ modules:
           support mental health]. The idea is to get together and share what's
           working with each other.
         our_board_image: img/steve-worrall-print.jpg
-        our_board_name: STEVEN WORRALL
-        our_board_title: Managing Director, Microsoft Australia
-      - our_board_name: ANNETTE KIMMITT AM
+        our_board_name: Steven Worrall
+        our_board_title: Managing Director, Microsoft Australia & Chair, CMHAA
+      - our_board_name: Annette Kimmitt AM
         our_board_image: img/kimmitt_annette_photo_1200.jpg
         our_board_title: CEO & Managing Partner of the Firm, MinterEllison
         our_board_linkedin: " https://www.linkedin.com/in/annettekimmitt/"
@@ -330,7 +330,7 @@ modules:
           equipped to deal with what’s in front of you in the workplace. That
           headspace allows you to support family, friends and colleagues as
           well. "
-      - our_board_name: KRISTIN STUBBINS
+      - our_board_name: Kristin Stubbins
         our_board_image: img/pwc_kristin-stubbins-photo-2-.jpg
         our_board_title: Partner, PwC Australia
         our_board_linkedin: https://www.linkedin.com/in/kristinstubbins/
@@ -347,7 +347,7 @@ modules:
         our_board_quote: We’re aiming to start a movement that leads to all employees
           going to work feeling genuinely cared for, knowing there is support
           for them in their personal life as well as their work life.
-      - our_board_name: BRIAN LONG
+      - our_board_name: Brian Long
         our_board_image: img/img_20200826_105910_4.jpg
         our_board_title: General Manager Safety, Health & Wellbeing, Woolworths Group
         our_board_linkedin: https://www.linkedin.com/in/brian-long-6710469/
@@ -368,10 +368,10 @@ modules:
           my whole being. "
     our_board_title: Our board
     our_board_exec_name: Vicki Forbes
-    our_board_description: CMHAA is governed by a Board comprised of leaders from
-      within our Founding Member organisations, and is supported at an
-      operational level through each member's sponsorship of a Functional Lead
-      representative.
+    our_board_description: The Corporate Mental Health Alliance Australia is
+      governed by a Board comprised of leaders from within our Founding Member
+      organisations. The Board is supported at an operational level through each
+      member's sponsorship of a Functional Lead representative.
     our_board_exec_title: Program Director, CMHAA
     exec_board:
       - exec_board_description: >-
@@ -394,9 +394,10 @@ modules:
       adipiscing elit. Quisque tincidunt, odio ac lacinia faucibus, orci elit
       finibus nisl, ut ullamcorper enim purus ut nisl."'
     type: our_board
-    our_board_exec_description: Lorem ipsum dolor sit amet, consectetur adipiscing
-      elit. Quisque tincidunt, odio ac lacinia faucibus, orci elit finibus nisl,
-      ut ullamcorper enim purus ut nisl.
+    our_board_exec_description: We work hand-in-hand with businesses to build a
+      mentally healthy workplace – from identifying areas for development, to
+      measuring progress; from supporting on skills development and training, to
+      being a sounding board for your leadership team.
   - type: friends_cmhaa
     friends_cmhaa_title: Friends of CMHAA
     friends_cmhaa_description: "CMHAA is guided by a group of mental health experts
