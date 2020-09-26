@@ -18,6 +18,8 @@ role: Health and/or wellbeing lead
 organisation_size: Large (250+ employees)
 industry: Business Consulting & Management
 modules:
+  - type: feature_resource
+    resource: Kristin Stubbins, PwC
   - type: split_title_content_background
     disable_leftright: true
     title: Green Light to Talk (2018 launch)
@@ -82,6 +84,10 @@ modules:
 
 
       In October 2019, again on World Mental Health day, an additional 200 Green Light to Talk advocates from across the firm were launched. These advocates were all volunteers, representative of different grades, geographies and business units, who were trained in Mental Health First Aid, as well as domestic and family violence support. These advocates wear green lanyards to signify their openness to having supportive conversations and that they are trained to do so.
+  - type: soundcloud
+    souncloud_heading: 'Revolutionaries of Wellbeing - Episode 12: "Green Light to
+      Talk" - Mental health at PwC'
+    souncloud_url: https://www.podbean.com/eu/pb-2k4sv-e7b9ba
   - type: rich-text
     richtext_top: true
     richtext: >-
@@ -104,10 +110,6 @@ modules:
       - pdf_downloads_list_heading: GLTT Advocate Role
         pdf_downloads_list_file: img/copy-of-gltt-advocate-role.pptx
         pdf_downloads_list_text: ""
-  - type: soundcloud
-    souncloud_heading: 'Revolutionaries of Wellbeing - Episode 12: "Green Light to
-      Talk" - Mental health at PwC'
-    souncloud_url: https://www.podbean.com/eu/pb-2k4sv-e7b9ba
 ---
 Mental health is an issue that touches so many of us, whether directly or through someone we know. Rates of depression, anxiety, suicide and self-harm in Australian workplaces continue to rise at an alarming pace.
 
@@ -116,13 +118,9 @@ Australia spends over $9 billion each year on mental health, with psychological 
 Driven by our purpose to build trust in society and solve important problems, PwC is committed to helping grow Australia’s mental wealth by:
 
 * *Starting conversations:* We all need to share our stories, voice our ideas and discuss ways that together we can grow our nation’s mental wealth.
-
-  *Investing in new technologies:* In partnership with the University of Sydney, PwC has invested in a new venture, Innowell Pty Ltd, which is developing transformative technology to help people and clinicians in the management of mental health and fitness.
-
-  *Finding solutions:* Drawing on our deep expertise in strategy and consulting, PwC is helping businesses, schools and universities build mental wealth.
-
-  *Walking the talk:* PwC actively supports a mental fitness and wellness agenda for its people by focusing on improving our level of conversation and awareness on mental health issues.
-
-  *Making an impact:* At PwC, social impact is all about harnessing the power of our skills, expertise and networks to deliver on our purpose. As a firm, we are making an impact on mental wealth by fostering and investing in collaborations between business, government and the community.
+* *Investing in new technologies:* In partnership with the University of Sydney, PwC has invested in a new venture, Innowell Pty Ltd, which is developing transformative technology to help people and clinicians in the management of mental health and fitness.
+* *Finding solutions:* Drawing on our deep expertise in strategy and consulting, PwC is helping businesses, schools and universities build mental wealth.
+* *Walking the talk:* PwC actively supports a mental fitness and wellness agenda for its people by focusing on improving our level of conversation and awareness on mental health issues.
+* *Making an impact:* At PwC, social impact is all about harnessing the power of our skills, expertise and networks to deliver on our purpose. As a firm, we are making an impact on mental wealth by fostering and investing in collaborations between business, government and the community.
 
 These five pillars underpin our firm's Mental Wealth program founded by PwC Partner, Kristin Stubbins. Kristin also represents PwC in its role as a Founding Participant of CMHAA.
