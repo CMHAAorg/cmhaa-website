@@ -36,20 +36,21 @@ modules:
   - type: spotlight_image_content
     image: img/istockphoto-629667248-2048x2048-vision.jpg
     title1: Our vision
-    content1: Our vision is for every Australian workplace to be mentally healthy,
-      where businesses encourage people's mental wellness, and conversations
-      about mental health are a normal part of people's working day.
+    content1: Our vision is for every Australian workplace to be mentally healthy.
+      We want people to feel valued and supported in the workplace, and for
+      conversations about mental health to be a normal part of people's working
+      day.
     title2: Our mission
-    content2: Our mission is to drive improvements in the way Australian businesses
-      respond and adapt to this rapidly evolving and growing challenge by
-      providing practical, evidence-based guidance and insights.
+    content2: Our mission is to put mental health at the heart of the business
+      agenda. We want to drive improvements in the way Australian businesses
+      respond and adapt to this rapidly evolving and growing challenge.
   - type: quote
     quote_text: We’re aiming to start a movement that leads to all employees going
       to work feeling genuinely cared for, knowing there is support for them in
       their personal life as well as their work life.
     quote_author: Kristin Stubbins, Partner, PwC Australia
   - card_image_3: img/istockphoto-187896492-1024x1024_drive-lasting-change.jpg
-    card_description_2: We share our knowledge and resources to support business
+    card_description_2: We share our knowledge and resources to enable business
       leaders to take action on mental health in their own workplaces.
     card_description_3: We advocate for systemic change within business, supply
       chains and the broader community, and contribute to the shaping of public
