@@ -89,7 +89,7 @@ modules:
       Talk" - Mental health at PwC'
     souncloud_url: https://www.podbean.com/eu/pb-2k4sv-e7b9ba
   - type: rich-text
-    richtext_top: true
+    richtext_top: false
     richtext: >-
       **Next Steps/ Plans**
 
