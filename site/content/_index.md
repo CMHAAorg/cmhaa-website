@@ -16,6 +16,7 @@ modules:
     image: ""
   - type: image
     image: img/liz-liam-nicole-crop.png
+    image_caption: Corporate Mental Health Alliance Australia Strategy Day, January 2020.
   - stat_number_1: 3
     stat_number_2: 12.8
     stat_number_3: 70
