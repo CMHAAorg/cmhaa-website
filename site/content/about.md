@@ -385,9 +385,10 @@ modules:
         exec_board_name: Vicki Forbes
         exec_board_image: img/img_0747.jpg
         exec_board_title: Program Director, Corporate Mental Health Alliance Australia
-        exec_board_quote: I think good mental health comes through being seen, heard and
-          valued for who are you - and for the contribution you can make - in
-          any setting. It's that simple, and at the same time, complex.
+        exec_board_quote: I think good mental health comes from knowing that you are
+          seen and heard for who you are, and valued for the contribution you
+          can make, wherever you are. The workplace is one of those places. It's
+          that simple, and at the same time, complex.
         exec_board_linkedin: https://www.linkedin.com/in/vickiforbes/
     our_board_exec_image: img/vicki-forbes.jpg
     our_board_exec_quote: '**Quote "**Lorem ipsum dolor sit amet, consectetur
