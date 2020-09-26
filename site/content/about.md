@@ -8,13 +8,18 @@ banner_title: Business-led, expert-guided, human-centred.
 banner_image: img/screen-shot-2020-09-26-at-4.51.27-pm.png
 modules:
   - type: split_title_content
-    leadtext: The Corporate Mental Health Alliance Australia (CMHAA) is a
-      business-led, expert-guided membership organisation dedicated to
-      transforming workplaces into mentally healthy environments for their
-      people. Together, we are leading a movement for positive change across the
-      Australian business community.
+    leadtext: The Corporate Mental Health Alliance Australia is a business-led,
+      expert-guided member organisation dedicated to transforming workplaces
+      into mentally healthy environments for their people.
     title: About us
     image: ""
+    content: >-
+      Why? Because as a community, we know that we can do better, and that doing
+      better begins with business leaders prioritising mental health in ways
+      that are experienced by all of their employees. 
+
+
+      We also know that when businesses pool their knowledge, share openly and work collaboratively, better, more sustainable outcomes can be achieved for our people, and for the wider community.
   - type: vimeo_with_quote
     vimeo_quote_id: "457647049"
     vimeo_quote_text: We’re aiming to start a movement that leads to all employees
