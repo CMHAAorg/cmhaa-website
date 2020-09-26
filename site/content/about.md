@@ -17,10 +17,10 @@ modules:
     image: ""
   - type: vimeo_with_quote
     vimeo_quote_id: "457647049"
-    vimeo_quote_text: “Everyone has mental health in the same way that everyone has
-      physical health. It’s up to us as employers to create an environment where
-      everyone in the workplace feels comfortable.”
-    vimeo_quote_author: Bruce Cooper, Chief Executive Partner, Clayton Utz
+    vimeo_quote_text: We’re aiming to start a movement that leads to all employees
+      going to work feeling genuinely cared for, knowing there is support for
+      them in their personal life as well as their work life.
+    vimeo_quote_author: Kristin Stubbins, Partner, PwC Australia
   - type: split_title_content
     title: Our origins
     leadtext: In 2011, during an informal conversation, three senior business
