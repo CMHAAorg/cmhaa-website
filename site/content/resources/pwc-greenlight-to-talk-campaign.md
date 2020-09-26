@@ -91,7 +91,7 @@ modules:
   - type: rich-text
     richtext_top: false
     richtext: >-
-      **Next Steps/ Plans**
+      **Next Steps**
 
 
       PwC plans to obtain the Gold level award in Mental Health First Aid Australia’s Skilled Workplace Program by reaching the 3% target for trained mental health first aiders by October 2020. The continued support of this community is paramount, with the advocates playing a critical role in PwC’s mental health response during COVID-19. Fortnightly “Community GLTT Connections” occur to hear directly from the community about the types of issues and challenges their colleagues are raising, to provide professional support and to keep open communication flows on key wellbeing matters.
