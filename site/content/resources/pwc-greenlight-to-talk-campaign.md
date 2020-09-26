@@ -89,9 +89,9 @@ modules:
       Talk" - Mental health at PwC'
     souncloud_url: https://www.podbean.com/eu/pb-2k4sv-e7b9ba
   - type: rich-text
-    richtext_top: true
+    richtext_top: false
     richtext: >-
-      **Next Steps/ Plans**
+      **Next Steps**
 
 
       PwC plans to obtain the Gold level award in Mental Health First Aid Australia’s Skilled Workplace Program by reaching the 3% target for trained mental health first aiders by October 2020. The continued support of this community is paramount, with the advocates playing a critical role in PwC’s mental health response during COVID-19. Fortnightly “Community GLTT Connections” occur to hear directly from the community about the types of issues and challenges their colleagues are raising, to provide professional support and to keep open communication flows on key wellbeing matters.
@@ -117,10 +117,10 @@ Australia spends over $9 billion each year on mental health, with psychological 
 
 Driven by our purpose to build trust in society and solve important problems, PwC is committed to helping grow Australia’s mental wealth by:
 
-* *Starting conversations:* We all need to share our stories, voice our ideas and discuss ways that together we can grow our nation’s mental wealth.
-* *Investing in new technologies:* In partnership with the University of Sydney, PwC has invested in a new venture, Innowell Pty Ltd, which is developing transformative technology to help people and clinicians in the management of mental health and fitness.
-* *Finding solutions:* Drawing on our deep expertise in strategy and consulting, PwC is helping businesses, schools and universities build mental wealth.
-* *Walking the talk:* PwC actively supports a mental fitness and wellness agenda for its people by focusing on improving our level of conversation and awareness on mental health issues.
-* *Making an impact:* At PwC, social impact is all about harnessing the power of our skills, expertise and networks to deliver on our purpose. As a firm, we are making an impact on mental wealth by fostering and investing in collaborations between business, government and the community.
+* **Starting conversations:** We all need to share our stories, voice our ideas and discuss ways that together we can grow our nation’s mental wealth.
+* **Investing in new technologies:** In partnership with the University of Sydney, PwC has invested in a new venture, Innowell Pty Ltd, which is developing transformative technology to help people and clinicians in the management of mental health and fitness.
+* **Finding solutions:** Drawing on our deep expertise in strategy and consulting, PwC is helping businesses, schools and universities build mental wealth.
+* **Walking the talk:** PwC actively supports a mental fitness and wellness agenda for its people by focusing on improving our level of conversation and awareness on mental health issues.
+* **Making an impact:** At PwC, social impact is all about harnessing the power of our skills, expertise and networks to deliver on our purpose. As a firm, we are making an impact on mental wealth by fostering and investing in collaborations between business, government and the community.
 
 These five pillars underpin our firm's Mental Wealth program founded by PwC Partner, Kristin Stubbins. Kristin also represents PwC in its role as a Founding Participant of CMHAA.
