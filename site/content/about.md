@@ -62,6 +62,10 @@ modules:
 
       Our strength lies in the unique collaboration of our members, working together to draw upon the vast pool of knowledge and experience from across business, and with guidance from our expert advisors, to find, test and deliver solutions that work for our members.
     disable_leftright: false
+  - type: image_gallery
+    gallery:
+      - gallery_image: img/ourleadership.jpg
+      - gallery_image: img/origins.jpg
   - type: split_title_content
     image: ""
     title: Our guiding principles
