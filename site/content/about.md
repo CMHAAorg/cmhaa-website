@@ -346,18 +346,17 @@ modules:
           Vicki joined the Alliance as Program Director in May 2020.
 
 
-          Vicki has more than 20 years' experience in strategic communications, and has worked with, and consulted to, a number of organisations in the mental health sector and beyond, with key engagements including ReachOut Australia as a part of the establishment team, the Young and Well Cooperative Research Centre, Innowell Pty Ltd, The Kidman Centre UTS, TEDxSydney, and Sydney Opera House.
+          Vicki has more than 20 years' experience working in strategic communications. Key engagements in the mental health sector include ReachOut Australia where she was a core member of the organisation's establishment team, the Young and Well Cooperative Research Centre, Innowell Pty Ltd, and The Kidman Centre UTS. She has a long-standing association with TEDxSydney as TEDx Community Engagement Manager, representing TEDxSydney in the global TEDx community.  
 
 
-          Vicki is the proud co-founder of three little people, and while she lives with her family in Sydney, the Murray River from the land she grew up on still flows through her veins.
+          Vicki is the proud co-founder of three little people, and while she lives with her family in Sydney, the Murray Valley country on which she grew up is still in her veins.
         exec_board_name: Vicki Forbes
         exec_board_image: img/vicki-forbes.jpg
         exec_board_title: Program Director, Corporate Mental Health Alliance Australia
-        exec_board_quote: I think good mental health comes from feeling that you are
-          seen, heard and accepted for who you are, and through being valued for
-          the contribution that you make in the settings that are important to
-          you. The workplace is one of these settings. It's as simple, and as
-          complex, as that.
+        exec_board_quote: I think good mental health comes from feeling seen, heard and
+          accepted for who you are, and from knowing that you are valued for
+          your contribution in settings that are important to you. The workplace
+          is one of those settings. It's as simple, and as complex, as that.
         exec_board_linkedin: https://www.linkedin.com/in/vickiforbes/
     our_board_exec_image: img/vicki-forbes.jpg
     our_board_exec_quote: '**Quote "**Lorem ipsum dolor sit amet, consectetur
