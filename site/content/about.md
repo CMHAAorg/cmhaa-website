@@ -377,7 +377,7 @@ modules:
         exec_board_title: Program Director, Corporate Mental Health Alliance Australia
         exec_board_quote: I think good mental health comes from feeling seen, heard and
           accepted for who you are, and from knowing that you are valued for
-          your contribution to all of the settings that are important to you.
+          your contribution in all of the settings that are important to you.
           The workplace is one of those settings. It's as simple, and as
           complex, as that.
         exec_board_linkedin: https://www.linkedin.com/in/vickiforbes/
