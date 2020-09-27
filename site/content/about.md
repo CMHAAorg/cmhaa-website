@@ -44,8 +44,8 @@ modules:
       The group reached out to other business leaders to determine their interest in forming a similar alliance in Australia. Some of the country's largest employers - many of them competitors - were immediately drawn to the idea, and in early 2020 the Corporate Mental Health Alliance Australia was legally formed with seed funding provided by its 15 founding members.
   - type: image
     image: img/ourleadership.jpg
-    image_caption: Founding member and key stakeholder Strategy Day hosted by PwC's
-      Impact Assembly, January 2020.
+    image_caption: Corporate Mental Health Alliance Australia Strategy Day
+      facilitated by PwC's Impact Assembly, January 2020.
   - our_board_exec_linkedin: https://www.linkedin.com/
     board:
       - our_board_name: Ben Fitzpatrick
@@ -349,14 +349,15 @@ modules:
           Vicki has more than 20 years' experience in strategic communications, and has worked with, and consulted to, a number of organisations in the mental health sector and beyond, with key engagements including ReachOut Australia as a part of the establishment team, the Young and Well Cooperative Research Centre, Innowell Pty Ltd, The Kidman Centre UTS, TEDxSydney, and Sydney Opera House.
 
 
-          Vicki is the proud co-founder of three little people, and while she lives with her family in Sydney, the Murray River that ran through the land she grew up on still flows through her veins.
+          Vicki is the proud co-founder of three little people, and while she lives with her family in Sydney, the Murray River from the land she grew up on still flows through her veins.
         exec_board_name: Vicki Forbes
         exec_board_image: img/img_0747.jpg
         exec_board_title: Program Director, Corporate Mental Health Alliance Australia
-        exec_board_quote: I think good mental health comes from knowing that you are
-          seen and heard for who you are, and valued for the contribution you
-          can make to the settings that are important to you. The workplace is
-          one of those settings. For me, it's that simple - and that complex.
+        exec_board_quote: I think good mental health comes from feeling that you are
+          seen, heard and accepted for who you are, and valued for the
+          contribution you make in the settings that are important to you. The
+          workplace is one of those settings. It's as simple, and as complex, as
+          that.
         exec_board_linkedin: https://www.linkedin.com/in/vickiforbes/
     our_board_exec_image: img/vicki-forbes.jpg
     our_board_exec_quote: '**Quote "**Lorem ipsum dolor sit amet, consectetur
