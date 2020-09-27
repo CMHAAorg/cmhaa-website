@@ -107,10 +107,12 @@ modules:
         our_member_link: https://www.woolworthsgroup.com.au/
   - type: stacked-content-top-image
     stacked_image: img/istockphoto-1172976280-2048x2048-join-our-community.jpg
-    stacked_description: Join our global community of business leaders, experts and
-      partner organisations, and be a part of the movement for positive change
-      in workplace mental health.
-    stacked_title: Membership
+    stacked_description: >-
+      We are at the very beginning of our work together. 
+
+
+      Come join our global community of business leaders, experts and partner organisations, and be a part of the movement for positive change in workplace mental health.
+    stacked_title: Join us
     stacked_cta_link: /contact-us/
     stacked_cta_text: More about membership
     stacked_image_caption: ""
