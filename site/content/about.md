@@ -449,6 +449,6 @@ modules:
     cta_link: /link-to-page
     disable_leftright: false
   - type: separator-line
-    padding_top: true
+    padding_top: false
     padding_bottom: true
 ---
