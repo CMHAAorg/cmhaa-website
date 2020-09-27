@@ -27,28 +27,6 @@ modules:
       on that as we look to the future.
     vimeo_quote_author: Steven Worrall, Managing Director, Microsoft Australia, and
       Chair, Corporate Mental Health Alliance Australia
-  - type: separator-line
-    padding_top: false
-    padding_bottom: false
-  - type: callout-image-text-cta
-    callout_image: img/istockphoto-1180926063-1024x1024-join.jpg
-    callout_title: Our member commitment
-    callout_description: >-
-      **Place people first**\
-
-      We recognise mental health as essential to our people’s ability to thrive in the workplace and beyond.
-
-
-      **Walk our talk**\
-
-      We practice what we preach within the organisations that we lead, and we share our learnings along the way.
-
-
-      **Tread carefully**\
-
-      We acknowledge that we don’t have all the answers, and we are taking our time to do things well.
-    callout_cta_link: /about-us
-    callout_cta_text: More on member commitment
   - type: split_title_content
     title: Our origins
     leadtext: The Corporate Mental Health Alliance Australia is part of a growing
@@ -413,4 +391,26 @@ modules:
       - friend_text: Greg Miller
       - friend_text: Colin Seery
       - friend_text: Mitch Wallis
+  - type: separator-line
+    padding_top: false
+    padding_bottom: false
+  - type: callout-image-text-cta
+    callout_image: img/istockphoto-1180926063-1024x1024-join.jpg
+    callout_title: Our member commitment
+    callout_description: >-
+      **Place people first**\
+
+      We recognise mental health as essential to our people’s ability to thrive in the workplace and beyond.
+
+
+      **Walk our talk**\
+
+      We practice what we preach within the organisations that we lead, and we share our learnings along the way.
+
+
+      **Tread carefully**\
+
+      We acknowledge that we don’t have all the answers, and we are taking our time to do things well.
+    callout_cta_link: /about-us
+    callout_cta_text: More on member commitment
 ---
