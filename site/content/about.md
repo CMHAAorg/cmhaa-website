@@ -365,8 +365,9 @@ modules:
       finibus nisl, ut ullamcorper enim purus ut nisl."'
     type: our_board
     our_board_exec_description: Our executive works hand-in-hand with members to
-      support their involvement with CMHAA at a strategic level, and in the
-      day-to-day delivery of our initiatives.
+      support their involvement with the Corporate Mental Health Alliance
+      Australia at a strategic level, and in the day-to-day delivery of our
+      initiatives.
   - type: friends_cmhaa
     friends_cmhaa_title: Expert advisors
     friends_cmhaa_description: We are guided by a group of mental health experts from across Australia.
