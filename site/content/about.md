@@ -49,35 +49,25 @@ modules:
   - type: separator-line
     padding_top: false
     padding_bottom: true
-  - type: split_title_content_background
-    disable_leftright: false
-    title: Our principles
-    leadtext: As leaders, we promise to...
-    content: >-
-      **Place people first**\
+  - type: callout-image-text-cta
+    callout_image: img/istockphoto-1180926063-1024x1024-join.jpg
+    callout_title: Our commitment as members
+    callout_description: >-
+      **To place people first**\
 
-      We recognise mental health as essential to our people's ability to thrive in the workplace and beyond.
+      We recognise mental health as essential to our people’s ability to thrive in the workplace and beyond.
 
 
-      **Walk our talk** \
+      **To walk our talk**\
 
       We practice what we preach within the organisations that we lead, and we share our learnings along the way.
 
 
-      **Tread carefully** \
+      **To tread carefully**\
 
-      We acknowledge that we don't have all the answers, and we are taking our time to do things well.
-  - type: callout-image-text-cta
-    callout_image: img/istockphoto-1180926063-1024x1024-join.jpg
-    callout_title: This is a test call out title
-    callout_description: >-
-      This is test call out description, to make sure we have the ability to add
-      a second paragraph. Let's see if that's possible...
-
-
-      Looks like it is! Everyone has mental health in the same way that everyone has physical health. It’s up to us as employers to create an environment where everyone in the workplace feels comfortable.
+      We acknowledge that we don’t have all the answers, and we are taking our time to do things well.
     callout_cta_link: /about-us
-    callout_cta_text: Find out more
+    callout_cta_text: More on member commitment
   - our_board_exec_linkedin: https://www.linkedin.com/
     board:
       - our_board_name: Ben Fitzpatrick
