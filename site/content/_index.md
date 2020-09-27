@@ -146,6 +146,6 @@ modules:
       Together,  they are leading a movement for positive change across
       Australia, and the world, as a part of the CMHA Global network.
 slug: homepage
-banner_cta_link: https://vimeo.com/457647049
+banner_cta_link: https://adoring-easley-b6cc0a.netlify.app/about/
 banner_cta_text: SEE WHO'S INVOLVED
 ---
