@@ -44,7 +44,7 @@ modules:
       The group reached out to other business leaders to determine their interest in forming a similar alliance in Australia. Some of the country's largest employers - many of them competitors - were immediately drawn to the idea, and in early 2020 the Corporate Mental Health Alliance Australia was legally formed with seed funding provided by its 15 founding members.
   - type: callout-image-text-cta
     callout_image: img/istockphoto-1180926063-1024x1024-join.jpg
-    callout_title: Our commitment as members
+    callout_title: Members commit to uphold three principles
     callout_description: >-
       **Place people first**\
 
