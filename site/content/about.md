@@ -13,13 +13,9 @@ modules:
       workplace environments for their people.
     title: About us
     image: ""
-    content: >-
-      Why? Because as a community, we know that we can do better, and that doing
-      better begins with business leaders prioritising mental health in ways
-      that are experienced by all of their employees. 
-
-
-      We also know that when businesses pool their resources, share their knowledge openly and work collaboratively, better, more sustainable outcomes can be achieved for more people.
+    content: Why? Because as a community, we know that we can do better, and that
+      doing better begins with business leaders prioritising mental health in
+      ways that are experienced by all of their employees.
   - type: vimeo_with_quote
     vimeo_quote_id: "457647049"
     vimeo_quote_text: One of the great outcomes of the Alliance so far is that we’re
@@ -33,7 +29,17 @@ modules:
     leadtext: The Corporate Mental Health Alliance Australia is part of a growing
       global movement for better workplace mental health, which began in the UK
       almost a decade ago with the establishment of the City Mental Health
-      Alliance.
+      Alliance (CMHA UK).
+    content: >-
+      In Australia, a small group of business leaders had been discussing for
+      some time the need for corporate Australia to do more to support mental in
+      the workplace. They had heard of the great work of CMHA UK led by Poppy
+      Jaman OBE, and were particularly interested in the business-led,
+      expert-guided approach that was taken by its members to address this
+      growing challenge.
+
+
+      The group reached out to other business leaders to determine their interest in forming a similar alliance in Australia. The idea of businesses pooling their data and resources, sharing their knowledge, and working in a collaborative, non-competitive way, was compelling, and in early 2020 the Corporate Mental Health Alliance Australia was formed with 15 founding members.
   - type: image
     image: img/origins.jpg
     image_caption: This is a caption
