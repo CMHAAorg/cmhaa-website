@@ -336,10 +336,10 @@ modules:
           my whole being. "
     our_board_title: Our board
     our_board_exec_name: Vicki Forbes
-    our_board_description: The Corporate Mental health Alliance Australia is
-      governed by a Board comprised of leaders from within our Founding Member
-      organisations. The Board is supported at an operational level through each
-      member's sponsorship of a Functional Lead representative.
+    our_board_description: We are governed by a Board comprised of leaders from
+      within our Founding Member organisations. The Board is supported at an
+      operational level through each member's sponsorship of a Functional Lead
+      representative.
     our_board_exec_title: Program Director, CMHAA
     exec_board:
       - exec_board_description: >-
@@ -368,9 +368,8 @@ modules:
       support their involvement with CMHAA at a strategic level, and in the
       day-to-day delivery of our initiatives.
   - type: friends_cmhaa
-    friends_cmhaa_title: Friends of CMHAA
-    friends_cmhaa_description: "CMHAA is guided by a group of mental health experts
-      from across Australia. We call this group the Friends of CMHAA:"
+    friends_cmhaa_title: Expert advisors
+    friends_cmhaa_description: We are guided by a group of mental health experts from across Australia.
     friend:
       - friend_text: Ben Bars, weareunity
       - friend_text: Michelle Baxter, SafeWork Australia
