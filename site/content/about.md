@@ -413,7 +413,4 @@ modules:
       - friend_text: Greg Miller
       - friend_text: Colin Seery
       - friend_text: Mitch Wallis
-  - type: separator-line
-    padding_top: false
-    padding_bottom: false
 ---
