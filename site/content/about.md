@@ -46,6 +46,24 @@ modules:
     image: img/ourleadership.jpg
     image_caption: Corporate Mental Health Alliance Australia Strategy Day
       facilitated by PwC's Impact Assembly, January 2020.
+  - type: split_title_content_background
+    disable_leftright: false
+    title: Our principles
+    leadtext: As leaders, we promise to...
+    content: >-
+      **Place people first**\
+
+      We recognise mental health as essential to our people's ability to thrive in the workplace and beyond.
+
+
+      **Walk our talk** \
+
+      We practice what we preach within the organisations that we lead, and we share our learnings along the way.
+
+
+      **Tread carefully** \
+
+      We acknowledge that we don't have all the answers, and we are taking our time to do things well.
   - our_board_exec_linkedin: https://www.linkedin.com/
     board:
       - our_board_name: Ben Fitzpatrick
@@ -370,10 +388,10 @@ modules:
       initiatives.
   - type: friends_cmhaa
     friends_cmhaa_title: Expert advisors
-    friends_cmhaa_description: We are guided by a group of mental health experts
-      from across Australia. These people are recognised for their contribution
-      to the alliance at an individual level rather than through their
-      affiliation with any one organisation.
+    friends_cmhaa_description: We are privileged to have leading thinkers in mental
+      health from across Australia advising us. These experts are recognised for
+      their contribution to the alliance at an individual level rather than
+      through their affiliation with any one organisation.
     friend:
       - friend_text: Ben Bars
       - friend_text: Michelle Baxter
@@ -430,22 +448,4 @@ modules:
       Looks like it is! Everyone has mental health in the same way that everyone has physical health. It’s up to us as employers to create an environment where everyone in the workplace feels comfortable.
     callout_cta_link: /about-us
     callout_cta_text: Find out more
-  - type: split_title_content_background
-    disable_leftright: false
-    title: Our principles
-    leadtext: As leaders, we promise to...
-    content: >-
-      **Place people first**\
-
-      We recognise mental health as essential to our people's ability to thrive in the workplace and beyond.
-
-
-      **Walk our talk** \
-
-      We practice what we preach within the organisations that we lead, and we share our learnings along the way.
-
-
-      **Tread carefully** \
-
-      We acknowledge that we don't have all the answers, and we are taking our time to do things well.
 ---
