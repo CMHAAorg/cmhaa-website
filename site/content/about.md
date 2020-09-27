@@ -27,10 +27,6 @@ modules:
       on that as we look to the future.
     vimeo_quote_author: Steven Worrall, Managing Director, Microsoft Australia, and
       Chair, Corporate Mental Health Alliance Australia
-  - type: image
-    image: img/ourleadership.jpg
-    image_caption: Corporate Mental Health Alliance Australia Strategy Day
-      facilitated by PwC's Impact Assembly, January 2020.
   - type: split_title_content
     title: Our origins
     leadtext: The Corporate Mental Health Alliance Australia is part of a growing
@@ -68,6 +64,10 @@ modules:
   - type: separator-line
     padding_top: false
     padding_bottom: false
+  - type: image
+    image: img/ourleadership.jpg
+    image_caption: Corporate Mental Health Alliance Australia Strategy Day
+      facilitated by PwC's Impact Assembly, January 2020.
   - our_board_exec_linkedin: https://www.linkedin.com/
     board:
       - our_board_name: Ben Fitzpatrick
