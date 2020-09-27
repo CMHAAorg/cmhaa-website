@@ -48,22 +48,22 @@ modules:
       facilitated by PwC's Impact Assembly, January 2020.
   - type: separator-line
     padding_top: false
-    padding_bottom: true
+    padding_bottom: false
   - type: callout-image-text-cta
     callout_image: img/istockphoto-1180926063-1024x1024-join.jpg
     callout_title: Our commitment as members
     callout_description: >-
-      **To place people first**\
+      **Place people first**\
 
       We recognise mental health as essential to our people’s ability to thrive in the workplace and beyond.
 
 
-      **To walk our talk**\
+      **Walk our talk**\
 
       We practice what we preach within the organisations that we lead, and we share our learnings along the way.
 
 
-      **To tread carefully**\
+      **Tread carefully**\
 
       We acknowledge that we don’t have all the answers, and we are taking our time to do things well.
     callout_cta_link: /about-us
