@@ -435,4 +435,25 @@ modules:
       Looks like it is! Everyone has mental health in the same way that everyone has physical health. It’s up to us as employers to create an environment where everyone in the workplace feels comfortable.
     callout_cta_link: /about-us
     callout_cta_text: Find out more
+  - type: split_title_content_background
+    disable_leftright: false
+    title: Our principles
+    leadtext: As leaders, we promise to...
+    content: >-
+      **Place people first**
+
+
+      * We recognise mental health as essential to our people's ability to thrive in the workplace and beyond.
+
+
+      **Walk our talk**
+
+
+      * We practice what we preach within the organisations that we lead, and we share our learnings along the way.
+
+
+      **Tread carefully**
+
+
+      * We acknowledge that we don't have all the answers, and we are taking our time to do things well.
 ---
