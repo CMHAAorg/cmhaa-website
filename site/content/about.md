@@ -42,25 +42,6 @@ modules:
 
 
       The group reached out to other business leaders to determine their interest in forming a similar alliance in Australia. Some of the country's largest employers - many of them competitors - were immediately drawn to the idea, and in early 2020 the Corporate Mental Health Alliance Australia was legally formed with seed funding provided by its 15 founding members.
-  - type: callout-image-text-cta
-    callout_image: img/istockphoto-1180926063-1024x1024-join.jpg
-    callout_title: Members commit to uphold three principles
-    callout_description: >-
-      **Place people first**\
-
-      We recognise mental health as essential to our people’s ability to thrive in the workplace and beyond.
-
-
-      **Walk our talk**\
-
-      We practice what we preach within the organisations that we lead, and we share our learnings along the way.
-
-
-      **Tread carefully**\
-
-      We acknowledge that we don’t have all the answers, and we are taking our time to do things well.
-    callout_cta_link: /about-us
-    callout_cta_text: More on member commitment
   - type: separator-line
     padding_top: false
     padding_bottom: false
@@ -413,6 +394,25 @@ modules:
       - friend_text: Greg Miller
       - friend_text: Colin Seery
       - friend_text: Mitch Wallis
+  - type: callout-image-text-cta
+    callout_image: img/istockphoto-1180926063-1024x1024-join.jpg
+    callout_title: Members commit to uphold three principles
+    callout_description: >-
+      **Place people first**\
+
+      We recognise mental health as essential to our people’s ability to thrive in the workplace and beyond.
+
+
+      **Walk our talk**\
+
+      We practice what we preach within the organisations that we lead, and we share our learnings along the way.
+
+
+      **Tread carefully**\
+
+      We acknowledge that we don’t have all the answers, and we are taking our time to do things well.
+    callout_cta_link: /about-us
+    callout_cta_text: More on member commitment
   - type: split_title_content_background
     title: Our members
     leadtext: "CMHAA welcomes businesses of all sizes and from all sectors, to join
@@ -437,7 +437,7 @@ modules:
       * Build a more diverse workforce – mental health is an inclusion issue
     cta_text: ENQUIRE
     cta_link: /link-to-page
-    disable_leftright: false
+    disable_leftright: true
   - type: separator-line
     padding_top: false
     padding_bottom: true
