@@ -3,7 +3,7 @@ title: Contact
 meta_keywords: Contact Us, Mental Awareness, CMHAA, Corporate Mental Health
   Alliance, City Mental Health Alliance, Mental Health
 meta_description: Business-led. Expert-guided.
-banner_title: "We'd love to hear from you. "
+banner_title: Let's connect.
 banner_description: ""
 banner_image: img/screen-shot-2020-09-28-at-6.08.41-am.png
 banner_right_image: ""
@@ -13,9 +13,8 @@ modules:
     padding_bottom: true
   - type: form
     form_id: contact
-    form_lead: Please let us know how we may assist you.
-    form_description: Please complete the form below with your details and outline
-      the nature of your enquiry.
+    form_lead: "We'd love to hear from you. "
+    form_description: Please let us know how we may assist you and we'll be in touch.
     form_title: Contact us
     components:
       - type: FC02_text_input_area
