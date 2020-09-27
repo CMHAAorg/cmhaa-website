@@ -369,7 +369,7 @@ modules:
 
           Vicki is the proud co-founder of three little people, and while she lives with her family in Sydney, the Murray River from the land she grew up on still flows through her veins.
         exec_board_name: Vicki Forbes
-        exec_board_image: img/img_0747.jpg
+        exec_board_image: img/vicki-forbes.jpg
         exec_board_title: Program Director, Corporate Mental Health Alliance Australia
         exec_board_quote: I think good mental health comes from feeling that you are
           seen, heard and accepted for who you are, and through being valued for
