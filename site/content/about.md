@@ -41,7 +41,7 @@ modules:
       business-led, expert-guided approach to addressing this growing challenge.
 
 
-      The group reached out to other business leaders to determine their interest in forming a similar alliance in Australia. The idea of businesses coming together - many of them competitors - for the good of their employees, was compelling, and in early 2020 the Corporate Mental Health Alliance Australia was legally formed with some of the country's largest employers amongst its 15 founding members.
+      The group reached out to other business leaders to determine their interest in forming a similar alliance in Australia. The idea of businesses coming together for the good of their employees, attracted some of the country's largest employers - many of them competitors - and in early 2020 the Corporate Mental Health Alliance Australia was legally established with seed funding provided by 15 founding members.
   - type: image_gallery
     gallery:
       - gallery_image: img/ourleadership.jpg
