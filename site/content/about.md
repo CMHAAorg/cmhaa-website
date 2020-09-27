@@ -47,7 +47,7 @@ modules:
     image_caption: Corporate Mental Health Alliance Australia Strategy Day
       facilitated by PwC's Impact Assembly, January 2020.
   - type: separator-line
-    padding_top: true
+    padding_top: false
     padding_bottom: true
   - type: split_title_content_background
     disable_leftright: false
