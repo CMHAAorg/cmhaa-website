@@ -6,14 +6,11 @@ meta_description: Business-led. Expert-guided.
 banner_title: Contact us.
 banner_description: "We'd love to hear from you. "
 banner_image: ""
-banner_right_image: img/screen-shot-2020-09-26-at-4.27.54-pm.png
+banner_right_image: img/screen-shot-2020-09-28-at-5.42.26-am.png
 modules:
   - type: separator-line
     padding_top: true
     padding_bottom: true
-  - type: quote
-    quote_text: Testing the addition of another module to this page.
-    quote_author: Test author
   - type: form
     form_id: contact
     form_lead: Please let us know how we may assist you.
@@ -41,4 +38,6 @@ modules:
         text_area_max_char: 1000
   - type: recommended_resources
     heading: ""
+    form_description: Please complete the form below with your details and outline
+      the nature of your enquiry.
 ---
