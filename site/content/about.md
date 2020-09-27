@@ -34,12 +34,14 @@ modules:
       In Australia, a small group of business leaders decided to act on their
       view that more could be done by corporate Australia to support mental in
       the workplace. They had heard of the great work of CMHA UK led by Poppy
-      Jaman OBE, and were particularly interested in the business-led,
-      expert-guided approach that was taken by its members to address this
-      growing challenge.
+      Jaman OBE, and were particularly interested in the organisation's
+      business-led, expert-guided approach to addressing this growing challenge.
 
 
-      The group reached out to other business leaders to determine their interest in forming a similar alliance in Australia. The idea of businesses pooling their data and resources, sharing their knowledge, and working in a collaborative, non-competitive way, was compelling, and in early 2020 the Corporate Mental Health Alliance Australia was formed with 15 founding members.
+      The group reached out to other business leaders to determine their interest in forming a similar alliance in Australia. The idea of businesses working together in a collaborative, non-competitive way, and openly sharing their data, research and experience around what works and doesn't work,  and, together with experts, coming up with new solutions, was compelling.
+
+
+      and the working together with experts in a collaborative, non-competitive way, was compelling, and in early 2020 the Corporate Mental Health Alliance Australia was formed with 15 founding members.
   - type: split_title_content_background
     title: What we do
     content: >-
