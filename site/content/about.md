@@ -396,7 +396,7 @@ modules:
     padding_bottom: false
   - type: callout-image-text-cta
     callout_image: img/istockphoto-1180926063-1024x1024-join.jpg
-    callout_title: Members commit to three principles
+    callout_title: Our member commitment
     callout_description: >-
       **Place people first**\
 
