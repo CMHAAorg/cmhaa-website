@@ -31,8 +31,8 @@ modules:
       almost a decade ago with the establishment of the City Mental Health
       Alliance (CMHA UK).
     content: >-
-      In Australia, a small group of business leaders had been discussing for
-      some time the need for corporate Australia to do more to support mental in
+      In Australia, a small group of business leaders decided to act on their
+      view that more could be done by corporate Australia to support mental in
       the workplace. They had heard of the great work of CMHA UK led by Poppy
       Jaman OBE, and were particularly interested in the business-led,
       expert-guided approach that was taken by its members to address this
