@@ -370,7 +370,10 @@ modules:
       initiatives.
   - type: friends_cmhaa
     friends_cmhaa_title: Expert advisors
-    friends_cmhaa_description: We are guided by a group of mental health experts from across Australia.
+    friends_cmhaa_description: We are guided by a group of mental health experts
+      from across Australia. These people are recognised for their contribution
+      to the alliance at an individual level rather than through their
+      affiliation with any one organisation.
     friend:
       - friend_text: Ben Bars, weareunity
       - friend_text: Michelle Baxter, SafeWork Australia
