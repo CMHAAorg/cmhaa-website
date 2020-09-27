@@ -336,10 +336,10 @@ modules:
           my whole being. "
     our_board_title: Our board
     our_board_exec_name: Vicki Forbes
-    our_board_description: The Corporate Mental health Alliance Australia is
-      governed by a Board comprised of leaders from within our Founding Member
-      organisations. The Board is supported at an operational level through each
-      member's sponsorship of a Functional Lead representative.
+    our_board_description: We are governed by a Board comprised of leaders from
+      within our Founding Member organisations. The Board is supported at an
+      operational level through each member's sponsorship of a Functional Lead
+      representative.
     our_board_exec_title: Program Director, CMHAA
     exec_board:
       - exec_board_description: >-
@@ -354,10 +354,10 @@ modules:
         exec_board_image: img/img_0747.jpg
         exec_board_title: Program Director, Corporate Mental Health Alliance Australia
         exec_board_quote: I think good mental health comes from feeling that you are
-          seen, heard and accepted for who you are, and valued for the
-          contribution you make in the settings that are important to you. The
-          workplace is one of those settings. It's as simple, and as complex, as
-          that.
+          seen, heard and accepted for who you are, and through being valued for
+          the contribution that you make in the settings that are important to
+          you. The workplace is one of these settings. It's as simple, and as
+          complex, as that.
         exec_board_linkedin: https://www.linkedin.com/in/vickiforbes/
     our_board_exec_image: img/vicki-forbes.jpg
     our_board_exec_quote: '**Quote "**Lorem ipsum dolor sit amet, consectetur
@@ -365,33 +365,32 @@ modules:
       finibus nisl, ut ullamcorper enim purus ut nisl."'
     type: our_board
     our_board_exec_description: Our executive works hand-in-hand with members to
-      support their involvement with CMHAA at a strategic level, and in the
-      day-to-day delivery of our initiatives.
+      support their involvement with the Corporate Mental Health Alliance
+      Australia at a strategic level, and in the day-to-day delivery of our
+      initiatives.
   - type: friends_cmhaa
-    friends_cmhaa_title: Friends of CMHAA
-    friends_cmhaa_description: "CMHAA is guided by a group of mental health experts
-      from across Australia. We call this group the Friends of CMHAA:"
+    friends_cmhaa_title: Expert advisors
+    friends_cmhaa_description: We are guided by a group of mental health experts
+      from across Australia. These people are recognised for their contribution
+      to the alliance at an individual level rather than through their
+      affiliation with any one organisation.
     friend:
-      - friend_text: Ben Bars, weareunity
-      - friend_text: Michelle Baxter, SafeWork Australia
-      - friend_text: Lucy Brogden, National Mental Health Commission
-      - friend_text: "Prof. Pat Dudgeon (NATSILMH) "
-      - friend_text: Georgie Drury, SpringDay
+      - friend_text: Ben Bars
+      - friend_text: Michelle Baxter
+      - friend_text: Lucy Brogden AM
+      - friend_text: Professor Pat Dudgeon
+      - friend_text: Georgie Drury
       - friend_text: Professor Geoff Gallop
-      - friend_text: "Georgie Harman, CEO, Beyond Blue "
-      - friend_text: Associate Professor Samuel Harvey, Black Dog Institute, University
-          of NSW
-      - friend_text: Jack Heath, CEO, SANE Australia
-      - friend_text: "Professor Ian Hickie, Co-Director of Health and Policy, Brain and
-          Mind Centre, University of Sydney "
-      - friend_text: "Dawn Hough, ACON "
-      - friend_text: "Professor David Kavanagh, QLD University of Technology "
-      - friend_text: Dr Angela Martin, University of Tasmania
-      - friend_text: Greg Miller, Faethm
-      - friend_text: "Colin Seery, CEO, Lifeline "
-      - friend_text: Mitch Wallis, Heart on my sleeve movement (HOMS)
-      - friend_text: Jennifer Westacott, Business Council of Australia (BCA)
-      - friend_text: Sam Brunno
+      - friend_text: Georgie Harman
+      - friend_text: Associate Professor Samuel Harvey
+      - friend_text: Jack Heath
+      - friend_text: Professor Ian Hickie
+      - friend_text: Dawn Hough
+      - friend_text: Professor David Kavanagh
+      - friend_text: Dr Angela Martin
+      - friend_text: Greg Miller
+      - friend_text: Colin Seery
+      - friend_text: Mitch Wallis
   - type: split_title_content_background
     title: Our members
     leadtext: "CMHAA welcomes businesses of all sizes and from all sectors, to join
