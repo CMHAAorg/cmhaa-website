@@ -19,6 +19,17 @@ modules:
       when businesses pool their knowledge and resources, share this openly, and
       work together in a collaborative, non-competitive way, better, more
       sustainable mental health outcomes can be achieved for more people.
+  - type: vimeo_with_quote
+    vimeo_quote_id: "457647049"
+    vimeo_quote_text: One of the great outcomes of the Alliance so far is that we’re
+      opening up a little more frequently and more easily, and just
+      acknowledging the reality of the moment we’re all facing. We have to build
+      on that as we look to the future.
+    vimeo_quote_author: Steven Worrall, Managing Director, Microsoft Australia, and
+      Chair, Corporate Mental Health Alliance Australia
+  - type: separator-line
+    padding_top: false
+    padding_bottom: false
   - type: callout-image-text-cta
     callout_image: img/istockphoto-1180926063-1024x1024-join.jpg
     callout_title: Our member commitment
@@ -38,17 +49,6 @@ modules:
       We acknowledge that we don’t have all the answers, and we are taking our time to do things well.
     callout_cta_link: /about-us
     callout_cta_text: More on member commitment
-  - type: separator-line
-    padding_top: false
-    padding_bottom: false
-  - type: vimeo_with_quote
-    vimeo_quote_id: "457647049"
-    vimeo_quote_text: One of the great outcomes of the Alliance so far is that we’re
-      opening up a little more frequently and more easily, and just
-      acknowledging the reality of the moment we’re all facing. We have to build
-      on that as we look to the future.
-    vimeo_quote_author: Steven Worrall, Managing Director, Microsoft Australia, and
-      Chair, Corporate Mental Health Alliance Australia
   - type: split_title_content
     title: Our origins
     leadtext: The Corporate Mental Health Alliance Australia is part of a growing
