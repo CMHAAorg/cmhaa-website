@@ -403,9 +403,9 @@ modules:
   - type: friends_cmhaa
     friends_cmhaa_title: Expert advisors
     friends_cmhaa_description: We are privileged to have leading thinkers in mental
-      health from across Australia advising us. These experts are recognised for
-      their contribution to the alliance at an individual level rather than
-      through their affiliation with any one organisation.
+      health advising us. These experts are recognised for their contribution to
+      the alliance at an individual level rather than through their affiliation
+      with any one organisation.
     friend:
       - friend_text: Ben Bars
       - friend_text: Michelle Baxter
