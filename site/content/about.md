@@ -10,7 +10,7 @@ modules:
   - type: split_title_content
     leadtext: The Corporate Mental Health Alliance Australia is a business-led,
       expert-guided member organisation dedicated to providing mentally healthy
-      workplace environments for their people.
+      workplaces for our people.
     title: About us
     image: ""
     content: Why? Because as a community, we know that we can do better, and that
