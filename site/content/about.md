@@ -375,26 +375,22 @@ modules:
       to the alliance at an individual level rather than through their
       affiliation with any one organisation.
     friend:
-      - friend_text: Ben Bars, weareunity
-      - friend_text: Michelle Baxter, SafeWork Australia
-      - friend_text: Lucy Brogden, National Mental Health Commission
-      - friend_text: "Prof. Pat Dudgeon (NATSILMH) "
-      - friend_text: Georgie Drury, SpringDay
+      - friend_text: Ben Bars
+      - friend_text: Michelle Baxter
+      - friend_text: Lucy Brogden AM
+      - friend_text: Professor Pat Dudgeon
+      - friend_text: Georgie Drury
       - friend_text: Professor Geoff Gallop
-      - friend_text: "Georgie Harman, CEO, Beyond Blue "
-      - friend_text: Associate Professor Samuel Harvey, Black Dog Institute, University
-          of NSW
-      - friend_text: Jack Heath, CEO, SANE Australia
-      - friend_text: "Professor Ian Hickie, Co-Director of Health and Policy, Brain and
-          Mind Centre, University of Sydney "
-      - friend_text: "Dawn Hough, ACON "
-      - friend_text: "Professor David Kavanagh, QLD University of Technology "
-      - friend_text: Dr Angela Martin, University of Tasmania
-      - friend_text: Greg Miller, Faethm
-      - friend_text: "Colin Seery, CEO, Lifeline "
-      - friend_text: Mitch Wallis, Heart on my sleeve movement (HOMS)
-      - friend_text: Jennifer Westacott, Business Council of Australia (BCA)
-      - friend_text: Sam Brunno
+      - friend_text: Georgie Harman
+      - friend_text: Associate Professor Samuel Harvey
+      - friend_text: Jack Heath
+      - friend_text: Professor Ian Hickie
+      - friend_text: Dawn Hough
+      - friend_text: Professor David Kavanagh
+      - friend_text: Dr Angela Martin
+      - friend_text: Greg Miller
+      - friend_text: Colin Seery
+      - friend_text: Mitch Wallis
   - type: split_title_content_background
     title: Our members
     leadtext: "CMHAA welcomes businesses of all sizes and from all sectors, to join
