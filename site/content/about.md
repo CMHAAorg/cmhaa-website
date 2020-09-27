@@ -349,7 +349,7 @@ modules:
           Vicki has more than 20 years' experience in strategic communications, and has worked with, and consulted to, a number of organisations in the mental health sector and beyond, with key engagements including ReachOut Australia as a part of the establishment team, the Young and Well Cooperative Research Centre, Innowell Pty Ltd, The Kidman Centre UTS, TEDxSydney, and Sydney Opera House.
 
 
-          Vicki is the proud co-founder of three little people, and while she lives with her family in Sydney, the Murray River that ran through the land she grew up on still flows through her veins.
+          Vicki is the proud co-founder of three little people, and while she lives with her family in Sydney, the Murray River from the land she grew up on still flows through her veins.
         exec_board_name: Vicki Forbes
         exec_board_image: img/img_0747.jpg
         exec_board_title: Program Director, Corporate Mental Health Alliance Australia
