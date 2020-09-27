@@ -42,30 +42,10 @@ modules:
 
 
       The group reached out to other business leaders to determine their interest in forming a similar alliance in Australia. The idea of businesses coming together for the good of their employees, attracted some of the country's largest employers - many of them competitors - and in early 2020 the Corporate Mental Health Alliance Australia was legally established with seed funding provided by 15 founding members.
-  - type: image_gallery
-    gallery:
-      - gallery_image: img/ourleadership.jpg
-      - gallery_image: img/origins.jpg
-  - type: split_title_content
-    image: ""
-    title: Our guiding principles
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-      tincidunt, odio ac lacinia faucibus, orci elit finibus nisl, ut
-      ullamcorper enim purus ut nisl. 
-
-
-      * We are business-led and expert-guided.
-
-      * We recognise mental health as essential to our people’s ability to thrive in the workplace and beyond.
-
-      * We acknowledge that we don’t have all of the answers, and we take our time to do things well. 
-
-      * We identify gaps and opportunities through careful and broad consultation.
-
-      * We create tools and resources with members to achieve sustainable improvement for mental health in the workplace.
-
-      * We share our successes widely with others to accelerate learning and enhance people’s experiences in the workplace.
+  - type: image
+    image: img/ourleadership.jpg
+    image_caption: Founding member and key stakeholder Strategy Day hosted by PwC's
+      Impact Assembly, January 2020.
   - our_board_exec_linkedin: https://www.linkedin.com/
     board:
       - our_board_name: Ben Fitzpatrick
@@ -356,7 +336,7 @@ modules:
           my whole being. "
     our_board_title: Our board
     our_board_exec_name: Vicki Forbes
-    our_board_description: The Corporate Mental Health Alliance Australia is
+    our_board_description: The Corporate Mental health Alliance Australia is
       governed by a Board comprised of leaders from within our Founding Member
       organisations. The Board is supported at an operational level through each
       member's sponsorship of a Functional Lead representative.
