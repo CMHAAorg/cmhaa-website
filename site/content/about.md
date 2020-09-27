@@ -48,7 +48,7 @@ modules:
       facilitated by PwC's Impact Assembly, January 2020.
   - type: separator-line
     padding_top: true
-    padding_bottom: false
+    padding_bottom: true
   - type: split_title_content_background
     disable_leftright: false
     title: Our principles
