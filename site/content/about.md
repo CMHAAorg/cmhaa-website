@@ -15,7 +15,10 @@ modules:
     image: ""
     content: Why? Because as a community, we know that we can do better, and that
       doing better begins with business leaders prioritising mental health in
-      ways that are experienced by all of their employees.
+      ways that are experienced by all of their employees. We also know that
+      when businesses pool their knowledge and resources, share this openly, and
+      work together in a collaborative, non-competitive way, better, more
+      sustainable mental health outcomes can be achieved for more people.
   - type: vimeo_with_quote
     vimeo_quote_id: "457647049"
     vimeo_quote_text: One of the great outcomes of the Alliance so far is that we’re
