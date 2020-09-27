@@ -440,20 +440,17 @@ modules:
     title: Our principles
     leadtext: As leaders, we promise to...
     content: >-
-      **Place people first**
+      **Place people first**\
+
+      We recognise mental health as essential to our people's ability to thrive in the workplace and beyond.
 
 
-      * We recognise mental health as essential to our people's ability to thrive in the workplace and beyond.
+      **Walk our talk** \
+
+      We practice what we preach within the organisations that we lead, and we share our learnings along the way.
 
 
-      **Walk our talk**
+      **Tread carefully** \
 
-
-      * We practice what we preach within the organisations that we lead, and we share our learnings along the way.
-
-
-      **Tread carefully**
-
-
-      * We acknowledge that we don't have all the answers, and we are taking our time to do things well.
+      We acknowledge that we don't have all the answers, and we are taking our time to do things well.
 ---
