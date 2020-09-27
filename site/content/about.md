@@ -40,9 +40,6 @@ modules:
 
 
       The group reached out to other business leaders to determine their interest in forming a similar alliance in Australia. The idea of businesses pooling their data and resources, sharing their knowledge, and working in a collaborative, non-competitive way, was compelling, and in early 2020 the Corporate Mental Health Alliance Australia was formed with 15 founding members.
-  - type: image
-    image: img/origins.jpg
-    image_caption: This is a caption
   - type: split_title_content_background
     title: What we do
     content: >-
