@@ -5,8 +5,8 @@ meta_keywords: Contact Us, Mental Awareness, CMHAA, Corporate Mental Health
 meta_description: Business-led. Expert-guided.
 banner_title: "We'd love to hear from you. "
 banner_description: ""
-banner_image: ""
-banner_right_image: img/screen-shot-2020-09-28-at-5.42.26-am.png
+banner_image: img/screen-shot-2020-09-28-at-5.42.26-am.png
+banner_right_image: ""
 modules:
   - type: separator-line
     padding_top: true
