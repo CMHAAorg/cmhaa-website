@@ -19,6 +19,28 @@ modules:
       when businesses pool their knowledge and resources, share this openly, and
       work together in a collaborative, non-competitive way, better, more
       sustainable mental health outcomes can be achieved for more people.
+  - type: callout-image-text-cta
+    callout_image: img/istockphoto-1180926063-1024x1024-join.jpg
+    callout_title: Our member commitment
+    callout_description: >-
+      **Place people first**\
+
+      We recognise mental health as essential to our people’s ability to thrive in the workplace and beyond.
+
+
+      **Walk our talk**\
+
+      We practice what we preach within the organisations that we lead, and we share our learnings along the way.
+
+
+      **Tread carefully**\
+
+      We acknowledge that we don’t have all the answers, and we are taking our time to do things well.
+    callout_cta_link: /about-us
+    callout_cta_text: More on member commitment
+  - type: separator-line
+    padding_top: false
+    padding_bottom: false
   - type: vimeo_with_quote
     vimeo_quote_id: "457647049"
     vimeo_quote_text: One of the great outcomes of the Alliance so far is that we’re
@@ -394,23 +416,4 @@ modules:
   - type: separator-line
     padding_top: false
     padding_bottom: false
-  - type: callout-image-text-cta
-    callout_image: img/istockphoto-1180926063-1024x1024-join.jpg
-    callout_title: Our member commitment
-    callout_description: >-
-      **Place people first**\
-
-      We recognise mental health as essential to our people’s ability to thrive in the workplace and beyond.
-
-
-      **Walk our talk**\
-
-      We practice what we preach within the organisations that we lead, and we share our learnings along the way.
-
-
-      **Tread carefully**\
-
-      We acknowledge that we don’t have all the answers, and we are taking our time to do things well.
-    callout_cta_link: /about-us
-    callout_cta_text: More on member commitment
 ---
