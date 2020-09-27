@@ -41,10 +41,7 @@ modules:
       business-led, expert-guided approach to addressing this growing challenge.
 
 
-      The group reached out to other business leaders to determine their interest in forming a similar alliance in Australia. The idea of businesses coming together for the good of their employees working together in a collaborative, non-competitive way, and openly sharing their data, research and experience on what works and doesn't work,  and, together with experts, coming up with new solutions, was compelling.
-
-
-      and the working together with experts in a collaborative, non-competitive way, was compelling, and in early 2020 the Corporate Mental Health Alliance Australia was formed with 15 founding members.
+      The group reached out to other business leaders to determine their interest in forming a similar alliance in Australia. The idea of businesses coming together - many of them competitors - for the good of their employees, was compelling, and in early 2020 the Corporate Mental Health Alliance Australia was formed with 15 founding members.
   - type: split_title_content_background
     title: What we do
     content: >-
