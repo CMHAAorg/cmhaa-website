@@ -393,10 +393,10 @@ modules:
       - friend_text: Mitch Wallis
   - type: separator-line
     padding_top: false
-    padding_bottom: true
+    padding_bottom: false
   - type: callout-image-text-cta
     callout_image: img/istockphoto-1180926063-1024x1024-join.jpg
-    callout_title: Members commit to uphold three principles
+    callout_title: Members commit to three principles
     callout_description: >-
       **Place people first**\
 
