@@ -44,8 +44,8 @@ modules:
       The group reached out to other business leaders to determine their interest in forming a similar alliance in Australia. Some of the country's largest employers - many of them competitors - were immediately drawn to the idea, and in early 2020 the Corporate Mental Health Alliance Australia was legally formed with seed funding provided by its 15 founding members.
   - type: image
     image: img/ourleadership.jpg
-    image_caption: Founding member and key stakeholder Strategy Day hosted by PwC's
-      Impact Assembly, January 2020.
+    image_caption: Corporate Mental Health Alliance Australia Strategy Day
+      facilitated by PwC's Impact Assembly, January 2020.
   - our_board_exec_linkedin: https://www.linkedin.com/
     board:
       - our_board_name: Ben Fitzpatrick
