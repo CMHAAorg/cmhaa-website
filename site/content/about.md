@@ -46,6 +46,9 @@ modules:
     image: img/ourleadership.jpg
     image_caption: Corporate Mental Health Alliance Australia Strategy Day
       facilitated by PwC's Impact Assembly, January 2020.
+  - type: separator-line
+    padding_top: false
+    padding_bottom: false
   - type: split_title_content_background
     disable_leftright: false
     title: Our principles
@@ -64,6 +67,17 @@ modules:
       **Tread carefully** \
 
       We acknowledge that we don't have all the answers, and we are taking our time to do things well.
+  - type: callout-image-text-cta
+    callout_image: img/istockphoto-1180926063-1024x1024-join.jpg
+    callout_title: This is a test call out title
+    callout_description: >-
+      This is test call out description, to make sure we have the ability to add
+      a second paragraph. Let's see if that's possible...
+
+
+      Looks like it is! Everyone has mental health in the same way that everyone has physical health. It’s up to us as employers to create an environment where everyone in the workplace feels comfortable.
+    callout_cta_link: /about-us
+    callout_cta_text: Find out more
   - our_board_exec_linkedin: https://www.linkedin.com/
     board:
       - our_board_name: Ben Fitzpatrick
@@ -437,15 +451,4 @@ modules:
   - type: separator-line
     padding_top: true
     padding_bottom: true
-  - type: callout-image-text-cta
-    callout_image: img/istockphoto-1180926063-1024x1024-join.jpg
-    callout_title: This is a test call out title
-    callout_description: >-
-      This is test call out description, to make sure we have the ability to add
-      a second paragraph. Let's see if that's possible...
-
-
-      Looks like it is! Everyone has mental health in the same way that everyone has physical health. It’s up to us as employers to create an environment where everyone in the workplace feels comfortable.
-    callout_cta_link: /about-us
-    callout_cta_text: Find out more
 ---
