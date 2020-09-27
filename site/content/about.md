@@ -9,38 +9,37 @@ banner_image: img/screen-shot-2020-09-26-at-4.51.27-pm.png
 modules:
   - type: split_title_content
     leadtext: The Corporate Mental Health Alliance Australia is a business-led,
-      expert-guided member organisation dedicated to transforming workplaces
-      into mentally healthy environments for their people.
+      expert-guided member organisation dedicated to providing mentally healthy
+      workplace environments for their people.
     title: About us
     image: ""
-    content: >-
-      Why? Because as a community, we know that we can do better, and that doing
-      better begins with business leaders prioritising mental health in ways
-      that are experienced by all of their employees. 
-
-
-      We also know that when businesses pool their knowledge, share openly and work collaboratively, better, more sustainable outcomes can be achieved for our people, and for the wider community.
+    content: Why? Because as a community, we know that we can do better, and that
+      doing better begins with business leaders prioritising mental health in
+      ways that are experienced by all of their employees.
   - type: vimeo_with_quote
     vimeo_quote_id: "457647049"
-    vimeo_quote_text: We’re aiming to start a movement that leads to all employees
-      going to work feeling genuinely cared for, knowing there is support for
-      them in their personal life as well as their work life.
-    vimeo_quote_author: Kristin Stubbins, Partner, PwC Australia
+    vimeo_quote_text: One of the great outcomes of the Alliance so far is that we’re
+      opening up a little more frequently and more easily, and just
+      acknowledging the reality of the moment we’re all facing. We have to build
+      on that as we look to the future.
+    vimeo_quote_author: Steven Worrall, Managing Director, Microsoft Australia, and
+      Chair, Corporate Mental Health Alliance Australia
   - type: split_title_content
     title: Our origins
-    leadtext: In 2011, during an informal conversation, three senior business
-      leaders agreed to collaborate and bring together a cohort of business
-      leaders from across the City of London to address the increasing levels of
-      stress in the workplace and to challenge existing work practices that they
-      felt were counterproductive to the quality of client service,
-      profitability and health of employees.  Poppy Jaman OBE, the co-founder of
-      Mental Health First Aid England came on board as Program Director and is
-      now the CMHA’s CEO. With seed funding from their respective organisations,
-      the three senior business leaders launched CMHA in the UK with 10
-      participating firms in October 2012.
-  - type: image
-    image: img/origins.jpg
-    image_caption: This is a caption
+    leadtext: The Corporate Mental Health Alliance Australia is part of a growing
+      global movement for better workplace mental health, which began in the UK
+      almost a decade ago with the establishment of the City Mental Health
+      Alliance (CMHA UK).
+    content: >-
+      In Australia, a small group of business leaders had been discussing for
+      some time the need for corporate Australia to do more to support mental in
+      the workplace. They had heard of the great work of CMHA UK led by Poppy
+      Jaman OBE, and were particularly interested in the business-led,
+      expert-guided approach that was taken by its members to address this
+      growing challenge.
+
+
+      The group reached out to other business leaders to determine their interest in forming a similar alliance in Australia. The idea of businesses pooling their data and resources, sharing their knowledge, and working in a collaborative, non-competitive way, was compelling, and in early 2020 the Corporate Mental Health Alliance Australia was formed with 15 founding members.
   - type: split_title_content_background
     title: What we do
     content: >-
