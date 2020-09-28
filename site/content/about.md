@@ -14,11 +14,11 @@ modules:
     title: About us
     image: ""
     content: Why? Because as a community, we know that we can do better, and that
-      doing better begins with business leaders prioritising mental health in
-      ways that are experienced by all of their employees. We also know that
-      when businesses pool their knowledge and resources, share this openly, and
-      work together in a collaborative, non-competitive way, better, more
-      sustainable mental health outcomes can be achieved for more people.
+      doing better begins with business leaders prioritising the mental
+      wellbeing of all of their employees. We also believe that when businesses
+      pool their knowledge and resources, share this openly, and work together
+      in a collaborative, non-competitive way, we can achieve better, more
+      sustainable mental health outcomes for more people, faster.
   - type: vimeo_with_quote
     vimeo_quote_id: "457647049"
     vimeo_quote_text: One of the great outcomes of the Alliance so far is that we’re
@@ -34,14 +34,18 @@ modules:
       almost a decade ago with the establishment of the City Mental Health
       Alliance (CMHA UK).
     content: >-
-      A small group of Australian business leaders decided to act on their view
-      that more could be done by the corporate community to support mental
-      health in the workplace. They had heard of the great work of CMHA UK led
-      by Poppy Jaman OBE, and were particularly interested in the organisation's
-      business-led, expert-guided approach to addressing this growing challenge.
+      A number of Australian business leaders had felt for some time that more
+      could be done by corporate Australia to support mental health in the
+      workplace, and decided to act on that view. They had heard of the great
+      work of the City Mental Health Alliance in the UK led by Poppy Jaman OBE,
+      and were particularly interested in the organisation’s business-led,
+      expert-guided approach to addressing this growing challenge.
 
 
-      The group reached out to other business leaders to determine their interest in forming a similar alliance in Australia. Some of the country's largest employers - many of them competitors - were immediately drawn to the idea, and in early 2020 the Corporate Mental Health Alliance Australia was formally established with seed funding provided by its 15 founding members.
+      The group reached out to other business leaders to determine their interest in forming a similar alliance in Australia. Some of the country’s largest employers were immediately drawn to the idea, and in early 2020 the Corporate Mental Health Alliance Australia was formally established with seed funding provided by its 15 Founding Members.
+
+
+      Many of the Alliance’s members are direct competitors, yet on mental health they are united in their commitment to genuine collaboration. They recognise that the mental wellbeing of their employees transcends market dynamics and that, together, we stand the best chance of delivering real impact for our people.
   - type: image
     image: img/ourleadership.jpg
     image_caption: Corporate Mental Health Alliance Australia Strategy Day
