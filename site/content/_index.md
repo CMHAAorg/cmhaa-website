@@ -66,9 +66,9 @@ modules:
     card_title_3: Drive lasting change
     card_image_1: img/istockphoto-1049086992-1024x1024_provide-safe-settings.jpg
     card_image_2: img/istockphoto-654774714-2048x2048-about.jpg
-    card_description_1: We help businesses create an environment where everyone
-      feels safe to talk about their mental health at work, including leaders at
-      all levels.
+    card_description_1: We help businesses create an environment, and ways of
+      working, where everyone feels safe and supported and free to talk about
+      their mental health.
   - type: our_members
     our_members_title: Our members
     our_members_description: We are grateful to our founding members for their
@@ -147,5 +147,5 @@ modules:
       Australia, and the world, as a part of the CMHA Global network.
 slug: homepage
 banner_cta_link: https://adoring-easley-b6cc0a.netlify.app/about/
-banner_cta_text: SEE WHO'S INVOLVED
+banner_cta_text: See who's involved
 ---
