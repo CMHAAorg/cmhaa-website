@@ -46,8 +46,8 @@ modules:
       respond and adapt to this rapidly evolving and growing challenge.
   - type: quote
     quote_text: We want all employees to go to work feeling genuinely cared for,
-      knowing there is support for them in their personal life as well as their
-      work life.
+      knowing there is support for them in their work life as well as their
+      personal life.
     quote_author: Kristin Stubbins, Partner, PwC Australia
   - card_image_3: img/istockphoto-187896492-1024x1024_drive-lasting-change.jpg
     card_description_2: We share our knowledge and resources to enable business
