@@ -346,10 +346,10 @@ modules:
           Vicki joined the Alliance as Program Director in May 2020.
 
 
-          Vicki has more than 20 years' experience working in strategic communications. Key engagements in the mental health sector include ReachOut Australia where she was a core member of the organisation's establishment team, the Young and Well Cooperative Research Centre, Innowell Pty Ltd, and The Kidman Centre UTS. She has a long-standing association with TEDxSydney as TEDx Community Engagement Manager, representing TEDxSydney in the global TEDx community.  
+          Vicki has more than 20 years' experience working in strategic communications. Key engagements in the mental health sector include ReachOut Australia where she was a part of the organisation's establishment team, the Young and Well Cooperative Research Centre, Innowell Pty Ltd, and The Kidman Centre UTS. She has a long-standing association with TEDxSydney as TEDx Community Engagement Manager, representing TEDxSydney in the global TEDx community.  
 
 
-          Vicki is the proud co-founder of three little people, and while she lives with her family in Sydney, the Murray Valley country on which she grew up is still in her veins.
+          Vicki is the proud co-founder of three little people, and while she lives with her family in Sydney, the Murray Valley country on which she grew up still runs through her veins.
         exec_board_name: Vicki Forbes
         exec_board_image: img/vicki-forbes.jpg
         exec_board_title: Program Director, Corporate Mental Health Alliance Australia
@@ -364,8 +364,8 @@ modules:
       adipiscing elit. Quisque tincidunt, odio ac lacinia faucibus, orci elit
       finibus nisl, ut ullamcorper enim purus ut nisl."'
     type: our_board
-    our_board_exec_description: Our executive works hand-in-hand with members to
-      support their involvement with the Corporate Mental Health Alliance
+    our_board_exec_description: Our program director works hand-in-hand with members
+      to support their involvement with the Corporate Mental Health Alliance
       Australia at a strategic level, and in the day-to-day delivery of our
       initiatives.
   - type: friends_cmhaa
