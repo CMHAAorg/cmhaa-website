@@ -46,7 +46,7 @@ But there’s also a feeling of helplessness among us all about what to do.
 
 There is no magic solution to dealing with mental health. But I’m hopeful that initiatives like Corporate Mental Health Alliance Australia become the ‘secret sauce’ that help businesses take that next step.
 
-We’re aiming to start a movement that leads to all employees going to work feeling genuinely cared for, knowing there is support for them in their personal life as well as their work life.
+We’re aiming to start a movement that leads to all employees going to work feeling genuinely cared for, knowing there is support for them in their work life as well as their personal life.
 
 While the Alliance has a strong focus on building workplace mental fitness, it doesn’t shy away from the more complex mental health issues. We spend so much time at work – and now at work remotely – it’s critical that people who are really struggling can get the right care at the right time.
 
