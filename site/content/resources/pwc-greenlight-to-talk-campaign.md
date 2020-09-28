@@ -87,7 +87,7 @@ modules:
   - type: soundcloud
     souncloud_heading: 'Revolutionaries of Wellbeing - Episode 12: "Green Light to
       Talk" - Mental health at PwC'
-    souncloud_url: https://www.podbean.com/eu/pb-2k4sv-e7b9ba
+    souncloud_url: https://soundcloud.com/rowwellbeing/green-light-to-talk-mental-health-at-pwc
   - type: rich-text
     richtext_top: false
     richtext: >-
