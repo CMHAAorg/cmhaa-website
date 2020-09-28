@@ -342,8 +342,8 @@ modules:
     our_board_exec_name: Vicki Forbes
     our_board_description: We are governed by a Board comprised of leaders from
       within our Founding Member organisations. The Board is supported at an
-      operational level through each member's sponsorship of a Functional Lead
-      representative.
+      operational level through a working group comprising representatives from
+      each member organisation.
     our_board_exec_title: Program Director, CMHAA
     exec_board:
       - exec_board_description: >-
