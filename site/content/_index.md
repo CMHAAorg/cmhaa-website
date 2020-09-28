@@ -147,5 +147,5 @@ modules:
       Australia, and the world, as a part of the CMHA Global network.
 slug: homepage
 banner_cta_link: https://adoring-easley-b6cc0a.netlify.app/about/
-banner_cta_text: SEE WHO'S INVOLVED
+banner_cta_text: See who's involved
 ---
