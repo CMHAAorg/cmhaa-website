@@ -109,8 +109,8 @@ modules:
     stacked_image: img/istockphoto-1172976280-2048x2048-join-our-community.jpg
     stacked_description: Join our community of business leaders, experts and partner
       organisations and be a part of our united voice for change on mental
-      health in the workplace. We welcome businesses of any size or type across
-      all industries.
+      health in the workplace. Our program will kick off in February 2021 with a
+      focus on developing mental health capability in leaders.
     stacked_title: Join us
     stacked_cta_link: /contact-us/
     stacked_cta_text: More about membership
