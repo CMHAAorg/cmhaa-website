@@ -169,6 +169,6 @@ modules:
       We may modify or amend this Privacy Policy from time to time by posting an updated version on our Site. You can obtain a copy of the current Privacy Policy from our Site or by contacting us using the contact details in Section 13 (Contact Us).
 
 
-      This Privacy Policy is current as at August 2020.
+      This Privacy Policy is current as at October 2020.
     richtext_top: true
 ---
