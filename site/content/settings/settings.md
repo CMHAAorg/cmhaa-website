@@ -7,14 +7,14 @@ footer:
       Health Alliance Australia
     footer_global_link:
       - footer_global_link_country: UNITED KINGDOM
-        footer_global_link_url: https://www.cmhahk.org/
+        footer_global_link_url: https://citymha.org.uk/
         footer_global_link_url_text: citymha.org.uk
       - footer_global_link_country: HONG KONG
-        footer_global_link_url_text: www.cmhahk.org
+        footer_global_link_url_text: cmhahk.org
         footer_global_link_url: https://www.cmhahk.org/
       - footer_global_link_country: AUSTRALIA
         footer_global_link_url: https://www.chmaa.org.au/
-        footer_global_link_url_text: www.chmaa.org.au
+        footer_global_link_url_text: chmaa.org.au
     footer_social_link:
       - footer_social_link_platform: linkedin
         footer_social_link_url: http://linkedin.com/
