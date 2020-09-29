@@ -14,7 +14,7 @@ modules:
       This Privacy Policy is issued by Corporate Mental Health Alliance Australia Limited (ABN 28 638 927 125) (**CMHA Australia**, **we**, **us** or **our**), and explains how we collect, use and disclose your personal information. This Privacy Policy governs all personal information collected, used and disclosed by CMHA Australia, including on this website (our **Site**).
 
 
-      Please read this Privacy Policy and our Terms of Use \[insert hyperlink to Terms of Use] before making use of our Site or services.
+      Please read this Privacy Policy and our [Terms of Use](www.cmhaa.org.au/terms-conditions/) before making use of our Site or services.
 
 
       ### 2. Personal Information and Sensitive Information
@@ -97,7 +97,7 @@ modules:
       We will also take reasonable steps to destroy or de-identify personal information once we no longer require it for the purposes for which it was collected or for any secondary purpose permitted under Australian privacy laws.
 
 
-      ### 7. Who we disclose your personal information to, and why? 
+      ### 7. Who we disclose your personal information to, and why?
 
 
       We may transfer or disclose your personal information to our related charitable entities and external service providers so that they may perform services for us or on our behalf.
@@ -109,13 +109,13 @@ modules:
       If our ownership or control changes in whole or part, we may transfer your personal information to the new owner(s). 
 
 
-      ### 8. Overseas disclosures of personal information 
+      ### 8. Overseas disclosures of personal information
 
 
       We may disclose your personal information to recipients that are located outside Australia. These recipients are likely to be located in the United Kingdom and Hong Kong.
 
 
-      ### 9. Direct marketing activities 
+      ### 9. Direct marketing activities
 
 
       Subject to our spam obligations, we will use your personal information to offer you information about relevant services, materials or events that we believe may interest you, but we will not do so if you tell us not to. These services, materials and events may be offered by us, businesses that support us, or our service providers.
@@ -124,7 +124,7 @@ modules:
       Where you receive electronic marketing communications from us, you may opt out of receiving further marketing communications by following the opt out instructions. 
 
 
-      ### 10. Cookies 
+      ### 10. Cookies
 
 
       Like many websites, our Site uses “cookies” to maintain a record of your visit to our Site. A “cookie” is a small text file that is placed on your internet connected device to identify you. Cookies help us to improve our Site, and to deliver a more personalised service to you. We make use of third parties, such as Google Analytics, for such purposes. Please note that these third parties may use cookies and other tracking technologies which collect information to perform their services.
@@ -133,7 +133,7 @@ modules:
       Most web browsers automatically accept cookies. If you would prefer to prevent your internet connected device from accepting cookies or to notify you each time a cookie is sent to your browser, you may follow your internet browser’s steps for doing so. However, if you do so the full functionality of our Site may be affected.
 
 
-      ### 11. Access and correction of personal information 
+      ### 11. Access and correction of personal information
 
 
       You can access or request correction of the personal information that we hold about you by contacting us using the contact details in section 13 (Contact Us). While we do our best to accommodate access requests, there may be some circumstances where we cannot or we are not legally required to do so.
