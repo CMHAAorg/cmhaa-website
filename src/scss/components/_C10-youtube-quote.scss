@@ -8,6 +8,7 @@
 
   &__container {
     background-color: $grey-lightest;
+    padding-bottom: 60px;
   }
 
   @media (max-width: $breakpoint-small) {

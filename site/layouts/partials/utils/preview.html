@@ -1,0 +1,6 @@
+{{- $strlen := .text | len -}}
+{{- if gt $strlen .maxlen -}}
+  {{ substr .text 0 .maxlen }}...
+{{- else -}}
+  {{ .text }}
+{{- end -}}

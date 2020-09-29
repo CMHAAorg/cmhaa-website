@@ -19,7 +19,7 @@
                         {{end}}
                     </div>
                     <div class="uk-card-body uk-icon-adjust">
-                        <p>{{ $element.feat_member_description }}</p>
+                        <p>{{ partial "utils/preview.html" (dict "maxlen" 160 "text" $element.feat_member_description) }}</p>
                         {{if $element.feat_member_link}}
                         <a href="{{ $element.feat_member_link }}" class="uk-button uk-button-minimal"><span uk-icon="minus"></span> {{ $element.feat_member_cta }}</a>
                         {{end}}
