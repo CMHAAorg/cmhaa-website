@@ -130,6 +130,6 @@ modules:
       If you have any questions about these Terms of Use, please contact us at [info@cmhaa.org.au](mailto:info@cmhaa.org.au).
 
 
-      These Terms of Use are current as at August 2020.
+      These Terms of Use are current as at October 2020.
     richtext_top: true
 ---
