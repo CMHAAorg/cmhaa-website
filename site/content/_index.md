@@ -1,5 +1,5 @@
 ---
-title: Homepage
+title: Home
 meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
 meta_description: This is a detailed description of the page.
 banner_title: Together in the business of workplace mental health.
