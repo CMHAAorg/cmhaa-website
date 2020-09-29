@@ -1,8 +1,8 @@
 ---
-title: Website Terms of Use
+title: Terms of Use
 meta_keywords: Terms Conditions, Mental Awareness, CMHAA
 meta_description: This is a detailed description of the terms conditions page.
-banner_title: Website Terms of Use
+banner_title: Terms of Use
 banner_description: ""
 banner_right_image: ""
 modules:
