@@ -147,21 +147,6 @@ modules:
       support and create mentally healthy workplaces for their people.
       Together,  they are leading a movement for positive change across
       Australia, and the world, as a part of the CMHA Global network.
-  - type: stacked-content-top-image
-    stacked_title: test
-    stacked_description: >-
-      testing this
-
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-    stacked_image: img/about-us.jpg
-    stacked_cta_link: https://www.google.com
-    stacked_cta_text: My Button
 slug: homepage
 banner_cta_link: https://adoring-easley-b6cc0a.netlify.app/about/
 banner_cta_text: See who's involved
