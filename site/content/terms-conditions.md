@@ -17,7 +17,7 @@ modules:
       ### 2. Acceptance
 
 
-      Please read these Terms of Use and our Privacy Policy \[insert hyperlink to Privacy Policy] before making use of our Site. By using our Site you agree to, and must comply with, these Terms of Use and our Privacy Policy \[insert hyperlink to Privacy Policy].
+      Please read these Terms of Use and our [Privacy Policy](www.cmhaa.org.au/privacy-policy/) before making use of our Site. By using our Site you agree to, and must comply with, these Terms of Use and our [Privacy Policy](www.cmhaa.org.au/privacy-policy/).
 
 
       ### 3. Amendments to these Terms of Use
@@ -112,7 +112,7 @@ modules:
       ### 11. CMHA Australia Privacy Policy
 
 
-      Please see our Privacy Policy \[insert hyperlink to Privacy Policy] for details of how we collect and handle your personal information.
+      Please see our [Privacy Policy](www.cmhaa.org.au/privacy-policy/) for details of how we collect and handle your personal information.
 
 
       ### 12. Variations to our site
