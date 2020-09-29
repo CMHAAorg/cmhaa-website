@@ -30,6 +30,11 @@
 
   &__lead {
     padding-bottom: 20px;
+    
+    @media (max-width: $breakpoint-medium) {
+      padding-top: 20px;
+      padding-bottom: 0;
+    }
   }
 
   @media (min-width: $breakpoint-medium) {
