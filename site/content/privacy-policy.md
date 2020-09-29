@@ -2,9 +2,9 @@
 title: Privacy Policy
 meta_keywords: Privacy Policy, Mental Awareness, CMHAA
 meta_description: This is a detailed description of the page.
-banner_title: Headline over 2 lines
+banner_title: Privacy Policy
 banner_description: ""
-banner_right_image: img/bannerrightimage.jpg
+banner_right_image: ""
 modules:
   - type: rich-text
     richtext: >-
