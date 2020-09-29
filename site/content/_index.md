@@ -109,9 +109,10 @@ modules:
     stacked_image: img/istockphoto-1172976280-2048x2048-join-our-community.jpg
     stacked_description: Join our community of business leaders, experts and partner
       organisations and be a powerful voice for change on workplace mental
-      health. Our program will kick off in February 2021 with strenthening
-      leadership capability on mental health a focus of our work for the first
-      six months.
+      health. We are currently accepting expressions of interest for membership
+      commencing 2021. Kicking off in February 2021, our program for the first
+      six months will focus on strenthening leadership capability on mental
+      health.
     stacked_title: Join us
     stacked_cta_link: /contact-us/
     stacked_cta_text: More about membership
