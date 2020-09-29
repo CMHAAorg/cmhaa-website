@@ -25,7 +25,7 @@ footer:
         footer_pirvacy_link_url: /privacy-policy
       - footer_pirvacy_link_text: Contact us
         footer_pirvacy_link_url: /contact-us
-      - footer_pirvacy_link_text: Terms and Conditions
+      - footer_pirvacy_link_text: Terms of use
         footer_pirvacy_link_url: /terms-conditions
     footer_ga: UA-175325361-1
 seo:
