@@ -31,7 +31,7 @@
                             <canvas width="120" height="120"></canvas>
                             {{ if $element.our_board_image }}
                                 {{- $path := resources.Get $element.our_board_image -}} 
-                                {{- $image := ($path.Fill "500x500").RelPermalink }}
+                                {{- $image := ($path.Fill "300x300").RelPermalink }}
                                 <img src="{{ $image }}" alt="image for {{ $element.our_board_name }}" uk-cover>
                             {{ end }}
                         </div>
@@ -143,7 +143,7 @@
                                             <canvas width="120" height="120"></canvas>
                                             {{ if $element.exec_board_image }}
                                                 {{- $path := resources.Get $element.exec_board_image -}} 
-                                                {{- $image := ($path.Fill "120x120").RelPermalink }}
+                                                {{- $image := ($path.Fill "300x300").RelPermalink }}
                                                 <img src="{{ $image }}" alt="image for {{ $element.exec_board_name }}" uk-cover>
                                             {{ end }}
                                         </div>
@@ -166,7 +166,11 @@
                                                 <div class="uk-width-1-1@s uk-width-1-4@m">
                                                     <div class="uk-cover-container">
                                                         <canvas width="500" height="500"></canvas>
-                                                        <img class="C13-our-board__member-image" src="{{ $element.exec_board_image }}" alt="image of {{ $element.exec_board_name }}" uk-cover>
+                                                        {{ if $element.exec_board_image }}
+                                                            {{- $path := resources.Get $element.exec_board_image -}} 
+                                                            {{- $image := ($path.Fill "500x500").RelPermalink }}
+                                                            <img class="C13-our-board__member-image" src="{{ $image }}" alt="image of {{ $element.exec_board_name }}" uk-cover>
+                                                        {{ end }}
                                                     </div>
 
                                                     <h3>{{ $element.exec_board_name }}</h3>
