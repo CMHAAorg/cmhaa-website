@@ -29,7 +29,7 @@ modules:
         text_input_label: Surname
         text_input_required: true
         text_field_error_message: Your surname is required.
-        text_field_min_char: 1
+        text_field_min_char: 2
         text_field_max_char: 100
       - type: FC01_email
         email_id: email
