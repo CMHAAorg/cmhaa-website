@@ -42,4 +42,6 @@ modules:
         text_area_required: true
         text_area_error_message: Your comments are required.
         text_area_max_char: 995
+  - type: recommended_resources
+    heading: dsfsdf
 ---
