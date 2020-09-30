@@ -19,6 +19,7 @@
         font-size: 18px;
         line-height: 140%;
         font-weight: 500;
+        font-family: Futura, sans-serif;
         margin-bottom: 5px;
         text-decoration: underline;
       }
@@ -75,6 +76,14 @@
     .C13-our-board__member {
       padding-top: 40px;
       width: fit-content;
+
+      a {
+        display: flex;
+
+        .uk-card-body {
+          max-width: 220px;
+        }
+      }
     }
 
     &-image {

@@ -1,4 +1,11 @@
 .footer {
+  margin-top: 50px;
+
+  #resource-listing + &,
+  .uk-background-muted + & {
+    margin-top: 0;
+  }
+
   .uk-text-lead {
     color: $global-white;
   }

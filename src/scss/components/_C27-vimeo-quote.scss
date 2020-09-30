@@ -1,6 +1,5 @@
 .C27-vimeo-quote {
   @include componentSpacingCompile($small:false);
-  padding-top: 0;
 
   @media (max-width: $breakpoint-small) {
     &.uk-container {
