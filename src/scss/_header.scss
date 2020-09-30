@@ -65,6 +65,12 @@
     }
   }
 
+  .nav-active & {
+    a {
+      color: $global-black;
+    }
+  }
+
   .sticky-header &,
   .uk-navbar-white & {
     background: white;
@@ -99,6 +105,7 @@
       transition: $transition-fast;
     }
 
+    .nav-active &,
     .sticky-header &,
     .uk-navbar-white &,
     {
@@ -109,18 +116,20 @@
   }
 
   .uk-navbar-container {
-    border-bottom: 1px solid white;
+    @media (min-width: $breakpoint-medium) {
+      border-bottom: 1px solid white;
+    }
   }
 
   .main-nav-toggle {
     $inner-height: 4px;
-    $inner-spacing: 4px;
+    $inner-spacing: 6px;
 
     display: none;
     position: relative;
     background: transparent;
     border: none;
-    width: 30px;
+    width: 20px;
     height: ($inner-height * 3 + $inner-spacing * 2);
     cursor: pointer;
 
@@ -152,6 +161,7 @@
         position: absolute;
         left: 0;
         transition: $transition-fast;
+        border-radius: 3px;
       }
 
       &:before {
