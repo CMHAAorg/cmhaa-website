@@ -44,6 +44,10 @@ modules:
     content2: Our mission is to put mental health at the heart of the business
       agenda. We want to drive improvements in the way Australian businesses
       respond and adapt to this rapidly evolving and growing challenge.
+    title3: TESTING the 3rd for display
+    content3: Our mission is to put mental health at the heart of the business
+      agenda. We want to drive improvements in the way Australian businesses
+      respond and adapt to this rapidly evolving and growing challenge.
   - type: quote
     quote_text: We want all employees to go to work feeling genuinely cared for,
       knowing there is support for them in their work life as well as their
