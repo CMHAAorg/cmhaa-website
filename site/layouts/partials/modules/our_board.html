@@ -107,7 +107,7 @@
                         {{ if (ne $index 0) }}
                             {{- $prevIndex := sub $index 1}}
                             {{- $prev := index ($members) $prevIndex -}}
-                            <a href="#modal-group-{{sub $index 1}}" class="uk-button uk-button-minimal uk-float-left" uk-toggle><span uk-icon="icon: chevron-left"></span><p class="uk-text-left">Previous <span>{{ $prev.our_board_name }}</span></p></a>
+                            <a href="#modal-group-{{sub $index 1}}" class="uk-button uk-button-minimal uk-float-left uk-visible@s" uk-toggle><span uk-icon="icon: chevron-left"></span><p class="uk-text-left">Previous <span>{{ $prev.our_board_name }}</span></p></a>
                         {{end}}
                         {{ if or (ne $index $members_count_real) }}
                             <!-- if it doesn't equal  the last item -->
@@ -125,7 +125,7 @@
     <!-- executive -->
     {{if .Module.our_board_exec_name}}
         {{ $exec_count := len .Module.exec_board }}
-        <div class="uk-section uk-section-muted uk-flex-center C13-our-board__executive">
+        <div class="uk-section uk-section-muted uk-flex-center uk-padding C13-our-board__executive">
             <div class="uk-container uk-text-center">
                 <h3>Executive</h3>
                 <div class="uk-grid uk-grid-stack uk-text-center" uk-grid>
@@ -133,11 +133,11 @@
                         {{ .Module.our_board_exec_description | markdownify }}
 
                         <div class="uk-container uk-container-xsmall C13-our-board__member uk-align-center">
-                            <div class="uk-text-center" >
+                            <div class="uk-text-center2" >
                             {{ $exec_count_real := (sub $exec_count 1) }}
                             {{- $exec_members := .Module.exec_board -}}
                             {{ range $index, $element := .Module.exec_board }}
-                                <a class="uk-card uk-grid-collapse uk-child-width-1-2 uk-margin" uk-grid href="#modal-group-exec{{$index}}" uk-toggle uk-grid>
+                                <a class="uk-card uk-grid-collapse uk-margin" uk-grid href="#modal-group-exec{{$index}}" uk-toggle uk-grid>
                                     <div class="uk-card-media-left">
                                         <div class="uk-cover-container">
                                             <canvas width="120" height="120"></canvas>
@@ -218,9 +218,9 @@
                                                 <!-- if it doesn't equal first item -->
                                                 {{- $prevIndex := sub $index 1}}
                                                 {{- $prev := index ($exec_members) $prevIndex -}}
-                                                <a href="#modal-group-exec{{sub $index 1}}" class="uk-button uk-button-minimal uk-float-left" uk-toggle><span uk-icon="icon: chevron-left"></span><p class="uk-text-left">Previous <span>{{ $prev.exec_board_name }}</span></p></a>
+                                                <a href="#modal-group-exec{{sub $index 1}}" class="uk-button uk-button-minimal uk-float-left uk-visible@s" uk-toggle><span uk-icon="icon: chevron-left"></span><p class="uk-text-left">Previous <span>{{ $prev.exec_board_name }}</span></p></a>
                                             {{end}}
-                                            {{ if or (ne $index $exec_count_real) }}
+                                            {{ if (ne $index $exec_count_real) }}
                                                 <!-- if it doesn't equal  the last item -->
                                                 {{- $nextIndex := add $index 1}}
                                                 {{- $next := index ($exec_members) $nextIndex -}}
