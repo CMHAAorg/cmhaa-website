@@ -110,11 +110,6 @@ modules:
       - pdf_downloads_list_heading: GLTT Advocate Role
         pdf_downloads_list_file: img/copy-of-gltt-advocate-role.pptx
         pdf_downloads_list_text: ""
-  - type: want_know_more
-    article_title: Want to find out more?
-    article_description: Please reach out to us to find out more about this bespoke program.
-    article_fullname: Kate Connors, Director, Head of Wellbeing, PwC
-    article_email: kate.connors@pwc.com
 ---
 Mental health is an issue that touches so many of us, whether directly or through someone we know. Rates of depression, anxiety, suicide and self-harm in Australian workplaces continue to rise at an alarming pace.
 
