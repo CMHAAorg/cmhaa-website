@@ -18,11 +18,18 @@ modules:
     form_title: Contact us
     components:
       - type: FC02_text_input_area
-        text_field_id: fullname
-        text_input_label: Name
+        text_field_id: firstname
+        text_input_label: First name
         text_input_required: true
-        text_field_error_message: Your name is required.
+        text_field_error_message: Your first name is required.
         text_field_min_char: 2
+        text_field_max_char: 100
+      - type: FC02_text_input_area
+        text_field_id: lastname
+        text_input_label: Surname
+        text_input_required: true
+        text_field_error_message: Your surname is required.
+        text_field_min_char: 1
         text_field_max_char: 100
       - type: FC01_email
         email_id: email
