@@ -5,8 +5,8 @@ meta_keywords: Contact Us, Mental Awareness, CMHAA, Corporate Mental Health
 meta_description: Business-led. Expert-guided.
 banner_title: Let's connect.
 banner_description: ""
-banner_image: img/istock-597647584-2.jpg
-banner_right_image: ""
+banner_image: ""
+banner_right_image: img/istock-927616464.jpg
 modules:
   - type: separator-line
     padding_top: true
