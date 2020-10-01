@@ -30,7 +30,7 @@
                             <h3>{{ .Module.stacked_title }}</h3>
                         </div>
                         <div class="uk-width-1-1@s uk-width-3-4@m uk-icon-adjust">
-                            <p class="uk-text-lead">{{ .Module.stacked_description | markdownify }}</p>
+                            <div class="uk-text-lead">{{ .Module.stacked_description | markdownify }}</div>
                             {{if .Module.stacked_cta_link }}
                             <a href="{{ .Module.stacked_cta_link }}" class="uk-button-margin-small uk-button uk-button-primary uk-margin-bottom">{{ .Module.stacked_cta_text }} <span uk-icon="chevron-right"></span></a>
                             {{ end }}

@@ -86,18 +86,21 @@ h4 {
 }
 
 .uk-text-lead {
-  font-family: Futura;
-  font-style: normal;
-  font-weight: 200;
-  font-size: 28px;
-  line-height: 140%;
-
-  @media (max-width: $breakpoint-medium) {
-    font-size: 24px;
-  }
-
-  @media (max-width: $breakpoint-small) {
-    font-size: 20px;
+  &, 
+  p {
+    font-family: Futura;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 28px;
+    line-height: 140%;
+  
+    @media (max-width: $breakpoint-medium) {
+      font-size: 24px;
+    }
+  
+    @media (max-width: $breakpoint-small) {
+      font-size: 20px;
+    }
   }
 }
 

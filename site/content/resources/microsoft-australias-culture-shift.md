@@ -16,7 +16,7 @@ organisation_size: Large (250+ employees)
 industry: IT & Telecommunications
 modules:
   - type: feature_resource
-    resource: Steven Worrall, Microsoft Australia
+    resource: steven-worrall-microsoft-australia
   - type: rich-text
     richtext_top: false
     richtext: >-
