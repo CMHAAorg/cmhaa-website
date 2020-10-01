@@ -44,4 +44,7 @@ modules:
         text_area_max_char: 995
   - type: recommended_resources
     heading: dsfsdf
+    resources:
+      - ben-fitzpatrick-aia-australia
+      - john-cantor-minterellison
 ---
