@@ -26,7 +26,7 @@
   }
   .uk-background-cover {
     padding-top: 80px;
-    min-height: 580px;
+    min-height: 662px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -36,11 +36,12 @@
     }
 
     @media (max-width: $breakpoint-medium) {
-      min-height: 450px;
+      min-height: 480px;
     }
 
     @media (max-width: $breakpoint-small) {
-      min-height: 360px;
+      justify-content: flex-end;
+      min-height: 380px;
     }
   }
   .uk-background-transparent {
@@ -56,8 +57,20 @@
     border-bottom-right-radius: $border-radius;
 
     @media (max-width: $breakpoint-small) {
-      max-width: 100%;
-      padding: 60px 5px 30px;
+      max-width: 96%;
+      padding: 60px 0 30px;
+    }
+
+    > * {
+      margin-bottom: 0;
+
+      & + * {
+        margin-top: 32px;
+
+        @media (min-width: $breakpoint-small) {
+          margin-top: 45px;
+        }
+      }
     }
   }
 
