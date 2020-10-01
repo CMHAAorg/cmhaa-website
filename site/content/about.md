@@ -52,6 +52,48 @@ modules:
       facilitated by PwC's Impact Assembly, January 2020.
   - our_board_exec_linkedin: https://www.linkedin.com/
     board:
+      - our_board_image: img/cba-culleton-a-023.jpg
+        our_board_name: Andrew Culleton
+        our_board_title: Executive General Manager Group People Services, Commonwealth
+          Bank of Australia
+        our_board_quote: When you genuinely care about mental wellbeing, you have a
+          responsibility to expose yourself to new ideas, new ways of thinking
+          and working. You also have a responsibility to make an impact.
+        our_board_description: >-
+          Andrew is responsible for creating a better day at work for employees
+          at the Commonwealth Bank, guided by the Bank’s purpose – to improve
+          the financial wellbeing of its customers and communities.
+
+
+          Andrew believes that, as one of Australia’s largest organisations, CBA has an opportunity and obligation to enhance the lives of millions each year by supporting their financial wellbeing. To do the best for the customers and communities that rely on CBA, it’s people need to be at their best themselves. This is what makes finding new ways to preserve, protect and care for people’s physical and mental health, no matter where they are currently on the health continuum, one of Andrew’s most important priorities.
+
+
+          Andrew lives in Sydney with his wife and four children.
+        our_board_linkedin: https://www.linkedin.com/in/andrew-culleton-757aab2/
+      - our_board_name: Annette Kimmitt AM
+        our_board_image: img/kimmitt_annette_photo_1200.jpg
+        our_board_title: CEO & Managing Partner of the Firm, MinterEllison
+        our_board_linkedin: " https://www.linkedin.com/in/annettekimmitt/"
+        our_board_description: >-
+          With over 35 years experience, Annette's executive career has included
+          a range of senior roles and she has extensive local and international
+          experience in designing and implementing large, complex
+          transformations, and a strong track record in unlocking organisational
+          potential.
+
+
+          Annette is a member of the Business Council of Australia's Economic Policy and Competitiveness Committee and was appointed in 2019 as 'Pay Equity Ambassador' by the Australian Government's Workplace Gender Equality Agency in recognition of her significant contribution to empowering and supporting women and in advocating for gender pay equity.
+
+
+          Serving as the Victorian Chair of the Institute of Chartered Accountants in 2009 she pioneered the accounting profession's focus on supporting the mental health and wellbeing of its members.
+
+
+          Annette has been married to her husband Rod for over 34 years, and they have two children, Rhys and Courtney.
+        our_board_quote: "Mental health, for me, is all about psychological fitness.
+          Feeling well, enjoying the challenges of life and work, and feeling
+          equipped to deal with what’s in front of you in the workplace. That
+          headspace allows you to support family, friends and colleagues as
+          well. "
       - our_board_name: Ben Fitzpatrick
         our_board_image: img/aia-aus_ben-fitzpatrick.jpg
         our_board_title: Workplace Health & Safety Manager, AIA Australia
@@ -69,41 +111,49 @@ modules:
           for me. That’s providing an open workplace for people to be
           themselves, to be vulnerable, and if they need to share their story,
           they can without being judged.
-      - our_board_name: Helen Silver AO
-        our_board_title: Chief General Manager, Corporate Governance and Conduct,
-          Allianz Australia Insurance Ltd
-        our_board_image: img/helen-silver-14-bio-pic.jpg
-        our_board_linkedin: https://www.linkedin.com/in/silverhelen/
+      - our_board_name: Berkeley Cox
+        our_board_image: img/berkley-cox_port.jpg
+        our_board_title: Chief Executive Partner, King & Wood Mallesons
+        our_board_quote: But by being open about my own challenges, I hope to help
+          destigmatise mental health and wellness in the workplace. I want
+          people to appreciate that you can have your own mental health
+          struggles, be vulnerable and have a successful and fulfilling career.
         our_board_description: >-
-          Helen Silver is Allianz Australia’s Chief General Manager, Corporate
-          Governance and Conduct.
+          Berkeley Cox is the Chief Executive Partner of the Australian
+          operations of King & Wood Mallesons, a global law firm headquartered
+          in Asia. He leads the strategic direction of the Australian firm
+          (comprising approximately 1,000 lawyers and 600 shared services and
+          support personnel) and drives execution against firm priorities and on
+          its client, people, international, innovation and community agenda.
 
 
-          Prior to joining Allianz Australia, Helen had spent more than 25 years in executive roles in the Victoria and Commonwealth public sectors, culminating in the position of Secretary of the Victorian Department of Premier and Cabinet.
+          King & Wood Mallesons is seeking to challenge traditional ‘big law’ notions by creating a workplace where all individuals and teams can maximise their performance and wellbeing in a sustainable way by focussing on both systemic and proximate change and on improving the everyday experience for all.
 
 
-          Helen also currently serves on a number of boards including the Victorian Arts Centre Trust, the Judicial Commission and the Melbourne Symphony Orchestra.
-        our_board_quote: If we are to get people to seek help early, we need to reduce
-          the stigma associated with asking for that help. As leaders we have a
-          role in that. If leaders open up about mental health, the quicker it
-          will become a part of our everyday and overall health conversations.
-      - our_board_name: Michael Schneider
-        our_board_image: img/mike-4-july-2019.jpg
-        our_board_title: Managing Director, Bunnings Group Limited
-        our_board_linkedin: https://www.linkedin.com/in/michael-schneider-72116917/
+          He currently serves as a Director on the Boards of Workplace Giving Australia (WGA) and Act for Kids.
+
+
+          Berkeley enjoys spending time with his family and with the rich and diverse natural environment that we are fortunate to share in this country.
+        our_board_linkedin: https://www.linkedin.com/in/berkeley-cox-004372a2/
+      - our_board_name: Brian Long
+        our_board_image: img/img_20200826_105910_4.jpg
+        our_board_title: General Manager Safety, Health & Wellbeing, Woolworths Group
+        our_board_linkedin: https://www.linkedin.com/in/brian-long-6710469/
         our_board_description: >-
-          Michael Schneider was appointed Managing Director Bunnings Australia
-          and New Zealand in March 2016.
+          Brian joined the Woolworth's Group as the General Manager, Safety,
+          Health and Wellbeing, with mental health and wellbeing identified as
+          one of Brian's key priorities.
 
 
-          He is committed to developing diverse teams that challenge the status quo and embrace innovation to drive high performance which is critical in today’s competitive retail environment. As a leader, he is known for his collaborative, genuine and honest style and for having a real passion and energy for the Bunnings business.
+          Throughout his career, Brian has played a pivotal role in engendering a culture of care.
 
 
-          Michael believes that team members’ ability to connect with customers and the local community is key to the business’ success and that this requires an ongoing investment in building the best team as well as creating a culture that builds trust, inspires action, develops people and drives performance.
-        our_board_quote: As a leader, improving mental health starts with a willingness
-          to make yourself vulnerable. If you can accept your own short-comings
-          and open some of those up to others, people feel less alone. That’s
-          all a lot of people in the world want, to feel less alone.
+          As a globally influential Safety, Resilience, Wellbeing and Sustainability Leader, with a proven track record in delivering tangible business outcomes, whilst maintaining an unflinching commitment to improving the lives of the people he interacts with.
+        our_board_quote: "I learnt the importance of being vulnerable and getting
+          support. I reflected on myself and my work. I created space to live
+          the genuine life I wanted to live. I added things outside of work that
+          gave me joy and fulfilment. Mental health is now a crucial element in
+          my whole being. "
       - our_board_name: Bruce Cooper
         our_board_image: img/clayton_cooperbruce_externalprint_2000x2000.jpg
         our_board_title: Chief Executive Partner, Clayton Utz
@@ -141,104 +191,6 @@ modules:
           member of the board of Queensland Venue Company, a joint venture
           operating hotels and retail liquor outlets throughout Queensland.
         our_board_linkedin: https://www.linkedin.com/in/davidabrewster/
-      - our_board_image: img/cba-culleton-a-023.jpg
-        our_board_name: Andrew Culleton
-        our_board_title: Executive General Manager Group People Services, Commonwealth
-          Bank of Australia
-        our_board_quote: When you genuinely care about mental wellbeing, you have a
-          responsibility to expose yourself to new ideas, new ways of thinking
-          and working. You also have a responsibility to make an impact.
-        our_board_description: >-
-          Andrew is responsible for creating a better day at work for employees
-          at the Commonwealth Bank, guided by the Bank’s purpose – to improve
-          the financial wellbeing of its customers and communities.
-
-
-          Andrew believes that, as one of Australia’s largest organisations, CBA has an opportunity and obligation to enhance the lives of millions each year by supporting their financial wellbeing. To do the best for the customers and communities that rely on CBA, it’s people need to be at their best themselves. This is what makes finding new ways to preserve, protect and care for people’s physical and mental health, no matter where they are currently on the health continuum, one of Andrew’s most important priorities.
-
-
-          Andrew lives in Sydney with his wife and four children.
-        our_board_linkedin: https://www.linkedin.com/in/andrew-culleton-757aab2/
-      - our_board_name: Ellen Derrick
-        our_board_image: img/ellen_derrick_2_lrg.jpg
-        our_board_title: National Leader for Public Sector & Public Policy, Deloitte Australia
-        our_board_linkedin: https://www.linkedin.com/in/ellen-derrick-33126030/
-        our_board_description: >-
-          Ellen is responsible for driving market growth and brand eminence
-          across public sector accounts and industry sectors and defining and
-          executing the Firm’s public policy strategy. She is also the Advisory
-          Partner for the Australian Federal Government, NSW, Victorian and
-          Western Australian Government accounts.
-
-
-          She has significant experience working within health and human services, social policy and regulatory agencies to embrace digital transformation, improve service delivery outcomes, and enhance operational efficiency.
-
-
-          Ellen plays an active role in local and national charitable foundations, including Cystic Fibrosis Australia, and is a mentor for the Centre for Economic Development of Australia and the Institute of Public Administration Australia.
-        our_board_quote: I love the power of a significant number of Australian business
-          leaders stating that mental health is critically important and that in
-          a way we're not doing enough, so together we’re going to do more, and
-          we’re going to be better in our organisations and together.
-      - our_board_name: Melinda Upton
-        our_board_image: img/internet_5y6a0050-edit.jpg
-        our_board_title: Partner, Global Co-Chair IPT, DLA Piper
-        our_board_linkedin: https://www.linkedin.com/in/melindaupton/
-        our_board_description: >-
-          Melinda Upton is a leading intellectual property lawyer and Global
-          Co-Chair of Intellectual Property and Technology (IPT) at global law
-          firm DLA Piper. The firm’s IPT practice group comprises over 500
-          lawyers across 25 countries.
-
-
-          Melinda is a passionate advocate for workplace health and wellbeing in the legal profession. She established DLA Piper’s first bespoke mental health and wellbeing program called SPEAK, is a founding member of DLA Piper’s International Health & Wellbeing Steering Committee and works tirelessly to raise awareness about mental ill-health and help drive positive change across our industry.
-
-
-          When Melinda isn’t working, you’ll find her enjoying backyard cricket with her family and friends, on the tennis court or doing “the bay” with one of her running friends or gorgeous collie, Watson.
-        our_board_quote: By showing our vulnerability as leaders, we teach to our people
-          that it’s okay to not be okay. We start to erode the barriers that
-          have kept people silent for so long.
-      - our_board_name: Felicity McDowell
-        our_board_description: >-
-          Felicity McDowell is the Legal Director of the Consumer Health
-          business of the Johnson & Johnson family of companies in Australia and
-          New Zealand and has held this role for many years.
-
-
-          She is passionate about people and mental wellbeing and openly shares her lived experience. Felicity co-leads the companies’ Mental Health Diplomats Employee Resource Group and is an Accredited Mental Health First Aider.
-
-
-          Felicity loves being in and around the water and is learning synchronised swimming with her daughter.
-        our_board_quote: It’s a chance for businesses to come together as a united voice
-          to pursue a vision of improving workplace mental health, where
-          everyone feels safe to talk about their mental health without fear of
-          stigma or discrimination.
-        our_board_title: Legal Director - Consumer Health, Johnson & Johnson Family of Companies
-        our_board_image: img/felicity2-copy.jpg
-        our_board_linkedin: ""
-      - our_board_name: Berkeley Cox
-        our_board_image: img/berkley-cox_port.jpg
-        our_board_title: Chief Executive Partner, King & Wood Mallesons
-        our_board_quote: But by being open about my own challenges, I hope to help
-          destigmatise mental health and wellness in the workplace. I want
-          people to appreciate that you can have your own mental health
-          struggles, be vulnerable and have a successful and fulfilling career.
-        our_board_description: >-
-          Berkeley Cox is the Chief Executive Partner of the Australian
-          operations of King & Wood Mallesons, a global law firm headquartered
-          in Asia. He leads the strategic direction of the Australian firm
-          (comprising approximately 1,000 lawyers and 600 shared services and
-          support personnel) and drives execution against firm priorities and on
-          its client, people, international, innovation and community agenda.
-
-
-          King & Wood Mallesons is seeking to challenge traditional ‘big law’ notions by creating a workplace where all individuals and teams can maximise their performance and wellbeing in a sustainable way by focussing on both systemic and proximate change and on improving the everyday experience for all.
-
-
-          He currently serves as a Director on the Boards of Workplace Giving Australia (WGA) and Act for Kids.
-
-
-          Berkeley enjoys spending time with his family and with the rich and diverse natural environment that we are fortunate to share in this country.
-        our_board_linkedin: https://www.linkedin.com/in/berkeley-cox-004372a2/
       - our_board_name: Deborah Yates
         our_board_image: img/deb-yates-high-res-head-shot.jpg
         our_board_title: National Managing Partner – People Performance & Culture &
@@ -259,6 +211,114 @@ modules:
 
 
           Deborah is married to Michael who together are parents to two teenage boys, and she loves to run, cook and entertain at her home in Sydney after many years of living abroad.
+      - our_board_name: Ellen Derrick
+        our_board_image: img/ellen_derrick_2_lrg.jpg
+        our_board_title: National Leader for Public Sector & Public Policy, Deloitte Australia
+        our_board_linkedin: https://www.linkedin.com/in/ellen-derrick-33126030/
+        our_board_description: >-
+          Ellen is responsible for driving market growth and brand eminence
+          across public sector accounts and industry sectors and defining and
+          executing the Firm’s public policy strategy. She is also the Advisory
+          Partner for the Australian Federal Government, NSW, Victorian and
+          Western Australian Government accounts.
+
+
+          She has significant experience working within health and human services, social policy and regulatory agencies to embrace digital transformation, improve service delivery outcomes, and enhance operational efficiency.
+
+
+          Ellen plays an active role in local and national charitable foundations, including Cystic Fibrosis Australia, and is a mentor for the Centre for Economic Development of Australia and the Institute of Public Administration Australia.
+        our_board_quote: I love the power of a significant number of Australian business
+          leaders stating that mental health is critically important and that in
+          a way we're not doing enough, so together we’re going to do more, and
+          we’re going to be better in our organisations and together.
+      - our_board_name: Felicity McDowell
+        our_board_description: >-
+          Felicity McDowell is the Legal Director of the Consumer Health
+          business of the Johnson & Johnson family of companies in Australia and
+          New Zealand and has held this role for many years.
+
+
+          She is passionate about people and mental wellbeing and openly shares her lived experience. Felicity co-leads the companies’ Mental Health Diplomats Employee Resource Group and is an Accredited Mental Health First Aider.
+
+
+          Felicity loves being in and around the water and is learning synchronised swimming with her daughter.
+        our_board_quote: It’s a chance for businesses to come together as a united voice
+          to pursue a vision of improving workplace mental health, where
+          everyone feels safe to talk about their mental health without fear of
+          stigma or discrimination.
+        our_board_title: Legal Director - Consumer Health, Johnson & Johnson Family of Companies
+        our_board_image: img/felicity2-copy.jpg
+        our_board_linkedin: ""
+      - our_board_name: Helen Silver AO
+        our_board_title: Chief General Manager, Corporate Governance and Conduct,
+          Allianz Australia Insurance Ltd
+        our_board_image: img/helen-silver-14-bio-pic.jpg
+        our_board_linkedin: https://www.linkedin.com/in/silverhelen/
+        our_board_description: >-
+          Helen Silver is Allianz Australia’s Chief General Manager, Corporate
+          Governance and Conduct.
+
+
+          Prior to joining Allianz Australia, Helen had spent more than 25 years in executive roles in the Victoria and Commonwealth public sectors, culminating in the position of Secretary of the Victorian Department of Premier and Cabinet.
+
+
+          Helen also currently serves on a number of boards including the Victorian Arts Centre Trust, the Judicial Commission and the Melbourne Symphony Orchestra.
+        our_board_quote: If we are to get people to seek help early, we need to reduce
+          the stigma associated with asking for that help. As leaders we have a
+          role in that. If leaders open up about mental health, the quicker it
+          will become a part of our everyday and overall health conversations.
+      - our_board_name: Kristin Stubbins
+        our_board_image: img/pwc_kristin-stubbins-photo-2-.jpg
+        our_board_title: Partner, PwC Australia
+        our_board_linkedin: https://www.linkedin.com/in/kristinstubbins/
+        our_board_description: >-
+          Kristin is a member of the Executive Board of PwC Australia as leader
+          of the Audit business. She has a deep commitment to improving the
+          mental wealth of our country through innovation. Kristin is a founder
+          of InnoWell, a joint venture between PwC and the University of Sydney
+          to develop technology to transform mental health and wellbeing service
+          delivery in Australia and globally.
+
+
+          Kristin was named as one of the Australian Financial Review’s “100 Women of Influence” in 2019, having been nominated in the innovation category. She is a Board Member of Mindgardens (an alliance aiming to bring mental health and neurological research closer to patients) and works with a group of senior female business leaders seeking to empower women in developing nations through education.
+        our_board_quote: We’re aiming to start a movement that leads to all employees
+          going to work feeling genuinely cared for, knowing there is support
+          for them in their personal life as well as their work life.
+      - our_board_name: Melinda Upton
+        our_board_image: img/internet_5y6a0050-edit.jpg
+        our_board_title: Partner, Global Co-Chair IPT, DLA Piper
+        our_board_linkedin: https://www.linkedin.com/in/melindaupton/
+        our_board_description: >-
+          Melinda Upton is a leading intellectual property lawyer and Global
+          Co-Chair of Intellectual Property and Technology (IPT) at global law
+          firm DLA Piper. The firm’s IPT practice group comprises over 500
+          lawyers across 25 countries.
+
+
+          Melinda is a passionate advocate for workplace health and wellbeing in the legal profession. She established DLA Piper’s first bespoke mental health and wellbeing program called SPEAK, is a founding member of DLA Piper’s International Health & Wellbeing Steering Committee and works tirelessly to raise awareness about mental ill-health and help drive positive change across our industry.
+
+
+          When Melinda isn’t working, you’ll find her enjoying backyard cricket with her family and friends, on the tennis court or doing “the bay” with one of her running friends or gorgeous collie, Watson.
+        our_board_quote: By showing our vulnerability as leaders, we teach to our people
+          that it’s okay to not be okay. We start to erode the barriers that
+          have kept people silent for so long.
+      - our_board_name: Michael Schneider
+        our_board_image: img/mike-4-july-2019.jpg
+        our_board_title: Managing Director, Bunnings Group Limited
+        our_board_linkedin: https://www.linkedin.com/in/michael-schneider-72116917/
+        our_board_description: >-
+          Michael Schneider was appointed Managing Director Bunnings Australia
+          and New Zealand in March 2016.
+
+
+          He is committed to developing diverse teams that challenge the status quo and embrace innovation to drive high performance which is critical in today’s competitive retail environment. As a leader, he is known for his collaborative, genuine and honest style and for having a real passion and energy for the Bunnings business.
+
+
+          Michael believes that team members’ ability to connect with customers and the local community is key to the business’ success and that this requires an ongoing investment in building the best team as well as creating a culture that builds trust, inspires action, develops people and drives performance.
+        our_board_quote: As a leader, improving mental health starts with a willingness
+          to make yourself vulnerable. If you can accept your own short-comings
+          and open some of those up to others, people feel less alone. That’s
+          all a lot of people in the world want, to feel less alone.
       - our_board_linkedin: https://www.linkedin.com/in/stevenworrallmicrosoft/
         our_board_description: >-
           As Managing Director, Steven Worrall is responsible for Microsoft’s
@@ -278,66 +338,6 @@ modules:
         our_board_image: img/steve-worrall-print.jpg
         our_board_name: Steven Worrall
         our_board_title: Managing Director, Microsoft Australia & Chair, CMHAA
-      - our_board_name: Annette Kimmitt AM
-        our_board_image: img/kimmitt_annette_photo_1200.jpg
-        our_board_title: CEO & Managing Partner of the Firm, MinterEllison
-        our_board_linkedin: " https://www.linkedin.com/in/annettekimmitt/"
-        our_board_description: >-
-          With over 35 years experience, Annette's executive career has included
-          a range of senior roles and she has extensive local and international
-          experience in designing and implementing large, complex
-          transformations, and a strong track record in unlocking organisational
-          potential.
-
-
-          Annette is a member of the Business Council of Australia's Economic Policy and Competitiveness Committee and was appointed in 2019 as 'Pay Equity Ambassador' by the Australian Government's Workplace Gender Equality Agency in recognition of her significant contribution to empowering and supporting women and in advocating for gender pay equity.
-
-
-          Serving as the Victorian Chair of the Institute of Chartered Accountants in 2009 she pioneered the accounting profession's focus on supporting the mental health and wellbeing of its members.
-
-
-          Annette has been married to her husband Rod for over 34 years, and they have two children, Rhys and Courtney.
-        our_board_quote: "Mental health, for me, is all about psychological fitness.
-          Feeling well, enjoying the challenges of life and work, and feeling
-          equipped to deal with what’s in front of you in the workplace. That
-          headspace allows you to support family, friends and colleagues as
-          well. "
-      - our_board_name: Kristin Stubbins
-        our_board_image: img/pwc_kristin-stubbins-photo-2-.jpg
-        our_board_title: Partner, PwC Australia
-        our_board_linkedin: https://www.linkedin.com/in/kristinstubbins/
-        our_board_description: >-
-          Kristin is a member of the Executive Board of PwC Australia as leader
-          of the Audit business. She has a deep commitment to improving the
-          mental wealth of our country through innovation. Kristin is a founder
-          of InnoWell, a joint venture between PwC and the University of Sydney
-          to develop technology to transform mental health and wellbeing service
-          delivery in Australia and globally.
-
-
-          Kristin was named as one of the Australian Financial Review’s “100 Women of Influence” in 2019, having been nominated in the innovation category. She is a Board Member of Mindgardens (an alliance aiming to bring mental health and neurological research closer to patients) and works with a group of senior female business leaders seeking to empower women in developing nations through education.
-        our_board_quote: We’re aiming to start a movement that leads to all employees
-          going to work feeling genuinely cared for, knowing there is support
-          for them in their personal life as well as their work life.
-      - our_board_name: Brian Long
-        our_board_image: img/img_20200826_105910_4.jpg
-        our_board_title: General Manager Safety, Health & Wellbeing, Woolworths Group
-        our_board_linkedin: https://www.linkedin.com/in/brian-long-6710469/
-        our_board_description: >-
-          Brian joined the Woolworth's Group as the General Manager, Safety,
-          Health and Wellbeing, with mental health and wellbeing identified as
-          one of Brian's key priorities.
-
-
-          Throughout his career, Brian has played a pivotal role in engendering a culture of care.
-
-
-          As a globally influential Safety, Resilience, Wellbeing and Sustainability Leader, with a proven track record in delivering tangible business outcomes, whilst maintaining an unflinching commitment to improving the lives of the people he interacts with.
-        our_board_quote: "I learnt the importance of being vulnerable and getting
-          support. I reflected on myself and my work. I created space to live
-          the genuine life I wanted to live. I added things outside of work that
-          gave me joy and fulfilment. Mental health is now a crucial element in
-          my whole being. "
     our_board_title: Our board
     our_board_exec_name: Vicki Forbes
     our_board_description: We are governed by a Board comprised of leaders from
