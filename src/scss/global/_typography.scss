@@ -87,7 +87,7 @@ h4 {
 
 .uk-text-lead {
   &, 
-  p {
+  p:first-child {
     font-family: Futura;
     font-style: normal;
     font-weight: 200;
