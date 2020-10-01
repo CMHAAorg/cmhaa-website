@@ -9,13 +9,28 @@ banner_image: ""
 banner_right_image: ""
 modules:
   - type: split_title_content
-    leadtext: The Corporate Mental Health Alliance Australia (CMHAA) is a
-      business-led, expert-guided non-profit organisation dedicated to
-      transforming workplaces into mentally healthy environments for their
-      people. Together, we are leading a movement for positive change across the
-      Australian business community.
-    title: About us
+    leadtext: "CMHAA welcomes businesses of all sizes and from all sectors, to join
+      the CMHAA member community. By becoming a CMHAA member, your business
+      will:"
+    title: Benefits of membership
     image: ""
+    content: >-
+      * Achieve a healthier, more engaged and resilient workforce where everyone
+      has an opportunity to thrive
+
+      * Reduce the costs associated with poor mental health; absenteeism, presenteeism, staff turnover, compensation claims and negative brand reputation
+
+      * Socialise mental health into the business, increasing understanding of mental health, challenging stigma, and fostering a culture of openness within the workplace
+
+      * Develop the skills and mental health literacy of employees working at all levels
+
+      * Sustain and embed a workplace culture that facilitates positive mental health in the workplace, by helping to ensure that good mental health practice is led and owned by business leaders and becomes integrated into the business’s strategic priorities
+
+      * Upskill, attract, recruit and retain talent from a wider pool
+
+      * Learn from other leading businesses on how they are supporting the mental health of their people
+
+      * Build a more diverse workforce – mental health is an inclusion issue
   - type: youtube_with_quote
     youtube_quote_text: The last thing we want as leaders is to have employees
       feeling stressed, depressed or anxious, or suffer an undiagnosed mental
