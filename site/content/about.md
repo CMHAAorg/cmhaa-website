@@ -415,6 +415,6 @@ modules:
       **Tread carefully**\
 
       We acknowledge that we don’t have all the answers, and we are taking our time to do things well.
-    callout_cta_link: /membership/
+    callout_cta_link: www.cmhaa.org.au/membership/
     callout_cta_text: More on member commitment
 ---
