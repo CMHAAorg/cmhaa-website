@@ -9,8 +9,9 @@ banner_image: img/istock-1185273881.jpg
 banner_right_image: ""
 modules:
   - type: split_title_content
-    leadtext: "By becoming a member, your business will:"
-    title: We welcome businesses of all sizes and from all sectors as members.
+    leadtext: "We welcome businesses of all sizes and from all sectors as members.
+      By becoming a member, your business will:"
+    title: Membership
     image: ""
     content: >-
       * Contribute to a step-change in the creation of mentally healthy
