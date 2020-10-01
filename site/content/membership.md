@@ -5,7 +5,7 @@ meta_keywords: Mental Awareness, Mental Health, CMHAA, About, Corporate Mental
   Health Alliance, City Mental Health Alliance
 meta_description: Business-led. Expert-guided.
 banner_title: Join our movement for change on workplace mental health.
-banner_image: img/istock-1185273881.jpg
+banner_image: img/istock-927616464.jpg
 banner_right_image: ""
 modules:
   - type: split_title_content
