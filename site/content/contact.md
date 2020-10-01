@@ -6,7 +6,7 @@ meta_description: Business-led. Expert-guided.
 banner_title: Let's connect.
 banner_description: ""
 banner_image: ""
-banner_right_image: img/screen-shot-2020-09-26-at-4.27.54-pm.png
+banner_right_image: img/istock-927616464.jpg
 modules:
   - type: separator-line
     padding_top: true
