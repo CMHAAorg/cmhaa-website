@@ -6,7 +6,7 @@ meta_keywords: Mental Awareness, Mental Health, CMHAA, About, Corporate Mental
 meta_description: Business-led. Expert-guided.
 banner_title: Join our movement for change on workplace mental health.
 banner_image: ""
-banner_right_image: img/screen-shot-2020-10-02-at-6.49.45-am.png
+banner_right_image: ""
 modules:
   - type: split_title_content
     leadtext: The Corporate Mental Health Alliance Australia (CMHAA) is a
