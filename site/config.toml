@@ -53,13 +53,13 @@ pages = "/:slug/"
     identifier = "membership"
     name = "Membership"
     url = "/membership/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 3
+    weight = 4
 
 # Algolia config
 [outputFormats.Algolia]
