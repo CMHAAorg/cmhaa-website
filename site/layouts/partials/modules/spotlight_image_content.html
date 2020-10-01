@@ -4,9 +4,11 @@
             <div>
                 <div class="uk-cover-container">
                     <canvas width="515" height="515"></canvas>
-                    {{- $path := resources.Get .Module.image -}}
-                    {{- $image := ($path.Fill "515x515").RelPermalink }}
-                    <img src="{{ $image }}" alt="image for {{ .Module.title1 }} and {{ .Module.title2 }}" uk-cover>
+                    {{ if .Module.image }}
+                        {{- $path := resources.Get .Module.image -}}
+                        {{- $image := ($path.Fill "800x800").RelPermalink }}
+                        <img src="{{ $image }}" alt="image for {{ .Module.title1 }} and {{ .Module.title2 }}" uk-cover>
+                    {{ end }}
                 </div>
             </div>
             <div class="C04-spotlight-image-content__text">

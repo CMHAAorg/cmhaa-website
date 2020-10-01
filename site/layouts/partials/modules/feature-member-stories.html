@@ -12,7 +12,9 @@
                         {{if $element.feat_member_image}}
                             <div class="uk-cover-container">
                                 <canvas width="360" height="280"></canvas>
-                                <img src="{{ $element.feat_member_image }}" alt="image for {{ $element.feat_member_description }}" uk-cover>
+                                {{- $path := resources.Get $element.feat_member_image -}} 
+                                {{- $image := ($path.Resize "800x").RelPermalink }}
+                                <img src="{{ $image }}" alt="image for {{ $element.feat_member_description }}" uk-cover>
                             </div>
                         {{else}}
                             <img src="/img/placeholder-noimage.gif" alt="image for {{ $element.feat_member_description }}" />

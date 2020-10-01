@@ -25,7 +25,11 @@
             <div class="C09-our-members__member C09-our-members__member{{$index}}" >
                 <a href="{{ $element.our_member_link }}" target="_blank" class="C09-our-members__member--link uk-flex uk-flex-center uk-flex-middle">
                     <div class="uk-width-small uk-align-center">
-                        <img src="{{ $element.our_member_image }}" alt="image for {{ $element.our_member_link }}">
+                        {{ if $element.our_member_image }}
+                            {{- $path := resources.Get $element.our_member_image -}} 
+                            {{- $image := ($path.Resize "300x").RelPermalink }}
+                            <img src="{{ $image }}" alt="image for {{ $element.our_member_link }}">
+                        {{ end }}
                     </div>
                 </a>
             </div>
@@ -44,7 +48,11 @@
                 <div class="C09-our-members__member C09-our-members__member{{$index}}">
                     <a href="{{ $element.our_member_link }}" target="_blank" class="C09-our-members__member--link uk-flex uk-flex-center uk-flex-middle">
                         <div class="uk-width-small uk-align-center">
-                            <img src="{{ $element.our_member_image }}" alt="image for {{ $element.our_member_link }}">
+                            {{ if $element.our_member_image }}
+                                {{- $path := resources.Get $element.our_member_image -}} 
+                                {{- $image := ($path.Resize "300x").RelPermalink }}
+                                <img src="{{ $image }}" alt="image for {{ $element.our_member_link }}">
+                            {{ end }}
                         </div>
                     </a>
                 </div>

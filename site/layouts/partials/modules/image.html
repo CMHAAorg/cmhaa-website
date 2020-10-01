@@ -1,11 +1,15 @@
 <div class="C11-image uk-container global-padding-tb uk-padding-remove-top uk-margin-medium-top uk-margin-bottom">
     <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-1@s uk-margin uk-card-no-box-shadow" uk-grid>
         <figure class="uk-card-media-left uk-cover-container">
-            <img src="{{ .Module.image }}" alt="image for {{ .Module.image }}" uk-cover>
-            <canvas width="600" height="400"></canvas>
-            {{ if .Module.image_caption }}
-            <figcaption>{{- .Module.image_caption -}}</figcaption>
-            {{end}}
+            {{ if .Module.image }}
+                {{- $path := resources.Get .Module.image -}} 
+                {{- $image := ($path.Resize "1200x").RelPermalink }}
+                <img src="{{ $image }}" alt="{{ if .Module.image_caption }}{{ .Module.image_caption }}{{ end }}" uk-cover>
+                <canvas width="600" height="400"></canvas>
+                {{ if .Module.image_caption }}
+                    <figcaption>{{- .Module.image_caption -}}</figcaption>
+                {{end}}
+            {{ end }}
         </figure>
     </div>
 </div>
