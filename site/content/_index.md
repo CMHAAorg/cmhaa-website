@@ -34,7 +34,7 @@ modules:
     stat_type_3: "%"
     type: statistics
   - type: spotlight_image_content
-    image: img/istockphoto-629667248-2048x2048-vision.jpg
+    image: img/istock-629667248.jpg
     title1: Our vision
     content1: Our vision is for every Australian workplace to be mentally healthy.
       We want people to feel valued and supported in the workplace, and for
@@ -51,7 +51,7 @@ modules:
       knowing there is support for them in their work life as well as their
       personal life.
     quote_author: Kristin Stubbins, Partner, PwC Australia
-  - card_image_3: img/istockphoto-187896492-1024x1024_drive-lasting-change.jpg
+  - card_image_3: img/istock-187896492.jpg
     card_description_2: We share our knowledge and resources to enable business
       leaders to take action on mental health in their own workplaces.
     card_description_3: We advocate for systemic change within business, supply
@@ -66,8 +66,8 @@ modules:
     card_title_1: Provide safe settings
     card_title_2: Empower our leaders
     card_title_3: Drive lasting change
-    card_image_1: img/istockphoto-1049086992-1024x1024_provide-safe-settings.jpg
-    card_image_2: img/istockphoto-654774714-2048x2048-about.jpg
+    card_image_1: img/istock-1049086992.jpg
+    card_image_2: img/istock-654774714.jpg
     card_description_1: We help businesses create an environment and ways of
       working, where everyone feels safe and supported, and able to talk about
       their mental health.
@@ -108,7 +108,7 @@ modules:
       - our_member_image: img/woolworths-group_rgb_positive_logo.png
         our_member_link: https://www.woolworthsgroup.com.au/
   - type: stacked-content-top-image
-    stacked_image: img/istockphoto-1172976280-2048x2048-join-our-community.jpg
+    stacked_image: img/istock-1172976280.jpg
     stacked_description: Join our community of business leaders, experts and partner
       organisations and be a powerful voice for change on workplace mental
       health. We are currently accepting expressions of interest for membership
