@@ -25,12 +25,22 @@
     }
   }
   .uk-background-cover {
-    padding-top: 180px;
-    padding-bottom: 120px;
+    padding-top: 80px;
+    min-height: 580px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    > .uk-container {
+      width: 100%;
+    }
+
+    @media (max-width: $breakpoint-medium) {
+      min-height: 450px;
+    }
 
     @media (max-width: $breakpoint-small) {
-      padding-top: 100px;
-      padding-bottom: 0;
+      min-height: 360px;
     }
   }
   .uk-background-transparent {
@@ -39,7 +49,8 @@
 
     position: relative;
     max-width: 556px;
-    padding: 60px;
+    padding-top: 60px;
+    padding-bottom: 60px;
     border-top-left-radius: $border-radius;
     border-bottom-left-radius: $border-radius;
     border-bottom-right-radius: $border-radius;
