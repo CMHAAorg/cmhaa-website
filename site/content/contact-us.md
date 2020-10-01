@@ -43,7 +43,8 @@ modules:
         text_area_error_message: Your comments are required.
         text_area_max_char: 995
   - type: recommended_resources
-    heading: ""
-    form_description: Please complete the form below with your details and outline
-      the nature of your enquiry.
+    heading: dsfsdf
+    resources:
+      - ben-fitzpatrick-aia-australia
+      - john-cantor-minterellison
 ---
