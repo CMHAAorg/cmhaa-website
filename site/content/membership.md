@@ -8,17 +8,11 @@ banner_title: Join our movement for change on workplace mental health.
 banner_image: ""
 modules:
   - type: split_title_content
-    leadtext: >-
-      The Corporate Mental Health Alliance Australia (CMHAA) is a business-led,
-      expert-guided non-profit organisation dedicated to transforming workplaces
-      into mentally healthy environments for their people. Together, we are
-      leading a movement for positive change across the Australian business
-      community.
-
-
-
-
-      TEST
+    leadtext: The Corporate Mental Health Alliance Australia (CMHAA) is a
+      business-led, expert-guided non-profit organisation dedicated to
+      transforming workplaces into mentally healthy environments for their
+      people. Together, we are leading a movement for positive change across the
+      Australian business community.
     title: About us
     image: ""
   - type: youtube_with_quote
