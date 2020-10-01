@@ -1,16 +1,25 @@
-{{- $title := .Module.title | default "You might be interested in" -}}
-{{- $related := (where .Site.RegularPages "Type" "resources") | first 3 -}}
-{{ with $related }}
+{{- $title := .Module.heading | default "You might be interested in" -}}
 <div class="uk-section uk-background-muted">
   <div class="uk-container">
     <h3 class="uk-text-center">{{ $title }}</h3>
     <div class="uk-container">
       <div class="cards-wrapper">
-        {{ range . }}
-          {{ partial "card" (dict "item" .) }}
-        {{ end }}
+        {{- if .Module.resources -}}
+          {{ range .Module.resources }}
+            {{- $page := print "/resources/" . "/" -}}
+            {{ range where $.Site.Pages "URL" $page }}
+              {{ partial "card" (dict "item" .) }}
+            {{ end }}
+          {{ end }}
+        {{- else -}}
+          {{- $related := (where .Site.RegularPages "Type" "resources") | first 3 -}}
+          {{ with $related }}
+            {{ range . }}
+              {{ partial "card" (dict "item" .) }}
+            {{ end }}
+          {{ end }}
+        {{- end -}}
       </div>
     </div>
   </div>
 </div>
-{{ end }}

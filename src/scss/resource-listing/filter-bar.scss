@@ -9,8 +9,12 @@
   width: 100vw;    
   z-index: 500;
   overflow-y: scroll;
+  padding-top: 80px;
+  display: flex;
+  flex-direction: column;
 
   @media (min-width: $mobileFilterBreakpoint) {
+    padding-top: 0;
     background-color: #f8f8f8;
     position: relative;
     overflow-y: visible;
@@ -19,6 +23,16 @@
 
   @media (min-width: $breakpoint-large) {
     width: 25%;
+  }
+
+  .clear-filters {
+    background: transparent;
+    border: none;
+    color: #B60057;
+    margin-bottom: 6px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Futura, sans-serif;
   }
   
   &.hidden {
@@ -85,6 +99,7 @@
     padding: 15px 40px;
     display: flex;
     justify-content: space-between;
+    margin-top: auto;
   }
 
   .apply-filters {
@@ -94,6 +109,8 @@
     text-transform: uppercase;
     border-radius: 32px;
     border: none;
+    font-family: Futura, sans-serif;
+    font-size: 15px;
   }
 }
 

@@ -39,6 +39,7 @@ $categorymap: (
     color: #fff;
     padding: 2px 10px;
     align-self: flex-start;
+    font-size: 15px;
 
     @each $category, $colors in $categorymap {
       &.#{$category} {
@@ -51,6 +52,7 @@ $categorymap: (
   &__date {
     padding-top: 2px;
     padding-bottom: 2px;
+    font-size: 15px;
   }
 
   &__content {
