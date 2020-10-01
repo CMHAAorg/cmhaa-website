@@ -44,9 +44,9 @@ pages = "/:slug/"
     weight = 1
 
   [[menu.main]]
-    identifier = "members"
-    name = "Members"
-    url = "/members/"
+    identifier = "membership"
+    name = "Membership"
+    url = "/membership/"
     weight = 1
 
   [[menu.main]]
@@ -56,9 +56,9 @@ pages = "/:slug/"
     weight = 2
 
   [[menu.main]]
-    identifier = "contact-us"
-    name = "Contact Us"
-    url = "/contact-us/"
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
     weight = 3
 
 # Algolia config

@@ -1,6 +1,6 @@
 ---
 page_title: About us
-title: Members
+title: Membership
 meta_keywords: Mental Awareness, Mental Health, CMHAA, About, Corporate Mental
   Health Alliance, City Mental Health Alliance
 meta_description: Business-led. Expert-guided.
