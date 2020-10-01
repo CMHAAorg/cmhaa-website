@@ -5,7 +5,7 @@ meta_keywords: Mental Awareness, Mental Health, CMHAA, About, Corporate Mental
   Health Alliance, City Mental Health Alliance
 meta_description: Business-led. Expert-guided.
 banner_title: Business-led, expert-guided, human-centred.
-banner_image: img/screen-shot-2020-09-26-at-4.51.27-pm.png
+banner_image: img/istock-838338570.jpg
 modules:
   - type: split_title_content
     leadtext: The Corporate Mental Health Alliance Australia is a business-led,
@@ -399,7 +399,7 @@ modules:
     padding_top: false
     padding_bottom: false
   - type: callout-image-text-cta
-    callout_image: img/istockphoto-1180926063-1024x1024-join.jpg
+    callout_image: img/istock-1180926063.jpg
     callout_title: Our member commitment
     callout_description: >-
       **Place people first**\
