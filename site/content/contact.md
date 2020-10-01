@@ -47,4 +47,6 @@ modules:
     resources:
       - personal-story-brian-long
       - caitlin-mcconnel-clayton-utz
+      - ellen-derrick-deloitte
+      - microsoft-australias-culture-shift
 ---
