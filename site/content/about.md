@@ -344,7 +344,7 @@ modules:
       within our Founding Member organisations. The Board is supported at an
       operational level through a working group comprising representatives from
       each member organisation.
-    our_board_exec_title: Program Director, CMHAA
+    our_board_exec_title: Program Director
     exec_board:
       - exec_board_description: >-
           Vicki joined the Alliance as Program Director in May 2020.
