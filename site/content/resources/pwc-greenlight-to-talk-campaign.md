@@ -19,7 +19,7 @@ organisation_size: Large (250+ employees)
 industry: Business Consulting & Management
 modules:
   - type: feature_resource
-    resource: Kristin Stubbins, PwC
+    resource: personal-story-kristin-stubbins
   - type: split_title_content_background
     disable_leftright: true
     title: Green Light to Talk (2018 launch)
