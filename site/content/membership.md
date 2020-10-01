@@ -9,9 +9,8 @@ banner_image: img/istock-1185273881.jpg
 banner_right_image: ""
 modules:
   - type: split_title_content
-    leadtext: ""
-    title: "We welcome businesses of all sizes and from all sectors as members. By
-      becoming a member, your business will:"
+    leadtext: "By becoming a member, your business will:"
+    title: We welcome businesses of all sizes and from all sectors as members.
     image: ""
     content: >-
       * Contribute to a step-change in the creation of mentally healthy
@@ -31,25 +30,23 @@ modules:
 
       * Have access to a member-only collaboration platform.
   - type: split_title_content_background
-    title: What we do
+    title: Requirements of Members
     content: >-
-      CMHAA works hand in hand with members, at a leadership and operational
-      level, to facilitate change and embed good mental health practice within
-      workplaces in a practical, sustainable and measurable way. We do this by:
+      CMHAA members are responsible for sharing the direction of mental
+      wellbeing within their organisation. In addition to an annual membership
+      fee, we ask that our members commit to the following:
 
 
-      Socialising mental heath into the business. Increasing understanding of mental health, challenging any stigma, and fostering a culture of openness within the workplace.
+      * Nominate a Senior Sponsor and Functional Lead to participate in CMHAA
 
+      * Hold at least one mental health focussed event each year hosted by the Alliance Participant.
 
+      * Attend a minimum of four CMHAA events each calendar year
 
-      Developing skills and mental health literacy. Providing all employees with the appropriate language and confidence to talk about mental health, as well as facilitating training and sharing best practice.
+      * Share what the Alliance Participant is doing to tackle mental health and wellbeing in their workplace
 
+      * Engage in a mental health initiative which encourages employees to share their experiences with mental health
 
-
-      Sustaining and embedding the change. Helping to ensure that good mental health practice is lead and owned by business leaders and becomes integrated into the business’s strategic priorities. 
-
-
-
-      Our strength lies in the unique collaboration of our members, working together to draw upon the vast pool of knowledge and experience from across business, and with guidance from our expert advisors, to find, test and deliver solutions that work for our members.
+      * Actively engage and collaborate with other CMHAA participants to share and learn from good practice
     disable_leftright: false
 ---
