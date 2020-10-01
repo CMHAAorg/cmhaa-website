@@ -44,15 +44,15 @@ pages = "/:slug/"
     weight = 1
 
   [[menu.main]]
-    identifier = "membership"
-    name = "Membership"
-    url = "/membership/"
-    weight = 1
-
-  [[menu.main]]
     identifier = "resources"
     name = "Resources"
     url = "/resources/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "membership"
+    name = "Membership"
+    url = "/membership/"
     weight = 2
 
   [[menu.main]]
