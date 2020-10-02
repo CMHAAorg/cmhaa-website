@@ -6,7 +6,7 @@ meta_keywords: Mental Awareness, Mental Health, CMHAA, About, Corporate Mental
 meta_description: Business-led. Expert-guided.
 banner_title: Join our movement for change on workplace mental health.
 banner_image: img/istock-1185273881.jpg
-banner_right_image: img/screen-shot-2020-10-02-at-3.10.54-pm.png
+banner_right_image: ""
 modules:
   - type: separator-line
     padding_top: true
@@ -64,4 +64,26 @@ modules:
       * Engage in a mental health initiative which encourages employees to share their experiences with mental health
 
       * Actively engage and collaborate with other CMHAA participants to share and learn from good practice
+  - type: stacked-content-top-image
+    stacked_image: img/istock-912425318.jpg
+    stacked_description: >-
+      CMHAA members are responsible for taking action on employee mental health
+      and wellbeing within their organisations. In addition to an annual
+      membership fee, we ask that our members commit to the following:
+
+
+      * Nominate a Senior Sponsor and Functional Lead to be actively involved with CMHAA at both a leadership and operational level.
+
+      * Hold at least one mental health focussed event each year hosted by your organisation.
+
+      * Attend a minimum of four CMHAA events each calendar year.
+
+      * Share what your organisation is doing to tackle mental health and wellbeing in your workplace
+
+      * Engage in a mental health initiative which encourages employees to share their experiences with mental health.
+
+      * Actively engage and collaborate with other CMHAA members to share and learn from good practice.
+    stacked_cta_text: Enquire about membership
+    stacked_cta_link: /contact/
+    stacked_title: Membership requirements
 ---
