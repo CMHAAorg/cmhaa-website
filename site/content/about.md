@@ -373,7 +373,7 @@ modules:
       Australia at a strategic level, and in the day-to-day delivery of our
       initiatives.
   - type: friends_cmhaa
-    friends_cmhaa_title: Our expert advisors
+    friends_cmhaa_title: Our expert       advisors
     friends_cmhaa_description: We are privileged to have leading thinkers in mental
       health advising us. These experts are recognised for their contribution to
       the alliance at an individual level rather than through their affiliation
