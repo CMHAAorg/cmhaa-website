@@ -12,7 +12,7 @@ modules:
     leadtext: "We welcome businesses of all sizes and from all sectors as members.
       By becoming a member, your business will:"
     title: Membership
-    image: img/istock-1180926063-test2.jpg
+    image: ""
     content: >-
       * Contribute to a step-change in the creation of mentally healthy
       workplaces in Australia
