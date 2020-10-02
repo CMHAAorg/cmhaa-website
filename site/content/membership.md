@@ -8,6 +8,9 @@ banner_title: Join our movement for change on workplace mental health.
 banner_image: img/istock-1185273881.jpg
 banner_right_image: ""
 modules:
+  - type: separator-line
+    padding_top: true
+    padding_bottom: false
   - type: quote
     quote_text: At the Alliance, we have found a place where like-minded leaders
       share best practice. Most times in business you don’t share anything
@@ -16,10 +19,10 @@ modules:
       want to share what we’re doing and learn from others.
     quote_author: Michael Schneider, Managing Director, Bunnings Group Limited
   - type: split_title_content_background
-    title: Membership requirements
+    title: Membership benefits
     content: >-
       * Contribute to a step-change in the creation of mentally healthy
-      workplaces in Australia
+      workplaces in Australi
 
       * Have access to CMHA Global leadership and individual engagement opportunities with CMHAA’s Expert Advisory Group
 
@@ -40,10 +43,10 @@ modules:
     leadtext: "We welcome businesses of all sizes and from all sectors as members.
       By becoming a member, your business will:"
   - type: split_title_content
-    leadtext: "CMHAA members are responsible for sharing the direction of mental
-      wellbeing within their organisation. In addition to an annual membership
-      fee, we ask that our members commit to the following:"
-    title: Membership benefits
+    leadtext: "CMHAA members are responsible for taking action on employee mental
+      health and wellbeing within their organisations. In addition to an annual
+      membership fee, we ask that our members commit to the following:"
+    title: Membership requirements
     image: ""
     content: >-
       * Nominate a Senior Sponsor and Functional Lead to participate in CMHAA
