@@ -19,21 +19,25 @@ modules:
     image: img/istock-912425318.jpg
   - type: split_title_content
     content: >-
-      * Nominate a Senior Sponsor and Functional Lead to be actively involved
-      with CMHAA at both a leadership and operational level.
+      * To be able to contribute to a step change in the creation of mentally
+      healthy workplaces in Australia
 
-      * Hold at least one mental health focussed event each year hosted by your organisation.
+      * Access to CMHA Global leadership and individual engagement opportunities with CMHAA’s Expert Advisory Group.
 
-      * Attend a minimum of four CMHAA events each calendar year.
+      * Access to and opportunity to participate in training, benchmarking and research in regard to mental health issues.
 
-      * Share what your organisation is doing to tackle mental health and wellbeing in your workplace
+      * Access to guides, tools and resources created by experts for CMHA Australia participants.
 
-      * Engage in a mental health initiative which encourages employees to share their experiences with mental health.
+      * Collaboration with other alliance participants of CMHA Australia and organisations who are interested in or concerned with mental health on a common agenda, through events, workshops and consultations.
 
-      * Actively engage and collaborate with other CMHAA members to share and learn from good practice.
-    leadtext: "CMHAA members are responsible for taking action on employee mental
-      health and wellbeing within their organisations. In addition to an annual
-      membership fee, we ask that our members commit to the following:"
+      * Brand eminence as a recognised leader in workplace mental health and invitations to participate in media requests and speaking events.
+
+      * Collective opportunity to access and drive research and influence policymakers to improve quality of life of millions of Australians.
+
+      * Access to a member-only collaboration platform.
+    leadtext: "CMHAA welcomes businesses of all sizes and from all sectors, to join
+      the CMHAA member community. By becoming a CMHAA member, your business
+      will:"
     title: Membership benefits
   - type: separator-line
     padding_top: false
