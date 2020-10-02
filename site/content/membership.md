@@ -50,4 +50,6 @@ modules:
 
       * Actively engage and collaborate with other CMHAA participants to share and learn from good practice
     disable_leftright: false
+  - type: image
+    image: img/galleryimagetest2.jpg
 ---
