@@ -43,9 +43,13 @@ modules:
     leadtext: "We welcome businesses of all sizes and from all sectors as members.
       By becoming a member, your business will:"
   - type: split_title_content
-    leadtext: "CMHAA members are responsible for taking action on employee mental
-      health and wellbeing within their organisations. In addition to an annual
-      membership fee, we ask that our members commit to the following:"
+    leadtext: >-
+      CMHAA members are responsible for taking action on employee mental health
+      and wellbeing within their organisations. In addition to an annual
+      membership fee, we ask that our members commit to the following:
+
+
+      d
     title: Membership requirements
     image: ""
     content: >-
