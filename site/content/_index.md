@@ -114,7 +114,7 @@ modules:
       and be a powerful voice for change on workplace mental health. 
 
 
-      We are receiving expressions of interest for membership commencing 2021. Kicking off in February 2021, our program for the first six months will focus on initiatives designed to strengthen mental health capability in our leaders.
+      We are receiving expressions of interest for membership commencing 2021. Our program will kick off in February, with a focus on initiatives designed to strengthen mental health capability in our leaders.
     stacked_title: Join us
     stacked_cta_link: /contact-us/
     stacked_cta_text: More about membership
