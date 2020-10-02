@@ -42,28 +42,6 @@ modules:
     cta_link: /contact/
     leadtext: "We welcome businesses of all sizes and from all sectors as members.
       By becoming a member, your business will:"
-  - type: split_title_content
-    leadtext: >-
-      CMHAA members are responsible for taking action on employee mental health
-      and wellbeing within their organisations. In addition to an annual
-      membership fee, we ask that our members commit to the following:
-
-
-      d
-    title: Membership requirements
-    image: ""
-    content: >-
-      * Nominate a Senior Sponsor and Functional Lead to participate in CMHAA
-
-      * Hold at least one mental health focussed event each year hosted by the Alliance Participant.
-
-      * Attend a minimum of four CMHAA events each calendar year
-
-      * Share what the Alliance Participant is doing to tackle mental health and wellbeing in their workplace
-
-      * Engage in a mental health initiative which encourages employees to share their experiences with mental health
-
-      * Actively engage and collaborate with other CMHAA participants to share and learn from good practice
   - type: stacked-content-top-image
     stacked_image: img/istock-912425318.jpg
     stacked_description: >-
