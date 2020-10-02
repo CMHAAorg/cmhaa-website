@@ -128,14 +128,6 @@ modules:
           fuels my drive to make a difference.
         feat_member_link: /resources/personal-story-melinda-upton/
         feat_member_cta: READ MELINDA'S STORY
-      - feat_member_image: img/pwc_kristin-stubbins-photo-2-.jpg
-        feat_member_description: Since I was a small child, the issue of mental health
-          has been around my life. I grew up in a rural area and I heard many
-          stories of young men struggling with stress or relationship breakups
-          who shot themselves. I had an uncle who died by suicide. When I was
-          young, it almost seemed normalised.
-        feat_member_link: /resources/personal-story-kristin-stubbins/
-        feat_member_cta: READ KRISTIN'S STORY
       - feat_member_image: img/berkley-cox_port.jpg
         feat_member_description: I feel lucky that my career has been very fulfilling,
           but I’ve had lots of wobbles along the way.  I have been in law since
@@ -144,6 +136,14 @@ modules:
           people as well as leadership of a top tier law firm in Australia.
         feat_member_link: /resources/personal-story-berkeley-cox/
         feat_member_cta: READ BERKELEY'S STORY
+      - feat_member_image: img/pwc_kristin-stubbins-photo-2-.jpg
+        feat_member_description: Since I was a small child, the issue of mental health
+          has been around my life. I grew up in a rural area and I heard many
+          stories of young men struggling with stress or relationship breakups
+          who shot themselves. I had an uncle who died by suicide. When I was
+          young, it almost seemed normalised.
+        feat_member_link: /resources/personal-story-kristin-stubbins/
+        feat_member_cta: READ KRISTIN'S STORY
     feat_member_read_more: /resources/
     our_members_description: Our members see it as their responsibility to protect,
       support and create mentally healthy workplaces for their people.
