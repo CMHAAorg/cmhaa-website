@@ -8,6 +8,13 @@ banner_title: Join our movement for change on workplace mental health.
 banner_image: img/istock-1185273881.jpg
 banner_right_image: ""
 modules:
+  - type: quote
+    quote_text: At the Alliance, we have found a place where like-minded leaders
+      share best practice. Most times in business you don’t share anything
+      because you’re competing. But with mental health, we’re all competing
+      against a common foe. We are very willing learners and collaborators. We
+      want to share what we’re doing and learn from others.
+    quote_author: Michael Schneider, Managing Director, Bunnings Group Limited
   - type: split_title_content_background
     title: Membership requirements
     content: >-
