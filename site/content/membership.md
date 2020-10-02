@@ -8,11 +8,8 @@ banner_title: Join our movement for change on workplace mental health.
 banner_image: img/istock-1185273881.jpg
 banner_right_image: ""
 modules:
-  - type: split_title_content
-    leadtext: "We welcome businesses of all sizes and from all sectors as members.
-      By becoming a member, your business will:"
-    title: Membership
-    image: ""
+  - type: split_title_content_background
+    title: Membership requirements
     content: >-
       * Contribute to a step-change in the creation of mentally healthy
       workplaces in Australia
@@ -30,14 +27,18 @@ modules:
       * Have the opportunity to access and drive research and influence policymakers to improve quality of life of millions of Australians.
 
       * Have access to a member-only collaboration platform.
-  - type: split_title_content_background
-    title: Requirements of Members
-    content: >-
-      CMHAA members are responsible for sharing the direction of mental
+    disable_leftright: false
+    cta_text: ENQUIRE ABOUT MEMBERSHIP
+    cta_link: /contact/
+    leadtext: "We welcome businesses of all sizes and from all sectors as members.
+      By becoming a member, your business will:"
+  - type: split_title_content
+    leadtext: "CMHAA members are responsible for sharing the direction of mental
       wellbeing within their organisation. In addition to an annual membership
-      fee, we ask that our members commit to the following:
-
-
+      fee, we ask that our members commit to the following:"
+    title: Membership benefits
+    image: ""
+    content: >-
       * Nominate a Senior Sponsor and Functional Lead to participate in CMHAA
 
       * Hold at least one mental health focussed event each year hosted by the Alliance Participant.
@@ -49,7 +50,4 @@ modules:
       * Engage in a mental health initiative which encourages employees to share their experiences with mental health
 
       * Actively engage and collaborate with other CMHAA participants to share and learn from good practice
-    disable_leftright: false
-    cta_text: ENQUIRE ABOUT MEMBERSHIP
-    cta_link: /contact/
 ---
