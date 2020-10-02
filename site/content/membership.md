@@ -37,7 +37,7 @@ modules:
     title: Membership benefits
   - type: separator-line
     padding_top: false
-    padding_bottom: false
+    padding_bottom: true
   - type: split_title_content_background
     title: Membership requirements
     content: >-
