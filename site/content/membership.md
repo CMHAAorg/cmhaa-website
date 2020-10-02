@@ -6,7 +6,7 @@ meta_keywords: Mental Awareness, Mental Health, CMHAA, About, Corporate Mental
 meta_description: Business-led. Expert-guided.
 banner_title: Join our movement for change on workplace mental health.
 banner_image: img/istock-1185273881.jpg
-banner_right_image: ""
+banner_right_image: img/screen-shot-2020-10-02-at-3.10.54-pm.png
 modules:
   - type: separator-line
     padding_top: true
@@ -43,9 +43,13 @@ modules:
     leadtext: "We welcome businesses of all sizes and from all sectors as members.
       By becoming a member, your business will:"
   - type: split_title_content
-    leadtext: "CMHAA members are responsible for taking action on employee mental
-      health and wellbeing within their organisations. In addition to an annual
-      membership fee, we ask that our members commit to the following:"
+    leadtext: >-
+      CMHAA members are responsible for taking action on employee mental health
+      and wellbeing within their organisations. In addition to an annual
+      membership fee, we ask that our members commit to the following:
+
+
+      d
     title: Membership requirements
     image: ""
     content: >-
