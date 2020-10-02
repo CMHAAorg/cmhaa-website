@@ -111,9 +111,10 @@ modules:
     stacked_image: img/istock-1172976280.jpg
     stacked_description: >-
       We are at the very beginning of our work together. Come be a part of it.
+      Businesses large and small are welcome.
 
 
-      Join our community of business leaders, experts and partner organisations and be a powerful voice for change as we work together to improve workplace mental health. We are receiving expressions of interest for membership commencing 2021, with our program kicking off in February.
+      Join our community of business leaders, experts and partner organisations and be a powerful voice for change as we work together to improve mental health in the workplace. We are receiving expressions of interest for membership commencing 2021, with our program kicking off in February.
     stacked_title: Join us
     stacked_cta_link: /contact-us/
     stacked_cta_text: More about membership
