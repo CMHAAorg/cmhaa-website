@@ -18,39 +18,12 @@ modules:
       against a common foe. We are very willing learners and collaborators. We
       want to share what we’re doing and learn from others.
     quote_author: Michael Schneider, Managing Director, Bunnings Group Limited
-  - type: split_title_content_background
-    title: Membership benefits
+  - type: image
+    image: img/istock-912425318.jpg
+  - type: split_title_content
     content: >-
-      * Contribute to a step-change in the creation of mentally healthy
-      workplaces in Australi
-
-      * Have access to CMHA Global leadership and individual engagement opportunities with CMHAA’s Expert Advisory Group
-
-      * Have access to and the opportunity to participate in training, benchmarking and research in regard to mental health issues.
-
-      * Have access to guides, tools and resources created by experts for CMHAA participants.
-
-      * Collaborate with other members and organisations who are interested in or concerned with mental health on a common agenda, through participation in events, workshops and consultations.
-
-      * Have brand eminence as a recognised leader in workplace mental health and invitations to participate in media requests and speaking events.
-
-      * Have the opportunity to access and drive research and influence policymakers to improve quality of life of millions of Australians.
-
-      * Have access to a member-only collaboration platform.
-    disable_leftright: false
-    cta_text: ENQUIRE ABOUT MEMBERSHIP
-    cta_link: /contact/
-    leadtext: "We welcome businesses of all sizes and from all sectors as members.
-      By becoming a member, your business will:"
-  - type: stacked-content-top-image
-    stacked_image: img/istock-912425318.jpg
-    stacked_description: >-
-      CMHAA members are responsible for taking action on employee mental health
-      and wellbeing within their organisations. In addition to an annual
-      membership fee, we ask that our members commit to the following:
-
-
-      * Nominate a Senior Sponsor and Functional Lead to be actively involved with CMHAA at both a leadership and operational level.
+      * Nominate a Senior Sponsor and Functional Lead to be actively involved
+      with CMHAA at both a leadership and operational level.
 
       * Hold at least one mental health focussed event each year hosted by your organisation.
 
@@ -61,7 +34,29 @@ modules:
       * Engage in a mental health initiative which encourages employees to share their experiences with mental health.
 
       * Actively engage and collaborate with other CMHAA members to share and learn from good practice.
-    stacked_cta_text: Enquire about membership
-    stacked_cta_link: /contact/
-    stacked_title: Membership requirements
+    leadtext: "CMHAA members are responsible for taking action on employee mental
+      health and wellbeing within their organisations. In addition to an annual
+      membership fee, we ask that our members commit to the following:"
+    title: Membership benefits
+  - type: split_title_content_background
+    title: Membership requirements
+    content: >-
+      * Nominate a Senior Sponsor and Functional Lead to be actively involved
+      with CMHAA at both a leadership and operational level.
+
+      * Hold at least one mental health focussed event each year hosted by your organisation.
+
+      * Attend a minimum of four CMHAA events each calendar year.
+
+      * Share what your organisation is doing to tackle mental health and wellbeing in your workplace
+
+      * Engage in a mental health initiative which encourages employees to share their experiences with mental health.
+
+      * Actively engage and collaborate with other CMHAA members to share and learn from good practice.
+    disable_leftright: false
+    cta_text: ENQUIRE ABOUT MEMBERSHIP
+    cta_link: /contact/
+    leadtext: "CMHAA members are responsible for taking action on employee mental
+      health and wellbeing within their organisations. In addition to an annual
+      membership fee, we ask that our members commit to the following:"
 ---
