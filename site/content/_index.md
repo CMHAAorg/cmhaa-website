@@ -19,7 +19,7 @@ modules:
     image_caption: Corporate Mental Health Alliance Australia Strategy Day
       facilitated by PwC's Impact Assembly, January 2020.
   - stat_number_1: 3
-    stat_number_2: 16
+    stat_number_2: 13
     stat_number_3: 70
     stat_info_1: working Australians have mental ill-health or care for someone with
       mental ill-health.
