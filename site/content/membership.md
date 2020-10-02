@@ -35,6 +35,9 @@ modules:
       health and wellbeing within their organisations. In addition to an annual
       membership fee, we ask that our members commit to the following:"
     title: Membership benefits
+  - type: separator-line
+    padding_top: false
+    padding_bottom: false
   - type: split_title_content_background
     title: Membership requirements
     content: >-
