@@ -110,8 +110,10 @@ modules:
   - type: stacked-content-top-image
     stacked_image: img/istock-1172976280.jpg
     stacked_description: >-
-      Join our community of business leaders, experts and partner organisations
-      and be a powerful voice for change on workplace mental health. 
+      We are at the very beginning of our work together. We'd love you to join
+      our community of business leaders, experts and partner organisations and
+      be a powerful voice for change as we progress our work together on
+      workplace mental health. 
 
 
       We are receiving expressions of interest for membership commencing 2021. Our program will kick off in February, with a focus on initiatives designed to strengthen mental health capability in our leaders.
