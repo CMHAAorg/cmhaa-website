@@ -122,20 +122,20 @@ modules:
   - type: feature-member-stories
     feat_member_intro: Why does mental health matter? Read our members' stories and find out.
     feat_member:
-      - feat_member_image: img/steve-worrall-print.jpg
-        feat_member_description: I really appreciated how important mental health was
-          after dealing with the final stages of my father’s cancer (he passed
-          away three years ago). We had to manage his palliative care at home.
-          At the same time, Mum was developing dementia, and I started a new
-          role at Microsoft.
-        feat_member_link: resources/steven-worrall-microsoft-australia/
-        feat_member_cta: READ STEVEN'S STORY
       - feat_member_image: img/internet_5y6a0050-edit.jpg
         feat_member_description: I’ve seen first-hand the damage and pain that poor
           mental health can cause. One story about a colleague, in particular,
           fuels my drive to make a difference.
         feat_member_link: /resources/personal-story-melinda-upton/
         feat_member_cta: READ MELINDA'S STORY
+      - feat_member_image: img/berkley-cox_port.jpg
+        feat_member_description: I feel lucky that my career has been very fulfilling,
+          but I’ve had lots of wobbles along the way.  I have been in law since
+          I was 18. It’s been an exciting journey that’s involved a few years in
+          the US, umpteen trips to China and other places, working with amazing
+          people as well as leadership of a top tier law firm in Australia.
+        feat_member_link: /resources/personal-story-berkeley-cox/
+        feat_member_cta: READ BERKELEY'S STORY
       - feat_member_image: img/pwc_kristin-stubbins-photo-2-.jpg
         feat_member_description: Since I was a small child, the issue of mental health
           has been around my life. I grew up in a rural area and I heard many
