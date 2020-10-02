@@ -400,7 +400,7 @@ modules:
     padding_bottom: false
   - type: callout-image-text-cta
     callout_image: img/istock-1180926063.jpg
-    callout_title: Our principles
+    callout_title: Our member principles
     callout_description: >-
       **Place people first**\
 
