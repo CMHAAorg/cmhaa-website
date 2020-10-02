@@ -9,7 +9,7 @@ banner_image: img/istock-1185273881.jpg
 banner_right_image: ""
 modules:
   - type: separator-line
-    padding_top: false
+    padding_top: true
     padding_bottom: false
   - type: quote
     quote_text: At the Alliance, we have found a place where like-minded leaders
@@ -22,29 +22,25 @@ modules:
     image: img/istock-912425318.jpg
   - type: split_title_content
     content: >-
-      * To be able to contribute to a step change in the creation of mentally
-      healthy workplaces in Australia
+      * Contribute to a step-change in the creation of mentally healthy
+      workplaces in Australi
 
-      * Access to CMHA Global leadership and individual engagement opportunities with CMHAA’s Expert Advisory Group.
+      * Have access to CMHA Global leadership and individual engagement opportunities with CMHAA’s Expert Advisory Group
 
-      * Access to and opportunity to participate in training, benchmarking and research in regard to mental health issues.
+      * Have access to and the opportunity to participate in training, benchmarking and research in regard to mental health issues.
 
-      * Access to guides, tools and resources created by experts for CMHA Australia participants.
+      * Have access to guides, tools and resources created by experts for CMHAA participants.
 
-      * Collaboration with other alliance participants of CMHA Australia and organisations who are interested in or concerned with mental health on a common agenda, through events, workshops and consultations.
+      * Collaborate with other members and organisations who are interested in or concerned with mental health on a common agenda, through participation in events, workshops and consultations.
 
-      * Brand eminence as a recognised leader in workplace mental health and invitations to participate in media requests and speaking events.
+      * Have brand eminence as a recognised leader in workplace mental health and invitations to participate in media requests and speaking events.
 
-      * Collective opportunity to access and drive research and influence policymakers to improve quality of life of millions of Australians.
+      * Have the opportunity to access and drive research and influence policymakers to improve quality of life of millions of Australians.
 
-      * Access to a member-only collaboration platform.
-    leadtext: "CMHAA welcomes businesses of all sizes and from all sectors, to join
-      the CMHAA member community. By becoming a CMHAA member, your business
-      will:"
+      * Have access to a member-only collaboration platform.
+    leadtext: "We welcome businesses of all sizes and from all industries as
+      members. By becoming a member, your business will:"
     title: Membership benefits
-  - type: separator-line
-    padding_top: false
-    padding_bottom: true
   - type: split_title_content_background
     title: Membership requirements
     content: >-
