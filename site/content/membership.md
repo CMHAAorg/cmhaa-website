@@ -9,7 +9,7 @@ banner_image: img/istock-1185273881.jpg
 banner_right_image: ""
 modules:
   - type: separator-line
-    padding_top: false
+    padding_top: true
     padding_bottom: false
   - type: quote
     quote_text: At the Alliance, we have found a place where like-minded leaders
