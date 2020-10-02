@@ -41,9 +41,6 @@ modules:
     leadtext: "We welcome businesses of all sizes and from all industries as
       members. By becoming a member, your business will:"
     title: Membership benefits
-  - type: separator-line
-    padding_top: false
-    padding_bottom: true
   - type: split_title_content_background
     title: Membership requirements
     content: >-
