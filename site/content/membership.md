@@ -44,13 +44,13 @@ modules:
       * Nominate a Senior Sponsor and Functional Lead to be actively involved
       with CMHAA at both a leadership and operational level.
 
-      * Hold at least one mental health focussed event each year hosted by your organisation.
+      * Host at least one mental health focussed event each year within your organisation.
 
-      * Attend a minimum of four CMHAA events each calendar year.
+      * Attend a minimum of four CMHAA events each year.
 
-      * Share what your organisation is doing to tackle mental health and wellbeing in your workplace
+      * Share what your organisation is doing to tackle mental health and wellbeing in your workplace.
 
-      * Engage in a mental health initiative which encourages employees to share their experiences with mental health.
+      * Engage in a mental health initiative that encourages employees to share their experiences with mental health.
 
       * Actively engage and collaborate with other CMHAA members to share and learn from good practice.
     disable_leftright: false
