@@ -110,13 +110,11 @@ modules:
   - type: stacked-content-top-image
     stacked_image: img/istock-1172976280.jpg
     stacked_description: >-
-      We are at the very beginning of our work together. We'd love you to join
-      our community of business leaders, experts and partner organisations and
-      be a powerful voice for change as we progress our work together on
-      workplace mental health. 
+      We are at the very beginning of our work together, and we'd love you to be
+      there from the start.
 
 
-      We are receiving expressions of interest for membership commencing 2021. Our program will kick off in February, with a focus on initiatives designed to strengthen mental health capability in our leaders.
+      Join our community of business leaders, experts and partner organisations and be a powerful voice for change as we progress our goals on workplace mental health. We are receiving expressions of interest for membership commencing 2021, with our program kicking off in February.
     stacked_title: Join us
     stacked_cta_link: /contact-us/
     stacked_cta_text: More about membership
