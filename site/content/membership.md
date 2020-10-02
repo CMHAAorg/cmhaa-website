@@ -10,7 +10,7 @@ banner_right_image: ""
 modules:
   - type: separator-line
     padding_top: true
-    padding_bottom: false
+    padding_bottom: true
   - type: quote
     quote_text: At the Alliance, we have found a place where like-minded leaders
       share best practice. Most times in business you don’t share anything
