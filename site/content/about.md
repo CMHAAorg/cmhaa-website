@@ -267,23 +267,6 @@ modules:
           the stigma associated with asking for that help. As leaders we have a
           role in that. If leaders open up about mental health, the quicker it
           will become a part of our everyday and overall health conversations.
-      - our_board_name: Kristin Stubbins
-        our_board_image: img/pwc_kristin-stubbins-photo-2-.jpg
-        our_board_title: Partner, PwC Australia
-        our_board_linkedin: https://www.linkedin.com/in/kristinstubbins/
-        our_board_description: >-
-          Kristin is a member of the Executive Board of PwC Australia as leader
-          of the Audit business. She has a deep commitment to improving the
-          mental wealth of our country through innovation. Kristin is a founder
-          of InnoWell, a joint venture between PwC and the University of Sydney
-          to develop technology to transform mental health and wellbeing service
-          delivery in Australia and globally.
-
-
-          Kristin was named as one of the Australian Financial Review’s “100 Women of Influence” in 2019, having been nominated in the innovation category. She is a Board Member of Mindgardens (an alliance aiming to bring mental health and neurological research closer to patients) and works with a group of senior female business leaders seeking to empower women in developing nations through education.
-        our_board_quote: We’re aiming to start a movement that leads to all employees
-          going to work feeling genuinely cared for, knowing there is support
-          for them in their personal life as well as their work life.
       - our_board_name: Melinda Upton
         our_board_image: img/internet_5y6a0050-edit.jpg
         our_board_title: Partner, Global Co-Chair IPT, DLA Piper
