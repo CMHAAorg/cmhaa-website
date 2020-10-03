@@ -336,15 +336,15 @@ modules:
           Vicki has more than 20 years' experience working in strategic communications. Key engagements in the mental health sector include ReachOut Australia where she was a part of the organisation's establishment team, the Young and Well Cooperative Research Centre, Innowell Pty Ltd, and The Kidman Centre UTS. She has a long-standing association with TEDxSydney as TEDx Community Engagement Manager, representing TEDxSydney in the global TEDx community.  
 
 
-          Vicki is the proud co-founder of three little people, and while she lives with her family in Sydney, the Murray Valley country on which she grew up still runs through her veins.
+          Vicki is the proud co-founder of three little people, and while she lives with her family in Sydney, the Murray River land on which she grew up still runs through her veins.
         exec_board_name: Vicki Forbes
         exec_board_image: img/vicki-forbes.jpg
         exec_board_title: Program Director, Corporate Mental Health Alliance Australia
         exec_board_quote: I think good mental health comes from feeling seen, heard and
           accepted for who you are, and from knowing that you are valued for
           your contribution in all of the settings that are important to you.
-          The workplace is one of those settings. It's as simple, and as
-          complex, as that.
+          The workplace is one of those settings. It's as simple, and complex,
+          as that.
         exec_board_linkedin: https://www.linkedin.com/in/vickiforbes/
     our_board_exec_image: img/vicki-forbes.jpg
     our_board_exec_quote: '**Quote "**Lorem ipsum dolor sit amet, consectetur
