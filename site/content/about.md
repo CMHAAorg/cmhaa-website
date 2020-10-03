@@ -4,7 +4,7 @@ title: About
 meta_keywords: Mental Awareness, Mental Health, CMHAA, About, Corporate Mental
   Health Alliance, City Mental Health Alliance
 meta_description: Business-led. Expert-guided.
-banner_title: Business-led, expert-guided, human-centred.
+banner_title: Business-led, expert-guided.
 banner_image: img/istock-838338570.jpg
 modules:
   - type: split_title_content
