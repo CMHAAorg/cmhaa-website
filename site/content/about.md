@@ -353,7 +353,7 @@ modules:
           Vicki joined the Alliance as Program Director in May 2020.
 
 
-          She is the proud co-founder of three little people, and while she lives with her family in Sydney, the Murray River country that was her childhood home still runs fiercely through her veins.
+          She is the proud co-founder of three little people, and while she lives in Sydney with her family, the Murray River country on which she grew up still runs fiercely through her veins.
         exec_board_name: Vicki Forbes
         exec_board_image: img/vicki-forbes.jpg
         exec_board_title: Program Director, Corporate Mental Health Alliance Australia
