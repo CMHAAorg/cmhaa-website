@@ -400,7 +400,7 @@ modules:
     padding_bottom: false
   - type: callout-image-text-cta
     callout_image: img/istock-1180926063.jpg
-    callout_title: Our member principles
+    callout_title: Our principles
     callout_description: >-
       **Place people first**\
 
@@ -414,7 +414,7 @@ modules:
 
       **Tread carefully**\
 
-      We acknowledge that we don’t have all the answers, and we are taking our time to do things well.
+      We acknowledge that we don’t have all the answers, and we take our time to do things well.
     callout_cta_link: www.cmhaa.org.au/membership/
     callout_cta_text: More on what it means to be a member
 ---
