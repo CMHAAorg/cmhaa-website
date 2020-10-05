@@ -50,7 +50,7 @@ modules:
       experts including psychologists, sleep specialists, exercise
       physiologists, and dieticians.
   - type: rich-text
-    richtext_top: true
+    richtext_top: false
     richtext: >-
       **Outcomes**
 
