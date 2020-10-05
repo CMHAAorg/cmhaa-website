@@ -9,9 +9,9 @@ banner_description: "This initiative was launched in 2018 to help create an open
 banner_image: ""
 banner_right_image: img/gltt-advocate-photo.jpg
 date: 2020-08-31T00:36:31.889Z
-description: PwC UK wanted to create an open culture, where employees felt
-  comfortable talking about mental health, and were more likely to speak up when
-  they needed support.
+description: Mental health is an issue that touches so many of us, whether
+  directly or through someone we know. Rates of depression, anxiety, suicide and
+  self-harm in Australian workplaces continue to rise at an alarming pace.
 category: Case studies
 focus: Improving workplace culture
 role: Health and/or wellbeing lead
@@ -111,8 +111,6 @@ modules:
         pdf_downloads_list_file: img/copy-of-gltt-advocate-role.pptx
         pdf_downloads_list_text: ""
 ---
-Mental health is an issue that touches so many of us, whether directly or through someone we know. Rates of depression, anxiety, suicide and self-harm in Australian workplaces continue to rise at an alarming pace.
-
 Australia spends over $9 billion each year on mental health, with psychological issues now the most common reason to visit your GP.
 
 Driven by our purpose to build trust in society and solve important problems, PwC is committed to helping grow Australia’s mental wealth by:
