@@ -330,12 +330,10 @@ modules:
     our_board_exec_title: Program Director
     exec_board:
       - exec_board_description: >-
-          Vicki has more than 25 years' experience in executive and advisory
-          roles mostly in the not-for-profit sector. A serendipitous
-          conversation with Jack Heath on a flight from Canberra to Sydney in
-          1997 sparked a professional interest in mental health, and in 1998 she
-          joined Jack and Jonathan Nicholas to launch [ReachOut
-          Australia](https://au.reachout.com/). 
+          Vicki joined the Alliance as Program Director in May 2020. 
+
+
+          Vicki has more than 25 years' experience in executive and advisory roles mostly in the not-for-profit sector. A serendipitous conversation with Jack Heath on a flight from Canberra to Sydney in 1997 sparked a professional interest in mental health, and in 1998 she joined Jack and Jonathan Nicholas to launch [ReachOut Australia](https://au.reachout.com/). 
 
 
           In 2011 she was a part of the establishment team for the Young and Well Cooperative Research Centre led by Professor Jane Burns. Here she led the Centre's communications and stakeholder engagement function, working with 75 partners across multiple sectors and 200+ researchers worldwide to facilitate the efficient delivery and uptake of the Centre's research outputs generated over its four-year funding term. Other key engagements have included SANE Australia, Innowell Pty Ltd, The Kidman Centre UTS, Sydney Opera House, and TEDxSydney. 
