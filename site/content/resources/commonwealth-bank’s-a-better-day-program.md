@@ -11,13 +11,11 @@ banner_description: "A program designed to improve mental wellbeing and
 banner_image: ""
 banner_right_image: img/sunrise-opening-image.jpg
 date: 2020-09-15T06:56:39.615Z
-description: The Commonwealth Bank (CBA) identifies stress management and a
-  resilient mindset as critical skills required in the current and future
-  environment. In these extraordinary times of change and uncertainty, we are
-  all facing sudden and dramatic changes to our daily lives. Recognising that
-  this can often be unsettling or even stressful at times, A Better Day was
-  designed to support employees to better identify, respond and mitigate life’s
-  stressors.
+description: In these extraordinary times of change and uncertainty, we are all
+  facing sudden and dramatic changes to our daily lives. Recognising that this
+  can often be unsettling or even stressful at times, the Commonwealth Bank’s
+  (CBS) A Better Day was designed to support employees to better identify,
+  respond, and mitigate life’s stressors.
 category: Case studies
 focus: Improving workplace culture
 role: Health and/or wellbeing lead
@@ -50,7 +48,7 @@ modules:
       experts including psychologists, sleep specialists, exercise
       physiologists, and dieticians.
   - type: rich-text
-    richtext_top: true
+    richtext_top: false
     richtext: >-
       **Outcomes**
 
@@ -72,11 +70,6 @@ modules:
       - gallery_image: img/a-better-day-screen-1.jpg
       - gallery_image: img/a-better-day-screen-2.jpg
       - gallery_image: img/a-better-day-screen-3.jpg
-  - type: want_know_more
-    article_title: Want to find out more?
-    article_description: Please reach out to us to find out more about this bespoke program.
-    article_fullname: Justin Martin, General Manager, Health, Safety & Wellbeing
-    article_email: justin.martin1@cba.com.au
 ---
 **Our challenge**
 
