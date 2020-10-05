@@ -5,7 +5,7 @@ meta_description: This is a detailed description of the page.
 banner_title: PwC's Green Light to Talk program
 banner_description: "Green Light to Talk was launched in 2018 to help create an
   open culture at the firm where people felt comfortable to talk about their
-  mental health, and knew where and how to access support if they needed it. "
+  mental health and knew how to access support if they needed it. "
 banner_image: ""
 banner_right_image: img/gltt-advocate-photo.jpg
 date: 2020-08-31T00:36:31.889Z
