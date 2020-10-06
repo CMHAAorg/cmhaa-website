@@ -118,7 +118,7 @@ modules:
       Join our community of business leaders, experts and partner organisations and be a powerful voice for change as we work together to improve mental health in the workplace. We are receiving expressions of interest for membership commencing 2021, with our program kicking off in February.
     stacked_title: Join us
     stacked_cta_link: /membership/
-    stacked_cta_text: More about membership
+    stacked_cta_text: ABOUT MEMBERSHIP
     stacked_image_caption: ""
   - type: feature-member-stories
     feat_member_intro: Why does mental health matter? Read what our leaders have to say.
