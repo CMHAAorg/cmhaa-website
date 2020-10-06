@@ -44,12 +44,12 @@ Corporate Mental Health Alliance Australia is an opportunity to be a significant
 
 By sharing best practice, open-sourcing tools and making our insights available to other employers, we can make meaningful change, not just incremental change.
 
-If we can make a difference to the wellbeing of workers, then we can make a difference to the wellbeing families. And if we do that, we’ve made a real difference to the whole community.
+If we can make a difference to the wellbeing of workers, then we can make a difference to the wellbeing of families. And if we do that, we’ve made a real difference to the whole community.
 
 The fact that some of Australia’s biggest employers – including head-to-head competitors – are coming together shows how important this is. Mental health is beyond any individual commercial agenda.
 
 As businesses, we can lean on each for support, for ideas and solutions. And it doesn’t matter the size of your organisation or the industry you’re in. If you are employing humans, then we have a shared challenge and a shared opportunity to solve.
 
-**Deborah Yates, National Managing Partner – People Performance & Culture & Corporate Affairs, KPMG Australia**
+**Deborah Yates, National Managing Partner People and Corporate Affairs, KPMG Australia**
 
 **Board Member, Corporate Mental Health Alliance Australia**
