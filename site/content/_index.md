@@ -119,6 +119,25 @@ modules:
     stacked_cta_link: /membership/
     stacked_cta_text: More about membership
     stacked_image_caption: ""
+  - type: callout-image-text-cta
+    callout_image: img/istock-1180926063-test.jpg
+    callout_description: >-
+      **Place people first**\
+
+      We recognise mental health as essential to our people’s ability to thrive in the workplace and beyond.
+
+
+      **Walk our talk**\
+
+      We practice what we preach within the organisations that we lead, and we share our learnings along the way.
+
+
+      **Tread carefully**\
+
+      We acknowledge that we don’t have all the answers, and we are taking our time to do things well.
+    callout_title: Our member principles
+    callout_cta_link: /membership/
+    callout_cta_text: More on what it means to be a member
   - type: feature-member-stories
     feat_member_intro: Why does mental health matter? Read our members' stories and find out.
     feat_member:
@@ -149,25 +168,6 @@ modules:
       support and create mentally healthy workplaces for their people.
       Together,  they are leading a movement for positive change across
       Australia, and the world, as a part of the CMHA Global network.
-  - type: callout-image-text-cta
-    callout_image: img/istock-1180926063-test.jpg
-    callout_description: >-
-      **Place people first**\
-
-      We recognise mental health as essential to our people’s ability to thrive in the workplace and beyond.
-
-
-      **Walk our talk**\
-
-      We practice what we preach within the organisations that we lead, and we share our learnings along the way.
-
-
-      **Tread carefully**\
-
-      We acknowledge that we don’t have all the answers, and we are taking our time to do things well.
-    callout_title: Our member principles
-    callout_cta_link: /membership/
-    callout_cta_text: More on what it means to be a member
 slug: homepage
 banner_cta_link: https://adoring-easley-b6cc0a.netlify.app/about/
 banner_cta_text: See who's involved
