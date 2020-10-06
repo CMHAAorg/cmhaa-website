@@ -21,7 +21,7 @@ modules:
   - type: split_title_content
     content: >-
       * Contribute to a step-change in the creation of mentally healthy
-      workplaces in Australi
+      workplaces in Australia.
 
       * Have access to CMHA Global leadership and individual engagement opportunities with CMHAA’s Expert Advisory Group
 
@@ -31,7 +31,7 @@ modules:
 
       * Collaborate with other members and organisations who are interested in or concerned with mental health on a common agenda, through participation in events, workshops and consultations.
 
-      * Have brand eminence as a recognised leader in workplace mental health and invitations to participate in media requests and speaking events.
+      * Have brand eminence as a recognised leader in workplace mental health and opportunities to engage with the media and speak at relevant events.
 
       * Have the opportunity to access and drive research and influence policymakers to improve quality of life of millions of Australians.
 
