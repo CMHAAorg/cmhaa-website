@@ -20,13 +20,7 @@ modules:
       would not have the courage to admit to my colleagues when I am simply
       'running on fumes'; nor would I have the courage to use my experiences to
       comfort those who are bearing the same burden.\""
-    quote_author: "**Caitlin McConnel**"
-  - type: want_know_more
-    article_title: Want to know more?
-    article_description: Get in with our team and we can run you through the success
-      of this bespoke program.
-    article_fullname: Caitlin McConnel
-    article_email: test@test.com
+    quote_author: Caitlin McConnel
 ---
 I have a fierce passion for agriculture, my home and my family. I have always been very determined and quite competitive, which is why it comes as no surprise that my practice in law now, is as a litigator. I crave routine, discipline, and order, and have always, upon my mother's influence, set very clear goals. It would be true to say, even now, that I wear many hats: as a daughter, a lawyer, a grazier and a volunteer.
 
