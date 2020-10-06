@@ -135,9 +135,9 @@ modules:
       **Tread carefully**\
 
       We acknowledge that we don’t have all the answers, and we are taking our time to do things well.
-    callout_title: Our member principles
-    callout_cta_link: /membership/
-    callout_cta_text: More on what it means to be a member
+    callout_title: Our principles
+    callout_cta_link: /about/
+    callout_cta_text: More about us
   - type: feature-member-stories
     feat_member_intro: Why does mental health matter? Read what our leaders have to say.
     feat_member:
