@@ -18,8 +18,6 @@ modules:
       against a common foe. We are very willing learners and collaborators. We
       want to share what we’re doing and learn from others.
     quote_author: Michael Schneider, Managing Director, Bunnings Group Limited
-  - type: image
-    image: img/istock-912425318.jpg
   - type: split_title_content
     content: >-
       * Contribute to a step-change in the creation of mentally healthy
