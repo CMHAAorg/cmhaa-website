@@ -8,8 +8,11 @@ banner_title: Berkeley Cox, King & Wood Mallesons Australia
 banner_description: ""
 banner_right_image: img/berkley-cox_port.jpg
 date: 2020-09-10T09:32:41.304Z
-description: I feel lucky that my career has been very fulfilling, but I’ve had
-  lots of wobbles along the way.
+description: "Many of us experience varying degrees of mental health struggles
+  at least at some point throughout our careers and lives. I hope that by
+  talking more openly about our own personal challenges, it helps destigmatise
+  mental health and underscore the importance of psychological wellness in the
+  workplace. "
 image: ""
 category: Personal stories
 focus: Support for managers, colleagues and staff
@@ -17,19 +20,13 @@ role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Law & Legal Services
 ---
-I have been in law since I was 18. It’s been an exciting journey that’s involved a few years in the US, umpteen trips to China and other places, working with amazing people as well as leadership of a top tier law firm in Australia.
+I have been in law since I was 18. It’s been an exciting journey that’s involved a few years in the US, numerous trips to China and other places, working with amazing people as well as leadership of a top tier law firm in Australia.
 
-But at various times I have struggled with anxiety, work addiction, perfectionism, compulsive rumination and imposter syndrome.
+At various times I have, like many people within the legal profession, struggled with anxiety, work addiction, perfectionism and stress. The impact of these responses manifest in lots of ways and at times have been debilitating.
 
-Sometimes these problems have been debilitating. Even when I try to absorb them I know I have often not been at my best. Whether it’s just getting going, crippling nerves, tears or even extreme frustration, the impact has manifested itself in lots of ways.
+Luckily, I’ve been curious about how to manage better and unafraid to seek guidance and support.
 
-Luckily, however, I’ve also been curious about how to manage better and have been unafraid to seek help.
-
-Through one-on-one support and care from exceptional people, I have learned strategies to help me manage my emotions, thoughts and feelings. I have learned to see difficult experiences as an opportunity to grow.
-
-As a child, I would not have imagined I’d still be talking about ‘growing up’ in my fifties!
-
-But by being open about my own challenges, I hope to help destigmatise mental health and wellness in the workplace. I want people to appreciate that you can have your own mental health struggles, be vulnerable and have a successful and fulfilling career.
+Through one-on-one care from exceptional people, I have learned strategies to help manage my response. I have learned to see difficult experiences as an opportunity to grow. It is normal to struggle from time to time, it’s ok to share your vulnerability and it’s really helpful to accept the need for support. 
 
 **High performing teams**
 
@@ -41,7 +38,7 @@ To answer that question, we engaged with our people, deployed strategies and con
 
 There is a beautiful alignment between supporting wellbeing for our people and how they perform at work.
 
-We found that happy teams are high-performing teams. In fact, the quality of a person’s relationship with their immediate supervisor accounts for 75 per cent of their overall work experience.
+We found that happy teams are high-performing teams. In fact, the quality of a person’s relationship with their immediate supervisor accounts for 75% of their overall work experience.
 
 Building on these insights, we started working with our leaders. We invested in helping them grow their capability and accountability for supporting their teams at a deeper level.
 
@@ -51,16 +48,15 @@ We’re starting to see positive results, which are spurring us on to do more.
 
 The journey towards mental wellness is a life-long one for me, our people and our firm.
 
-Now, through Corporate Mental Health Alliance Australia, we have a brilliant framework to extend that journey into the broader commercial community.
+Now, through the Corporate Mental Health Alliance Australia, we have a brilliant framework to extend that journey into the broader commercial community.
 
-We can share our organisation’s insights, and we learn from the experience of others to continue to develop and grow.
+We can share our organisation’s insights, and learn from the experience of others to continue to develop and grow.
 
 The Alliance demonstrates a unique spirit of cooperation and deep commitment at the most senior levels of Australian business.
 
-I believe that together we have the potential to have a material impact on psychological welling in Australian workplaces.
+I believe that together we have the potential to have a material impact on psychological wellbeing in Australian workplaces.
 
-Wouldn’t it be great if we could create an environment where everyone can show up to work and feel their well-being is supported, regardless of where they are on the continuum of mental wellness?
+Wouldn’t it be great if we could create an environment where everyone has the opportunity to thrive and where their wellbeing is deeply supported?
 
-**Berkeley Cox, Chief Executive Partner, King Wood & Mallesons Australia**
-
+**Berkeley Cox, Chief Executive Partner, King & Wood Mallesons Australia**\
 **Board Member, Corporate Mental Health Alliance Australia**
