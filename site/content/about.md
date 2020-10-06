@@ -8,11 +8,8 @@ banner_title: Business-led, expert-guided.
 banner_image: img/istock-838338570.jpg
 modules:
   - type: split_title_content
-    leadtext: >-
-      #### **The Corporate Mental Health Alliance Australia**
-
-
-      We are a business-led, expert-guided member organisation dedicated to providing mentally healthy workplaces for our people.
+    leadtext: We are a business-led, expert-guided member organisation dedicated to
+      providing mentally healthy workplaces for our people.
     title: About us
     image: ""
     content: Why? Because as a community, we know that we can do better, and that
