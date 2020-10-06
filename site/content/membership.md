@@ -41,6 +41,7 @@ modules:
     leadtext: "We welcome businesses of all sizes and from all industries as
       members. By becoming a member, your business will:"
     title: Membership benefits
+    image: img/greenhouse-crop.png
   - type: split_title_content_background
     title: Membership requirements
     content: >-
