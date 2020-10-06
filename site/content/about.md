@@ -196,8 +196,8 @@ modules:
           Corporate Affairs, KPMG Australia
         our_board_linkedin: " https://www.linkedin.com/in/deborah-yates-68ab768/"
         our_board_quote: If we can make a difference to the wellbeing of workers, then
-          we can make a difference to the wellbeing families. And if we do that,
-          we’ve made a real difference to the whole community.
+          we can make a difference to the wellbeing of families. And if we do
+          that, we’ve made a real difference to the whole community.
         our_board_description: >-
           Deborah has significant experience in leading culture change, large
           acquisitions from deal negotiation through to full business
