@@ -107,18 +107,6 @@ modules:
         our_member_image: img/pwc200142067_v3_final.jpg
       - our_member_image: img/woolworths-group_rgb_positive_logo.png
         our_member_link: https://www.woolworthsgroup.com.au/
-  - type: stacked-content-top-image
-    stacked_image: img/istock-1172976280.jpg
-    stacked_description: >-
-      We are at the very beginning of our work together. Come be a part of it.
-      Businesses both large and small are welcome.
-
-
-      Join our community of business leaders, experts and partner organisations and be a powerful voice for change as we work together to improve mental health in the workplace. We are receiving expressions of interest for membership commencing 2021, with our program kicking off in February.
-    stacked_title: Join us
-    stacked_cta_link: /membership/
-    stacked_cta_text: More about membership
-    stacked_image_caption: ""
   - type: callout-image-text-cta
     callout_image: img/istock-1180926063-test.jpg
     callout_description: >-
@@ -138,6 +126,18 @@ modules:
     callout_title: Our principles
     callout_cta_link: /about/
     callout_cta_text: More about us
+  - type: stacked-content-top-image
+    stacked_image: img/istock-1172976280.jpg
+    stacked_description: >-
+      We are at the very beginning of our work together. Come be a part of it.
+      Businesses both large and small are welcome.
+
+
+      Join our community of business leaders, experts and partner organisations and be a powerful voice for change as we work together to improve mental health in the workplace. We are receiving expressions of interest for membership commencing 2021, with our program kicking off in February.
+    stacked_title: Join us
+    stacked_cta_link: /membership/
+    stacked_cta_text: More about membership
+    stacked_image_caption: ""
   - type: feature-member-stories
     feat_member_intro: Why does mental health matter? Read what our leaders have to say.
     feat_member:
