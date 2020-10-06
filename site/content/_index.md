@@ -4,6 +4,7 @@ meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
 meta_description: This is a detailed description of the page.
 banner_title: Together in the business of workplace mental health.
 banner_image: img/gettyimages-173292124.jpg
+banner_cta_link: https://adoring-easley-b6cc0a.netlify.app/about/
 modules:
   - type: split_title_content
     title: Who we are
@@ -107,25 +108,6 @@ modules:
         our_member_image: img/pwc200142067_v3_final.jpg
       - our_member_image: img/woolworths-group_rgb_positive_logo.png
         our_member_link: https://www.woolworthsgroup.com.au/
-  - type: callout-image-text-cta
-    callout_image: img/istock-1180926063-test.jpg
-    callout_description: >-
-      **Place people first**\
-
-      We recognise mental health as essential to our people’s ability to thrive in the workplace and beyond.
-
-
-      **Walk our talk**\
-
-      We practice what we preach within the organisations that we lead, and we share our learnings along the way.
-
-
-      **Tread carefully**\
-
-      We acknowledge that we don’t have all the answers, and we are taking our time to do things well.
-    callout_title: Our principles
-    callout_cta_link: /about/
-    callout_cta_text: More about us
   - type: stacked-content-top-image
     stacked_image: img/istock-1172976280.jpg
     stacked_description: >-
@@ -169,6 +151,5 @@ modules:
       Together,  they are leading a movement for positive change across
       Australia, and the world, as a part of the CMHA Global network.
 slug: homepage
-banner_cta_link: https://adoring-easley-b6cc0a.netlify.app/about/
 banner_cta_text: See who's involved
 ---
