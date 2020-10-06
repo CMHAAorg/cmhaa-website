@@ -129,11 +129,11 @@ modules:
         feat_member_link: /resources/personal-story-melinda-upton/
         feat_member_cta: READ MELINDA'S STORY
       - feat_member_image: img/berkley-cox_port.jpg
-        feat_member_description: I feel lucky that my career has been very fulfilling,
-          but I’ve had lots of wobbles along the way.  I have been in law since
-          I was 18. It’s been an exciting journey that’s involved a few years in
-          the US, umpteen trips to China and other places, working with amazing
-          people as well as leadership of a top tier law firm in Australia.
+        feat_member_description: "Many of us experience varying degrees of mental health
+          struggles at least at some point throughout our careers and lives. I
+          hope that by talking more openly about our own personal challenges, it
+          helps destigmatise mental health and underscore the importance of
+          psychological wellness in the workplace. "
         feat_member_link: /resources/personal-story-berkeley-cox/
         feat_member_cta: READ BERKELEY'S STORY
       - feat_member_image: img/pwc_kristin-stubbins-photo-2-.jpg
