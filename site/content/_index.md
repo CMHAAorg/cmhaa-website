@@ -4,7 +4,6 @@ meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
 meta_description: This is a detailed description of the page.
 banner_title: Together in the business of workplace mental health.
 banner_image: img/gettyimages-173292124.jpg
-banner_cta_link: https://adoring-easley-b6cc0a.netlify.app/about/
 modules:
   - type: split_title_content
     title: Who we are
@@ -81,7 +80,8 @@ modules:
       - our_member_image: img/aia_corporate_logo_rgb.png
         our_member_link: http://www.aia.com.au/
       - our_member_image: img/allianz_logo_positive_cmyk_c.jpg
-        our_member_link: https://www.allianz.com.au/
+        our_member_link: "https://www.allianz.com.au/business/workers-compensation/ment\
+          al-health "
       - our_member_image: img/bunnings_warehouse_colour_pos.png
         our_member_link: https://www.bunnings.com.au/
       - our_member_image: img/clayton_utz_logo_tab_mono.jpg
@@ -150,5 +150,6 @@ modules:
       Together,  they are leading a movement for positive change across
       Australia, and the world, as a part of the CMHA Global network.
 slug: homepage
+banner_cta_link: https://adoring-easley-b6cc0a.netlify.app/about/
 banner_cta_text: See who's involved
 ---
