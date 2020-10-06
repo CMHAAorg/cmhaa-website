@@ -46,4 +46,4 @@ Without the comfort of an open and nurturing work environment, I would not have 
 
 I am acutely aware that my current bout of clinical depression is unlikely to be the last time the Black Dog casts a shadow over my life or my work. As a result, I want to give my colleagues the tools to help me remember that I am not weak or unworthy; just as I hope that in sharing my battle with the Black Dog, I am strengthening my own resolve, and my ability to help others. That is why I speak out, even when it's hard to do so; and why I am a Mental Health First Aider.
 
-**Caitlin McConnel, Lawyer, Clayton Utz**
+**Caitlin McConnel, Senior Associate, Clayton Utz**
