@@ -139,7 +139,7 @@ modules:
     callout_cta_link: /membership/
     callout_cta_text: More on what it means to be a member
   - type: feature-member-stories
-    feat_member_intro: Why does mental health matter? Read our members' stories and find out.
+    feat_member_intro: Why does mental health matter? Read what our leaders have to say.
     feat_member:
       - feat_member_image: img/internet_5y6a0050-edit.jpg
         feat_member_description: I’ve seen first-hand the damage and pain that poor
