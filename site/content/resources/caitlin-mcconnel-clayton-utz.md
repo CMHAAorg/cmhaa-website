@@ -14,13 +14,7 @@ focus: Support for managers, colleagues and staff
 role: Champion or advocate
 organisation_size: Large (250+ employees)
 industry: Law & Legal Services
-modules:
-  - type: quote
-    quote_text: "\"Without the comfort of an open and nurturing work environment, I
-      would not have the courage to admit to my colleagues when I am simply
-      'running on fumes'; nor would I have the courage to use my experiences to
-      comfort those who are bearing the same burden.\""
-    quote_author: Caitlin McConnel
+modules: []
 ---
 I have a fierce passion for agriculture, my home and my family. I have always been very determined and quite competitive, which is why it comes as no surprise that my practice in law now, is as a litigator. I crave routine, discipline, and order, and have always, upon my mother's influence, set very clear goals. It would be true to say, even now, that I wear many hats: as a daughter, a lawyer, a grazier and a volunteer.
 
