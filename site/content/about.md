@@ -399,9 +399,9 @@ modules:
       We practice what we preach within the organisations that we lead, and we share our learnings along the way.
 
 
-      **Tread carefully**\
+      **Respond thoughtfully**\
 
       We acknowledge that we don’t have all the answers, and we take our time to do things well.
     callout_cta_link: /membership/
-    callout_cta_text: More on what it means to be a member
+    callout_cta_text: ABOUT MEMBERSHIP
 ---
