@@ -4,10 +4,10 @@
             <p class="uk-text-lead">{{ .Module.feat_member_intro }}</p>
         </div>
         {{ $feat_members_count := len .Module.feat_member }}
-        <div class="uk-card uk-grid-collapse uk-child-width-1-1 uk-child-width-1-{{$feat_members_count}}@l uk-margin" uk-grid>
+        <div class="uk-card uk-grid-collapse uk-child-width-1-1 uk-child-width-1-2@m uk-child-width-1-{{$feat_members_count}}@l uk-margin" uk-grid>
         {{ range $index, $element := .Module.feat_member }}
             <div class="C21-feature-members--member uk-padding-small">
-                <div class="uk-card uk-card-white uk-card-box-shadow">
+                <a href="{{ $element.feat_member_link }}" class="uk-card uk-card-white uk-card-box-shadow">
                     <div class="uk-card-media-top">
                         {{if $element.feat_member_image}}
                             <div class="uk-cover-container">
@@ -23,10 +23,10 @@
                     <div class="uk-card-body uk-icon-adjust">
                         <p>{{ partial "utils/preview.html" (dict "maxlen" 160 "text" $element.feat_member_description) }}</p>
                         {{if $element.feat_member_link}}
-                        <a href="{{ $element.feat_member_link }}" class="uk-button uk-button-minimal"><span uk-icon="minus"></span> {{ $element.feat_member_cta }}</a>
+                        <span class="uk-button uk-button-minimal"><span uk-icon="minus"></span> {{ $element.feat_member_cta }}</span>
                         {{end}}
                     </div>
-                </div>
+                </a>
             </div>
         {{ end }}
         </div>

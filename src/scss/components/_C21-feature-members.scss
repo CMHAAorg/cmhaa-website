@@ -1,0 +1,17 @@
+.C21-feature-members {
+  &--member {
+    > a {
+      display: block;
+      text-decoration: none;
+      transition: 200ms ease;
+
+      &:hover {
+        transform: translateY(-10px);
+
+        .uk-button {
+          color: $brand-secondary-raspberry;
+        }
+      }
+    }
+  } 
+}
