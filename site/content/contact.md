@@ -6,7 +6,7 @@ meta_description: Business-led. Expert-guided.
 banner_title: Let's connect.
 banner_description: ""
 banner_image: ""
-banner_right_image: img/istock-539447656-overlay.jpg
+banner_right_image: ""
 modules:
   - type: separator-line
     padding_top: true
