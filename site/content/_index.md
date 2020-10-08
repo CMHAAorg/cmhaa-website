@@ -1,7 +1,10 @@
 ---
 title: Home
-meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
-meta_description: This is a detailed description of the page.
+meta_keywords: Mental Awareness, CMHAA, Corporate Mental Health Alliance Australia
+meta_description: We are an alliance of Australian businesses dedicated to
+  providing mentally healthy workplaces for our people. We are business-led and
+  expert-guided. We share our insights and experience openly. Together, we have
+  the power to change people's experience of the workplace for the better.
 banner_title: Together in the business of workplace mental health.
 banner_image: img/gettyimages-173292124.jpg
 modules:
