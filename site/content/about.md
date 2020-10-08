@@ -364,7 +364,7 @@ modules:
       with any one organisation.
     friend:
       - friend_text: Ben Bars
-        friend_link: http://www.google.com
+        friend_link: ""
       - friend_text: Michelle Baxter
       - friend_text: Lucy Brogden AM
       - friend_text: Professor Pat Dudgeon
