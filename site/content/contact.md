@@ -62,7 +62,7 @@ modules:
             option_text: General enquiry
         select_error_message: Please select reason
   - type: recommended_resources
-    heading: You might be interested in
+    heading: Read what some of our leaders have to say about mental health.
     resources:
       - personal-story-brian-long
       - personal-story-andrew-culleton
