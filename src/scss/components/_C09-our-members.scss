@@ -35,48 +35,29 @@
       }
     }
 
-    &0,
-    &4,
-    &8,
-    &12,
-    &16,
-    &20,
-    &24 {
+    &:nth-child(5n+1) {
       a {
         border-top: 4px solid $brand-secondary-red;
       }
     }
-    &1,
-    &5,
-    &9,
-    &13,
-    &17,
-    &21,
-    &25 {
+    &:nth-child(5n+2) {
       a {
         border-top: 4px solid $brand-secondary-raspberry;
       }
     }
-    &2,
-    &6,
-    &10,
-    &14,
-    &18,
-    &22,
-    &26 {
+    &:nth-child(5n+3) {
       a {
         border-top: 4px solid $brand-secondary-teal;
       }
     }
-    &3,
-    &7,
-    &11,
-    &15,
-    &19,
-    &23,
-    &27 {
+    &:nth-child(5n+4) {
       a {
         border-top: 4px solid $brand-secondary-green;
+      }
+    }
+    &:nth-child(5n+5) {
+      a {
+        border-top: 4px solid $brand-primary;
       }
     }
   }
