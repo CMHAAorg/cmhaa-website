@@ -763,3 +763,10 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "Banner Title", name: "resources_banner_title", widget: "string", required: false }
           - { label: "Banner Description", name: "resources_banner_description", widget: "string", required: false }
           - { label: "Banner Background Image", name: "resources_banner_image", widget: "image", required: false }
+  - name: "navigation"
+    label: "Navigation"
+    folder: "site/content/navigation"
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string", default: "Navigation" }
