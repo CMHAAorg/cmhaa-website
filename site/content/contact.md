@@ -14,13 +14,13 @@ modules:
     padding_bottom: true
   - type: form
     form_id: contact
-    form_lead: "We'd love to hear from you. "
-    form_description: >-
-      Please let us know how we may assist you and we'll be in touch. 
-
-
-      Note that the Corporate Mental Health Alliance Australia does not provide direct crisis support. If you or someone you know needs immediate help, emergency support services can be found [here](https://www.blackdoginstitute.org.au/emergency-help/).
-    form_title: Contact us
+    form_lead: Please let us know how we may assist you and we'll be in touch.
+    form_description: Note that we do not provide clinical services for people in
+      need of direct mental health or crisis support. If you or someone you know
+      is in immediate danger, please dial '000' if in Australia, or reach out to
+      the relevant support services listed
+      [here](https://everymind.org.au/need-help).
+    form_title: Let's connect
     components:
       - type: FC02_text_input_area
         text_field_id: firstname
