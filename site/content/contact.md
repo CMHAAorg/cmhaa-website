@@ -47,7 +47,24 @@ modules:
         text_area_required: true
         text_area_error_message: Your comments are required.
         text_area_max_char: 995
+      - type: FC05_select
+        select_required: true
+        select_id: options
+        select_label: Reason for your enquiry
+        select_options:
+          - option_id: membership
+            option_text: Membership
+          - option_id: Program information
+            option_text: Program information
+          - option_id: Involved
+            option_text: Wanting to get involved
+          - option_id: General
+            option_text: General enquiry
+        select_error_message: Please select reason
   - type: recommended_resources
     heading: You might be interested in
-    resources: []
+    resources:
+      - personal-story-brian-long
+      - personal-story-andrew-culleton
+      - personal-story-deborah-yates
 ---
