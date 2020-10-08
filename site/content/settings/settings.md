@@ -34,7 +34,9 @@ seo:
     seo_og_type: website
     seo_og_twitter: cmhaa
     seo_og_sitename: Corporate Mental Health Alliance Australia
-    seo_og_description: Corporate Mental Health Alliance description goes here.
+    seo_og_description: Corporate Mental Health Alliance is a business-led,
+      expert-guided member organisation dedicated to providing mentally healthy
+      workplaces for our people.
 article:
   - article_title: Want to know more?
     article_description: Get in touch with our team and we can run you through the
