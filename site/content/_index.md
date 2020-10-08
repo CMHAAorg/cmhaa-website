@@ -1,6 +1,7 @@
 ---
 title: Home
-meta_keywords: Mental Awareness, CMHAA, Corporate Mental Health Alliance Australia
+meta_keywords: Mental Awareness, CMHAA, Corporate Mental Health Alliance
+  Australia,  Corporate Mental Health Alliance, City Mental Health Alliance
 meta_description: We are an alliance of Australian businesses dedicated to
   providing mentally healthy workplaces for our people. We are business-led and
   expert-guided. We share our insights and experience openly. Together, we have
