@@ -4,7 +4,7 @@ meta_keywords: Contact Us, Mental Awareness, CMHAA, Corporate Mental Health
   Alliance, City Mental Health Alliance, Mental Health, Corporate Mental Health
   Alliance Australia
 meta_description: We'd love to hear from you.
-banner_title: Let's connect. We'd love to hear from you.
+banner_title: Contact us. We'd love to hear from you.
 banner_description: ""
 banner_image: img/contact-overlay-crop-.jpg
 banner_right_image: ""
@@ -14,13 +14,13 @@ modules:
     padding_bottom: true
   - type: form
     form_id: contact
-    form_lead: "We'd love to hear from you. "
-    form_description: >-
-      Please let us know how we may assist you and we'll be in touch. 
-
-
-      Note that the Corporate Mental Health Alliance Australia does not provide direct crisis support. If you or someone you know needs immediate help, emergency support services can be found [here](https://www.blackdoginstitute.org.au/emergency-help/).
-    form_title: Contact us
+    form_lead: Please let us know how we may assist you and we'll be in touch.
+    form_description: Note that we do not provide clinical services for people in
+      need of direct mental health or crisis support. If you or someone you know
+      is in immediate danger, please dial '000' if in Australia, or reach out to
+      the relevant support services listed
+      [here](https://everymind.org.au/need-help).
+    form_title: Let's connect
     components:
       - type: FC02_text_input_area
         text_field_id: firstname
@@ -41,12 +41,6 @@ modules:
         email_label: Email address
         email_required: true
         email_error_message: A valid email address is required.
-      - type: FC03_text_area
-        text_area_id: message
-        text_area_label: Comments
-        text_area_required: true
-        text_area_error_message: Your comments are required.
-        text_area_max_char: 995
       - type: FC05_select
         select_required: true
         select_id: options
@@ -61,6 +55,12 @@ modules:
           - option_id: General
             option_text: General enquiry
         select_error_message: Please select reason
+      - type: FC03_text_area
+        text_area_id: message
+        text_area_label: Comments
+        text_area_required: true
+        text_area_error_message: Your comments are required.
+        text_area_max_char: 995
   - type: recommended_resources
     heading: Read what some of our leaders have to say about mental health.
     resources:
