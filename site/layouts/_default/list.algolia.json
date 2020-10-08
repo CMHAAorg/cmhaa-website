@@ -15,7 +15,7 @@
       {{- end -}}
       {{- with $banner_image }}
         {{- $path := resources.Get $banner_image -}} 
-        {{- $banner_image = ($path.Resize "600x").RelPermalink }}
+        {{- $banner_image = ($path.Fill "560x400").RelPermalink }}
       {{- end }}    
       {{- $.Scratch.Add "index" (dict "objectID" .File.UniqueID "permalink" .Permalink "title" .Title "post_date" $post_date "post_date_timestamp" $post_date_timestamp "banner_image" $banner_image "type" .Type "category" .Params.category "category_tag" $category_tag "focus" .Params.focus "role" .Params.role "organisation_size" .Params.organisation_size "industry" .Params.industry )}}
     {{- end -}}
