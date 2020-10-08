@@ -110,6 +110,12 @@ modules:
         our_member_link: https://www.woolworthsgroup.com.au/
       - our_member_image: img/johnson.png
         our_member_link: https://google.com
+      - our_member_image: img/allianz.jpg
+        our_member_link: https://google.com
+      - our_member_image: img/coles.jpg
+        our_member_link: https://google.com
+      - our_member_image: img/kingwood.jpg
+        our_member_link: https://google.com
   - type: stacked-content-top-image
     stacked_image: img/istock-1172976280.jpg
     stacked_description: We are at the very beginning of our work together. Come be
