@@ -4,7 +4,7 @@ meta_keywords: Contact Us, Mental Awareness, CMHAA, Corporate Mental Health
   Alliance, City Mental Health Alliance, Mental Health, Corporate Mental Health
   Alliance Australia
 meta_description: We'd love to hear from you.
-banner_title: Let's connect.
+banner_title: Hello. Let's connect.
 banner_description: ""
 banner_image: img/contact-overlay-crop-.jpg
 banner_right_image: ""
