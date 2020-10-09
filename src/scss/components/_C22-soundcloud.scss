@@ -1,4 +1,3 @@
 .C22-soundcloud {
-  @include componentSpacingCompile($small:false);
-  padding-top: 0;
+  @include componentSpacingCompile($small:true);
 }

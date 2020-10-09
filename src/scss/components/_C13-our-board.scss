@@ -1,7 +1,6 @@
 .C13-our-board {
   @include componentSpacingCompile();
   @include svgLine();
-  padding-top: 40px;
 
   &__count {
     padding-top: 64px;
