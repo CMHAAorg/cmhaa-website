@@ -4,5 +4,10 @@ mainMenu:
   - title: About
     url: /about/
   - title: Membership
-    url: /aspoidfj?bob=chat&aosiejdf=%20yosomething
+    url: /membership/
+  - title: Resources
+    url: /resoures/
+    newtab: true
+  - title: Contact
+    url: /contact
 ---
