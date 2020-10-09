@@ -10,24 +10,28 @@
     </button>
     <ul class="uk-navbar-nav" id="main-nav">
       {{ $currentPage := . }}
-      {{ range .Site.Menus.main }}
-        {{ $active := or (eq $.URL .URL) (or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .)) }}
-        <li class="{{ if $active }}active{{ end }}">
-          <a href="{{ .URL | relURL }}" title="{{ .Title }}">
-            {{ .Name }}
-          </a>
-        </li>
+      {{ with .Site.GetPage "/navigation/main-navigation.md" }}
+        {{range $key,$val := .Params.mainmenu}}
+          {{ $active := or (eq $.URL $val.url) (eq (printf "%s%s" $.Site.BaseURL (replaceRE "^/(.*)" "$1" $.URL)) $val.url) }}
+          <li class="{{ if $active }}active{{ end }}">
+            <a href="{{ $val.url }}" title="{{ $val.title }}"{{ if $val.newtab }} target="_blank"{{ end }}>
+              {{ $val.title }}
+            </a>
+          </li>
+        {{ end }}
       {{ end }}
     </ul>
     <div class="uk-navbar-nav uk-navbar-mobile uk-height-1-1">
       <div class="uk-flex-middle uk-height-1-1 uk-grid-collapse uk-width-1-1" uk-grid>
         <div class="uk-width-1-1">
           {{ $currentPage := . }}
-          {{ range .Site.Menus.main }}
-          {{ $active := or (eq $.URL .URL) (or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .)) }}
-            <a class="uk-button uk-button-minimal" href="{{ .URL | relURL }}" title="{{ .Title }}">
-              {{ .Name }}
-            </a>
+          {{ with .Site.GetPage "/navigation/main-navigation.md" }}
+            {{range $key,$val := .Params.mainmenu}}
+              {{ $active := or (eq $.URL $val.url) (eq (printf "%s%s" $.Site.BaseURL (replaceRE "^/(.*)" "$1" $.URL)) $val.url) }}
+                <a class="uk-button uk-button-minimal{{ if $active }} active{{ end }}" href="{{ $val.url }}" title="{{ $val.title }}"{{ if $val.newtab }} target="_blank"{{ end }}>
+                  {{ $val.title }}
+                </a>
+            {{ end }}
           {{ end }}
         </div>
       </div>
