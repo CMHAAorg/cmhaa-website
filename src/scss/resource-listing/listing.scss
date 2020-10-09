@@ -1,4 +1,8 @@
 .resource-listing {
+  .uk-container {
+    max-width: 1900px;
+  }
+
   &__listing {
     flex-grow: 1;
     transition: 400ms ease;
