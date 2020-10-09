@@ -2,8 +2,10 @@
 page_title: About
 title: About
 meta_keywords: Mental Awareness, Mental Health, CMHAA, About, Corporate Mental
-  Health Alliance, City Mental Health Alliance
-meta_description: Business-led. Expert-guided.
+  Health Alliance, City Mental Health Alliance, Corporate Mental Health Alliance
+  Australia
+meta_description: We are a business-led, expert-guided member organisation
+  dedicated to providing mentally healthy workplaces for our people.
 banner_title: Business-led, expert-guided.
 banner_image: img/istock-838338570.jpg
 modules:
@@ -51,65 +53,43 @@ modules:
       facilitated by PwC's Impact Assembly, January 2020.
   - our_board_exec_linkedin: https://www.linkedin.com/
     board:
-      - our_board_image: img/cba-culleton-a-023.jpg
-        our_board_name: Andrew Culleton
-        our_board_title: Executive General Manager Group People Services, Commonwealth
-          Bank of Australia
-        our_board_quote: When you genuinely care about mental wellbeing, you have a
-          responsibility to expose yourself to new ideas, new ways of thinking
-          and working. You also have a responsibility to make an impact.
+      - our_board_image: img/david-brewster-11297.jpg
+        our_board_name: David Brewster
+        our_board_title: Chief Legal & Safety Officer, Coles Group
+        our_board_quote: We want to help reduce the stigma that comes with talking about
+          it in the workplace. People should be able to go to work and feel safe
+          and comfortable to be their authentic selves, including being able to
+          open up about their mental health.
+        our_board_description: David’s extensive legal career includes 13 years as
+          partner at Allens Linklaters, and prior to that the Australian
+          Competition and Consumer Commission. David joined Coles in early 2016
+          and leads the Health, Safety and Wellbeing teams, as well as legal,
+          risk, regulatory compliance and employee relations teams. He is a
+          member of the Coles Executive team and co-chairs the Coles Better
+          Together diversity committee responsible for LGBTI issues. He is a
+          member of the board of Queensland Venue Company, a joint venture
+          operating hotels and retail liquor outlets throughout Queensland.
+        our_board_linkedin: https://www.linkedin.com/in/davidabrewster/
+      - our_board_name: Bruce Cooper
+        our_board_image: img/clayton_cooperbruce_externalprint_2000x2000.jpg
+        our_board_title: Chief Executive Partner, Clayton Utz
+        our_board_quote: Good mental health is about maintaining perspective and
+          maintaining a strong outlook. No matter how resilient we are, all of
+          us have hills to climb and obstacles to overcome. What matters is how
+          one approaches challenges and how one is equipped to manage those
+          approaches.
         our_board_description: >-
-          Andrew is responsible for creating a better day at work for employees
-          at the Commonwealth Bank, guided by the Bank’s purpose – to improve
-          the financial wellbeing of its customers and communities.
+          Bruce's career in law spans 30 years in Australia and overseas as a
+          project, infrastructure and finance lawyer. He has been a partner at
+          two firms and is admitted to practice in Australia, England and Hong
+          Kong.
 
 
-          Andrew believes that, as one of Australia’s largest organisations, CBA has an opportunity and obligation to enhance the lives of millions each year by supporting their financial wellbeing. To do the best for the customers and communities that rely on CBA, it’s people need to be at their best themselves. This is what makes finding new ways to preserve, protect and care for people’s physical and mental health, no matter where they are currently on the health continuum, one of Andrew’s most important priorities.
+          Returning to Australia in 2010, he was elected to the Clayton Utz Board in 2012 and made Deputy Chief Executive Partner in 2014. He was appointed the Chief Executive Partner on May 15, 2020.
 
 
-          Andrew lives in Sydney with his wife and four children.
-        our_board_linkedin: https://www.linkedin.com/in/andrew-culleton-757aab2/
-      - our_board_name: Annette Kimmitt AM
-        our_board_image: img/kimmitt_annette_photo_1200.jpg
-        our_board_title: CEO & Managing Partner of the Firm, MinterEllison
-        our_board_linkedin: " https://www.linkedin.com/in/annettekimmitt/"
-        our_board_description: >-
-          With over 35 years experience, Annette's executive career has included
-          a range of senior roles and she has extensive local and international
-          experience in designing and implementing large, complex
-          transformations, and a strong track record in unlocking organisational
-          potential.
-
-
-          Annette is a member of the Business Council of Australia's Economic Policy and Competitiveness Committee and was appointed in 2019 as 'Pay Equity Ambassador' by the Australian Government's Workplace Gender Equality Agency in recognition of her significant contribution to empowering and supporting women and in advocating for gender pay equity.
-
-
-          Serving as the Victorian Chair of the Institute of Chartered Accountants in 2009 she pioneered the accounting profession's focus on supporting the mental health and wellbeing of its members.
-
-
-          Annette has been married to her husband Rod for over 34 years, and they have two children, Rhys and Courtney.
-        our_board_quote: "Mental health, for me, is all about psychological fitness.
-          Feeling well, enjoying the challenges of life and work, and feeling
-          equipped to deal with what’s in front of you in the workplace. That
-          headspace allows you to support family, friends and colleagues as
-          well. "
-      - our_board_name: Ben Fitzpatrick
-        our_board_image: img/aia-aus_ben-fitzpatrick.jpg
-        our_board_title: Workplace Health & Safety Manager, AIA Australia
-        our_board_description: >-
-          Ben’s career in Workplace Health and Safety began over 15 years ago.
-          Joining AIA in 2018 because of their commitment to the health and
-          wellbeing of all Australians, mental health has been one of Ben’s key
-          focuses where he is leading the operational planning and execution of
-          the associated framework.
-
-
-          Lived experience has aided Ben to develop a more personalised perspective of the impact mental ill-health has within the workplace setting and within the community more broadly. Being a father, husband and avid watcher of the English Premier League, Ben has his hands full but has found the time to peruse Psychology studies at Monash University.
-        our_board_linkedin: https://www.linkedin.com/in/ben-fitzpatrick-097592160/
-        our_board_quote: My goal is to create an environment that others have created
-          for me. That’s providing an open workplace for people to be
-          themselves, to be vulnerable, and if they need to share their story,
-          they can without being judged.
+          Outside law, Bruce is the Deputy Chair of the Australian String Quartet, skis, collects vintage land rovers and WW1 militaria (both mostly while his wife, Bronwyn, is not looking) and acts as a hired hand in her cattle business.
+        our_board_linkedin: https://www.linkedin.com/in/bruce-cooper-960934b/
       - our_board_name: Berkeley Cox
         our_board_image: img/berkley-cox_port.jpg
         our_board_title: Chief Executive Partner, King & Wood Mallesons
@@ -134,81 +114,24 @@ modules:
 
           Berkeley enjoys spending time with his family and with the rich and diverse natural environment that we are fortunate to share in this country.
         our_board_linkedin: https://www.linkedin.com/in/berkeley-cox-004372a2/
-      - our_board_name: Brian Long
-        our_board_image: img/img_20200826_105910_4.jpg
-        our_board_title: General Manager Safety, Health & Wellbeing, Woolworths Group
-        our_board_linkedin: https://www.linkedin.com/in/brian-long-6710469/
+      - our_board_image: img/cba-culleton-a-023.jpg
+        our_board_name: Andrew Culleton
+        our_board_title: Executive General Manager Group People Services, Commonwealth
+          Bank of Australia
+        our_board_quote: When you genuinely care about mental wellbeing, you have a
+          responsibility to expose yourself to new ideas, new ways of thinking
+          and working. You also have a responsibility to make an impact.
         our_board_description: >-
-          Brian joined the Woolworth's Group as the General Manager, Safety,
-          Health and Wellbeing, with mental health and wellbeing identified as
-          one of Brian's key priorities.
+          Andrew is responsible for creating a better day at work for employees
+          at the Commonwealth Bank, guided by the Bank’s purpose – to improve
+          the financial wellbeing of its customers and communities.
 
 
-          Throughout his career, Brian has played a pivotal role in engendering a culture of care.
+          Andrew believes that, as one of Australia’s largest organisations, CBA has an opportunity and obligation to enhance the lives of millions each year by supporting their financial wellbeing. To do the best for the customers and communities that rely on CBA, it’s people need to be at their best themselves. This is what makes finding new ways to preserve, protect and care for people’s physical and mental health, no matter where they are currently on the health continuum, one of Andrew’s most important priorities.
 
 
-          As a globally influential Safety, Resilience, Wellbeing and Sustainability Leader, with a proven track record in delivering tangible business outcomes, whilst maintaining an unflinching commitment to improving the lives of the people he interacts with.
-        our_board_quote: "I learnt the importance of being vulnerable and getting
-          support. I reflected on myself and my work. I created space to live
-          the genuine life I wanted to live. I added things outside of work that
-          gave me joy and fulfilment. Mental health is now a crucial element in
-          my whole being. "
-      - our_board_name: Bruce Cooper
-        our_board_image: img/clayton_cooperbruce_externalprint_2000x2000.jpg
-        our_board_title: Chief Executive Partner, Clayton Utz
-        our_board_quote: Good mental health is about maintaining perspective and
-          maintaining a strong outlook. No matter how resilient we are, all of
-          us have hills to climb and obstacles to overcome. What matters is how
-          one approaches challenges and how one is equipped to manage those
-          approaches.
-        our_board_description: >-
-          Bruce's career in law spans 30 years in Australia and overseas as a
-          project, infrastructure and finance lawyer. He has been a partner at
-          two firms and is admitted to practice in Australia, England and Hong
-          Kong.
-
-
-          Returning to Australia in 2010, he was elected to the Clayton Utz Board in 2012 and made Deputy Chief Executive Partner in 2014. He was appointed the Chief Executive Partner on May 15, 2020.
-
-
-          Outside law, Bruce is the Deputy Chair of the Australian String Quartet, skis, collects vintage land rovers and WW1 militaria (both mostly while his wife, Bronwyn, is not looking) and acts as a hired hand in her cattle business.
-        our_board_linkedin: https://www.linkedin.com/in/bruce-cooper-960934b/
-      - our_board_image: img/david-brewster-11297.jpg
-        our_board_name: David Brewster
-        our_board_title: Chief Legal & Safety Officer, Coles Group
-        our_board_quote: We want to help reduce the stigma that comes with talking about
-          it in the workplace. People should be able to go to work and feel safe
-          and comfortable to be their authentic selves, including being able to
-          open up about their mental health.
-        our_board_description: David’s extensive legal career includes 13 years as
-          partner at Allens Linklaters, and prior to that the Australian
-          Competition and Consumer Commission. David joined Coles in early 2016
-          and leads the Health, Safety and Wellbeing teams, as well as legal,
-          risk, regulatory compliance and employee relations teams. He is a
-          member of the Coles Executive team and co-chairs the Coles Better
-          Together diversity committee responsible for LGBTI issues. He is a
-          member of the board of Queensland Venue Company, a joint venture
-          operating hotels and retail liquor outlets throughout Queensland.
-        our_board_linkedin: https://www.linkedin.com/in/davidabrewster/
-      - our_board_name: Deborah Yates
-        our_board_image: img/deb-yates-high-res-head-shot.jpg
-        our_board_title: National Managing Partner People and Corporate Affairs, KPMG Australia
-        our_board_linkedin: " https://www.linkedin.com/in/deborah-yates-68ab768/"
-        our_board_quote: If we can make a difference to the wellbeing of workers, then
-          we can make a difference to the wellbeing of families. And if we do
-          that, we’ve made a real difference to the whole community.
-        our_board_description: >-
-          Deborah has significant experience in leading culture change, large
-          acquisitions from deal negotiation through to full business
-          integration, change management, restructuring and crisis management.
-          Deb is a respected coach and mentor to senior leaders and senior
-          leadership teams.
-
-
-          Since joining KPMG in January 2018 Deb has led the people strategy with particular focus on creating a mentally healthy culture with leaders confident and competent in leading the charge in an inclusive and diverse culture. She also leads the Corporate Affairs strategy which includes the Corporate Citizenship mental health pillar with a focus on partnering with NFPs and peak bodies dedicated to supporting people with mental illness externally in the community. Deborah also sits on the board of The Sanctuary – The Hills Women’s Shelter.
-
-
-          Deborah is married to Michael who together are parents to two teenage boys, and she loves to run, cook and entertain at her home in Sydney after many years of living abroad.
+          Andrew lives in Sydney with his wife and four children.
+        our_board_linkedin: https://www.linkedin.com/in/andrew-culleton-757aab2/
       - our_board_name: Ellen Derrick
         our_board_image: img/ellen_derrick_2_lrg.jpg
         our_board_title: National Leader for Public Sector & Public Policy, Deloitte Australia
@@ -229,6 +152,66 @@ modules:
           leaders stating that mental health is critically important and that in
           a way we're not doing enough, so together we’re going to do more, and
           we’re going to be better in our organisations and together.
+      - our_board_name: Ben Fitzpatrick
+        our_board_image: img/aia-aus_ben-fitzpatrick.jpg
+        our_board_title: Workplace Health & Safety Manager, AIA Australia
+        our_board_description: >-
+          Ben’s career in Workplace Health and Safety began over 15 years ago.
+          Joining AIA in 2018 because of their commitment to the health and
+          wellbeing of all Australians, mental health has been one of Ben’s key
+          focuses where he is leading the operational planning and execution of
+          the associated framework.
+
+
+          Lived experience has aided Ben to develop a more personalised perspective of the impact mental ill-health has within the workplace setting and within the community more broadly. Being a father, husband and avid watcher of the English Premier League, Ben has his hands full but has found the time to peruse Psychology studies at Monash University.
+        our_board_linkedin: https://www.linkedin.com/in/ben-fitzpatrick-097592160/
+        our_board_quote: My goal is to create an environment that others have created
+          for me. That’s providing an open workplace for people to be
+          themselves, to be vulnerable, and if they need to share their story,
+          they can without being judged.
+      - our_board_name: Annette Kimmitt AM
+        our_board_image: img/kimmitt_annette_photo_1200.jpg
+        our_board_title: CEO & Managing Partner of the Firm, MinterEllison
+        our_board_linkedin: " https://www.linkedin.com/in/annettekimmitt/"
+        our_board_description: >-
+          With over 35 years experience, Annette's executive career has included
+          a range of senior roles and she has extensive local and international
+          experience in designing and implementing large, complex
+          transformations, and a strong track record in unlocking organisational
+          potential.
+
+
+          Annette is a member of the Business Council of Australia's Economic Policy and Competitiveness Committee and was appointed in 2019 as 'Pay Equity Ambassador' by the Australian Government's Workplace Gender Equality Agency in recognition of her significant contribution to empowering and supporting women and in advocating for gender pay equity.
+
+
+          Serving as the Victorian Chair of the Institute of Chartered Accountants in 2009 she pioneered the accounting profession's focus on supporting the mental health and wellbeing of its members.
+
+
+          Annette has been married to her husband Rod for over 34 years, and they have two children, Rhys and Courtney.
+        our_board_quote: "Mental health, for me, is all about psychological fitness.
+          Feeling well, enjoying the challenges of life and work, and feeling
+          equipped to deal with what’s in front of you in the workplace. That
+          headspace allows you to support family, friends and colleagues as
+          well. "
+      - our_board_name: Brian Long
+        our_board_image: img/img_20200826_105910_4.jpg
+        our_board_title: General Manager Safety, Health & Wellbeing, Woolworths Group
+        our_board_linkedin: https://www.linkedin.com/in/brian-long-6710469/
+        our_board_description: >-
+          Brian joined the Woolworth's Group as the General Manager, Safety,
+          Health and Wellbeing, with mental health and wellbeing identified as
+          one of Brian's key priorities.
+
+
+          Throughout his career, Brian has played a pivotal role in engendering a culture of care.
+
+
+          As a globally influential Safety, Resilience, Wellbeing and Sustainability Leader, with a proven track record in delivering tangible business outcomes, whilst maintaining an unflinching commitment to improving the lives of the people he interacts with.
+        our_board_quote: "I learnt the importance of being vulnerable and getting
+          support. I reflected on myself and my work. I created space to live
+          the genuine life I wanted to live. I added things outside of work that
+          gave me joy and fulfilment. Mental health is now a crucial element in
+          my whole being. "
       - our_board_name: Felicity McDowell
         our_board_description: >-
           Felicity McDowell is the Legal Director of the Consumer Health
@@ -247,6 +230,23 @@ modules:
         our_board_title: Legal Director - Consumer Health, Johnson & Johnson Family of Companies
         our_board_image: img/felicity2-copy.jpg
         our_board_linkedin: ""
+      - our_board_name: Michael Schneider
+        our_board_image: img/mike-4-july-2019.jpg
+        our_board_title: Managing Director, Bunnings Group Limited
+        our_board_linkedin: https://www.linkedin.com/in/michael-schneider-72116917/
+        our_board_description: >-
+          Michael Schneider was appointed Managing Director Bunnings Australia
+          and New Zealand in March 2016.
+
+
+          He is committed to developing diverse teams that challenge the status quo and embrace innovation to drive high performance which is critical in today’s competitive retail environment. As a leader, he is known for his collaborative, genuine and honest style and for having a real passion and energy for the Bunnings business.
+
+
+          Michael believes that team members’ ability to connect with customers and the local community is key to the business’ success and that this requires an ongoing investment in building the best team as well as creating a culture that builds trust, inspires action, develops people and drives performance.
+        our_board_quote: As a leader, improving mental health starts with a willingness
+          to make yourself vulnerable. If you can accept your own short-comings
+          and open some of those up to others, people feel less alone. That’s
+          all a lot of people in the world want, to feel less alone.
       - our_board_name: Helen Silver AO
         our_board_title: Chief General Manager, Corporate Governance and Conduct,
           Allianz Australia Insurance Ltd
@@ -283,23 +283,6 @@ modules:
         our_board_quote: By showing our vulnerability as leaders, we teach to our people
           that it’s okay to not be okay. We start to erode the barriers that
           have kept people silent for so long.
-      - our_board_name: Michael Schneider
-        our_board_image: img/mike-4-july-2019.jpg
-        our_board_title: Managing Director, Bunnings Group Limited
-        our_board_linkedin: https://www.linkedin.com/in/michael-schneider-72116917/
-        our_board_description: >-
-          Michael Schneider was appointed Managing Director Bunnings Australia
-          and New Zealand in March 2016.
-
-
-          He is committed to developing diverse teams that challenge the status quo and embrace innovation to drive high performance which is critical in today’s competitive retail environment. As a leader, he is known for his collaborative, genuine and honest style and for having a real passion and energy for the Bunnings business.
-
-
-          Michael believes that team members’ ability to connect with customers and the local community is key to the business’ success and that this requires an ongoing investment in building the best team as well as creating a culture that builds trust, inspires action, develops people and drives performance.
-        our_board_quote: As a leader, improving mental health starts with a willingness
-          to make yourself vulnerable. If you can accept your own short-comings
-          and open some of those up to others, people feel less alone. That’s
-          all a lot of people in the world want, to feel less alone.
       - our_board_linkedin: https://www.linkedin.com/in/stevenworrallmicrosoft/
         our_board_description: >-
           As Managing Director, Steven Worrall is responsible for Microsoft’s
@@ -319,13 +302,32 @@ modules:
         our_board_image: img/steve-worrall-print.jpg
         our_board_name: Steven Worrall
         our_board_title: Managing Director, Microsoft Australia & Chair, CMHAA
+      - our_board_name: Deborah Yates
+        our_board_image: img/deb-yates-high-res-head-shot.jpg
+        our_board_title: National Managing Partner People and Corporate Affairs, KPMG Australia
+        our_board_linkedin: " https://www.linkedin.com/in/deborah-yates-68ab768/"
+        our_board_quote: If we can make a difference to the wellbeing of workers, then
+          we can make a difference to the wellbeing of families. And if we do
+          that, we’ve made a real difference to the whole community.
+        our_board_description: >-
+          Deborah has significant experience in leading culture change, large
+          acquisitions from deal negotiation through to full business
+          integration, change management, restructuring and crisis management.
+          Deb is a respected coach and mentor to senior leaders and senior
+          leadership teams.
+
+
+          Since joining KPMG in January 2018 Deb has led the people strategy with particular focus on creating a mentally healthy culture with leaders confident and competent in leading the charge in an inclusive and diverse culture. She also leads the Corporate Affairs strategy which includes the Corporate Citizenship mental health pillar with a focus on partnering with NFPs and peak bodies dedicated to supporting people with mental illness externally in the community. Deborah also sits on the board of The Sanctuary – The Hills Women’s Shelter.
+
+
+          Deborah is married to Michael who together are parents to two teenage boys, and she loves to run, cook and entertain at her home in Sydney after many years of living abroad.
     our_board_title: Our board
     our_board_exec_name: Vicki Forbes
     our_board_description: We are governed by a Board comprised of leaders from
       within our Founding Member organisations. The Board is supported at an
       operational level through a working group comprising representatives from
       each member organisation.
-    our_board_exec_title: Program Director
+    our_board_exec_title: Program Leadership
     exec_board:
       - exec_board_description: >-
           Vicki joined the Alliance as Program Director in May 2020. 
@@ -397,9 +399,9 @@ modules:
       We practice what we preach within the organisations that we lead, and we share our learnings along the way.
 
 
-      **Tread carefully**\
+      **Respond thoughtfully**\
 
       We acknowledge that we don’t have all the answers, and we take our time to do things well.
     callout_cta_link: /membership/
-    callout_cta_text: More on what it means to be a member
+    callout_cta_text: ABOUT MEMBERSHIP
 ---
