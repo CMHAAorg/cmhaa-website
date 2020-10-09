@@ -4,7 +4,7 @@ meta_keywords: Contact Us, Mental Awareness, CMHAA, Corporate Mental Health
   Alliance, City Mental Health Alliance, Mental Health, Corporate Mental Health
   Alliance Australia
 meta_description: We'd love to hear from you.
-banner_title: Contact us. We'd love to hear from you.
+banner_title: Let's connect. We'd love to hear from you.
 banner_description: ""
 banner_image: img/istock-539447656-overlay.jpg
 banner_right_image: ""
@@ -16,7 +16,7 @@ modules:
     form_id: contact
     form_lead: Please let us know how we may assist you.
     form_description: ""
-    form_title: Let's connect
+    form_title: Contact us
     components:
       - type: FC02_text_input_area
         text_field_id: firstname
