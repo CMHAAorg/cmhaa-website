@@ -23,7 +23,8 @@
                     {{ if le $index 4 }}
                     <li>
                         {{ if $element.friend_link }}
-                            <a href="{{ $element.friend_link }}" target="_blank" rel="noopener noreferrer">{{ $element.friend_text }}</a>
+                            {{ $target := partial "utils/linktarget.html" (dict "base" $.Site.BaseURL "link" $element.friend_link ) }}
+                            <a href="{{ $element.friend_link }}" target="{{ $target }}" rel="noopener noreferrer">{{ $element.friend_text }}</a>
                         {{ else }}
                             {{ $element.friend_text}}
                         {{ end }}

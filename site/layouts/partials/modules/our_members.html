@@ -24,7 +24,8 @@
             {{ range $index, $element := .Module.member }}
             {{ if le $index $reveal_members }}
             <div class="C09-our-members__member C09-our-members__member{{$index}}" >
-                <a href="{{ $element.our_member_link }}" target="_blank" class="C09-our-members__member--link uk-flex uk-flex-center uk-flex-middle">
+                {{ $target := partial "utils/linktarget.html" (dict "base" $.Site.BaseURL "link" $element.our_member_link ) }}
+                <a href="{{ $element.our_member_link }}" target="{{ $target }}" class="C09-our-members__member--link uk-flex uk-flex-center uk-flex-middle">
                     <div class="uk-width-small uk-align-center">
                         {{ if $element.our_member_image }}
                             {{- $path := resources.Get $element.our_member_image -}} 
@@ -45,7 +46,8 @@
                     {{ range $index, $element := .Module.member }}
                         {{ if gt $index $reveal_members }}
                             <div class="C09-our-members__member C09-our-members__member{{$index}}">
-                                <a href="{{ $element.our_member_link }}" target="_blank" class="C09-our-members__member--link uk-flex uk-flex-center uk-flex-middle">
+                                {{ $target := partial "utils/linktarget.html" (dict "base" $.Site.BaseURL "link" $element.our_member_link ) }}
+                                <a href="{{ $element.our_member_link }}" target="{{ $target }}" class="C09-our-members__member--link uk-flex uk-flex-center uk-flex-middle">
                                     <div class="uk-width-small uk-align-center">
                                         {{ if $element.our_member_image }}
                                             {{- $path := resources.Get $element.our_member_image -}} 

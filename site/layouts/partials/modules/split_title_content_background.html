@@ -11,7 +11,8 @@
                         <div class="content-body uk-margin-medium-bottom">{{ .Module.content | markdownify }}</div>
                     {{ end }}
                     {{if .Module.cta_link }}
-                        <a href="{{ .Module.cta_link }}" class="uk-button uk-button-primary">{{ .Module.cta_text }} <span uk-icon="chevron-right"></span></a>
+                        {{ $target := partial "utils/linktarget.html" (dict "base" $.Site.BaseURL "link" .Module.cta_link ) }}
+                        <a href="{{ .Module.cta_link }}" class="uk-button uk-button-primary" target="{{ $target }}">{{ .Module.cta_text }} <span uk-icon="chevron-right"></span></a>
                     {{ end}}
                 </div>
             </div>
@@ -33,7 +34,8 @@
                 {{ end }}
                 {{if .Module.cta_link }}
                 <div class="uk-margin-bottom">
-                    <a href="{{ .Module.cta_link }}" class="uk-button uk-button-primary">{{ .Module.cta_text }} <span uk-icon="chevron-right"></span></a>
+                    {{ $target := partial "utils/linktarget.html" (dict "base" $.Site.BaseURL "link" .Module.cta_link ) }}
+                    <a href="{{ .Module.cta_link }}" class="uk-button uk-button-primary" target="{{ $target }}">{{ .Module.cta_text }} <span uk-icon="chevron-right"></span></a>
                 </div>
                 {{ end}}
             </div>
