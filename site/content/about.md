@@ -15,10 +15,11 @@ modules:
     title: About us
     image: ""
     content: Why? Because as a community, we know that we can do better, and that
-      doing better begins with business leaders making the mental wellbeing of
-      their people a boardroom priority. We also believe that when businesses
-      pool their knowledge and resources, share this openly, and work together
-      in a collaborative, non-competitive way, we can achieve better, more
+      doing better begins with business leaders prioritising the mental health
+      and wellbeing of their people in ways that are experienced by them in the
+      workplace every day. We also believe that when businesses pool their
+      knowledge and resources, share this openly, and work together in a
+      collaborative, non-competitive way, we can achieve better, more
       sustainable mental health outcomes for more people, faster.
   - type: vimeo_with_quote
     vimeo_quote_id: "457647049"
@@ -46,7 +47,7 @@ modules:
       The group reached out to other business leaders to determine their interest in forming a similar alliance in Australia. Some of the country’s largest employers were immediately drawn to the idea, and in early 2020 the Corporate Mental Health Alliance Australia was formally established with seed funding provided by its 15 Founding Members.
 
 
-      Many of the Alliance’s members are direct competitors, yet on their commitment to workplace mental health, they are as one. They recognise that the mental wellbeing of their employees transcends market dynamics, and that working together collaboratively will give us the best chance of delivering real impact for their people.
+      Many of the Alliance’s members are direct competitors, yet on their commitment to workplace mental health, they are as one. They recognise that the mental wellbeing of their employees transcends market dynamics, and that working together collaboratively will give them the best chance of delivering real impact for their people.
   - type: image
     image: img/ourleadership.jpg
     image_caption: Corporate Mental Health Alliance Australia Strategy Day
