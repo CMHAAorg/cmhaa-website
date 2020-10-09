@@ -51,9 +51,8 @@ modules:
     title3: ""
     content3: ""
   - type: quote
-    quote_text: We want all employees to go to work feeling genuinely cared for,
-      knowing there is support for them in their work life as well as their
-      personal life.
+    quote_text: Mental health is the issue of our time. As business leaders, we
+      truly care about the wellbeing of our people and we want to support them.
     quote_author: Kristin Stubbins, Partner, PwC Australia
   - card_image_3: img/istock-187896492.jpg
     card_description_2: We share our knowledge and resources to enable business
