@@ -1,12 +1,9 @@
 .C12-split-title-content-background {
   @include componentSpacingCompile();
   @include unorderList();
-  background-color: $grey-lightest;
-  margin-bottom: 30px;
-  margin-left: -20px;
-  margin-right: -20px;
-  padding-left: 40px;
-  padding-right: 40px;
+  .uk-background-muted {
+    padding: 80px 40px 60px;
+  }
 
   .uk-container-xsmall & {
     margin-left: 0;

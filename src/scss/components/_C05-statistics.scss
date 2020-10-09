@@ -1,5 +1,5 @@
 .C05-statistics {
-  @include componentSpacingCompile($small:true);
+  @include componentSpacingCompile();
 
   h1 {
     color: $brand-secondary-raspberry;

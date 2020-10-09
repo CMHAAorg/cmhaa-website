@@ -1,5 +1,6 @@
 .C08-stacked-content-top-image {
   @include svgLine();
+  @include componentSpacingCompile($small:false);
 
   figure {
     position: relative;

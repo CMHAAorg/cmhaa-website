@@ -1,0 +1,7 @@
+{{ $target := "_blank" }}
+{{ $domain := replaceRE "^https?://([^/]+).*" "$1" .base }}
+{{ (printf "%s%s%s" $domain "/")}}
+{{ if or (findRE "^/" .link) (findRE $domain .link )}}
+    {{ $target = "_self" }}
+{{ end }}
+{{ return $target }}

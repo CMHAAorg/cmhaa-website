@@ -16,10 +16,7 @@ focus: Support for managers, colleagues and staff
 role: Champion or advocate
 organisation_size: Large (250+ employees)
 industry: Financial & Insurance Services
-modules:
-  - type: quote
-    quote_text: “Being there to assist people to get the support they need to be
-      their best is extremely rewarding.”
+modules: []
 ---
 It all started when I took an external course on MEntal Health First Aid. I thought I knew a lot about mental health until I did this course. IIt was great! I was so impressed I brought it to the attention of my manager. Today the course is now being delviered in-house to formally train our employees as Mental Health First Aid Officers (MHFAO).
 

@@ -13,7 +13,8 @@
                 <p class="uk-text-lead">{{ .Module.callout_title }}</p>
                 {{ .Module.callout_description | markdownify }}
                 {{if .Module.callout_cta_link}}
-                <a href="{{ .Module.callout_cta_link }}" class="uk-button uk-button-secondary">{{ .Module.callout_cta_text }}</a>
+                {{ $target := partial "utils/linktarget.html" (dict "base" $.Site.BaseURL "link" .Module.callout_cta_link ) }}
+                <a href="{{ .Module.callout_cta_link }}" class="uk-button uk-button-secondary" target="{{ $target }}">{{ .Module.callout_cta_text }}</a>
                 {{end}}
             </div>
         </div>

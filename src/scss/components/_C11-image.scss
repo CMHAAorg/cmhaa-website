@@ -1,4 +1,6 @@
 .C11-image {
+  @include componentSpacingCompile($small:false);
+
   figure {
     position: relative;
 

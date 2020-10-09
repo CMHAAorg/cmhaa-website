@@ -1,5 +1,6 @@
 .C18-rich-text {
   @include unorderList();
+  @include componentSpacingCompile($small:true);
 
   &-top {
     @include componentSpacingCompile();

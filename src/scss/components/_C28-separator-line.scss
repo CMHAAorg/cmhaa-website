@@ -1,26 +1,26 @@
 .C28-separator-line {
 
-  &.uk-padding-top {
-    padding-top: 60px;
+  &.margin-top {
+    margin-top: 60px;
 
     @media (max-width: $breakpoint-medium) {
-      padding-top: 40px;
+      margin-top: 40px;
     }
 
     @media (max-width: $breakpoint-small) {
-      padding-top: 20px;
+      margin-top: 20px;
     }
   }
 
-  &.uk-padding-bottom {
-    padding-bottom: 60px;
+  &.margin-bottom {
+    margin-bottom: 60px;
 
     @media (max-width: $breakpoint-medium) {
-      padding-bottom: 40px;
+      margin-bottom: 40px;
     }
 
     @media (max-width: $breakpoint-small) {
-      padding-bottom: 20px;
+      margin-bottom: 20px;
     }
   }
 

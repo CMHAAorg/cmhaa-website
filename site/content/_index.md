@@ -1,9 +1,14 @@
 ---
 title: Home
-meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
-meta_description: This is a detailed description of the page.
+meta_keywords: Mental Awareness, CMHAA, Corporate Mental Health Alliance
+  Australia,  Corporate Mental Health Alliance, City Mental Health Alliance
+meta_description: We are an alliance of Australian businesses dedicated to
+  providing mentally healthy workplaces for our people. We are business-led and
+  expert-guided. We share our insights and experience openly. Together, we have
+  the power to change people's experience of the workplace for the better.
 banner_title: Together in the business of workplace mental health.
-banner_image: img/main-hero.jpg
+banner_image: img/gettyimages-173292124.jpg
+banner_cta_link: https://adoring-easley-b6cc0a.netlify.app/about/
 modules:
   - type: split_title_content
     title: Who we are
@@ -19,7 +24,7 @@ modules:
     image_caption: Corporate Mental Health Alliance Australia Strategy Day
       facilitated by PwC's Impact Assembly, January 2020.
   - stat_number_1: 3
-    stat_number_2: 12.8
+    stat_number_2: 13
     stat_number_3: 70
     stat_info_1: working Australians have mental ill-health or care for someone with
       mental ill-health.
@@ -80,7 +85,7 @@ modules:
       - our_member_image: img/aia_corporate_logo_rgb.png
         our_member_link: http://www.aia.com.au/
       - our_member_image: img/allianz_logo_positive_cmyk_c.jpg
-        our_member_link: https://www.allianz.com.au/
+        our_member_link: https://www.allianz.com.au/business/workers-compensation/mental-health
       - our_member_image: img/bunnings_warehouse_colour_pos.png
         our_member_link: https://www.bunnings.com.au/
       - our_member_image: img/clayton_utz_logo_tab_mono.jpg
@@ -109,36 +114,32 @@ modules:
         our_member_link: https://www.woolworthsgroup.com.au/
   - type: stacked-content-top-image
     stacked_image: img/istock-1172976280.jpg
-    stacked_description: >-
-      Join our community of business leaders, experts and partner organisations
-      and be a powerful voice for change on workplace mental health. 
-
-
-      We are currently accepting expressions of interest for membership commencing 2021. 
-
-
-      Kicking off in February 2021, our program for the first six months will focus on initiatives designed to strengthen mental health capability in our leaders.
+    stacked_description: We are at the very beginning of our work together. Come be
+      a part of our united voice for change on workplace mental health.
+      Businesses both large and small are welcome. We are receiving expressions
+      of interest for membership commencing 2021, with our program kicking off
+      in February.
     stacked_title: Join us
-    stacked_cta_link: /contact-us/
-    stacked_cta_text: More about membership
+    stacked_cta_link: /membership/
+    stacked_cta_text: MORE ABOUT MEMBERSHIP
     stacked_image_caption: ""
   - type: feature-member-stories
-    feat_member_intro: Why does mental health matter? Read our members' stories and find out.
+    feat_member_intro: Why does mental health matter? Read what our leaders have to say.
     feat_member:
-      - feat_member_image: img/steve-worrall-print.jpg
-        feat_member_description: I really appreciated how important mental health was
-          after dealing with the final stages of my father’s cancer (he passed
-          away three years ago). We had to manage his palliative care at home.
-          At the same time, Mum was developing dementia, and I started a new
-          role at Microsoft.
-        feat_member_link: resources/steven-worrall-microsoft-australia/
-        feat_member_cta: READ STEVEN'S STORY
       - feat_member_image: img/internet_5y6a0050-edit.jpg
         feat_member_description: I’ve seen first-hand the damage and pain that poor
           mental health can cause. One story about a colleague, in particular,
           fuels my drive to make a difference.
         feat_member_link: /resources/personal-story-melinda-upton/
         feat_member_cta: READ MELINDA'S STORY
+      - feat_member_image: img/berkley-cox_port.jpg
+        feat_member_description: "Many of us experience varying degrees of mental health
+          struggles at least at some point throughout our careers and lives. I
+          hope that by talking more openly about our own personal challenges, it
+          helps destigmatise mental health and underscore the importance of
+          psychological wellness in the workplace. "
+        feat_member_link: /resources/personal-story-berkeley-cox/
+        feat_member_cta: READ BERKELEY'S STORY
       - feat_member_image: img/pwc_kristin-stubbins-photo-2-.jpg
         feat_member_description: Since I was a small child, the issue of mental health
           has been around my life. I grew up in a rural area and I heard many
@@ -153,6 +154,5 @@ modules:
       Together,  they are leading a movement for positive change across
       Australia, and the world, as a part of the CMHA Global network.
 slug: homepage
-banner_cta_link: https://adoring-easley-b6cc0a.netlify.app/about/
 banner_cta_text: See who's involved
 ---

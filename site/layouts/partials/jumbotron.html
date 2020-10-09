@@ -1,7 +1,7 @@
 <div data-id="C01" class="jumbotron C01-hero {{if .isHome}}isHome{{end}} {{if .imageUrl }}{{ else }}C01-hero__noimage {{if .banner_right_image}}C01-hero__right-image{{else}}C01-hero__no-right-image{{end}} {{end}}" uk-grid>
     {{ if .imageUrl }}
       {{- $path := resources.Get .imageUrl -}} 
-      {{- $image := ($path.Fill "1920x800").RelPermalink }}
+      {{- $image := ($path.Fill "1920x920").RelPermalink }}
       <div class="uk-background-cover uk-width-1-1 uk-background-cover__image" style="background-image: url({{$image}});">
     {{ else }}
       <div class="uk-background-cover uk-width-1-1">
@@ -20,7 +20,8 @@
               <p>{{- .banner_description -}}</p>
             {{ end }}
             {{if .banner_cta_link }}
-              <a href="{{.banner_cta_link }}" target="_self" class="uk-button uk-button-primary"> {{- .banner_cta_text -}} <span uk-icon="chevron-right"></span></a>
+              {{ $target := partial "utils/linktarget.html" (dict "base" $.Site.BaseURL "link" .banner_cta_link ) }}
+              <a href="{{.banner_cta_link }}" target="{{ $target }}" class="uk-button uk-button-primary"> {{- .banner_cta_text -}} <span uk-icon="chevron-right"></span></a>
             {{end}}
             <svg class="C01-hero__svg-horizontal" width="204" height="24" viewBox="0 0 204 24" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M1 6.69732C1 3.54845 3.54845 1 6.69732 1L23 1L23 17.3027C23 20.4515 20.4515 23 17.3027 23L6.69732 23C3.54845 23 1 20.4515 1 17.3027L1 6.69732Z" stroke="#F59C00" stroke-width="2"/>
@@ -38,12 +39,13 @@
       {{if .imageUrl}}
         <div class="uk-container">
           <div class="uk-background-transparent">
-            <h1 class="C01-hero__title mb3">{{- .banner_title -}}</h1>
+            <h1 class="C01-hero__title">{{- .banner_title -}}</h1>
             {{if .banner_description }}
             <p>{{- .banner_description -}}</p>
             {{ end }}
             {{if .banner_cta_link }}
-            <a href="{{.banner_cta_link }}" target="_self" class="uk-button uk-button-primary"> {{- .banner_cta_text -}} <span uk-icon="chevron-right"></span></a>
+            {{ $target := partial "utils/linktarget.html" (dict "base" $.Site.BaseURL "link" .banner_cta_link ) }}
+            <a href="{{.banner_cta_link }}" target="{{ $target }}" class="uk-button uk-button-primary"> {{- .banner_cta_text -}} <span uk-icon="chevron-right"></span></a>
             {{end}}
           </div>
         </div>
@@ -57,7 +59,8 @@
               <p>{{- .banner_description -}}</p>
               {{ end }}
               {{if .banner_cta_link }}
-              <a href="{{.banner_cta_link }}" target="_self" class="uk-button uk-button-primary"> {{- .banner_cta_text -}} <span uk-icon="chevron-right"></span></a>
+              {{ $target := partial "utils/linktarget.html" (dict "base" $.Site.BaseURL "link" .banner_cta_link ) }}
+              <a href="{{.banner_cta_link }}" target="{{ $target }}" class="uk-button uk-button-primary"> {{- .banner_cta_text -}} <span uk-icon="chevron-right"></span></a>
               {{end}}
               <svg class="C01-hero__svg-horizontal" width="204" height="24" viewBox="0 0 204 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M1 6.69732C1 3.54845 3.54845 1 6.69732 1L23 1L23 17.3027C23 20.4515 20.4515 23 17.3027 23L6.69732 23C3.54845 23 1 20.4515 1 17.3027L1 6.69732Z" stroke="#F59C00" stroke-width="2"/>

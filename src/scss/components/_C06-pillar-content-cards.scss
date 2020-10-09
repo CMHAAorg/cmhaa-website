@@ -29,11 +29,14 @@
   }
 
   &__lead {
-    padding-bottom: 20px;
-    
+    @media (max-width: $breakpoint-medium) {
+      margin-bottom: 40px;
+    }
+  }
+
+  &__title {    
     @media (max-width: $breakpoint-medium) {
       padding-top: 20px;
-      padding-bottom: 0;
     }
   }
 

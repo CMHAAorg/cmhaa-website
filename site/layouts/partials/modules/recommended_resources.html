@@ -5,10 +5,12 @@
     <div class="uk-container">
       <div class="cards-wrapper">
         {{- if .Module.resources -}}
-          {{ range .Module.resources }}
-            {{- $page := print "/resources/" . "/" -}}
-            {{ range where $.Site.Pages "URL" $page }}
-              {{ partial "card" (dict "item" .) }}
+          {{ range $index, $item := .Module.resources }}
+            {{ if le $index 2 }}
+              {{- $page := print "/resources/" $item "/" -}}
+              {{ range where $.Site.Pages "URL" $page }}
+                {{ partial "card" (dict "item" .) }}
+              {{ end }}
             {{ end }}
           {{ end }}
         {{- else -}}

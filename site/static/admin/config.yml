@@ -243,6 +243,7 @@ collections: # A list of collections the CMS should be able to edit
                 allow_add: true
                 fields:
                   - { label: Our friend, name: friend_text, widget: string }
+                  - { label: Our friend link, name: friend_link, widget: string, required: false }
           - label: "C15: Quote"
             name: "quote"
             widget: object
@@ -314,7 +315,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: object
             fields:
               - { label: Heading, name: heading, widget: string, required: false }
-              - { label: Resources, name: resources, widget: relation, collection: resources, searchFields: ['title'], valueField: "{{slug}}", displayFields: ['title'], multiple: true, required: false }
+              - { label: Resources, name: resources, widget: relation, collection: resources, searchFields: ['title'], valueField: "{{slug}}", displayFields: ['title'], multiple: true, required: false, options_length: 50, hint: "Only the first 3 selected will show, selecting none will pull the latest 3 resources" }
           - label: "C25: Want to know more"
             name: "want_know_more"
             widget: "list"
@@ -502,12 +503,13 @@ collections: # A list of collections the CMS should be able to edit
                 allow_add: true
                 fields:
                   - { label: Our friend, name: friend_text, widget: string }
+                  - { label: Our friend link, name: friend_link, widget: string, required: false }
           - label: "C15: Quote"
             name: "quote"
             widget: object
             fields:
               - { label: Quote Text, name: quote_text, widget: markdown }
-              - { label: Quote Author, name: quote_author, widget: string }
+              - { label: Quote Author, name: quote_author, widget: string, required: false }
           - label: "C17: Youtube"
             name: "youtube"
             widget: object
@@ -573,7 +575,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: object
             fields:
               - { label: Heading, name: heading, widget: string, required: false }
-              - { label: Resources, name: resources, widget: relation, collection: resources, searchFields: ['title'], valueField: "{{slug}}", displayFields: ['title'], multiple: true, required: false }
+              - { label: Resources, name: resources, widget: relation, collection: resources, searchFields: ['title'], valueField: "{{slug}}", displayFields: ['title'], multiple: true, required: false, options_length: 50, hint: "Only the first 3 selected will show, selecting none will pull the latest 3 resources" }
           - label: "C25: Want to know more"
             name: "want_know_more"
             widget: "list"

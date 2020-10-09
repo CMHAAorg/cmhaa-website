@@ -25,12 +25,23 @@
     }
   }
   .uk-background-cover {
-    padding-top: 180px;
-    padding-bottom: 120px;
+    padding-top: 80px;
+    min-height: 662px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    > .uk-container {
+      width: 100%;
+    }
+
+    @media (max-width: $breakpoint-medium) {
+      min-height: 480px;
+    }
 
     @media (max-width: $breakpoint-small) {
-      padding-top: 100px;
-      padding-bottom: 0;
+      justify-content: flex-end;
+      min-height: 380px;
     }
   }
   .uk-background-transparent {
@@ -39,14 +50,27 @@
 
     position: relative;
     max-width: 556px;
-    padding: 60px;
+    padding-top: 60px;
+    padding-bottom: 60px;
     border-top-left-radius: $border-radius;
     border-bottom-left-radius: $border-radius;
     border-bottom-right-radius: $border-radius;
 
     @media (max-width: $breakpoint-small) {
-      max-width: 100%;
-      padding: 60px 5px 30px;
+      max-width: 96%;
+      padding: 60px 0 30px;
+    }
+
+    > * {
+      margin-bottom: 0;
+
+      & + * {
+        margin-top: 32px;
+
+        @media (min-width: $breakpoint-small) {
+          margin-top: 45px;
+        }
+      }
     }
   }
 

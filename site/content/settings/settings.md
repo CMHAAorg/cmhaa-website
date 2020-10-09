@@ -23,8 +23,8 @@ footer:
     footer_pirvacy_link:
       - footer_pirvacy_link_text: Privacy policy
         footer_pirvacy_link_url: /privacy-policy
-      - footer_pirvacy_link_text: Contact us
-        footer_pirvacy_link_url: /contact-us
+      - footer_pirvacy_link_text: Contact
+        footer_pirvacy_link_url: /contact
       - footer_pirvacy_link_text: Terms of use
         footer_pirvacy_link_url: /terms-conditions
     footer_ga: UA-175325361-1
@@ -34,7 +34,9 @@ seo:
     seo_og_type: website
     seo_og_twitter: cmhaa
     seo_og_sitename: Corporate Mental Health Alliance Australia
-    seo_og_description: Corporate Mental Health Alliance description goes here.
+    seo_og_description: Corporate Mental Health Alliance is a business-led,
+      expert-guided member organisation dedicated to providing mentally healthy
+      workplaces for our people.
 article:
   - article_title: Want to know more?
     article_description: Get in touch with our team and we can run you through the

@@ -2,6 +2,10 @@
   @include componentSpacingCompile($small:false);
   padding-top: 0;
 
+  .C15-quote + & {
+    margin-top: 80px;
+  }
+
   &__iframe {
     position: relative;
     padding-bottom: 56.25%;

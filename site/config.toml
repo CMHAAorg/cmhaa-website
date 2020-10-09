@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://adoring-easley-b6cc0a.netlify.app/"
 languageCode = "en-us"
 languageLang = "en"
 title = "CMHAA"
@@ -44,22 +44,22 @@ pages = "/:slug/"
     weight = 1
 
   [[menu.main]]
-    identifier = "membership"
-    name = "Membership"
-    url = "/membership/"
-    weight = 1
-
-  [[menu.main]]
     identifier = "resources"
     name = "Resources"
     url = "/resources/"
     weight = 2
 
   [[menu.main]]
+    identifier = "membership"
+    name = "Membership"
+    url = "/membership/"
+    weight = 3
+
+  [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 3
+    weight = 4
 
 # Algolia config
 [outputFormats.Algolia]

@@ -14,19 +14,7 @@ focus: Support for managers, colleagues and staff
 role: Champion or advocate
 organisation_size: Large (250+ employees)
 industry: Law & Legal Services
-modules:
-  - type: quote
-    quote_text: "\"Without the comfort of an open and nurturing work environment, I
-      would not have the courage to admit to my colleagues when I am simply
-      'running on fumes'; nor would I have the courage to use my experiences to
-      comfort those who are bearing the same burden.\""
-    quote_author: "**Caitlin McConnel**"
-  - type: want_know_more
-    article_title: Want to know more?
-    article_description: Get in with our team and we can run you through the success
-      of this bespoke program.
-    article_fullname: Caitlin McConnel
-    article_email: test@test.com
+modules: []
 ---
 I have a fierce passion for agriculture, my home and my family. I have always been very determined and quite competitive, which is why it comes as no surprise that my practice in law now, is as a litigator. I crave routine, discipline, and order, and have always, upon my mother's influence, set very clear goals. It would be true to say, even now, that I wear many hats: as a daughter, a lawyer, a grazier and a volunteer.
 
@@ -46,4 +34,4 @@ Without the comfort of an open and nurturing work environment, I would not have 
 
 I am acutely aware that my current bout of clinical depression is unlikely to be the last time the Black Dog casts a shadow over my life or my work. As a result, I want to give my colleagues the tools to help me remember that I am not weak or unworthy; just as I hope that in sharing my battle with the Black Dog, I am strengthening my own resolve, and my ability to help others. That is why I speak out, even when it's hard to do so; and why I am a Mental Health First Aider.
 
-**Caitlin McConnel, Lawyer, Clayton Utz**
+**Caitlin McConnel, Senior Associate, Clayton Utz**
