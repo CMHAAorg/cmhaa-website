@@ -16,7 +16,7 @@ modules:
     image: ""
     content: Why? Because as a community, we know that we can do better, and that
       doing better begins with business leaders prioritising the mental health
-      and wellbeing of their people in ways that are experienced by them in the
+      and wellbeing of their people in ways that are experienced in the
       workplace every day. We also believe that when businesses pool their
       knowledge and resources, share this openly, and work together in a
       collaborative, non-competitive way, we can achieve better, more
