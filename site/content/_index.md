@@ -126,7 +126,7 @@ modules:
         feat_member_description: I’ve seen first-hand the damage and pain that poor
           mental health can cause. One story about a colleague, in particular,
           fuels my drive to make a difference.
-        feat_member_link: https://adorasdfing-easley-b6cc0a.netlify.app/about/
+        feat_member_link: /resources/personal-story-melinda-upton/
         feat_member_cta: READ MELINDA'S STORY
       - feat_member_image: img/berkley-cox_port.jpg
         feat_member_description: "Many of us experience varying degrees of mental health
