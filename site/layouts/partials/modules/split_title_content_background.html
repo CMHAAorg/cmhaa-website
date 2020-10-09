@@ -8,11 +8,11 @@
                     <p class="uk-text-lead uk-margin-small-bottom">{{ .Module.leadtext }}</p>
                 {{ end }}
                 {{if .Module.content }}
-                    <div class="content-body uk-margin-medium-bottom">{{ .Module.content | markdownify }}</div>
+                    <div class="content-body">{{ .Module.content | markdownify }}</div>
                 {{ end }}
                 {{if .Module.cta_link }}
                     {{ $target := partial "utils/linktarget.html" (dict "base" $.Site.BaseURL "link" .Module.cta_link ) }}
-                    <a href="{{ .Module.cta_link }}" class="uk-button uk-button-primary" target="{{ $target }}">{{ .Module.cta_text }} <span uk-icon="chevron-right"></span></a>
+                    <a href="{{ .Module.cta_link }}" class="uk-button uk-button-primary uk-margin-medium-top" target="{{ $target }}">{{ .Module.cta_text }} <span uk-icon="chevron-right"></span></a>
                 {{ end}}
             </div>
         </div>
@@ -30,12 +30,12 @@
                 <p class="uk-text-lead uk-margin-small-bottom">{{ .Module.leadtext }}</p>
                 {{ end }}
                 {{if .Module.content }}
-                <div class="content-body uk-margin-medium-bottom">{{ .Module.content | markdownify }}</div>
+                <div class="content-body">{{ .Module.content | markdownify }}</div>
                 {{ end }}
                 {{if .Module.cta_link }}
                 <div class="uk-margin-bottom">
                     {{ $target := partial "utils/linktarget.html" (dict "base" $.Site.BaseURL "link" .Module.cta_link ) }}
-                    <a href="{{ .Module.cta_link }}" class="uk-button uk-button-primary" target="{{ $target }}">{{ .Module.cta_text }} <span uk-icon="chevron-right"></span></a>
+                    <a href="{{ .Module.cta_link }}" class="uk-button uk-button-primary uk-margin-medium-top" target="{{ $target }}">{{ .Module.cta_text }} <span uk-icon="chevron-right"></span></a>
                 </div>
                 {{ end}}
             </div>

@@ -1,8 +1,20 @@
 .C12-split-title-content-background {
   @include componentSpacingCompile();
   @include unorderList();
+
   .uk-background-muted {
     padding: 80px 40px 60px;
+
+    &.uk-container-xsmall {
+      padding-top: 48px;
+      padding-bottom: 18px;
+    }
+  }
+
+  .content-body {
+    > p:last-child {
+      margin-bottom: 0;
+    }
   }
 
   .uk-container-xsmall & {
