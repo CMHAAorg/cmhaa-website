@@ -9,5 +9,5 @@ mainMenu:
     url: /resoures/
     newtab: true
   - title: Contact
-    url: /contact
+    url: /contact/
 ---
