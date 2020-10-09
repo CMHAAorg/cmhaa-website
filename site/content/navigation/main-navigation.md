@@ -6,8 +6,8 @@ mainMenu:
   - title: Membership
     url: /membership/
   - title: Resources
-    url: /resoures/
-    newtab: true
+    url: /resources/
+    newtab: false
   - title: Contact
     url: /contact/
 ---
