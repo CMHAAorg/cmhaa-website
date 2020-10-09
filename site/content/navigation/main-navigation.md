@@ -4,5 +4,5 @@ mainMenu:
   - title: About
     url: /about/
   - title: Membership
-    url: /www.google.com
+    url: /aspoidfj?bob=chat&aosiejdf=%20yosomething
 ---
