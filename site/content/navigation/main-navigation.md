@@ -7,7 +7,7 @@ mainMenu:
     url: /membership/
   - title: Resources
     url: /resources/
-    newtab: true
+    newtab: false
   - title: Contact
     url: /contact/
 ---
