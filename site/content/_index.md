@@ -8,7 +8,6 @@ meta_description: We are an alliance of Australian businesses dedicated to
   the power to change people's experience of the workplace for the better.
 banner_title: Together in the business of workplace mental health.
 banner_image: img/gettyimages-173292124.jpg
-banner_cta_link: https://adoring-easley-b6cc0a.netlify.app/about/
 modules:
   - type: split_title_content
     title: Who we are
@@ -154,5 +153,6 @@ modules:
       Together,  they are leading a movement for positive change across
       Australia, and the world, as a part of the CMHA Global network.
 slug: homepage
+banner_cta_link: https://adoring-easley-b6cc0a.netlify.app/about/
 banner_cta_text: See who's involved
 ---
