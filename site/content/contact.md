@@ -14,12 +14,8 @@ modules:
     padding_bottom: true
   - type: form
     form_id: contact
-    form_lead: Please let us know how we may assist you and we'll be in touch.
-    form_description: Note that we do not provide clinical services for people in
-      need of direct mental health or crisis support. If you or someone you know
-      is in immediate danger, please dial '000' if in Australia, or reach out to
-      the relevant support services listed
-      [here](https://everymind.org.au/need-help).
+    form_lead: Please let us know how we may assist you.
+    form_description: ""
     form_title: Let's connect
     components:
       - type: FC02_text_input_area
@@ -67,4 +63,11 @@ modules:
       - personal-story-brian-long
       - personal-story-andrew-culleton
       - personal-story-deborah-yates
+  - type: rich-text
+    richtext_top: true
+    richtext: Please note that we do not provide clinical services for people in
+      need of direct mental health or crisis support. If you or someone you know
+      is in immediate danger, please dial '000' if in Australia, or reach out to
+      the relevant support services listed
+      [here](https://everymind.org.au/need-help).
 ---
