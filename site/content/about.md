@@ -54,7 +54,7 @@ modules:
       facilitated by PwC's Impact Assembly, January 2020.
   - our_board_exec_linkedin: https://www.linkedin.com/
     board:
-      - our_board_image: img/david-brewster-11297.jpg
+      - our_board_image: img/david-coles.jpg
         our_board_name: David Brewster
         our_board_title: Chief Legal & Safety Officer, Coles Group
         our_board_quote: We want to help reduce the stigma that comes with talking about
@@ -72,7 +72,7 @@ modules:
           operating hotels and retail liquor outlets throughout Queensland.
         our_board_linkedin: https://www.linkedin.com/in/davidabrewster/
       - our_board_name: Bruce Cooper
-        our_board_image: img/clayton_cooperbruce_externalprint_2000x2000.jpg
+        our_board_image: img/bruce-clayton.jpg
         our_board_title: Chief Executive Partner, Clayton Utz
         our_board_quote: Good mental health is about maintaining perspective and
           maintaining a strong outlook. No matter how resilient we are, all of
@@ -92,7 +92,7 @@ modules:
           Outside law, Bruce is the Deputy Chair of the Australian String Quartet, skis, collects vintage land rovers and WW1 militaria (both mostly while his wife, Bronwyn, is not looking) and acts as a hired hand in her cattle business.
         our_board_linkedin: https://www.linkedin.com/in/bruce-cooper-960934b/
       - our_board_name: Berkeley Cox
-        our_board_image: img/berkley-cox_port.jpg
+        our_board_image: img/berkley-king-wood.jpg
         our_board_title: Chief Executive Partner, King & Wood Mallesons
         our_board_quote: But by being open about my own challenges, I hope to help
           destigmatise mental health and wellness in the workplace. I want
@@ -115,7 +115,7 @@ modules:
 
           Berkeley enjoys spending time with his family and with the rich and diverse natural environment that we are fortunate to share in this country.
         our_board_linkedin: https://www.linkedin.com/in/berkeley-cox-004372a2/
-      - our_board_image: img/cba-culleton-a-023.jpg
+      - our_board_image: img/andrew-commbank.jpg
         our_board_name: Andrew Culleton
         our_board_title: Executive General Manager Group People Services, Commonwealth
           Bank of Australia
@@ -134,7 +134,7 @@ modules:
           Andrew lives in Sydney with his wife and four children.
         our_board_linkedin: https://www.linkedin.com/in/andrew-culleton-757aab2/
       - our_board_name: Ellen Derrick
-        our_board_image: img/ellen_derrick_2_lrg.jpg
+        our_board_image: img/ellen-deliotte.jpg
         our_board_title: National Leader for Public Sector & Public Policy, Deloitte Australia
         our_board_linkedin: https://www.linkedin.com/in/ellen-derrick-33126030/
         our_board_description: >-
@@ -154,7 +154,7 @@ modules:
           a way we're not doing enough, so together we’re going to do more, and
           we’re going to be better in our organisations and together.
       - our_board_name: Ben Fitzpatrick
-        our_board_image: img/aia-aus_ben-fitzpatrick.jpg
+        our_board_image: img/ben-aia.jpg
         our_board_title: Workplace Health & Safety Manager, AIA Australia
         our_board_description: >-
           Ben’s career in Workplace Health and Safety began over 15 years ago.
@@ -171,7 +171,7 @@ modules:
           themselves, to be vulnerable, and if they need to share their story,
           they can without being judged.
       - our_board_name: Annette Kimmitt AM
-        our_board_image: img/kimmitt_annette_photo_1200.jpg
+        our_board_image: img/annette-miterellison.jpg
         our_board_title: CEO & Managing Partner of the Firm, MinterEllison
         our_board_linkedin: " https://www.linkedin.com/in/annettekimmitt/"
         our_board_description: >-
@@ -195,7 +195,7 @@ modules:
           headspace allows you to support family, friends and colleagues as
           well. "
       - our_board_name: Brian Long
-        our_board_image: img/img_20200826_105910_4.jpg
+        our_board_image: img/brianlong-woolworths.jpg
         our_board_title: General Manager Safety, Health & Wellbeing, Woolworths Group
         our_board_linkedin: https://www.linkedin.com/in/brian-long-6710469/
         our_board_description: >-
