@@ -52,8 +52,8 @@ modules:
     content3: ""
   - type: quote
     quote_text: Mental health is the issue of our time. As business leaders, we
-      truly care about the wellbeing of our people, and the responsibility to
-      support them begins with us.
+      truly care about the wellbeing of our people. The responsibility to
+      support them in the workplace begins with us.
     quote_author: Kristin Stubbins, Partner, PwC Australia
   - card_image_3: img/istock-187896492.jpg
     card_description_2: We share our knowledge and resources to enable business
