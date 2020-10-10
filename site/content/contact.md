@@ -14,12 +14,13 @@ modules:
     padding_bottom: true
   - type: form
     form_id: contact
-    form_lead: Please let us know how we may assist you.
+    form_lead: Pease let us know how we may assist you. Complete the form below and
+      we will be in touch.
     form_description: >-
-      Complete the form below and we will be in touch.
-
-
-      If you'd like to hear from us when we have news or useful information to share, or opportunities for your organisation to engage with the Corporate Mental Health Alliance Australia community, please provide your name and email in the newsletter sign-up form at the bottom of this page.
+      If you'd like to receive updates from us when we have news, information,
+      or opportunities of interest or value to the business community's
+      understanding or approach to workplace mental health, please provide your
+      name and email in the newsletter sign-up form at the bottom of this page.
 
 
       You may also like to follow us on [LinkedIn](https://www.linkedin.com/company/corporate-mental-health-alliance-australia/) and [Twitter](https://twitter.com/CMHA_Aus). 
@@ -53,19 +54,19 @@ modules:
         select_label: I am interested in...
         select_options:
           - option_id: membership
-            option_text: Membership
+            option_text: Becoming an Alliance member
           - option_id: Program information
-            option_text: Learning more about CMHAA's program
-          - option_id: General
-            option_text: General enquiry
+            option_text: Learning more about the Alliance's initiatives
           - option_id: member initiatives
-            option_text: Connecting with one of your members about their workplace mental
-              health initiatives
+            option_text: Connecting with an Alliance member about their mental health
+              initiatives
           - option_id: speaking
-            option_text: Having someone from CMHAA speak at an event
+            option_text: Having someone from the Alliance speak at an event
           - option_id: providers
-            option_text: Sharing information about a product or service that supports mental
-              health
+            option_text: Sharing information about a product/service that supports mental
+              health in the workplace
+          - option_id: General
+            option_text: Something that's not listed above
         select_error_message: Please select your area of interest
       - type: FC03_text_area
         text_area_id: message
