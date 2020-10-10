@@ -18,9 +18,9 @@ modules:
       we will be in touch.
     form_description: >-
       If you'd like to receive updates from us when we have news, information,
-      or opportunities of interest or value to the business community's
-      understanding or approach to workplace mental health, please provide your
-      name and email in the newsletter sign-up form at the bottom of this page.
+      or opportunities that contribute to the business community's understanding
+      or approach to workplace mental health, please provide your name and email
+      in the newsletter sign-up form at the bottom of this page.
 
 
       You may also like to follow us on [LinkedIn](https://www.linkedin.com/company/corporate-mental-health-alliance-australia/) and [Twitter](https://twitter.com/CMHA_Aus). 
