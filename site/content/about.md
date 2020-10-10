@@ -229,10 +229,10 @@ modules:
           everyone feels safe to talk about their mental health without fear of
           stigma or discrimination.
         our_board_title: Legal Director - Consumer Health, Johnson & Johnson Family of Companies
-        our_board_image: img/felicity2-copy.jpg
+        our_board_image: img/felicity-j-j.jpg
         our_board_linkedin: ""
       - our_board_name: Michael Schneider
-        our_board_image: img/mike-4-july-2019.jpg
+        our_board_image: img/mark-bunnings.jpg
         our_board_title: Managing Director, Bunnings Group Limited
         our_board_linkedin: https://www.linkedin.com/in/michael-schneider-72116917/
         our_board_description: >-
@@ -251,7 +251,7 @@ modules:
       - our_board_name: Helen Silver AO
         our_board_title: Chief General Manager, Corporate Governance and Conduct,
           Allianz Australia Insurance Ltd
-        our_board_image: img/helen-silver-14-bio-pic.jpg
+        our_board_image: img/helen-allianz.jpg
         our_board_linkedin: https://www.linkedin.com/in/silverhelen/
         our_board_description: >-
           Helen Silver is Allianz Australia’s Chief General Manager, Corporate
@@ -267,7 +267,7 @@ modules:
           role in that. If leaders open up about mental health, the quicker it
           will become a part of our everyday and overall health conversations.
       - our_board_name: Melinda Upton
-        our_board_image: img/internet_5y6a0050-edit.jpg
+        our_board_image: img/melinda-dla.jpg
         our_board_title: Partner, Global Co-Chair IPT, DLA Piper
         our_board_linkedin: https://www.linkedin.com/in/melindaupton/
         our_board_description: >-
@@ -300,7 +300,7 @@ modules:
           lots of things and in many cases lots of really good things [to
           support mental health]. The idea is to get together and share what's
           working with each other.
-        our_board_image: img/steve-worrall-print.jpg
+        our_board_image: img/steven-microsoft.jpg
         our_board_name: Steven Worrall
         our_board_title: Managing Director, Microsoft Australia & Chair, CMHAA
       - our_board_name: Deborah Yates
