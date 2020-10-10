@@ -344,7 +344,7 @@ modules:
         exec_board_name: Vicki Forbes
         exec_board_image: img/vicki-forbes.jpg
         exec_board_title: Program Director, Corporate Mental Health Alliance Australia
-        exec_board_quote: I think good mental health comes from feeling seen, heard and
+        exec_board_quote: I think good mental health begins with feeling seen, heard and
           accepted for who you are, and from knowing that you are valued for
           your contribution in all of the settings that are important to you.
           The workplace is one of those settings. For me, it's as simple - and
