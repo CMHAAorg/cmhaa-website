@@ -6,22 +6,18 @@ meta_description: This is a detailed description of the page.
 banner_title: Andrew Morrison, Clayton Utz
 banner_right_image: img/morrisonandrew_externalprint.jpg
 date: 2020-09-16T03:14:46.569Z
-description: Commercial Litigation is a demanding, often bruising, occupation.
+description: "Commercial Litigation is a demanding, often bruising, occupation.
   Trite, but true. When you convert that into serial class action defence then,
   oddly enough, you add a layer of drama that can gyrate from deadly serious
   endeavour to operatic Shakespeare to late afternoon soap opera in a single
-  email. It is an occasional pastiche of which David Williamson, the late Louis
-  Nowra or perhaps even Margaret Atwood would be proud. Those who choose the
-  profession are, and ought to be, taken to have accepted the risk that
-  professional life will be intense and, perhaps more often than desired, high
-  pressured.
+  email. "
 category: Personal stories
 focus: Support for managers, colleagues and staff
 role: Champion or advocate
 organisation_size: Large (250+ employees)
 industry: Law & Legal Services
 ---
-You might then think that all of this vocational noise would contribute to mental illness that stomps in, seizes the hapless lawyer by the throat and devours them to the gasps of onlooking family, friends and some vaguely observant colleagues.
+It is an occasional pastiche of which David Williamson, the late Louis Nowra or perhaps even Margaret Atwood would be proud. Those who choose the profession are, and ought to be, taken to have accepted the risk that professional life will be intense and, perhaps more often than desired, high pressured.You might then think that all of this vocational noise would contribute to mental illness that stomps in, seizes the hapless lawyer by the throat and devours them to the gasps of onlooking family, friends and some vaguely observant colleagues.
 
 Alas for the playwrights (and victims) - no!
 
