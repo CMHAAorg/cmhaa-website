@@ -17,13 +17,14 @@ modules:
     form_lead: Pease let us know how we may assist you. Complete the form below and
       we will be in touch.
     form_description: >-
-      If you'd like to receive updates from us when we have news, information,
-      or opportunities that contribute to the business community's understanding
-      or approach to workplace mental health, please provide your name and email
-      in the newsletter sign-up form at the bottom of this page.
+      If you'd like to receive updates from us, please provide your name and
+      email in the newsletter sign-up form at the bottom of this page. We will
+      only contact you when we have relevant news, information or opportunities
+      to share that serve the business community's interest in workplace mental
+      health.
 
 
-      You may also like to follow us on [LinkedIn](https://www.linkedin.com/company/corporate-mental-health-alliance-australia/) and [Twitter](https://twitter.com/CMHA_Aus). 
+      You can also follow us on [LinkedIn](https://www.linkedin.com/company/corporate-mental-health-alliance-australia/) and [Twitter](https://twitter.com/CMHA_Aus).
 
 
       > Please note that we do not provide clinical services for people in need of direct mental health or crisis support. 
