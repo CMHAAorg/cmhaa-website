@@ -325,7 +325,7 @@ modules:
     our_board_title: Our board
     our_board_exec_name: Vicki Forbes
     our_board_description: We are governed by a Board comprised of leaders from
-      within our Founding Member organisations. The Board is supported at an
+      within our founding member organisations. The Board is supported at an
       operational level through a working group comprising representatives from
       each member organisation.
     our_board_exec_title: Program Leadership
