@@ -75,7 +75,7 @@ modules:
         text_area_id: message
         text_area_label: Comments
         text_area_required: true
-        text_area_error_message: Your comments are required.
+        text_area_error_message: Your comments are required
         text_area_max_char: 995
   - type: recommended_resources
     heading: Read what some of our leaders have to say about mental health.
