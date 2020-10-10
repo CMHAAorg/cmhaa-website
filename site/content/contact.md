@@ -73,7 +73,7 @@ modules:
         select_error_message: Please select your area of interest
       - type: FC03_text_area
         text_area_id: message
-        text_area_label: Comments
+        text_area_label: A few words to help us with our response
         text_area_required: true
         text_area_error_message: Your comments are required
         text_area_max_char: 995
