@@ -4,7 +4,7 @@ meta_keywords: Commonwealth Bank of Australia, Mental Awareness, CMHAA,
   Corporate Mental Health Alliance Australia, A Better Day, Mental Health,
   Mental Wellbeing
 meta_description: This is a detailed description of the page.
-banner_title: "Commonwealth Bank’s A Better Day Program "
+banner_title: "Commonwealth Bank’s 'A Better Day' program "
 banner_description: "A program designed to improve mental wellbeing and
   resilience by assisting employees in better identifying, responding and
   mitigating life’s stressors. "
@@ -14,7 +14,7 @@ date: 2020-09-15T06:56:39.615Z
 description: In these extraordinary times of change and uncertainty, we are all
   facing sudden and dramatic changes to our daily lives. Recognising that this
   can often be unsettling or even stressful at times, the Commonwealth Bank’s
-  (CBS) A Better Day was designed to support employees to better identify,
+  (CBA) 'A Better Day' was designed to support employees to better identify,
   respond, and mitigate life’s stressors.
 category: Case studies
 focus: Improving workplace culture
