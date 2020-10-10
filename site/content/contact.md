@@ -14,8 +14,7 @@ modules:
     padding_bottom: true
   - type: form
     form_id: contact
-    form_lead: Pease let us know how we may assist you. Complete the form below and
-      we will be in touch.
+    form_lead: "Pease let us know how we may assist you by completing the form below. "
     form_description: >-
       If you'd like to receive updates from us, please provide your name and
       email in the newsletter sign-up form at the bottom of this page. We will
