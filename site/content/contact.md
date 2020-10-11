@@ -16,11 +16,11 @@ modules:
     form_id: contact
     form_lead: "Pease let us know how we may assist you by completing the form below. "
     form_description: >-
-      If you'd like to receive updates from us, please provide your name and
-      email in the newsletter sign-up form at the bottom of this page. We will
-      only contact you when we have relevant news, information or opportunities
-      to share that serve the business community's interest in workplace mental
-      health.
+      If you'd like to receive updates from the Corporate Mental Health Alliance
+      Australia, please provide your name and email in the newsletter sign-up
+      form at the bottom of this page. We will only contact you when we have
+      news, information, or opportunities that serve the business community's
+      interest in workplace mental health.
 
 
       You can also follow us on [LinkedIn](https://www.linkedin.com/company/corporate-mental-health-alliance-australia/) and [Twitter](https://twitter.com/CMHA_Aus).
@@ -51,6 +51,12 @@ modules:
         email_label: Email address
         email_required: true
         email_error_message: A valid email address is required.
+      - type: FC02_text_input_area
+        text_field_id: mobile
+        text_input_label: Phone number
+        text_field_max_char: 15
+        text_field_min_char: 32
+        text_field_error_message: Remember to include your area code
       - type: FC05_select
         select_required: true
         select_id: options
@@ -77,18 +83,6 @@ modules:
         text_area_required: true
         text_area_error_message: Your comments are required
         text_area_max_char: 995
-  - type: rich-text
-    richtext_top: false
-    richtext: >-
-      You can also follow us on
-      [LinkedIn](https://www.linkedin.com/company/corporate-mental-health-alliance-australia/)
-      and [Twitter](https://twitter.com/CMHA_Aus).
-
-
-      > Please note that we do not provide clinical services for people in need of direct mental health or crisis support. 
-
-
-      If you or someone you know is in immediate danger, please dial '000' if in Australia, or reach out to the relevant support services listed [here](https://everymind.org.au/need-help).
   - type: recommended_resources
     heading: Read what some of our leaders have to say about mental health.
     resources:
