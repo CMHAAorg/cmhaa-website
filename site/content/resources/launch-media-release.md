@@ -7,7 +7,7 @@ meta_description: Media release announcing the launch of the Corporate Mental
   Health Alliance Australia
 banner_title: "Media release: Australian businesses unite to tackle mental
   health in the workplace "
-banner_description: AustaliaLaunching the Corporate Mental Health Alliance Australia
+banner_description: Launching the Corporate Mental Health Alliance Australia
 date: 2020-10-11T03:03:21.058Z
 description: Tests intro blurb
 category: News & Views
@@ -16,8 +16,8 @@ role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Charity, Not-for-profit
 modules:
-  - type: youtube
-    youtube: https://vimeo.com/457647049
+  - type: vimeo
+    vimeo: https://vimeo.com/457647049
   - type: rich-text
     richtext_top: false
     richtext: >-
