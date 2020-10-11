@@ -19,7 +19,7 @@ modules:
   - type: youtube
     youtube: https://vimeo.com/457647049
   - type: rich-text
-    richtext_top: true
+    richtext_top: false
     richtext: >-
       **Tuesday 13 October 2020, SYDNEY:** Minister for Health, the Hon Greg
       Hunt MP, today joined leaders from some of Australia’s biggest names in
