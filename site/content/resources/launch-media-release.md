@@ -8,7 +8,7 @@ meta_description: Media release announcing the launch of the Corporate Mental
   Health Alliance Australia
 banner_title: "Media release: Australian businesses unite to tackle mental
   health in the workplace "
-banner_description: Launching the Corporate Mental Health Alliance Australia
+banner_description: Introducing the Corporate Mental Health Alliance Australia
 date: 2020-10-11T03:03:21.058Z
 description: "Tuesday 13 October 2020, Sydney: Minister for Health, the Hon Greg
   Hunt MP, today joined leaders from some of Australia’s biggest names in
