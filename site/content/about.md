@@ -369,6 +369,7 @@ modules:
         friend_link: ""
       - friend_text: Michelle Baxter
       - friend_text: Lucy Brogden AM
+      - friend_text: Rachel Clements
       - friend_text: Professor Pat Dudgeon
       - friend_text: Georgie Drury
       - friend_text: Professor Geoff Gallop
