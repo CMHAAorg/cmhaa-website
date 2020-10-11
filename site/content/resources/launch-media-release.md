@@ -10,20 +10,18 @@ banner_title: "Media release: Australian businesses unite to tackle mental
   health in the workplace "
 banner_description: Introducing the Corporate Mental Health Alliance Australia
 date: 2020-10-11T03:03:21.058Z
-description: "Tuesday 13 October 2020, Sydney: Minister for Health, the Hon Greg
-  Hunt MP, today joined leaders from some of Australia’s biggest names in
-  business to launch the Corporate Mental Health Alliance Australia (CMHAA), a
-  new business-led, expert-guided member organisation dedicated to improving
-  mental health in the workplace."
+description: Australian businesses unite to tackle mental health in the workplace.
 category: News & Views
 focus: Support for managers, colleagues and staff
 role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Charity, Not-for-profit
 modules:
-  - type: split_title_content_background
-    disable_leftright: true
-    content: >-
+  - type: vimeo
+    vimeo: "457647049"
+  - type: rich-text
+    richtext_top: false
+    richtext: >-
       * **Mental health issues are prevalent amongst Australian workers:** One
       in five working Australians report experiencing a mental illness in the
       past year.1
@@ -31,20 +29,9 @@ modules:
       * **The human and business cost of mental ill-health is high:** The cost to the Australian economy of mental ill-health and suicide is, conservatively, in the order of $43 to $51 billion per year. Additional to this is an approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2
 
       * **The workplace can have a positive impact on mental health**: Workplace mental health interventions can improve employee mental wellbeing and provide a sense of purpose and structure, as well as promote opportunities for social inclusion and support.3 The result of this is increased productivity and savings of up to $4.5b a year.4
-    title: Mental health is the issue of our time
-  - type: vimeo
-    vimeo: "457647049"
-  - type: rich-text
-    richtext_top: false
-    richtext: >-
-      The Alliance’s 15 founding members – many of them direct competitors –
-      recognise that the mental wellbeing of their employees transcends market
-      dynamics, and that working together will give them the best chance of
-      delivering real impact for their people. These members and participants
-      include AIA Australia, Allianz Australia, Bunnings Group, Clayton Utz,
-      Coles Group, Commonwealth Bank, Deloitte, DLA Piper, Johnson & Johnson
-      Family of Companies, King & Wood Mallesons, KPMG, Microsoft Australia,
-      MinterEllison, Woolworths Group and PwC Australia.
+
+
+      The Alliance’s 15 founding members – many of them direct competitors – recognise that the mental wellbeing of their employees transcends market dynamics, and that working together will give them the best chance of delivering real impact for their people. These members and participants include AIA Australia, Allianz Australia, Bunnings Group, Clayton Utz, Coles Group, Commonwealth Bank, Deloitte, DLA Piper, Johnson & Johnson Family of Companies, King & Wood Mallesons, KPMG, Microsoft Australia, MinterEllison, Woolworths Group and PwC Australia.
 
 
       The establishment of CMHAA comes at a time when mental health issues in the workplace are increasing in prevalence. According to Safe Work Australia, more than 92% of work-related mental health condition claims can be attributed to work-related mental stress including work pressure, harassment or bullying, exposure to workplace violence and sexual or racial harassment.6
@@ -95,6 +82,4 @@ modules:
     article_fullname: Melissa Cullen, Managing Partner, opr Agency
     article_email: melissa.cullen@opragency.com.au
 ---
-> * **Mental health issues are prevalent amongst Australian workers:** One in five working Australians report experiencing a mental illness in the past year.1
-> * **The human and business cost of mental ill-health is high:** The cost to the Australian economy of mental ill-health and suicide is, conservatively, in the order of $43 to $51 billion per year. Additional to this is an approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2
-> * **The workplace can have a positive impact on mental health**: Workplace mental health interventions can improve employee mental wellbeing and provide a sense of purpose and structure, as well as promote opportunities for social inclusion and support.3 The result of this is increased productivity and savings of up to $4.5b a year.4
+Tuesday 13 October 2020, Sydney: Minister for Health, the Hon Greg Hunt MP, today joined leaders from some of Australia’s biggest names in business to launch the Corporate Mental Health Alliance Australia (CMHAA), a new business-led, expert-guided member organisation dedicated to improving mental health in the workplace.
