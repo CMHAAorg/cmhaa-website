@@ -74,11 +74,31 @@ modules:
 
 
       CMHAA is receiving expressions of interest for membership beginning in 2021.
+
+
+
+
+      **REFERENCES:**
+
+
+      1. Superfriend, October 2018
+
+      2. [Productivity Commission: Mental health, Draft report](https://www.pc.gov.au/inquiries/completed/mental-health/draft), October 2019
+
+      3. [KPMG and Mental Health Australia (2018)](https://mhaustralia.org/sites/default/files/docs/investing_to_save_may_2018_-_kpmg_mental_health_australia.pdf). Investing to save. The economic benefits for Australia of investment in mental health reform.
+
+      4. [Black Dog Institute (2014).](http://www.blackdoginstitute.org.au/wp-content/uploads/2020/04/creating-mentally-healthy-workplaces.pdf) Creating mentally healthy workplaces. A review of the research.
+
+      5. [Safe Work Australia](https://www.safeworkaustralia.gov.au/system/files/documents/1901/mental-health-infographic-v2.pdf%20Accessed%20September%202020.). Work-related mental health.
+
+      6. [Lifeline media release (29 March 2020).](https://www.lifeline.org.au/resources/news-and-media-releases/media-releases/australian-government-provides-additional-funding-to-increase-access-to-lifeline-crisis-support-services-throughout-covid-19-outbreak) Australian Government provides additional funding to increase access to Lifeline crisis support services through-out COVID-19 outbreak.
+
+      7. [Beyond Blue media release (29 March 2020).](https://www.beyondblue.org.au/media/media-releases/media-releases/beyond-blue-welcomes-funding-for-new-covid-19-support-service%20Accessed%20September%202020.) Beyond Blue welcomes funding for new COVID-19 support service.
   - type: want_know_more
     article_title: Media enquiries
     article_description: "To arrange an interview with one of our spokespeople, or
-      to speak with a representative from one of our other founding member
-      organisations, please contact Melissa Cullen. "
+      to speak with a representative from our founding members, please contact
+      Melissa Cullen. "
     article_fullname: Melissa Cullen, Managing Partner, opr Agency
     article_email: melissa.cullen@opragency.com.au
 ---
