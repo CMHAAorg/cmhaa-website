@@ -71,6 +71,12 @@ modules:
 
 
       CMHAA is receiving expressions of interest for membership beginning in 2021.
+  - type: want_know_more
+    article_title: Media contact details
+    article_description: For more information or to arrange an interview with one of
+      the Alliance's spokespeople, please reach out.
+    article_fullname: Melissa Cullen, Managing Partner, opr Agency
+    article_email: melissa.cullen@opragency.com.au
 ---
 > **Mental health issues are prevalent amongst Australian workers:** One in five working Australians report experiencing a mental illness in the past year.1*
 >
