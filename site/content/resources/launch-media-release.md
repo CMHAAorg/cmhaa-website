@@ -1,5 +1,6 @@
 ---
-title: Launch media release
+title: "Media release: Australian businesses unite to tackle mental health in
+  the workplace"
 meta_keywords: Mental health, launch, CMHAA, business leaders, Steven Worrall,
   Corporate Mental Health Alliance Australia, media release, mental health week,
   mental health month, world mental health day
