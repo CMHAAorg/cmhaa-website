@@ -21,7 +21,7 @@ organisation_size: Large (250+ employees)
 industry: Charity, Not-for-profit
 modules:
   - type: vimeo
-    vimeo: " https://vimeo.com/457647049"
+    vimeo: https://vimeo.com/457647049
   - type: rich-text
     richtext_top: false
     richtext: >-
