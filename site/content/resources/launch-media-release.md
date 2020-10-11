@@ -19,6 +19,13 @@ industry: Charity, Not-for-profit
 modules:
   - type: vimeo
     vimeo: "457647049"
+  - type: want_know_more
+    article_title: Media enquiries
+    article_description: "To arrange an interview with one of our spokespeople, or
+      to speak with a representative from our founding members, please contact
+      Melissa Cullen. "
+    article_fullname: Melissa Cullen, Managing Partner, opr Agency
+    article_email: melissa.cullen@opragency.com.au
   - type: rich-text
     richtext_top: false
     richtext: >-
@@ -94,12 +101,5 @@ modules:
       6. [Lifeline media release (29 March 2020).](https://www.lifeline.org.au/resources/news-and-media-releases/media-releases/australian-government-provides-additional-funding-to-increase-access-to-lifeline-crisis-support-services-throughout-covid-19-outbreak) Australian Government provides additional funding to increase access to Lifeline crisis support services through-out COVID-19 outbreak.
 
       7. [Beyond Blue media release (29 March 2020).](https://www.beyondblue.org.au/media/media-releases/media-releases/beyond-blue-welcomes-funding-for-new-covid-19-support-service%20Accessed%20September%202020.) Beyond Blue welcomes funding for new COVID-19 support service.
-  - type: want_know_more
-    article_title: Media enquiries
-    article_description: "To arrange an interview with one of our spokespeople, or
-      to speak with a representative from our founding members, please contact
-      Melissa Cullen. "
-    article_fullname: Melissa Cullen, Managing Partner, opr Agency
-    article_email: melissa.cullen@opragency.com.au
 ---
 Tuesday 13 October 2020, Sydney: Minister for Health, the Hon Greg Hunt MP, today joined leaders from some of Australia’s biggest names in business to launch the Corporate Mental Health Alliance Australia (CMHAA), a new business-led, expert-guided member organisation dedicated to improving mental health in the workplace.
