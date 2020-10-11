@@ -83,18 +83,17 @@ modules:
         text_area_required: true
         text_area_error_message: Your comments are required
         text_area_max_char: 995
+  - type: rich-text
+    richtext_top: false
+    richtext: Please note that we do not provide clinical services for people in
+      need of direct mental health or crisis support. If you or someone you know
+      is in immediate danger, please dial '000' if in Australia, or reach out to
+      the relevant support services listed
+      [here](https://everymind.org.au/need-help).
   - type: recommended_resources
     heading: Read what some of our leaders have to say about mental health.
     resources:
       - personal-story-brian-long
       - personal-story-andrew-culleton
       - personal-story-deborah-yates
-  - type: rich-text
-    richtext_top: false
-    richtext: >-
-      Please note that we do not provide clinical services for people in need of
-      direct mental health or crisis support. 
-
-
-      If you or someone you know is in immediate danger, please dial '000' if in Australia, or reach out to the relevant support services listed [here](https://everymind.org.au/need-help).
 ---
