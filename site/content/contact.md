@@ -74,12 +74,6 @@ modules:
         text_area_required: true
         text_area_error_message: Your comments are required
         text_area_max_char: 995
-  - type: recommended_resources
-    heading: Read what some of our leaders have to say about mental health.
-    resources:
-      - personal-story-brian-long
-      - personal-story-andrew-culleton
-      - personal-story-deborah-yates
   - type: rich-text
     richtext_top: true
     richtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -89,4 +83,10 @@ modules:
       velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
       cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
       est laborum.
+  - type: recommended_resources
+    heading: Read what some of our leaders have to say about mental health.
+    resources:
+      - personal-story-brian-long
+      - personal-story-andrew-culleton
+      - personal-story-deborah-yates
 ---
