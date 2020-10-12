@@ -20,7 +20,7 @@ modules:
   - type: rich-text
     richtext_top: false
     richtext: >-
-      **Tuesday 13 October 2020, SYDNEY**: Minister for Health, The Hon Greg
+      **Tuesday, 13 October 2020, SYDNEY**: Minister for Health, the Hon Greg
       Hunt MP, today joined leaders from some of Australia’s largest employers
       to launch the Corporate Mental Health Alliance Australia (CMHAA), a new
       business-led, expert-guided member organisation dedicated to improving
