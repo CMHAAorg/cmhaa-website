@@ -17,14 +17,23 @@ role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Charity, Not-for-profit
 modules:
+  - type: split_title_content_background
+    disable_leftright: false
+    content: ""
+    title: Australian businesses unite to tackle mental health in the workplace.
   - type: rich-text
     richtext_top: false
     richtext: >-
-      **Tuesday, 13 October 2020, SYDNEY**: Minister for Health, the Hon Greg
-      Hunt MP, today joined leaders from some of Australia’s largest employers
-      to launch the Corporate Mental Health Alliance Australia (CMHAA), a new
-      business-led, expert-guided member organisation dedicated to improving
-      mental health in the workplace.
+      * Mental health issues are prevalent amongst Australian workers: One in
+      five working Australians report experiencing a mental illness in the past
+      year.1 
+
+      * The human and business cost of mental ill-health is high: The cost to the Australian economy of mental ill-health and suicide is, conservatively, in the order of $43 to $51 billion per year. Additional to this is an approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2
+
+      * The workplace can have a positive impact on mental health: Workplace mental health interventions can improve employee mental wellbeing and provide a sense of purpose and structure, as well as promote opportunities for social inclusion and support.3 The result of this is increased productivity and savings of up to $4.5b a year.4
+
+
+      **Tuesday, 13 October 2020, SYDNEY**: Minister for Health, the Hon Greg Hunt MP, today joined leaders from some of Australia’s largest employers to launch the Corporate Mental Health Alliance Australia (CMHAA), a new business-led, expert-guided member organisation dedicated to improving mental health in the workplace.
 
 
       The Alliance’s 15 founding members and participants – many of them direct competitors – recognise that the mental wellbeing of their employees transcends market dynamics, and that working together will give them the best chance of delivering real impact for their people. These members and participants include AIA Australia, Allianz Australia, Bunnings Group, Clayton Utz, Coles Group, Commonwealth Bank, Deloitte, DLA Piper, Johnson & Johnson Family of Companies, King & Wood Mallesons, KPMG, Microsoft Australia, MinterEllison, Woolworths Group and PwC Australia.
@@ -77,17 +86,6 @@ modules:
       Melissa Cullen. "
     article_fullname: Melissa Cullen, Managing Partner, opr Agency
     article_email: melissa.cullen@opragency.com.au
-  - type: split_title_content_background
-    disable_leftright: false
-    content: >-
-      * Mental health issues are prevalent amongst Australian workers: One in
-      five working Australians report experiencing a mental illness in the past
-      year.1 
-
-      * The human and business cost of mental ill-health is high: The cost to the Australian economy of mental ill-health and suicide is, conservatively, in the order of $43 to $51 billion per year. Additional to this is an approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2
-
-      * The workplace can have a positive impact on mental health: Workplace mental health interventions can improve employee mental wellbeing and provide a sense of purpose and structure, as well as promote opportunities for social inclusion and support.3 The result of this is increased productivity and savings of up to $4.5b a year.4
-    title: Australian businesses unite to tackle mental health in the workplace.
 ---
 * Mental health issues are prevalent amongst Australian workers: One in five working Australians report experiencing a mental illness in the past year.1 
 * The human and business cost of mental ill-health is high: The cost to the Australian economy of mental ill-health and suicide is, conservatively, in the order of $43 to $51 billion per year. Additional to this is an approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2
