@@ -29,7 +29,7 @@ modules:
     form_id: contact
     form_lead: ""
     form_description: ""
-    form_title: Contact us
+    form_title: Contact
     components:
       - type: FC02_text_input_area
         text_field_id: firstname
@@ -50,12 +50,6 @@ modules:
         email_label: Email address
         email_required: true
         email_error_message: A valid email address is required.
-      - type: FC02_text_input_area
-        text_field_id: mobile
-        text_input_label: Phone number
-        text_field_max_char: 15
-        text_field_min_char: 32
-        text_field_error_message: Remember to include your area code
       - type: FC05_select
         select_required: true
         select_id: options
