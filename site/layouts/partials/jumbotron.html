@@ -2,7 +2,7 @@
     {{ if .imageUrl }}
       {{- $path := resources.Get .imageUrl -}} 
       {{- $image := "" -}}
-      {{ if .IsHome }}
+      {{ if .isHome }}
         {{- $image = ($path.Fill "1920x920").RelPermalink }}
       {{ else }}
         {{- $image = ($path.Fill "1920x640").RelPermalink }}
