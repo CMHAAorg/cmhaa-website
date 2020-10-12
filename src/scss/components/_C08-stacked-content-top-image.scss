@@ -16,9 +16,8 @@
     }
   }
 
-  @media (min-width: $breakpoint-large) {
-    .uk-card-body {
-      padding-right: 0;
-    }
+  .uk-card-body {
+    padding-left: 0;
+    padding-right: 0;
   }
 }
