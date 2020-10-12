@@ -24,20 +24,20 @@ modules:
     richtext: >-
       * **\*Mental health issues are prevalent amongst Australian workers:** One
       in five working Australians report experiencing a mental illness in the
-      past year.1*
+      past year.[^1]*
 
-      * **\*The human and business cost of mental ill-health is high:** The cost to the Australian economy of mental ill-health and suicide is in the order of $43 to $51 billion per year. Approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2*
+      * **\*The human and business cost of mental ill-health is high:** The cost to the Australian economy of mental ill-health and suicide is in the order of $43 to $51 billion per year. Approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.[^2]*
 
-      * ***The workplace can have a positive impact on mental health***: *Workplace mental health interventions can improve employee mental wellbeing and provide a sense of purpose and structure, as well as promote opportunities for social inclusion and support.3* *The result of this is increased productivity and savings of up to $4.5b a year.4*
+      * ***The workplace can have a positive impact on mental health***: *Workplace mental health interventions can improve employee mental wellbeing and provide a sense of purpose and structure, as well as promote opportunities for social inclusion and support.*[^3] *The result of this is increased productivity and savings of up to $4.5b a year.*[^4]
 
 
       The Alliance’s 15 founding members – many of them direct competitors – recognise that the mental wellbeing of their employees transcends market dynamics, and that working together will give them the best chance of delivering real impact for their people. These members and participants include AIA Australia, Allianz Australia, Bunnings Group, Clayton Utz, Coles Group, Commonwealth Bank, Deloitte, DLA Piper, Johnson & Johnson Family of Companies, King & Wood Mallesons, KPMG, Microsoft Australia, MinterEllison, Woolworths Group and PwC Australia.
 
 
-      The establishment of CMHAA comes at a time when mental health issues in the workplace are increasing in prevalence. According to Safe Work Australia, more than 92% of work-related mental health condition claims can be attributed to work-related mental stress including work pressure, harassment or bullying, exposure to workplace violence and sexual or racial harassment.5
+      The establishment of CMHAA comes at a time when mental health issues in the workplace are increasing in prevalence. According to Safe Work Australia, more than 92% of work-related mental health condition claims can be attributed to work-related mental stress including work pressure, harassment or bullying, exposure to workplace violence and sexual or racial harassment.[^5]
 
 
-      The COVID-19 pandemic has further exacerbated mental health issues, with increased anxiety and uncertainty, self-isolation, family stress and financial hardship having a very real impact on quality of life. Further, lockdown restrictions and social isolation measures have changed the boundaries of the ‘workplace’ for millions of Australian workers and the demand for mental health services from employees is rising. Beyond Blue and Lifeline are already experiencing increases of around 30% in demand for their services.6,7
+      The COVID-19 pandemic has further exacerbated mental health issues, with increased anxiety and uncertainty, self-isolation, family stress and financial hardship having a very real impact on quality of life. Further, lockdown restrictions and social isolation measures have changed the boundaries of the ‘workplace’ for millions of Australian workers and the demand for mental health services from employees is rising. Beyond Blue and Lifeline are already experiencing increases of around 30% in demand for their services.[^6],[^7]
 
 
       **Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia,** said now more than ever, businesses across the board need to come together and take collective responsibility for creating mentally healthy workplaces.
@@ -87,18 +87,24 @@ modules:
       **REFERENCES:**
 
 
-      1. Superfriend, October 2018
+      [^1]: Superfriend, October 2018
 
-      2. [Productivity Commission: Mental health, Draft report](https://www.pc.gov.au/inquiries/completed/mental-health/draft), October 2019
 
-      3. [KPMG and Mental Health Australia (2018)](https://mhaustralia.org/sites/default/files/docs/investing_to_save_may_2018_-_kpmg_mental_health_australia.pdf). Investing to save. The economic benefits for Australia of investment in mental health reform.
+      [^2]: [Productivity Commission: Mental health, Draft report](https://www.pc.gov.au/inquiries/completed/mental-health/draft), October 2019
 
-      4. [Black Dog Institute (2014).](http://www.blackdoginstitute.org.au/wp-content/uploads/2020/04/creating-mentally-healthy-workplaces.pdf) Creating mentally healthy workplaces. A review of the research.
 
-      5. [Safe Work Australia](https://www.safeworkaustralia.gov.au/system/files/documents/1901/mental-health-infographic-v2.pdf%20Accessed%20September%202020.). Work-related mental health.
+      [^3]: [KPMG and Mental Health Australia (2018)](https://mhaustralia.org/sites/default/files/docs/investing_to_save_may_2018_-_kpmg_mental_health_australia.pdf). Investing to save. The economic benefits for Australia of investment in mental health reform.
 
-      6. [Lifeline media release (29 March 2020).](https://www.lifeline.org.au/resources/news-and-media-releases/media-releases/australian-government-provides-additional-funding-to-increase-access-to-lifeline-crisis-support-services-throughout-covid-19-outbreak) Australian Government provides additional funding to increase access to Lifeline crisis support services through-out COVID-19 outbreak.
 
-      7. [Beyond Blue media release (29 March 2020).](https://www.beyondblue.org.au/media/media-releases/media-releases/beyond-blue-welcomes-funding-for-new-covid-19-support-service%20Accessed%20September%202020.) Beyond Blue welcomes funding for new COVID-19 support service.
+      [^4]: [Black Dog Institute (2014).](http://www.blackdoginstitute.org.au/wp-content/uploads/2020/04/creating-mentally-healthy-workplaces.pdf) Creating mentally healthy workplaces. A review of the research.
+
+
+      [^5]: [Safe Work Australia](https://www.safeworkaustralia.gov.au/system/files/documents/1901/mental-health-infographic-v2.pdf%20Accessed%20September%202020.). Work-related mental health.[](https://www.lifeline.org.au/resources/news-and-media-releases/media-releases/australian-government-provides-additional-funding-to-increase-access-to-lifeline-crisis-support-services-throughout-covid-19-outbreak)
+
+
+      [^6]: [Lifeline media release (29 March 2020).](https://www.lifeline.org.au/resources/news-and-media-releases/media-releases/australian-government-provides-additional-funding-to-increase-access-to-lifeline-crisis-support-services-throughout-covid-19-outbreak) Australian Government provides additional funding to increase access to Lifeline crisis support services through-out COVID-19 outbreak.
+
+
+      [^7]: [Beyond Blue media release (29 March 2020).](https://www.beyondblue.org.au/media/media-releases/media-releases/beyond-blue-welcomes-funding-for-new-covid-19-support-service%20Accessed%20September%202020.) Beyond Blue welcomes funding for new COVID-19 support service.
 ---
 **Tuesday 13 October 2020, SYDNEY**: Minister for Health, The Hon Greg Hunt MP, today joined leaders from some of Australia’s largest employers to launch the Corporate Mental Health Alliance Australia (CMHAA), a new business-led, expert-guided member organisation dedicated to improving mental health in the workplace.
