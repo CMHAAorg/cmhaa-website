@@ -37,9 +37,9 @@ modules:
       * Have the opportunity to access and drive research and influence policymakers to improve quality of life of millions of Australians.
 
       * Have access to a member-only collaboration platform.
-    leadtext: "We welcome businesses of all sizes and from all industries as members
-      of the Corporate Mental Health Alliance Australia. By becoming a member,
-      your business will:"
+    leadtext: "We welcome businesses of all sizes and from all industries as
+      members. By becoming a member of the Corporate Mental Health Alliance
+      Australia, your business will:"
     title: Membership benefits
     image: img/greenhouse-crop.png
   - type: split_title_content_background
