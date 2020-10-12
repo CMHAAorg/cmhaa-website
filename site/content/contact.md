@@ -15,15 +15,15 @@ modules:
   - type: form
     form_id: contact
     form_lead: "Please let us know how we may assist you by completing the form below. "
-    form_description: If you'd like to receive updates from the Corporate Mental
-      Health Alliance Australia, please provide your name and email in the
-      newsletter sign-up form at the bottom of this page. You can also follow us
-      on
+    form_description: >-
+      If you'd like to receive updates from the Corporate Mental Health Alliance
+      Australia, please provide your name and email in the newsletter sign-up
+      form at the bottom of this page. You can also follow us on
       [LinkedIn](https://www.linkedin.com/company/corporate-mental-health-alliance-australia/)
-      and [Twitter](https://twitter.com/CMHA_Aus). If you or someone you know is
-      in immediate danger, please dial '000' if in Australia, or reach out to
-      the relevant support services in your area
-      [here](https://www.lifeline.org.au/get-help/service-finder/).
+      and [Twitter](https://twitter.com/CMHA_Aus). 
+
+
+      Please note that we do not provide clinical or other services for people in need of mental health or crisis support. If you or someone you know is in distress, please reach out to the relevant support services in your area [here](https://www.lifeline.org.au/get-help/service-finder/).
     form_title: Contact us
     components:
       - type: FC02_text_input_area
