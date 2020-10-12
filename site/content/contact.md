@@ -71,9 +71,6 @@ modules:
         text_area_required: true
         text_area_error_message: Your comments are required
         text_area_max_char: 995
-  - type: separator-line
-    padding_top: false
-    padding_bottom: false
   - type: recommended_resources
     heading: Read what some of our leaders have to say about mental health.
     resources:
