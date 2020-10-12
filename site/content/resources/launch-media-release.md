@@ -24,9 +24,9 @@ modules:
     richtext: >-
       * **\*Mental health issues are prevalent amongst Australian workers:** One
       in five working Australians report experiencing a mental illness in the
-      past year.<sup>1</sup>*
+      past year.`1`*
 
-      * **\*The human and business cost of mental ill-health is high:** The cost to the Australian economy of mental ill-health and suicide is in the order of $43 to $51 billion per year. Approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.`<sup>2</sup>`*
+      * **\*The human and business cost of mental ill-health is high:** The cost to the Australian economy of mental ill-health and suicide is in the order of $43 to $51 billion per year. Approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.<sup>2</sup>*
 
       * ***The workplace can have a positive impact on mental health***: *Workplace mental health interventions can improve employee mental wellbeing and provide a sense of purpose and structure, as well as promote opportunities for social inclusion and support.`<sup>3</sup>`* *The result of this is increased productivity and savings of up to $4.5b a year.`<sup>4</sup>`*
 
