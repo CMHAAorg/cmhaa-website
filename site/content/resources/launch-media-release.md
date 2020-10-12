@@ -17,21 +17,27 @@ role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Charity, Not-for-profit
 modules:
-  - type: vimeo
-    vimeo: "457647049"
   - type: rich-text
     richtext_top: false
     richtext: >-
-      * **\*Mental health issues are prevalent amongst Australian workers:** One
-      in five working Australians report experiencing a mental illness in the
-      past year.1*
+      * Mental health issues are prevalent amongst Australian workers: One in
+      five working Australians report experiencing a mental illness in the past
+      year.1 
 
-      * **\*The human and business cost of mental ill-health is high:** The cost to the Australian economy of mental ill-health and suicide is in the order of $43 to $51 billion per year. Approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2*
+      * The human and business cost of mental ill-health is high: The cost to the Australian economy of mental ill-health and suicide is, conservatively, in the order of $43 to $51 billion per year. Additional to this is an approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2
 
-      * ***The workplace can have a positive impact on mental health***: *Workplace mental health interventions can improve employee mental wellbeing and provide a sense of purpose and structure, as well as promote opportunities for social inclusion and support.*3 *The result of this is increased productivity and savings of up to $4.5b a year.*4
-
-
-      The Alliance’s 15 founding members – many of them direct competitors – recognise that the mental wellbeing of their employees transcends market dynamics, and that working together will give them the best chance of delivering real impact for their people. These members and participants include AIA Australia, Allianz Australia, Bunnings Group, Clayton Utz, Coles Group, Commonwealth Bank, Deloitte, DLA Piper, Johnson & Johnson Family of Companies, King & Wood Mallesons, KPMG, Microsoft Australia, MinterEllison, Woolworths Group and PwC Australia.
+      * The workplace can have a positive impact on mental health: Workplace mental health interventions can improve employee mental wellbeing and provide a sense of purpose and structure, as well as promote opportunities for social inclusion and support.3 The result of this is increased productivity and savings of up to $4.5b a year.4
+  - type: rich-text
+    richtext_top: true
+    richtext: >-
+      The Alliance’s 15 founding members and participants – many of them direct
+      competitors – recognise that the mental wellbeing of their employees
+      transcends market dynamics, and that working together will give them the
+      best chance of delivering real impact for their people. These members and
+      participants include AIA Australia, Allianz Australia, Bunnings Group,
+      Clayton Utz, Coles Group, Commonwealth Bank, Deloitte, DLA Piper, Johnson
+      & Johnson Family of Companies, King & Wood Mallesons, KPMG, Microsoft
+      Australia, MinterEllison, Woolworths Group and PwC Australia.
 
 
       The establishment of CMHAA comes at a time when mental health issues in the workplace are increasing in prevalence. According to Safe Work Australia, more than 92% of work-related mental health condition claims can be attributed to work-related mental stress including work pressure, harassment or bullying, exposure to workplace violence and sexual or racial harassment.5
