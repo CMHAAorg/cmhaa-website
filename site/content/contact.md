@@ -14,7 +14,7 @@ modules:
     padding_bottom: true
   - type: form
     form_id: contact
-    form_lead: "Pease let us know how we may assist you by completing the form below. "
+    form_lead: "Please let us know how we may assist you by completing the form below. "
     form_description: If you'd like to receive updates from the Corporate Mental
       Health Alliance Australia, please provide your name and email in the
       newsletter sign-up form at the bottom of this page. You can also follow us
