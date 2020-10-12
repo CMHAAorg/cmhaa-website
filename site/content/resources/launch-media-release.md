@@ -20,8 +20,8 @@ modules:
   - type: want_know_more
     article_title: Media enquiries
     article_description: To arrange an interview with one of our spokespeople, or to
-      speak with a representative from our founding members, please contact
-      Melissa Cullen on 0408 029 546.
+      speak with one of our founding members, please contact Melissa Cullen on
+      0408 029 546.
     article_fullname: Melissa Cullen, Managing Partner, opr Agency
     article_email: melissa.cullen@opragency.com.au
 ---
