@@ -74,15 +74,6 @@ modules:
         text_area_required: true
         text_area_error_message: Your comments are required
         text_area_max_char: 995
-  - type: rich-text
-    richtext_top: true
-    richtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-      ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-      est laborum.
   - type: recommended_resources
     heading: Read what some of our leaders have to say about mental health.
     resources:
