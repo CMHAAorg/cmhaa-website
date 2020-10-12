@@ -2,8 +2,9 @@
 page_title: About us
 title: Membership
 meta_keywords: Mental Awareness, Mental Health, CMHAA, About, Corporate Mental
-  Health Alliance, City Mental Health Alliance
-meta_description: Business-led. Expert-guided.
+  Health Alliance, City Mental Health Alliance, Corporate Mental Health Alliance
+  Australia
+meta_description: Join our movement for change on workplace mental health.
 banner_title: Join our movement for change on workplace mental health.
 banner_image: img/istock-1185273881.jpg
 banner_right_image: ""
@@ -37,7 +38,8 @@ modules:
 
       * Have access to a member-only collaboration platform.
     leadtext: "We welcome businesses of all sizes and from all industries as
-      members. By becoming a member, your business will:"
+      members. By becoming a member of the Corporate Mental Health Alliance
+      Australia, your business will:"
     title: Membership benefits
     image: img/greenhouse-crop.png
   - type: split_title_content_background
