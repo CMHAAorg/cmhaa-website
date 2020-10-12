@@ -23,7 +23,7 @@ modules:
       and [Twitter](https://twitter.com/CMHA_Aus). 
 
 
-      Please note that we do not provide clinical or other services for people in need of mental health or crisis support. If you or someone you know is in distress, please reach out to the relevant support services in your area [here](https://www.lifeline.org.au/get-help/service-finder/).
+      Please note that we do not provide clinical or other services for people in need of mental health or crisis support. If you or someone you know is in distress, please reach out to the relevant support services [here](https://www.lifeline.org.au/get-help/service-finder/).
     form_title: Contact us
     components:
       - type: FC02_text_input_area
