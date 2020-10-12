@@ -20,16 +20,6 @@ modules:
   - type: rich-text
     richtext_top: false
     richtext: >-
-      * Mental health issues are prevalent amongst Australian workers: One in
-      five working Australians report experiencing a mental illness in the past
-      year.1 
-
-      * The human and business cost of mental ill-health is high: The cost to the Australian economy of mental ill-health and suicide is, conservatively, in the order of $43 to $51 billion per year. Additional to this is an approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2
-
-      * The workplace can have a positive impact on mental health: Workplace mental health interventions can improve employee mental wellbeing and provide a sense of purpose and structure, as well as promote opportunities for social inclusion and support.3 The result of this is increased productivity and savings of up to $4.5b a year.4
-  - type: rich-text
-    richtext_top: true
-    richtext: >-
       The Alliance’s 15 founding members and participants – many of them direct
       competitors – recognise that the mental wellbeing of their employees
       transcends market dynamics, and that working together will give them the
@@ -113,4 +103,8 @@ modules:
 
       7. [Beyond Blue media release (29 March 2020).](https://www.beyondblue.org.au/media/media-releases/media-releases/beyond-blue-welcomes-funding-for-new-covid-19-support-service%20Accessed%20September%202020.) Beyond Blue welcomes funding for new COVID-19 support service.
 ---
+* Mental health issues are prevalent amongst Australian workers: One in five working Australians report experiencing a mental illness in the past year.1 
+* The human and business cost of mental ill-health is high: The cost to the Australian economy of mental ill-health and suicide is, conservatively, in the order of $43 to $51 billion per year. Additional to this is an approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2
+* The workplace can have a positive impact on mental health: Workplace mental health interventions can improve employee mental wellbeing and provide a sense of purpose and structure, as well as promote opportunities for social inclusion and support.3 The result of this is increased productivity and savings of up to $4.5b a year.4
+
 **Tuesday 13 October 2020, SYDNEY**: Minister for Health, The Hon Greg Hunt MP, today joined leaders from some of Australia’s largest employers to launch the Corporate Mental Health Alliance Australia (CMHAA), a new business-led, expert-guided member organisation dedicated to improving mental health in the workplace.
