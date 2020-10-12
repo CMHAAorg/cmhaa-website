@@ -20,14 +20,14 @@ modules:
   - type: rich-text
     richtext_top: false
     richtext: >-
-      The Alliance’s 15 founding members and participants – many of them direct
-      competitors – recognise that the mental wellbeing of their employees
-      transcends market dynamics, and that working together will give them the
-      best chance of delivering real impact for their people. These members and
-      participants include AIA Australia, Allianz Australia, Bunnings Group,
-      Clayton Utz, Coles Group, Commonwealth Bank, Deloitte, DLA Piper, Johnson
-      & Johnson Family of Companies, King & Wood Mallesons, KPMG, Microsoft
-      Australia, MinterEllison, Woolworths Group and PwC Australia.
+      **Tuesday 13 October 2020, SYDNEY**: Minister for Health, The Hon Greg
+      Hunt MP, today joined leaders from some of Australia’s largest employers
+      to launch the Corporate Mental Health Alliance Australia (CMHAA), a new
+      business-led, expert-guided member organisation dedicated to improving
+      mental health in the workplace.
+
+
+      The Alliance’s 15 founding members and participants – many of them direct competitors – recognise that the mental wellbeing of their employees transcends market dynamics, and that working together will give them the best chance of delivering real impact for their people. These members and participants include AIA Australia, Allianz Australia, Bunnings Group, Clayton Utz, Coles Group, Commonwealth Bank, Deloitte, DLA Piper, Johnson & Johnson Family of Companies, King & Wood Mallesons, KPMG, Microsoft Australia, MinterEllison, Woolworths Group and PwC Australia.
 
 
       The establishment of CMHAA comes at a time when mental health issues in the workplace are increasing in prevalence. According to Safe Work Australia, more than 92% of work-related mental health condition claims can be attributed to work-related mental stress including work pressure, harassment or bullying, exposure to workplace violence and sexual or racial harassment.5
@@ -42,7 +42,7 @@ modules:
       “We can do this firstly by sharing what we’re each doing in the workplace to support our people’s mental health and wellbeing. None of us think we have all the answers, but we’re all doing lots of things, and in many cases, lots of really good things to support our people who are struggling with mental illness or anxiety. It’s on us as leaders to put mental health at the heart of the business agenda, and to bring our collective experience and resources to the attention of other businesses looking to make improvements in this area. We are an alliance for all businesses, large and small alike.”
 
 
-      Anchored around three strategic priorities – *Provide Safe Settings*, *Empower Our Leaders*, and *Drive Lasting Change* – and with the support of mental health experts, CMHAA members will work together to find, test and deliver solutions that work for their people.
+      Anchored around three strategic priorities – **Provide Safe Settings**, **Empower Our Leaders**, and **Drive Lasting Change** – and with the support of mental health experts, CMHAA members will work together to find, test and deliver solutions that work for their people.
 
 
       **Melinda Upton, Partner, DLA Piper and CMHAA Board Member** believes positive change needs to be championed from the top to erode barriers and enable people to speak up without fear or stigma.
@@ -106,5 +106,3 @@ modules:
 * Mental health issues are prevalent amongst Australian workers: One in five working Australians report experiencing a mental illness in the past year.1 
 * The human and business cost of mental ill-health is high: The cost to the Australian economy of mental ill-health and suicide is, conservatively, in the order of $43 to $51 billion per year. Additional to this is an approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2
 * The workplace can have a positive impact on mental health: Workplace mental health interventions can improve employee mental wellbeing and provide a sense of purpose and structure, as well as promote opportunities for social inclusion and support.3 The result of this is increased productivity and savings of up to $4.5b a year.4
-
-**Tuesday 13 October 2020, SYDNEY**: Minister for Health, The Hon Greg Hunt MP, today joined leaders from some of Australia’s largest employers to launch the Corporate Mental Health Alliance Australia (CMHAA), a new business-led, expert-guided member organisation dedicated to improving mental health in the workplace.
