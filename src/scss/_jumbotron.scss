@@ -111,6 +111,10 @@
       h1,
       p {
         padding-right: 20px;
+
+        @media (min-width: $breakpoint-medium) {
+          padding-right: 80px;
+        }
       }
 
       .C01-hero__svg-horizontal {
