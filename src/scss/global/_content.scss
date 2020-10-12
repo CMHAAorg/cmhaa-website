@@ -16,3 +16,21 @@
     }
   }
 }
+
+blockquote {
+  p {
+    &:before {
+      content: '\201C';
+      display: inline;
+      position: relative;
+      font-size: 1.2em;
+    }
+
+    &:after { 
+      content: '\201D';
+      display: inline;
+      position: relative;
+      font-size: 1.2em;
+    }
+  }
+}
