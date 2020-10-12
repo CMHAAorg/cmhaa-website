@@ -19,13 +19,6 @@ industry: Charity, Not-for-profit
 modules:
   - type: vimeo
     vimeo: "457647049"
-  - type: want_know_more
-    article_title: Media enquiries
-    article_description: "To arrange an interview with one of our spokespeople, or
-      to speak with a representative from our founding members, please contact
-      Melissa Cullen. "
-    article_fullname: Melissa Cullen, Managing Partner, opr Agency
-    article_email: melissa.cullen@opragency.com.au
   - type: rich-text
     richtext_top: false
     richtext: >-
@@ -81,10 +74,16 @@ modules:
 
 
       CMHAA is receiving expressions of interest for membership beginning in 2021.
-
-
-
-
+  - type: want_know_more
+    article_title: Media enquiries
+    article_description: "To arrange an interview with one of our spokespeople, or
+      to speak with a representative from our founding members, please contact
+      Melissa Cullen. "
+    article_fullname: Melissa Cullen, Managing Partner, opr Agency
+    article_email: melissa.cullen@opragency.com.au
+  - type: rich-text
+    richtext_top: false
+    richtext: >-
       **REFERENCES:**
 
 
