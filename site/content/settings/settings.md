@@ -17,9 +17,9 @@ footer:
         footer_global_link_url_text: cmhaa.org.au
     footer_social_link:
       - footer_social_link_platform: linkedin
-        footer_social_link_url: http://linkedin.com/
+        footer_social_link_url: https://www.linkedin.com/company/corporate-mental-health-alliance-australia/
       - footer_social_link_platform: twitter
-        footer_social_link_url: http://twitter.com/
+        footer_social_link_url: https://twitter.com/CMHA_Aus
     footer_pirvacy_link:
       - footer_pirvacy_link_text: Privacy policy
         footer_pirvacy_link_url: /privacy-policy
