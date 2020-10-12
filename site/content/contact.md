@@ -12,6 +12,19 @@ modules:
   - type: separator-line
     padding_top: true
     padding_bottom: true
+  - type: split_title_content_background
+    disable_leftright: true
+    leadtext: If you'd like to receive updates from the Corporate Mental Health
+      Alliance Australia, please provide your name and email in the newsletter
+      sign-up form at the bottom of this page. You can also follow us on
+      [LinkedIn](https://www.linkedin.com/company/corporate-mental-health-alliance-australia/)
+      and [Twitter](https://twitter.com/CMHA_Aus).
+    title: "Pease let us know how we may assist you by completing the form below. "
+    content: Please note that we do not provide clinical services for people in need
+      of direct mental health or crisis support. If you or someone you know is
+      in immediate danger, please dial '000' if in Australia, or reach out to
+      the relevant support services listed
+      [here](https://everymind.org.au/need-help).
   - type: form
     form_id: contact
     form_lead: "Pease let us know how we may assist you by completing the form below. "
