@@ -13,8 +13,8 @@ footer:
         footer_global_link_url_text: cmhahk.org
         footer_global_link_url: https://www.cmhahk.org/
       - footer_global_link_country: AUSTRALIA
-        footer_global_link_url: https://www.chmaa.org.au/
-        footer_global_link_url_text: chmaa.org.au
+        footer_global_link_url: https://www.cmhaa.org.au/
+        footer_global_link_url_text: cmhaa.org.au
     footer_social_link:
       - footer_social_link_platform: linkedin
         footer_social_link_url: http://linkedin.com/

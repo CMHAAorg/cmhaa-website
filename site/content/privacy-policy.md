@@ -14,7 +14,7 @@ modules:
       This Privacy Policy is issued by Corporate Mental Health Alliance Australia Limited (ABN 28 638 927 125) (**CMHA Australia**, **we**, **us** or **our**), and explains how we collect, use and disclose your personal information. This Privacy Policy governs all personal information collected, used and disclosed by CMHA Australia, including on this website (our **Site**).
 
 
-      Please read this Privacy Policy and our [Terms of Use](www.cmhaa.org.au/terms-conditions/) before making use of our Site or services.
+      Please read this Privacy Policy and our [Terms of Use](/terms-conditions/) before making use of our Site or services.
 
 
       ### 2. Personal Information and Sensitive Information
