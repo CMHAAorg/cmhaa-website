@@ -23,7 +23,7 @@
             <h3>{{ .Module.title }}</h3>
         </div>
         <div class="uk-width-1-1@s uk-width-3-4@l">
-            {{if .Module.leadtext}}<p class="uk-text-lead uk-margin-small-bottom">{{ .Module.leadtext }}</p>{{end}}
+            {{if .Module.leadtext}}<p class="uk-text-lead{{ if .Module.content }} uk-margin-small-bottom{{ end }}">{{ .Module.leadtext }}</p>{{end}}
             {{if .Module.content }}
                 {{ .Module.content | markdownify }}
             {{end}}
