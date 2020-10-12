@@ -28,7 +28,7 @@ footer:
       - footer_pirvacy_link_text: Terms of use
         footer_pirvacy_link_url: /terms-conditions
     footer_ga: UA-175325361-1
-    footer_signup_title: Test the sign up form title change
+    footer_signup_title: ""
 seo:
   - seo_og_image: img/ogimage.jpg
     seo_og_url: https://cmhaa.org.au/
