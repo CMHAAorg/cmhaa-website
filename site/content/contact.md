@@ -12,16 +12,6 @@ modules:
   - type: separator-line
     padding_top: true
     padding_bottom: true
-  - type: split_title_content_background
-    disable_leftright: true
-    leadtext: Please note that we do not provide clinical services for people in
-      need of direct mental health or crisis support.
-    title: In need of direct support?
-    content: " If you or someone you know is in immediate danger, please dial '000'
-      if in Australia, or reach out to the relevant support services in your
-      area."
-    cta_text: Support services
-    cta_link: https://www.lifeline.org.au/get-help/service-finder/
   - type: form
     form_id: contact
     form_lead: "Pease let us know how we may assist you by completing the form below. "
@@ -78,6 +68,19 @@ modules:
         text_area_required: true
         text_area_error_message: Your comments are required
         text_area_max_char: 995
+  - type: split_title_content_background
+    disable_leftright: true
+    leadtext: Please note that we do not provide clinical services for people in
+      need of direct mental health or crisis support.
+    title: In need of direct support?
+    content: " If you or someone you know is in immediate danger, please dial '000'
+      if in Australia, or reach out to the relevant support services in your
+      area."
+    cta_text: Support services
+    cta_link: https://www.lifeline.org.au/get-help/service-finder/
+  - type: separator-line
+    padding_top: false
+    padding_bottom: false
   - type: recommended_resources
     heading: Read what some of our leaders have to say about mental health.
     resources:
