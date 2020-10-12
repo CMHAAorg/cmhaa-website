@@ -77,31 +77,16 @@ modules:
       Melissa Cullen. "
     article_fullname: Melissa Cullen, Managing Partner, opr Agency
     article_email: melissa.cullen@opragency.com.au
-  - type: rich-text
-    richtext_top: false
-    richtext: >-
-      **REFERENCES:**
+  - type: split_title_content_background
+    disable_leftright: false
+    content: >-
+      * Mental health issues are prevalent amongst Australian workers: One in
+      five working Australians report experiencing a mental illness in the past
+      year.1 
 
+      * The human and business cost of mental ill-health is high: The cost to the Australian economy of mental ill-health and suicide is, conservatively, in the order of $43 to $51 billion per year. Additional to this is an approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2
 
-      1. Superfriend, October 2018
-
-
-      2. [Productivity Commission: Mental health, Draft report](https://www.pc.gov.au/inquiries/completed/mental-health/draft), October 2019
-
-
-      3. [KPMG and Mental Health Australia (2018)](https://mhaustralia.org/sites/default/files/docs/investing_to_save_may_2018_-_kpmg_mental_health_australia.pdf). Investing to save. The economic benefits for Australia of investment in mental health reform.
-
-
-      4. [Black Dog Institute (2014).](http://www.blackdoginstitute.org.au/wp-content/uploads/2020/04/creating-mentally-healthy-workplaces.pdf) Creating mentally healthy workplaces. A review of the research.
-
-
-      5. [Safe Work Australia](https://www.safeworkaustralia.gov.au/system/files/documents/1901/mental-health-infographic-v2.pdf%20Accessed%20September%202020.). Work-related mental health.[](https://www.lifeline.org.au/resources/news-and-media-releases/media-releases/australian-government-provides-additional-funding-to-increase-access-to-lifeline-crisis-support-services-throughout-covid-19-outbreak)
-
-
-      6. [Lifeline media release (29 March 2020).](https://www.lifeline.org.au/resources/news-and-media-releases/media-releases/australian-government-provides-additional-funding-to-increase-access-to-lifeline-crisis-support-services-throughout-covid-19-outbreak) Australian Government provides additional funding to increase access to Lifeline crisis support services through-out COVID-19 outbreak.
-
-
-      7. [Beyond Blue media release (29 March 2020).](https://www.beyondblue.org.au/media/media-releases/media-releases/beyond-blue-welcomes-funding-for-new-covid-19-support-service%20Accessed%20September%202020.) Beyond Blue welcomes funding for new COVID-19 support service.
+      * The workplace can have a positive impact on mental health: Workplace mental health interventions can improve employee mental wellbeing and provide a sense of purpose and structure, as well as promote opportunities for social inclusion and support.3 The result of this is increased productivity and savings of up to $4.5b a year.4
 ---
 * Mental health issues are prevalent amongst Australian workers: One in five working Australians report experiencing a mental illness in the past year.1 
 * The human and business cost of mental ill-health is high: The cost to the Australian economy of mental ill-health and suicide is, conservatively, in the order of $43 to $51 billion per year. Additional to this is an approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2
