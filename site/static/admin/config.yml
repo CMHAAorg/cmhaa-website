@@ -191,12 +191,13 @@ collections: # A list of collections the CMS should be able to edit
             widget: object
             fields:
               - { label: Image, name: image, widget: image, required: true }
+              - { label: Caption, name: image_caption, widget: string, required: false }
           - label: "C12: Split Title with Content & Background"
             name: "split_title_content_background"
             widget: object
             fields:
               - { label: Disable Left Right, name: disable_leftright, widget: boolean, default: false, required: false }
-              - { label: Title, name: title, widget: string, required: true }
+              - { label: Title, name: title, widget: string, required: false }
               - { label: Lead Text, name: leadtext, widget: markdown, required: false }
               - { label: Content, name: content, widget: markdown, required: false }
               - { label: CTA Text, name: cta_text, widget: string, required: false }
@@ -456,7 +457,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: object
             fields:
               - { label: Disable Left Right, name: disable_leftright, widget: boolean, default: false, required: false }
-              - { label: Title, name: title, widget: string, required: true }
+              - { label: Title, name: title, widget: string, required: false }
               - { label: Lead Text, name: leadtext, widget: markdown, required: false }
               - { label: Content, name: content, widget: markdown, required: false }
               - { label: CTA Text, name: cta_text, widget: string, required: false }

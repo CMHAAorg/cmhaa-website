@@ -1,7 +1,12 @@
 <div data-id="C01" class="jumbotron C01-hero {{if .isHome}}isHome{{end}} {{if .imageUrl }}{{ else }}C01-hero__noimage {{if .banner_right_image}}C01-hero__right-image{{else}}C01-hero__no-right-image{{end}} {{end}}" uk-grid>
     {{ if .imageUrl }}
       {{- $path := resources.Get .imageUrl -}} 
-      {{- $image := ($path.Fill "1920x920").RelPermalink }}
+      {{- $image := "" -}}
+      {{ if .IsHome }}
+        {{- $image = ($path.Fill "1920x920").RelPermalink }}
+      {{ else }}
+        {{- $image = ($path.Fill "1920x640").RelPermalink }}
+      {{ end }}
       <div class="uk-background-cover uk-width-1-1 uk-background-cover__image" style="background-image: url({{$image}});">
     {{ else }}
       <div class="uk-background-cover uk-width-1-1">
