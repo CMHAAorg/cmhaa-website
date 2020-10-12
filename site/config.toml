@@ -1,4 +1,4 @@
-baseurl = "https://adoring-easley-b6cc0a.netlify.app/"
+baseurl = "https://cmhaa.org.au/"
 languageCode = "en-us"
 languageLang = "en"
 title = "CMHAA"
@@ -82,3 +82,8 @@ notAlternative = true
 [params.taxrelationships]
 vars = ["title", "category"]
 params = ["category"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
