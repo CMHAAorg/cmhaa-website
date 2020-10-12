@@ -78,9 +78,14 @@
 
       a {
         display: flex;
+        flex-flow: row nowrap;
 
         .uk-card-body {
           max-width: 220px;
+        }
+
+        .uk-card-media-left {
+          flex-shrink: 0;
         }
       }
     }
