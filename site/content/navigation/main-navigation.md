@@ -10,7 +10,4 @@ mainMenu:
     newtab: false
   - title: Contact
     url: /contact/
-  - title: TEST HEADER
-    url: https://www.google.com
-    newtab: true
 ---
