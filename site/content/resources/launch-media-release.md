@@ -36,7 +36,7 @@ modules:
     leadtext: >-
       * Mental health issues are prevalent amongst Australian workers: One in
       five working Australians report experiencing a mental illness in the past
-      year. (1)
+      year. 1
 
       * The human and business cost of mental ill-health is high: The cost to the Australian economy of mental ill-health and suicide is, conservatively, in the order of $43 to $51 billion per year. Additional to this is an approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2
 
