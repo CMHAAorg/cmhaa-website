@@ -11,9 +11,9 @@ banner_title: "Media release: Australian businesses unite to tackle mental
 banner_description: Introducing the Corporate Mental Health Alliance Australia
 banner_right_image: ""
 date: 2020-10-13T03:03:21.058Z
-description: "To mark the launch of the Corporate Mental Health Alliance
-  Australia, we hosted an important and timely discussion on corporate
-  Australia’s role in supporting mental health in the workplace. "
+description: "Mental health issues are prevalent amongst Australian workers: One
+  in five working Australians report experiencing a mental illness in the past
+  year. (1)"
 category: News & Views
 focus: Support for managers, colleagues and staff
 role: CEO or leadership role
@@ -84,6 +84,5 @@ modules:
     article_email: melissa.cullen@opragency.com.au
     richtext: ""
 ---
-* Mental health issues are prevalent amongst Australian workers: One in five working Australians report experiencing a mental illness in the past year.1 
 * The human and business cost of mental ill-health is high: The cost to the Australian economy of mental ill-health and suicide is, conservatively, in the order of $43 to $51 billion per year. Additional to this is an approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2
 * The workplace can have a positive impact on mental health: Workplace mental health interventions can improve employee mental wellbeing and provide a sense of purpose and structure, as well as promote opportunities for social inclusion and support.3 The result of this is increased productivity and savings of up to $4.5b a year.4
