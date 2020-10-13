@@ -24,20 +24,20 @@ modules:
     richtext: >-
       * **\*Mental health issues are prevalent amongst Australian workers:** One
       in five working Australians report experiencing a mental illness in the
-      past year.1*
+      past year.<sup>1</sup>*
 
-      * **\*The human and business cost of mental ill-health is high:** The cost to the Australian economy of mental ill-health and suicide is in the order of $43 to $51 billion per year. Approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2*
+      * **\*The human and business cost of mental ill-health is high:** The cost to the Australian economy of mental ill-health and suicide is in the order of $43 to $51 billion per year. Approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.<sup>2</sup>*
 
-      * ***The workplace can have a positive impact on mental health***: *Workplace mental health interventions can improve employee mental wellbeing and provide a sense of purpose and structure, as well as promote opportunities for social inclusion and support.*3 *The result of this is increased productivity and savings of up to $4.5b a year.*4
+      * ***The workplace can have a positive impact on mental health***: *Workplace mental health interventions can improve employee mental wellbeing and provide a sense of purpose and structure, as well as promote opportunities for social inclusion and support.<sup>*3</sup> *The result of this is increased productivity and savings of up to $4.5b a year.<sup>*4</sup>
 
 
       The Alliance’s 15 founding members – many of them direct competitors – recognise that the mental wellbeing of their employees transcends market dynamics, and that working together will give them the best chance of delivering real impact for their people. These members and participants include AIA Australia, Allianz Australia, Bunnings Group, Clayton Utz, Coles Group, Commonwealth Bank, Deloitte, DLA Piper, Johnson & Johnson Family of Companies, King & Wood Mallesons, KPMG, Microsoft Australia, MinterEllison, Woolworths Group and PwC Australia.
 
 
-      The establishment of CMHAA comes at a time when mental health issues in the workplace are increasing in prevalence. According to Safe Work Australia, more than 92% of work-related mental health condition claims can be attributed to work-related mental stress including work pressure, harassment or bullying, exposure to workplace violence and sexual or racial harassment.5
+      The establishment of CMHAA comes at a time when mental health issues in the workplace are increasing in prevalence. According to Safe Work Australia, more than 92% of work-related mental health condition claims can be attributed to work-related mental stress including work pressure, harassment or bullying, exposure to workplace violence and sexual or racial harassment.<sup>5</sup>
 
 
-      The COVID-19 pandemic has further exacerbated mental health issues, with increased anxiety and uncertainty, self-isolation, family stress and financial hardship having a very real impact on quality of life. Further, lockdown restrictions and social isolation measures have changed the boundaries of the ‘workplace’ for millions of Australian workers and the demand for mental health services from employees is rising. Beyond Blue and Lifeline are already experiencing increases of around 30% in demand for their services.6,7
+      The COVID-19 pandemic has further exacerbated mental health issues, with increased anxiety and uncertainty, self-isolation, family stress and financial hardship having a very real impact on quality of life. Further, lockdown restrictions and social isolation measures have changed the boundaries of the ‘workplace’ for millions of Australian workers and the demand for mental health services from employees is rising. Beyond Blue and Lifeline are already experiencing increases of around 30% in demand for their services.<sup>6</sup>,<sup>7</sup>
 
 
       **Steven Worrall, Chair of CMHAA and Managing Director of Microsoft Australia,** said now more than ever, businesses across the board need to come together and take collective responsibility for creating mentally healthy workplaces.
