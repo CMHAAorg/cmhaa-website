@@ -31,16 +31,6 @@ modules:
       what we do. We’re not starting from zero knowledge here.
     quote_author: Associate Professor Samuel Harvey, Chief Psychiatrist & Head of
       the Workplace Mental Health Research Program, Black Dog Institute
-  - type: split_title_content_background
-    disable_leftright: true
-    leadtext: >-
-      * Mental health issues are prevalent amongst Australian workers: One in
-      five working Australians report experiencing a mental illness in the past
-      year. 1
-
-      * The human and business cost of mental ill-health is high: The cost to the Australian economy of mental ill-health and suicide is, conservatively, in the order of $43 to $51 billion per year. Additional to this is an approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2
-
-      * The workplace can have a positive impact on mental health: Workplace mental health interventions can improve employee mental wellbeing and provide a sense of purpose and structure, as well as promote opportunities for social inclusion and support.3 The result of this is increased productivity and savings of up to $4.5b a year.4
   - type: rich-text
     richtext_top: false
     richtext: >-
