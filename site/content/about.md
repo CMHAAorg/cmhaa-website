@@ -22,10 +22,9 @@ modules:
       mental health outcomes will be achieved for more people, sooner.
   - type: vimeo_with_quote
     vimeo_quote_id: "457647049"
-    vimeo_quote_text: One of the great outcomes of the Alliance so far is that we’re
-      opening up a little more frequently and more easily, and just
-      acknowledging the reality of the moment we’re all facing. We have to build
-      on that as we look to the future.
+    vimeo_quote_text: We as business leaders could, and should, come together to
+      help normalise this conversation so that we talk about mental health just
+      as regularly and normally as we talk about physical health.
     vimeo_quote_author: Steven Worrall, Managing Director, Microsoft Australia, and
       Chair, Corporate Mental Health Alliance Australia
   - type: split_title_content
