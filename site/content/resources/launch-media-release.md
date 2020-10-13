@@ -73,10 +73,10 @@ modules:
       **Lucy Brogden AM, Chair, National Mental Health Commission, Chair, Mentally Healthy Workplace Alliance**, one of 15 members on CMHAA’s expert advisory group says there’s a growing awareness of the need for businesses to go beyond the “yoga and fruit bowl” approach to addressing mental health in the workplace. 
 
 
-      “The Corporate Mental Health Alliance Australia has the potential to be a powerful voice for change on workplace mental health. It’s effectively an extensive network of mental health champions across some of our country’s largest employers, who are each saying in unison, *this is really important to us. We are committed to this. We are here to be a part of the change*,” said Brogden.
+      “The Corporate Mental Health Alliance Australia has the potential to be a powerful voice for change on workplace mental health. It’s effectively an extensive network of mental health champions across some of our country’s largest employers, who are each saying in unison, 'this is really important to us. We are committed to this. We are here to be a part of the change,'” said Brogden.
 
 
-      CMHAA is receiving expressions of interest for membership beginning in 2021.
+      CMHAA is receiving expressions of interest for [membership](https://cmhaa.org.au/membership/) beginning in 2021.
   - type: want_know_more
     article_title: Media enquiries
     article_description: To arrange an interview with one of our spokespeople, or to
