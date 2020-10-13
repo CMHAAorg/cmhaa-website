@@ -9,7 +9,7 @@ meta_description: Media release announcing the launch of the Corporate Mental
 banner_title: "Media release: Australian businesses unite to tackle mental
   health in the workplace "
 banner_description: Introducing the Corporate Mental Health Alliance Australia
-banner_right_image: img/bd7ebcc4-383b-47bc-b33b-185e93944eb4.jpg
+banner_right_image: ""
 date: 2020-10-11T03:03:21.058Z
 description: Australian businesses unite to tackle mental health in the workplace.
 category: News & Views
@@ -18,13 +18,6 @@ role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Charity, Not-for-profit
 modules:
-  - type: want_know_more
-    article_title: Media enquiries
-    article_description: To arrange an interview with one of our spokespeople, or to
-      speak with one of our founding members, please contact Melissa Cullen on
-      0408 029 546.
-    article_fullname: Melissa Cullen, Managing Partner, opr Agency
-    article_email: melissa.cullen@opragency.com.au
   - type: vimeo_with_quote
     vimeo_quote_id: "467595273"
     vimeo_quote_text: It’s a great victory for us to have some of the biggest
@@ -34,6 +27,13 @@ modules:
     vimeo_quote_author: "Associate Professor Samuel Harvey, Chief Psychiatrist &
       Head of the Workplace Mental Health Research Program, Black Dog Institute
       "
+  - type: want_know_more
+    article_title: Media enquiries
+    article_description: To arrange an interview with one of our spokespeople, or to
+      speak with one of our founding members, please contact Melissa Cullen on
+      0408 029 546.
+    article_fullname: Melissa Cullen, Managing Partner, opr Agency
+    article_email: melissa.cullen@opragency.com.au
 ---
 * Mental health issues are prevalent amongst Australian workers: One in five working Australians report experiencing a mental illness in the past year.1 
 * The human and business cost of mental ill-health is high: The cost to the Australian economy of mental ill-health and suicide is, conservatively, in the order of $43 to $51 billion per year. Additional to this is an approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2
