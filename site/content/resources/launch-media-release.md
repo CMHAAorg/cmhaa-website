@@ -60,8 +60,9 @@ modules:
 
 
       “The Corporate Mental Health Alliance Australia has the potential to really accelerate a change in the way Australia approaches workplace mental health. Its reach extends not only to the workforces of its members, but also to the workforces of other companies and stakeholder groups that they interact with. The footprint that we can have across Australia is substantial.”
-  - type: image
-    image: img/event-image.jpg
+
+
+      ![Launch panellists](img/bd7ebcc4-383b-47bc-b33b-185e93944eb4.jpg)
   - type: rich-text
     richtext_top: false
     richtext: >-
