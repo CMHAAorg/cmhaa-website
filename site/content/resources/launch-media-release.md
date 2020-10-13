@@ -11,11 +11,10 @@ banner_title: "Media release: Australian businesses unite to tackle mental
 banner_description: Introducing the Corporate Mental Health Alliance Australia
 banner_right_image: ""
 date: 2020-10-13T03:03:21.058Z
-description: "Tuesday, 13 October 2020: Federal Minister for Health, the Hon
-  Greg Hunt MP, today joined leaders from some of Australia’s largest employers
-  to launch the Corporate Mental Health Alliance Australia (CMHAA), a new
-  business-led, expert-guided member organisation dedicated to improving mental
-  health in the workplace."
+description: Federal Minister for Health, the Hon Greg Hunt MP, today joined
+  leaders from some of Australia’s largest employers to launch the Corporate
+  Mental Health Alliance Australia (CMHAA), a new business-led, expert-guided
+  member organisation dedicated to improving mental health in the workplace.
 category: News & Views
 focus: Support for managers, colleagues and staff
 role: CEO or leadership role
