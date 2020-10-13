@@ -11,7 +11,7 @@ banner_title: "Media release: Australian businesses unite to tackle mental
 banner_description: Introducing the Corporate Mental Health Alliance Australia
 banner_right_image: ""
 date: 2020-10-11T03:03:21.058Z
-description: "**Tuesday, 13 October 2020, SYDNEY**: Minister for Health, the Hon
+description: "Tuesday, 13 October 2020: Federal Minister for Health, the Hon
   Greg Hunt MP, today joined leaders from some of Australia’s largest employers
   to launch the Corporate Mental Health Alliance Australia (CMHAA), a new
   business-led, expert-guided member organisation dedicated to improving mental
@@ -27,14 +27,14 @@ modules:
   - type: rich-text
     richtext_top: false
     richtext: >-
-      **Tuesday, 13 October 2020, SYDNEY**: Minister for Health, the Hon Greg
-      Hunt MP, today joined leaders from some of Australia’s largest employers
-      to launch the Corporate Mental Health Alliance Australia (CMHAA), a new
-      business-led, expert-guided member organisation dedicated to improving
-      mental health in the workplace.
-
-
-      The Alliance’s 15 founding members and participants – many of them direct competitors – recognise that the mental wellbeing of their employees transcends market dynamics, and that working together will give them the best chance of delivering real impact for their people. These members and participants include AIA Australia, Allianz Australia, Bunnings Group, Clayton Utz, Coles Group, Commonwealth Bank, Deloitte, DLA Piper, Johnson & Johnson Family of Companies, King & Wood Mallesons, KPMG, Microsoft Australia, MinterEllison, Woolworths Group and PwC Australia.
+      The Alliance’s 15 founding members and participants – many of them direct
+      competitors – recognise that the mental wellbeing of their employees
+      transcends market dynamics, and that working together will give them the
+      best chance of delivering real impact for their people. These members and
+      participants include AIA Australia, Allianz Australia, Bunnings Group,
+      Clayton Utz, Coles Group, Commonwealth Bank, Deloitte, DLA Piper, Johnson
+      & Johnson Family of Companies, King & Wood Mallesons, KPMG, Microsoft
+      Australia, MinterEllison, Woolworths Group and PwC Australia.
 
 
       The establishment of CMHAA comes at a time when mental health issues in the workplace are increasing in prevalence. According to Safe Work Australia, more than 92% of work-related mental health condition claims can be attributed to work-related mental stress including work pressure, harassment or bullying, exposure to workplace violence and sexual or racial harassment.5
@@ -53,12 +53,20 @@ modules:
 
 
       **Melinda Upton, Partner, DLA Piper and CMHAA Board Member** believes positive change needs to be championed from the top to erode barriers and enable people to speak up without fear or stigma.
-
-
-      “The Corporate Mental Health Alliance Australia has the potential to really accelerate a change in the way Australia approaches workplace mental health. Its reach extends not only to the workforces of its members, but also to the workforces of other companies and stakeholder groups that they interact with. The footprint that we can have across Australia is substantial.”
-
-
-      **Marg Walford, Regional Operations Manager QLD South, Bunnings Group Limited,** has a clear view of the range of issues experienced by employees in the workplace.
+  - type: quote
+    quote_text: “The Corporate Mental Health Alliance Australia has the potential to
+      really accelerate a change in the way Australia approaches workplace
+      mental health. Its reach extends not only to the workforces of its
+      members, but also to the workforces of other companies and stakeholder
+      groups that they interact with. The footprint that we can have across
+      Australia is substantial.”
+    quote_author: Melinda Upton, Partner, DLA Piper and CMHAA Board Member
+  - type: rich-text
+    richtext_top: false
+    richtext: >-
+      **Marg Walford, Regional Operations Manager QLD South, Bunnings Group
+      Limited,** has a clear view of the range of issues experienced by
+      employees in the workplace.
 
 
       “Our team are at the heart of everything we do. Our aim is that every team member feels comfortable talking about mental health, is supported by their leaders and teammates and is aware and able to access the great resources we have available. This begins with equipping our leaders, at all levels, to provide ongoing support in a safe and purposeful working environment. We continually invest in our team’s training and resources to equip them with the necessary skills and tools to handle any given situation,” said Walford
