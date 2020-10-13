@@ -32,7 +32,7 @@ modules:
     quote_author: Associate Professor Samuel Harvey, Chief Psychiatrist & Head of
       the Workplace Mental Health Research Program, Black Dog Institute
   - type: rich-text
-    richtext_top: false
+    richtext_top: true
     richtext: >-
       **Steven Worrall, Chair of CMHAA and Managing Director of Microsoft
       Australia,** said now more than ever, businesses across the board need to
