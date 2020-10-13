@@ -9,6 +9,7 @@ meta_description: Media release announcing the launch of the Corporate Mental
 banner_title: "Media release: Australian businesses unite to tackle mental
   health in the workplace "
 banner_description: Introducing the Corporate Mental Health Alliance Australia
+banner_right_image: img/bd7ebcc4-383b-47bc-b33b-185e93944eb4.jpg
 date: 2020-10-11T03:03:21.058Z
 description: Australian businesses unite to tackle mental health in the workplace.
 category: News & Views
@@ -24,6 +25,15 @@ modules:
       0408 029 546.
     article_fullname: Melissa Cullen, Managing Partner, opr Agency
     article_email: melissa.cullen@opragency.com.au
+  - type: vimeo_with_quote
+    vimeo_quote_id: "467595273"
+    vimeo_quote_text: It’s a great victory for us to have some of the biggest
+      organisations in Australia wanting to talk about mental health… but the
+      even more exciting thing is that we’re going to let the science lead us in
+      what we do. We’re not starting from zero knowledge here.
+    vimeo_quote_author: "Associate Professor Samuel Harvey, Chief Psychiatrist &
+      Head of the Workplace Mental Health Research Program, Black Dog Institute
+      "
 ---
 * Mental health issues are prevalent amongst Australian workers: One in five working Australians report experiencing a mental illness in the past year.1 
 * The human and business cost of mental ill-health is high: The cost to the Australian economy of mental ill-health and suicide is, conservatively, in the order of $43 to $51 billion per year. Additional to this is an approximately $130 billion cost associated with diminished health and reduced life expectancy for those living with mental ill-health.2
