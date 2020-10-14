@@ -126,7 +126,7 @@ modules:
           the financial wellbeing of its customers and communities.
 
 
-          Andrew believes that, as one of Australia’s largest organisations, CBA has an opportunity and obligation to enhance the lives of millions each year by supporting their financial wellbeing. To do the best for the customers and communities that rely on CBA, it’s people need to be at their best themselves. This is what makes finding new ways to preserve, protect and care for people’s physical and mental health, no matter where they are currently on the health continuum, one of Andrew’s most important priorities.
+          Andrew believes that, as one of Australia’s largest organisations, CBA has an opportunity and obligation to enhance the lives of millions each year by supporting their financial wellbeing. To do the best for the customers and communities that rely on CBA, its people need to be at their best themselves. This is what makes finding new ways to preserve, protect and care for people’s physical and mental health, no matter where they are currently on the health continuum, one of Andrew’s most important priorities.
 
 
           Andrew lives in Sydney with his wife and four children.
