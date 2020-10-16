@@ -20,13 +20,10 @@ modules:
       Australia, please provide your name and email in the newsletter sign-up
       form at the bottom of this page. You can also follow us on
       [LinkedIn](https://www.linkedin.com/company/corporate-mental-health-alliance-australia/)
-      and [Twitter](https://twitter.com/CMHA_Aus).
+      and [Twitter](https://twitter.com/CMHA_Aus). 
 
 
-      > Please note that we do not provide clinical services for people in need of direct mental health or crisis support.  
-
-
-      If you or someone you know is in immediate danger, please dial '000' if in Australia, or reach out to the relevant support services in your area [here](https://www.lifeline.org.au/get-help/service-finder/).
+      Please note that we do not provide clinical or other services for people in need of direct mental health or crisis support. If you or someone you know is in distress, please reach out to the relevant support services [here](https://www.lifeline.org.au/get-help/service-finder/).
     form_title: Contact us
     components:
       - type: FC02_text_input_area
