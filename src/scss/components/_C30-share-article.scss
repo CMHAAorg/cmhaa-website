@@ -1,0 +1,7 @@
+.C30-share-article {
+  margin-bottom: 40px;
+
+  .uk-margin-large-bottom + & {
+    margin-top: -20px;
+  }
+}
