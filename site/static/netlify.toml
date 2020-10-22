@@ -3,10 +3,12 @@
   to = "/index.html"
   status = 404
 
+[[redirects]]
   from = "/category/*"
   to = "/index.html"
   status = 404
 
+[[redirects]]
   from = "/role/"
   to = "/index.html"
   status = 404
