@@ -2,10 +2,10 @@
   from = "/category/"
   to = "/"
   force = true
-  status = 404
+  status = 301
 
 [[redirects]]
   from = "/category/*"
   to = "/"
   force = true
-  status = 404
+  status = 301
