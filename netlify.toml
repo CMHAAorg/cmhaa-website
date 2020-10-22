@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/category/"
+  to = "/"
+  force = true
+  status = 301
