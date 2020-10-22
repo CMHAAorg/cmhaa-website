@@ -9,3 +9,75 @@
   to = "/"
   force = true
   status = 301
+
+[[redirects]]
+  from = "/role/"
+  to = "/"
+  force = true
+  status = 301
+
+[[redirects]]
+  from = "/role/*"
+  to = "/"
+  force = true
+  status = 301
+
+[[redirects]]
+  from = "/focus/"
+  to = "/"
+  force = true
+  status = 301
+
+[[redirects]]
+  from = "/focus/*"
+  to = "/"
+  force = true
+  status = 301
+
+[[redirects]]
+  from = "/industry/"
+  to = "/"
+  force = true
+  status = 301
+
+[[redirects]]
+  from = "/industry/*"
+  to = "/"
+  force = true
+  status = 301
+
+[[redirects]]
+  from = "/organisation_size/"
+  to = "/"
+  force = true
+  status = 301
+
+[[redirects]]
+  from = "/organisation_size/*"
+  to = "/"
+  force = true
+  status = 301
+
+[[redirects]]
+  from = "/settings/"
+  to = "/"
+  force = true
+  status = 301
+
+[[redirects]]
+  from = "/settings/*"
+  to = "/"
+  force = true
+  status = 301
+
+[[redirects]]
+  from = "/navigation/"
+  to = "/"
+  force = true
+  status = 301
+
+[[redirects]]
+  from = "/navigation/*"
+  to = "/"
+  force = true
+  status = 301
