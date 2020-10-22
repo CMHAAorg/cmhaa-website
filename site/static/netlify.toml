@@ -1,0 +1,12 @@
+[[redirects]]
+  from = "/category/"
+  to = "/index.html"
+  status = 404
+
+  from = "/category/*"
+  to = "/index.html"
+  status = 404
+
+  from = "/role/"
+  to = "/index.html"
+  status = 404
