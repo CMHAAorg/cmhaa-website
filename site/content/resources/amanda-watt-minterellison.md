@@ -2,7 +2,10 @@
 title: Amanda Watt, MinterEllison
 meta_keywords: MinterEllison, Amanda Watt, Mental Awareness, CMHAA, Mental
   Health, Corporate Mental Health Alliance, City Mental Health Alliance.
-meta_description: This is a detailed description of the page.
+meta_description: A successful legal career is often beset with a heavy
+  workload, time pressure, significant client demands and regularly focusing on
+  problem-solving. These seemingly unrelenting factors have contributed to
+  Australian lawyers reporting significant mental health issues for many years.
 banner_title: Amanda Watt, MinterEllison
 banner_right_image: img/watt_amanda_hrc.jpg
 date: 2020-09-16T03:41:44.137Z
