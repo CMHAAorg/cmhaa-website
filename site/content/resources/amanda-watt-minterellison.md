@@ -1,7 +1,7 @@
 ---
 title: Amanda Watt, MinterEllison
 meta_keywords: MinterEllison, Amanda Watt, Mental Awareness, CMHAA, Mental
-  Health, Corporate Mental Health Alliance, City Mental Health Alliance
+  Health, Corporate Mental Health Alliance, City Mental Health Alliance.
 meta_description: This is a detailed description of the page.
 banner_title: Amanda Watt, MinterEllison
 banner_right_image: img/watt_amanda_hrc.jpg
