@@ -79,7 +79,7 @@ modules:
     padding_top: false
     padding_bottom: false
   - type: callout-image-text-cta
-    callout_image: img/event-image.jpg
+    callout_image: img/launch-panellists.jpg
     callout_title: "Launch panel: How do we create mentally healthy workplaces?"
     callout_description: To mark our official launch on 13 October 2020, we brought
       together government and business leaders, industry experts, and employees
