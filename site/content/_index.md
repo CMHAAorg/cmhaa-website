@@ -79,7 +79,7 @@ modules:
     padding_top: false
     padding_bottom: false
   - type: callout-image-text-cta
-    callout_image: img/cmhaa_launch-panellists.png
+    callout_image: img/cmhaa_launch-panellists.jpg
     callout_title: "Launch of the Corporate Mental Health Alliance Australia: How do
       we create mentally healthy workplaces?"
     callout_description: To mark our official launch on 13 October 2020, we brought
