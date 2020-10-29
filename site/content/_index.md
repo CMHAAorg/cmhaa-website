@@ -80,7 +80,8 @@ modules:
     padding_bottom: false
   - type: callout-image-text-cta
     callout_image: img/panellists.png
-    callout_title: "Launch panel: How do we create mentally healthy workplaces?"
+    callout_title: "Launch of the Corporate Mental Health Alliance Australia: How do
+      we create mentally healthy workplaces?"
     callout_description: To mark our official launch on 13 October 2020, we brought
       together government and business leaders, industry experts, and employees
       for an informative, insightful discussion on the role of corporate
