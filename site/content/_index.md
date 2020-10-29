@@ -75,6 +75,9 @@ modules:
     card_description_1: We help businesses create an environment and ways of
       working, where everyone feels safe and supported, and able to talk about
       their mental health.
+  - type: separator-line
+    padding_top: false
+    padding_bottom: false
   - type: callout-image-text-cta
     callout_image: img/event-image.jpg
     callout_title: "Launch panel: How do we create mentally healthy workplaces?"
