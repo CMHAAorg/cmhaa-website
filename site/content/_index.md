@@ -85,7 +85,7 @@ modules:
       together government and business leaders, industry experts, and employees
       to discuss the role of corporate Australia in championing a culture of
       good mental health in the workplace.
-    callout_cta_text: Watch discussion
+    callout_cta_text: Watch the discussion
     callout_cta_link: https://cmhaa.org.au/resources/launch-media-release/
   - type: our_members
     our_members_title: Our members
