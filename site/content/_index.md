@@ -83,8 +83,8 @@ modules:
     callout_title: "Launch panel: How do we create mentally healthy workplaces?"
     callout_description: To mark our official launch on 13 October 2020, we brought
       together government and business leaders, industry experts, and employees
-      to discuss the role of corporate Australia in championing a culture of
-      good mental health in the workplace.
+      for an informative, insightful discussion on the role of corporate
+      Australia in championing a culture of good mental health in the workplace.
     callout_cta_text: Watch the discussion
     callout_cta_link: https://cmhaa.org.au/resources/launch-media-release/
   - type: our_members
