@@ -75,14 +75,18 @@ modules:
     card_description_1: We help businesses create an environment and ways of
       working, where everyone feels safe and supported, and able to talk about
       their mental health.
+  - type: separator-line
+    padding_top: false
+    padding_bottom: false
   - type: callout-image-text-cta
-    callout_image: img/event-image.jpg
-    callout_title: "Launch panel: How do we create mentally healthy workplaces?"
+    callout_image: img/cmhaa_launch-panellists.png
+    callout_title: "Launch of the Corporate Mental Health Alliance Australia: How do
+      we create mentally healthy workplaces?"
     callout_description: To mark our official launch on 13 October 2020, we brought
       together government and business leaders, industry experts, and employees
-      to discuss the role of corporate Australia in championing a culture of
-      good mental health in the workplace.
-    callout_cta_text: Watch discussion
+      for an informative, insightful discussion on the role of corporate
+      Australia in championing a culture of good mental health in the workplace.
+    callout_cta_text: Watch the discussion
     callout_cta_link: https://cmhaa.org.au/resources/launch-media-release/
   - type: our_members
     our_members_title: Our members
