@@ -75,6 +75,15 @@ modules:
     card_description_1: We help businesses create an environment and ways of
       working, where everyone feels safe and supported, and able to talk about
       their mental health.
+  - type: callout-image-text-cta
+    callout_image: img/event-image.jpg
+    callout_title: "Launch panel: How do we create mentally healthy workplaces?"
+    callout_description: To mark our official launch on 13 October 2020, we brought
+      together government and business leaders, industry experts, and employees
+      to discuss the role of corporate Australia in championing a culture of
+      good mental health in the workplace.
+    callout_cta_text: Watch discussion
+    callout_cta_link: https://cmhaa.org.au/resources/launch-media-release/
   - type: our_members
     our_members_title: Our members
     our_members_description: We are grateful to our founding members and
