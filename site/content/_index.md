@@ -82,10 +82,11 @@ modules:
     callout_image: img/cmhaa_launch-panellists.png
     callout_title: "Launch of the Corporate Mental Health Alliance Australia: How do
       we create mentally healthy workplaces?"
-    callout_description: To mark our official launch on 13 October 2020, we brought
-      together government and business leaders, industry experts, and employees
-      for an informative, insightful discussion on the role of corporate
-      Australia in championing a culture of good mental health in the workplace.
+    callout_description: On Tuesday, 13 October 2020, to mark the official launch of
+      the Corporate Mental Health Alliance Australia, we brought together
+      government and business leaders, industry experts, and employees for an
+      informative, insightful discussion on the role of corporate Australia in
+      championing a culture of good mental health in the workplace.
     callout_cta_text: Watch the discussion
     callout_cta_link: https://cmhaa.org.au/resources/launch-media-release/
   - type: our_members
