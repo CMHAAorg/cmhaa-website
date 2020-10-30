@@ -80,8 +80,7 @@ modules:
     padding_bottom: false
   - type: callout-image-text-cta
     callout_image: img/cmhaa_launch-panellists.png
-    callout_title: "CMHAA Launch panel discussion: How do we create mentally healthy
-      workplaces?"
+    callout_title: "Launch panel discussion: How do we create mentally healthy workplaces?"
     callout_description: On Tuesday, 13 October 2020, to mark the official launch of
       the Corporate Mental Health Alliance Australia, we brought together
       government and business leaders, industry experts, and employees for an
