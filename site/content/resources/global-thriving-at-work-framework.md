@@ -23,10 +23,11 @@ modules:
   - type: rich-text
     richtext_top: true
     richtext: >-
-      The Framework has been developed using evidence and learning from across
-      the global CMHA membership community on what works in practice, and has
-      been informed by academic research, workplace reports and other resources
-      from across the globe.
+      ![Global TAW Framework](img/global-taw-framework-tile.jpeg "Global
+      Thriving at Work Framework")
+
+
+      The Framework has been developed using evidence and learning from across the global CMHA membership community on what works in practice, and has been informed by academic research, workplace reports and other resources from across the globe.
 
 
       This guide has been created in partnership with the global CMHA team, with support and input from our members and expert advisors to ensure that it is relevant to different markets.
