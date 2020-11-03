@@ -14,6 +14,22 @@ role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Business Consulting & Management
 modules:
+  - type: quote
+    quote_text: If you are a workplace that is focusing on ensuring mental health is
+      part of your strategy, then this framework is for you. Use it as you see
+      fit. We want to share our learnings.
+    quote_author: Poppy Jaman OBE, CEO of City Mental Health Alliance & Global
+      Ambassador for Mental Health
+  - type: rich-text
+    richtext_top: true
+    richtext: >-
+      The Framework has been developed using evidence and learning from across
+      the global CMHA membership community on what works in practice, and has
+      been informed by academic research, workplace reports and other resources
+      from across the globe.
+
+
+      This guide has been created in partnership with the global CMHA team, with support and input from our members and expert advisors to ensure that it is relevant to different markets.
   - type: pdf-downloads
     pdf_downloads_heading: Download resources
     pdf_downloads_list:
@@ -24,9 +40,3 @@ modules:
 We are facing a global mental health crisis. Mental health stigma remains high in many countries, and it is imperative that access to mental health support is improved. Global employers have a real opportunity to make a difference, not only in tackling stigma and providing support, but also by creating a working environment where people can maintain good mental health.
 
 This Framework is intended for organisations that are either seeking to develop global mental health and wellbeing approaches or as a baseline for the development of programs of work in countries and/or cities that are starting their journey. It does not replace existing local [Thriving at Work Guides](https://citymha.org.uk/Resources/Thriving-at-Work-UK-Guide) but sits above these as an overarching framework.
-
-> "If you are a workplace that is focusing on ensuring mental health is part of your strategy, then our framework developed using a decade's worth of knowledge gained from working with workplaces from around the world is for you to use as you see fit. We want to share our learning."
-
-The Framework has been developed using evidence and learning from across the global CMHA membership community on what works in practice, and has been informed by academic research, workplace reports and other resources from across the globe.
-
-This guide has been created in partnership with the global CMHA team, with support and input from our members and expert advisors to ensure that it is relevant to different markets.
