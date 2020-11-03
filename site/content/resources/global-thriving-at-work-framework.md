@@ -16,8 +16,8 @@ industry: Business Consulting & Management
 modules:
   - type: quote
     quote_text: If you are a workplace that is focusing on ensuring mental health is
-      part of your strategy, then this framework is for you. Use it as you see
-      fit. We want to share our learnings.
+      part of your global strategy, then this framework is for you. Use it as
+      you see fit. We want to share our learnings.
     quote_author: Poppy Jaman OBE, CEO of City Mental Health Alliance & Global
       Ambassador for Mental Health
   - type: rich-text
@@ -36,6 +36,10 @@ modules:
       - pdf_downloads_list_file: img/cmha-global-thriving-at-work-framework-final.pdf
         pdf_downloads_list_heading: Global Thriving at Work Framework
     richtext: ""
+  - type: want_know_more
+    article_title: Want to know more?
+    article_description: "To learn more about the Thriving at Work Guide and
+      Assessment developed by the City Mental Health Alliance UK, "
 ---
 We are facing a global mental health crisis. Mental health stigma remains high in many countries, and it is imperative that access to mental health support is improved. Global employers have a real opportunity to make a difference, not only in tackling stigma and providing support, but also by creating a working environment where people can maintain good mental health.
 
