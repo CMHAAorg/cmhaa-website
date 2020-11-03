@@ -14,14 +14,8 @@ role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Business Consulting & Management
 modules:
-  - type: quote
-    quote_text: If you are a workplace that is focusing on ensuring mental health is
-      part of your global strategy, then this framework is for you. Use it as
-      you see fit. We want to share our learnings.
-    quote_author: Poppy Jaman OBE, CEO of City Mental Health Alliance & Global
-      Ambassador for Mental Health
   - type: rich-text
-    richtext_top: true
+    richtext_top: false
     richtext: >-
       ![Global TAW Framework](img/global-taw-framework-tile.jpeg "Global
       Thriving at Work Framework")
