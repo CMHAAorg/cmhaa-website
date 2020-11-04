@@ -11,12 +11,12 @@ banner_image: img/istock-838338570.jpg
 modules:
   - type: split_title_content
     leadtext: We are a business-led, expert-guided member organisation dedicated to
-      providing mentally healthy workplaces for our people.
+      providing mentally healthy workplaces for all people.
     title: About us
     image: ""
     content: Why? Because as a community, we know that we can do better, and that
       doing better begins with business leaders prioritising the mental health
-      and wellbeing of their people in ways that are experienced every day. We
+      and wellbeing of their people in ways that they experience every day. We
       also believe that when businesses pool their resources, share openly, and
       work collaboratively towards a common goal, better, more sustainable
       mental health outcomes will be achieved for more people, sooner.
