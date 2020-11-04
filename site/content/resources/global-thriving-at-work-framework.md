@@ -6,36 +6,36 @@ banner_title: Global Thriving at Work Framework
 banner_description: "A global workplace framework for mental health  "
 banner_right_image: img/global-taw-guide-mock-up.jpg
 date: 2020-11-03T01:18:10.523Z
-description: The first resource of its kind to help global businesses accelerate
-  the pace of change and become mentally healthy workplaces.
+description: The City Mental Health Alliance's (CMHA) global vision is to put
+  mental health at the heart of the business agenda. As a part of the CMHA
+  group, we share this vision. We want to see businesses, globally, prioritise
+  the mental health and wellbeing of their people and ultimately create working
+  environments where people can be themselves and perform at their best.
 category: Guides & Toolkits
 focus: Assessing organisational approach
 role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Business Consulting & Management
 modules:
+  - type: image
+    image: img/global-taw-framework-tile.jpeg
   - type: rich-text
     richtext_top: false
     richtext: >-
-      ![Global TAW Framework](img/global-taw-framework-tile.jpeg "Global
-      Thriving at Work Framework")
+      The framework has been developed using evidence and learning from across
+      the global CMHA membership community on what works in practice, and has
+      been informed by academic research, workplace reports and other resources
+      from across the globe.
 
 
-      The Framework has been developed using evidence and learning from across the global CMHA membership community on what works in practice, and has been informed by academic research, workplace reports and other resources from across the globe.
-
-
-      This guide has been created in partnership with the global CMHA team, with support and input from our members and expert advisors to ensure that it is relevant to different markets.
+      It does not replace existing local [Thriving at Work Guides](https://citymha.org.uk/Resources/Thriving-at-Work-UK-Guide) but sits above these as an overarching framework.
   - type: pdf-downloads
     pdf_downloads_heading: Download resources
     pdf_downloads_list:
       - pdf_downloads_list_file: img/cmha-global-thriving-at-work-framework-final.pdf
         pdf_downloads_list_heading: Global Thriving at Work Framework
     richtext: ""
-  - type: want_know_more
-    article_title: Want to know more?
-    article_description: "To learn more about the Thriving at Work Guide and
-      Assessment developed by the City Mental Health Alliance UK, "
 ---
-We are facing a global mental health crisis. Mental health stigma remains high in many countries, and it is imperative that access to mental health support is improved. Global employers have a real opportunity to make a difference, not only in tackling stigma and providing support, but also by creating a working environment where people can maintain good mental health.
+To achieve this, CMHA has created the Global Thriving at Work Framework, the first resource of its kind to help guide global organisations in developing their approaches to workplace mental health.
 
-This Framework is intended for organisations that are either seeking to develop global mental health and wellbeing approaches or as a baseline for the development of programs of work in countries and/or cities that are starting their journey. It does not replace existing local [Thriving at Work Guides](https://citymha.org.uk/Resources/Thriving-at-Work-UK-Guide) but sits above these as an overarching framework.
+The framework uses an integrated approach that covers a wide range of factors which impact mental health and wellbeing in the workplace. It is intended for organisations that are either seeking to develop global mental health and wellbeing approaches or as a baseline for the development of programs of work in countries and/or cities that are starting their journey.
