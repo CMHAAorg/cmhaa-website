@@ -17,8 +17,6 @@ role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Business Consulting & Management
 modules:
-  - type: image
-    image: img/global-taw-framework-tile.jpeg
   - type: rich-text
     richtext_top: false
     richtext: >-
@@ -39,3 +37,5 @@ modules:
 To achieve this, CMHA has created the Global Thriving at Work Framework, the first resource of its kind to help guide global organisations in developing their approaches to workplace mental health.
 
 The framework uses an integrated approach that covers a wide range of factors which impact mental health and wellbeing in the workplace. It is intended for organisations that are either seeking to develop global mental health and wellbeing approaches or as a baseline for the development of programs of work in countries and/or cities that are starting their journey.
+
+![Global TAW Framework](img/global-taw-framework-tile.jpeg "Global TAW Framework")
