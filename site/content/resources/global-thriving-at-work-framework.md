@@ -44,7 +44,7 @@ modules:
       2017 Stevenson/Farmer's ‘Thriving at Work Review of Mental Health and
       Employers’. "
     article_fullname: Alison Unsted
-    article_email: alison@citymha.org.uk
+    article_email: https://citymha.org.uk/Resources/Thriving-at-Work-UK-Guide
 ---
 To achieve this, CMHA has created the Global Thriving at Work Framework, the first resource of its kind to help guide global organisations in developing their approaches to workplace mental health.
 
