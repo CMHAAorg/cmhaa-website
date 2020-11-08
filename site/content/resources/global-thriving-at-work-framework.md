@@ -32,7 +32,19 @@ modules:
     pdf_downloads_list:
       - pdf_downloads_list_file: img/cmha-global-thriving-at-work-framework-final.pdf
         pdf_downloads_list_heading: Global Thriving at Work Framework
+      - pdf_downloads_list_heading: Thriving at Work Guide UK
+        pdf_downloads_list_file: img/taw-guide-final.pdf
     richtext: ""
+  - type: want_know_more
+    article_title: Want to know more?
+    article_description: "The CMHA Thriving at Work Guide is a framework of
+      standards for organisations to adopt in developing their wellbeing
+      strategies, based on existing good practice in business. It was developed
+      by CMHA UK and launched in 2018 in response to the recommendations in the
+      2017 Stevenson/Farmer's ‘Thriving at Work Review of Mental Health and
+      Employers’. "
+    article_fullname: Alison Unsted
+    article_email: alison@citymha.org.uk
 ---
 To achieve this, CMHA has created the Global Thriving at Work Framework, the first resource of its kind to help guide global organisations in developing their approaches to workplace mental health.
 
