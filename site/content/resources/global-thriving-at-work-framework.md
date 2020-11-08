@@ -44,7 +44,7 @@ modules:
       2017 Stevenson/Farmer's ‘Thriving at Work Review of Mental Health and
       Employers’. "
     article_fullname: City Mental Health Alliance UK
-    article_email: https://citymha.org.uk/Resources/Thriving-at-Work-UK-Guide
+    article_email: https://citymha.org.uk/
 ---
 To achieve this, CMHA has created the Global Thriving at Work Framework, the first resource of its kind to help guide global organisations in developing their approaches to workplace mental health.
 
