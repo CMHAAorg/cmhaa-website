@@ -83,5 +83,3 @@ modules:
 The Framework lays out three Pillars, which are strategic aims, that global organisations should work towards achieving in order to build a mentally healthy organisation. These three pillars provide businesses with a template for building a sustainable global mental health strategy, and are underpinned by evidence-based recommendations, including practical suggestions based on real business experience. These relate to areas such as challenging mental health stigma, people management and ways of working, and can be applied to different organisations, cultures, and industries. 
 
 The three Pillars are:
-
-![Global TAW Framework](img/global-taw-framework-tile.jpeg "Global TAW Framework")
