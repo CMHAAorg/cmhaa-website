@@ -40,16 +40,9 @@ modules:
 
 
       The CMHA is sharing this business-led, expert-guided Global Framework to give multi-national organisations the direction and guidance they need to act on their commitment to create a sustainable mental health strategy and build a mentally healthy workplace for all. The framework, and its advice, is pragmatic for different organisations, cultures, and industries. It recommends practical actions that businesses can take, wherever they are on the mental health journey. It also includes a simple means of self-assessment that will allow businesses to measure their progress against the three pillars, to help them further embed change. The CMHA has evidence that this approach works at a national level, through our different regional Thriving At Work Programs, but this approach has been missing at a global level. Until now.
-  - type: rich-text
-    richtext_top: true
-    richtext: I am grateful to Alison Unsted, our Director of Strategy and
-      Operations, and our global CMHA business community, who have worked
-      together to develop this. I am proud that the CMHA is again showing it is
-      a global movement for change, as our members share their knowledge and
-      experience of workplace mental health for the benefit of all. And I am
-      calling on global organisations to be radical and relentless in its
-      expectation of itself to support the mental health of its people, wherever
-      they are based in the world.
+
+
+      I am grateful to Alison Unsted, our Director of Strategy and Operations, and our global CMHA business community, who have worked together to develop this. I am proud that the CMHA is again showing it is a global movement for change, as our members share their knowledge and experience of workplace mental health for the benefit of all. And I am calling on global organisations to be radical and relentless in its expectation of itself to support the mental health of its people, wherever they are based in the world.
 ---
 It has been developed in collaboration with global businesses, and is based on 10 years of workplace mental health experience, with insight from across the CMHA membership of 54 large businesses contributing their expertise and knowledge. 
 
