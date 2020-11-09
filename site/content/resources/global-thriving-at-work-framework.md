@@ -32,11 +32,12 @@ modules:
   - type: rich-text
     richtext_top: false
     richtext: >-
-      ![Global TAW Framework](img/global-taw-framework-tile.jpeg "Global TAW
-      Framework")
-
-
-      "Over recent years we have seen a growing number of multinationals commit, or take steps to, support the mental health of their people across the world. The CMHA is sharing this business led, expert guided Global Framework to ensure that all multi-national organisations have the direction and guidance they need continue this journey. Now is the time to act," said Jaman.
+      "Over recent years we have seen a growing number of multinationals commit,
+      or take steps to, support the mental health of their people across the
+      world. The CMHA is sharing this business led, expert guided Global
+      Framework to ensure that all multi-national organisations have the
+      direction and guidance they need continue this journey. Now is the time to
+      act," said Jaman.
 
 
       The Framework incorporates years of workplace mental health experience from across the CMHA membership of 54 large businesses, including Deloitte, Oliver Wyman, HSBC and Linklaters. It has also been informed by mental health experts, academic research and workplace reports. 
