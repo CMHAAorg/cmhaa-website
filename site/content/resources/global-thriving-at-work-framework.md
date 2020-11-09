@@ -1,10 +1,10 @@
 ---
-title: CMHA launches Global Thriving At Work Framework
+title: CMHA launches Global Thriving at Work Framework
 meta_keywords: mental health, thriving at work framework, global standards
 meta_description: This is a detailed description of the page.
-banner_title: CMHA launches Global Thriving At Work Framework
+banner_title: CMHA launches Global Thriving at Work Framework
 banner_description: "New framework lays out first global standard for mental
-  health in the workplace "
+  health in the workplace. "
 banner_right_image: img/global-taw-guide-mock-up.jpg
 banner_cta_link: ""
 banner_cta_text: ""
@@ -34,19 +34,19 @@ modules:
     richtext: >-
       "Over recent years we have seen a growing number of multinationals commit,
       or take steps to, support the mental health of their people across the
-      world. The CMHA is sharing this business led, expert guided Global
+      world. The CMHA is sharing this business-led, expert-guided Global
       Framework to ensure that all multi-national organisations have the
       direction and guidance they need continue this journey. Now is the time to
       act," said Jaman.
 
 
-      The Framework incorporates years of workplace mental health experience from across the CMHA membership of 54 large businesses, including Deloitte, Oliver Wyman, HSBC and Linklaters. It has also been informed by mental health experts, academic research and workplace reports. 
+      The Framework incorporates years of workplace mental health experience from across the CMHA membership, and has also been informed by mental health experts, academic research and workplace reports. 
 
 
-      The Global Thriving At Work Framework is designed to be used by organisations that are seeking to develop global mental health and wellbeing approaches, or it can also be used as a baseline for the development of programmes of work in countries and/or cities that are just starting their journey. 
+      The Global Thriving at Work Framework is designed to be used by organisations that are seeking to develop global mental health and wellbeing approaches, or it can also be used as a baseline for the development of programmes of work in countries and/or cities that are just starting their journey. 
 
 
-      It does not replace the [existing UK](https://citymha.org.uk/Resources/Thriving-at-Work-UK-Guide) or [HK Thriving At Work Guides](https://www.cmhahk.org/wp-content/uploads/2020/02/20191114-CMHA-HK-TAW-Guide-Nov2019.pdf), which are more detailed and have been tailored to those particular regions, but it does align with them. The Framework includes a simple means of self-assessment that will allow businesses to measure their progress against the three pillars, to help them further embed change.
+      It does not replace the [existing UK](https://citymha.org.uk/Resources/Thriving-at-Work-UK-Guide) or [HK Thriving at Work Guides](https://www.cmhahk.org/wp-content/uploads/2020/02/20191114-CMHA-HK-TAW-Guide-Nov2019.pdf), which are more detailed and have been tailored to those particular regions, but it does align with them. The Framework includes a simple means of self-assessment that will allow businesses to measure their progress against the three pillars, to help them further embed change.
 
 
       Jaman said, “The development of this Framework shows the strength of the CMHA global community as its pool its knowledge, data and experience to create a unique guide.”
