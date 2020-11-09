@@ -19,6 +19,19 @@ role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Business Consulting & Management
 modules:
+  - type: spotlight_image_content
+    image: img/global-taw-framework-tile.jpeg
+    title1: Create a culture of wellbeing and psychological safety
+    content1: where mental health and wellbeing are prioritised and aligned with
+      inclusion approach, to ensure needs of diverse groups are understood and
+      addressed and stigma challenged.
+    title2: Develop a mentally healthy working environment
+    content2: with good working conditions, positive relationships and a healthy
+      work-life balance. Policies and processes are inclusive of mental health
+      and promote wellbeing.
+    title3: Provide and signpost to accessible resources, tools and support
+    content3: where employees are able to source help when needed, and protect
+      mental health through encouraging self-care and personal wellbeing.
   - type: quote
     quote_text: As we face a global mental health crisis, every business has to be
       radical and relentless in its expectation of itself to support the mental
@@ -66,19 +79,6 @@ modules:
       Employers’. "
     article_fullname: City Mental Health Alliance UK
     article_email: https://citymha.org.uk/
-  - type: spotlight_image_content
-    image: img/global-taw-framework-tile.jpeg
-    title1: Create a culture of wellbeing and psychological safety
-    content1: where mental health and wellbeing are prioritised and aligned with
-      inclusion approach, to ensure needs of diverse groups are understood and
-      addressed and stigma challenged.
-    title2: Develop a mentally healthy working environment
-    content2: with good working conditions, positive relationships and a healthy
-      work-life balance. Policies and processes are inclusive of mental health
-      and promote wellbeing.
-    title3: Provide and signpost to accessible resources, tools and support
-    content3: where employees are able to source help when needed, and protect
-      mental health through encouraging self-care and personal wellbeing.
 ---
 The Framework lays out three Pillars, which are strategic aims, that global organisations should work towards achieving in order to build a mentally healthy organisation. These three pillars provide businesses with a template for building a sustainable global mental health strategy, and are underpinned by evidence-based recommendations, including practical suggestions based on real business experience. These relate to areas such as challenging mental health stigma, people management and ways of working, and can be applied to different organisations, cultures, and industries. 
 
