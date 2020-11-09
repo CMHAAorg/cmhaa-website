@@ -13,7 +13,7 @@ description: The City Mental Health Alliance (CMHA) today launched the Global
   Thriving at Work Framework, the first resource of its kind to set standards
   for global workplace mental health, and will guide multi-national businesses
   to build workplaces that support the positive mental health of their people.
-category: Guides & Toolkits
+category: News & Views
 focus: Assessing organisational approach
 role: CEO or leadership role
 organisation_size: Large (250+ employees)
