@@ -1,19 +1,19 @@
 ---
-title: CMHA launches Global Thriving at Work Framework
+title: CMHA Global Thriving at Work Framework
 meta_keywords: mental health, thriving at work framework, global standards
-meta_description: This is a detailed description of the page.
-banner_title: CMHA launches Global Thriving at Work Framework
+meta_description: CMHA launches Global Thriving at Work Framework
+banner_title: Global Thriving at Work Framework
 banner_description: "New framework lays out first global standard for mental
   health in the workplace. "
 banner_right_image: img/global-taw-guide-mock-up.jpg
 banner_cta_link: ""
 banner_cta_text: ""
 date: 2020-11-02T01:18:10.523Z
-description: The City Mental Health Alliance (CMHA) today launched the Global
+description: The City Mental Health Alliance (CMHA) has launched the Global
   Thriving at Work Framework, the first resource of its kind to set standards
   for global workplace mental health, and will guide multi-national businesses
   to build workplaces that support the positive mental health of their people.
-category: News & Views
+category: Guides & Toolkits
 focus: Assessing organisational approach
 role: CEO or leadership role
 organisation_size: Large (250+ employees)
@@ -68,6 +68,6 @@ modules:
 ---
 The Framework lays out three Pillars, which are strategic aims, that global organisations should work towards achieving in order to build a mentally healthy organisation. These three pillars provide businesses with a template for building a sustainable global mental health strategy, and are underpinned by evidence-based recommendations, including practical suggestions based on real business experience. These relate to areas such as challenging mental health stigma, people management and ways of working, and can be applied to different organisations, cultures, and industries. 
 
-The three Pillars are:
+The Pillars are:
 
 ![Global Thriving at Work Framework](img/global-taw-framework-tile.jpeg "Global Thriving at Work Framework")
