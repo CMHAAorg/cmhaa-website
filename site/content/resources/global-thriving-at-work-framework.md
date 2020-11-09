@@ -19,19 +19,6 @@ role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Business Consulting & Management
 modules:
-  - type: spotlight_image_content
-    image: img/global-taw-framework-tile.jpeg
-    title1: Create a culture of wellbeing and psychological safety
-    content1: where mental health and wellbeing are prioritised and aligned with
-      inclusion approach, to ensure needs of diverse groups are understood and
-      addressed and stigma challenged.
-    title2: Develop a mentally healthy working environment
-    content2: with good working conditions, positive relationships and a healthy
-      work-life balance. Policies and processes are inclusive of mental health
-      and promote wellbeing.
-    title3: Provide and signpost to accessible resources, tools and support
-    content3: where employees are able to source help when needed, and protect
-      mental health through encouraging self-care and personal wellbeing.
   - type: quote
     quote_text: As we face a global mental health crisis, every business has to be
       radical and relentless in its expectation of itself to support the mental
@@ -59,7 +46,7 @@ modules:
       The Global Thriving at Work Framework is designed to be used by organisations that are seeking to develop global mental health and wellbeing approaches, or it can also be used as a baseline for the development of programmes of work in countries and/or cities that are just starting their journey. 
 
 
-      It does not replace the [existing UK](https://citymha.org.uk/Resources/Thriving-at-Work-UK-Guide) or [HK Thriving at Work Guides](https://www.cmhahk.org/wp-content/uploads/2020/02/20191114-CMHA-HK-TAW-Guide-Nov2019.pdf), which are more detailed and have been tailored to those particular regions, but it does align with them. The Framework includes a simple means of self-assessment that will allow businesses to measure their progress against the three pillars, to help them further embed change.
+      The Framework does not replace the existing UK or HK Thriving at Work Guides, which are more detailed and have been tailored to those particular regions, but it does align with them.  It includes a simple means of self-assessment that will allow businesses to measure their progress against the three pillars, to help them further embed change.
 
 
       Jaman said, “The development of this Framework shows the strength of the CMHA global community as its pool its knowledge, data and experience to create a unique guide.”
@@ -71,15 +58,16 @@ modules:
     richtext: ""
   - type: want_know_more
     article_title: Want to know more?
-    article_description: "The CMHA Thriving at Work Guide is a framework of
-      standards for organisations to adopt in developing their wellbeing
-      strategies, based on existing good practice in business. It was developed
-      by CMHA UK and launched in 2018 in response to the recommendations in the
-      2017 Stevenson/Farmer's ‘Thriving at Work Review of Mental Health and
-      Employers’. "
+    article_description: The CMHA Thriving at Work program was developed and
+      launched by the City Mental Health Alliance UK in 2018, in response to the
+      recommendations in the 2017 Stevenson/Farmer's ‘Thriving at Work Review of
+      Mental Health and Employers’. More information can be found on the CMHA
+      website.
     article_fullname: City Mental Health Alliance UK
     article_email: https://citymha.org.uk/
 ---
 The Framework lays out three Pillars, which are strategic aims, that global organisations should work towards achieving in order to build a mentally healthy organisation. These three pillars provide businesses with a template for building a sustainable global mental health strategy, and are underpinned by evidence-based recommendations, including practical suggestions based on real business experience. These relate to areas such as challenging mental health stigma, people management and ways of working, and can be applied to different organisations, cultures, and industries. 
 
 The three Pillars are:
+
+![Global Thriving at Work Framework](img/global-taw-framework-tile.jpeg "Global Thriving at Work Framework")
