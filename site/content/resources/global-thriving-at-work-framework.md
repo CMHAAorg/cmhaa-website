@@ -6,8 +6,8 @@ banner_title: CMHA launches Global Thriving At Work Framework
 banner_description: "New framework lays out first global standard for mental
   health in the workplace "
 banner_right_image: img/global-taw-guide-mock-up.jpg
-banner_cta_link: https://citymha.org.uk/Resources/Thriving-at-Work-Global-Framework
-banner_cta_text: Download the Framework
+banner_cta_link: ""
+banner_cta_text: ""
 date: 2020-11-02T01:18:10.523Z
 description: The City Mental Health Alliance (CMHA) today launched the Global
   Thriving at Work Framework, the first resource of its kind to set standards
