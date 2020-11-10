@@ -29,6 +29,8 @@ modules:
       citizen, an increasingly important measure for all stakeholders, including
       investors.
     quote_author: Poppy Jaman, CEO, City Mental Health Alliance
+  - type: feature_resource
+    resource: poppy-jaman-on-the-launch-of-cmhas-global-thriving-at-work-framework
   - type: rich-text
     richtext_top: false
     richtext: >-
