@@ -6,7 +6,7 @@ meta_description: CEO of the City Mental Health Alliance shares why the new
 banner_title: Poppy Jaman on the launch of CMHA's Global Thriving at Work Framework
 banner_description: CEO of the City Mental Health Alliance shares why the new
   framework sets the global standard for workplace mental health.
-banner_right_image: img/poppy-jaman-2.jpg
+banner_right_image: img/poppy.jpg
 date: 2020-11-02T02:22:56.132Z
 description: "Today we launched our Global Thriving At Work Framework which sets
   out, for the first time, a global standard for workplace mental health. "
