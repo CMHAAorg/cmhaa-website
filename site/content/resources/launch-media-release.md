@@ -21,15 +21,14 @@ role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Charity, Not-for-profit
 modules:
-  - type: vimeo
-    vimeo: "467595273"
-  - type: quote
-    quote_text: It’s a great victory for us to have some of the biggest
+  - type: vimeo_with_quote
+    vimeo_quote_id: "467595273"
+    vimeo_quote_text: It’s a great victory for us to have some of the biggest
       organisations in Australia wanting to talk about mental health… but the
       even more exciting thing is that we’re going to let the science lead us in
       what we do. We’re not starting from zero knowledge here.
-    quote_author: Associate Professor Samuel Harvey, Chief Psychiatrist & Head of
-      the Workplace Mental Health Research Program, Black Dog Institute
+    vimeo_quote_author: Associate Professor Samuel Harvey, Chief Psychiatrist & Head
+      of the Workplace Mental Health Research Program, Black Dog Institute
   - type: rich-text
     richtext_top: true
     richtext: >-

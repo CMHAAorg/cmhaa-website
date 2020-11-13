@@ -14,7 +14,7 @@
                 {{ .Module.callout_description | markdownify }}
                 {{if .Module.callout_cta_link}}
                 {{ $target := partial "utils/linktarget.html" (dict "base" $.Site.BaseURL "link" .Module.callout_cta_link ) }}
-                <a href="{{ .Module.callout_cta_link }}" class="uk-button uk-button-secondary" target="{{ $target }}">{{ .Module.callout_cta_text }}</a>
+                <div><a href="{{ .Module.callout_cta_link }}" class="uk-button uk-button-secondary" target="{{ $target }}">{{ .Module.callout_cta_text }}</a></div>
                 {{end}}
             </div>
         </div>
