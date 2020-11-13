@@ -8,7 +8,6 @@ meta_description: We are an alliance of Australian businesses dedicated to
   the power to change people's experience of the workplace for the better.
 banner_title: Together in the business of workplace mental health.
 banner_image: img/gettyimages-173292124.jpg
-banner_cta_link: /about/
 modules:
   - type: split_title_content
     title: Who we are
@@ -76,11 +75,25 @@ modules:
     card_description_1: We help businesses create an environment and ways of
       working, where everyone feels safe and supported, and able to talk about
       their mental health.
+  - type: separator-line
+    padding_top: false
+    padding_bottom: false
+  - type: callout-image-text-cta
+    callout_image: img/cmhaa_launch-panellists.png
+    callout_title: "Launch panel: How do we create mentally healthy workplaces?"
+    callout_description: On Tuesday, 13 October 2020, to mark the official launch of
+      the Corporate Mental Health Alliance Australia, we brought together
+      government and business leaders, industry experts, and employees for an
+      insightful discussion on the role of corporate Australia in championing a
+      culture of good mental health in the workplace.
+    callout_cta_text: Watch the full discussion
+    callout_cta_link: https://cmhaa.org.au/resources/launch-media-release/
   - type: our_members
     our_members_title: Our members
-    our_members_description: We are grateful to our founding members for their
-      leadership and support in establishing the Corporate Mental Health
-      Alliance Australia.
+    our_members_description: We are grateful to our founding members and
+      participants for their leadership on workplace mental health, and for
+      their support in establishing the Corporate Mental Health Alliance
+      Australia.
     member:
       - our_member_image: img/aia_corporate_logo_rgb.png
         our_member_link: http://www.aia.com.au/
@@ -154,5 +167,6 @@ modules:
       Together,  they are leading a movement for positive change across
       Australia, and the world, as a part of the CMHA Global network.
 slug: homepage
+banner_cta_link: /about/
 banner_cta_text: See who's involved
 ---
