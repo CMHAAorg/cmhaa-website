@@ -376,7 +376,7 @@ modules:
         friend_link: https://www.linkedin.com/in/pat-dudgeon-767916126/
       - friend_text: Georgie Drury
         friend_link: https://www.linkedin.com/in/georgiedrury/
-      - friend_text: Professor Geoff Gallop
+      - friend_text: Emeritus Professor Geoffrey Gallop AC
         friend_link: https://www.linkedin.com/in/geoff-gallop-10a23b36/
       - friend_text: Georgie Harman
         friend_link: https://www.linkedin.com/in/georgie-harman-720a1688/
