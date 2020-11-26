@@ -92,7 +92,7 @@ modules:
       - our_board_name: Berkeley Cox
         our_board_image: img/berkley-king-wood.jpg
         our_board_title: Chief Executive Partner, King & Wood Mallesons
-        our_board_quote: But by being open about my own challenges, I hope to help
+        our_board_quote: By being open about my own challenges, I hope to help
           destigmatise mental health and wellness in the workplace. I want
           people to appreciate that you can have your own mental health
           struggles, be vulnerable and have a successful and fulfilling career.
