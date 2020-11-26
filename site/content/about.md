@@ -245,7 +245,7 @@ modules:
         our_board_quote: As a leader, improving mental health starts with a willingness
           to make yourself vulnerable. If you can accept your own short-comings
           and open some of those up to others, people feel less alone. That’s
-          all a lot of people in the world want, to feel less alone.
+          all a lot of people in the world want - to feel less alone.
       - our_board_name: Helen Silver AO
         our_board_title: Chief General Manager, Corporate Governance and Conduct,
           Allianz Australia Insurance Ltd
