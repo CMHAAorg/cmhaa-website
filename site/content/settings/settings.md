@@ -3,7 +3,7 @@ title: Global Settings
 footer:
   - footer_text: Corporate Mental Health Alliance Australia is a part of the global
       City Mental Health Alliance network.
-    footer_disclaimer_text: ABN 28 638 927 125 | Copyright © 2020 · Corporate Mental
+    footer_disclaimer_text: ABN 28 638 927 125 | Copyright © 2020 | Corporate Mental
       Health Alliance Australia
     footer_global_link:
       - footer_global_link_country: UNITED KINGDOM
