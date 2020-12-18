@@ -4,6 +4,7 @@ meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
 meta_description: This is a detailed description of the page.
 banner_title: We are seeking an Executive Director for CMHAA
 banner_description: Opportunity to lead national organisation with focus on workplace mental health
+banner_image: img/online-job-search-looking-for-a-job-job-search-apply-now-dynamic-workplace-searching-internet_t20_nl4a18.jpg
 banner_cta_text: Download application pack
 date: 2020-12-18T01:10:13.316Z
 description: Following our successful launch in October 2020, we have an
@@ -11,7 +12,7 @@ description: Following our successful launch in October 2020, we have an
   Health Alliance Australia as Executive Director, leading the delivery phase of
   our program, and helping to shape the agenda and priorities for the greatest
   impact on improving workplace mental wellbeing.
-image: img/online-job-search-looking-for-a-job-job-search-apply-now-dynamic-workplace-searching-internet_t20_nl4a18.jpg
+image: ""
 category: News & Views
 focus: Support for managers, colleagues and staff
 role: CEO or leadership role
