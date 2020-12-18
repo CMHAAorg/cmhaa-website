@@ -36,6 +36,9 @@ modules:
         pdf_downloads_list_file: img/cmhaa-exec-director-application-pack.doc
         pdf_downloads_list_text: This pack contains a job description, person
           specification and application form
+      - pdf_downloads_list_heading: Overview - CMHAA
+        pdf_downloads_list_file: img/cmhaa-overview-and-strategic-plan.pdf
+        pdf_downloads_list_text: This document provides summary of CMHAA and our strategic plan
 ---
 The successful applicant will work with the Board to shape a lean central team, and draw on the resources of member organisations, to successfully deliver our strategic plan, and shape future priorities.
 
