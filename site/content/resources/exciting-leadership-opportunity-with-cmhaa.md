@@ -10,11 +10,9 @@ banner_image: ""
 banner_right_image: img/online-job-search-looking-for-a-job-job-search-apply-now-dynamic-workplace-searching-internet_t20_nl4a18.jpg
 banner_cta_text: Download application pack
 date: 2020-12-18T01:10:13.316Z
-description: Following our successful launch in October 2020, we have an
-  exciting opportunity for someone exceptional to join the Corporate Mental
-  Health Alliance Australia as Executive Director, leading the delivery phase of
-  our program, and helping to shape the agenda and priorities for the greatest
-  impact on improving workplace mental wellbeing.
+description: Following the successful launch of the Corporate Mental Health
+  Alliance (CMHAA) in October 2020, we have an exciting new opportunity for
+  someone exceptional to join as Executive Director of the Alliance.
 image: ""
 category: News & Views
 focus: Support for managers, colleagues and staff
@@ -47,13 +45,16 @@ modules:
         pdf_downloads_list_text: This document provides further background on CMHAA, and
           a summary of our strategic plan.
 ---
-The Executive Director will work with the Board to shape a lean central team, and draw on the resources of member organisations, to successfully deliver CMHAA's strategic plan and shape future priorities.
+The Executive Director will lead the delivery phase of our program, and work with the Board to shape a lean central team, help shape the agenda and priorities, and draw on the resources of member organisations to successfully deliver CMHAA's strategic plan for the greatest impact on improving mental health and wellbeing in the workplace.
 
-As Executive Director, the job description covers a very broad range of accountabilities – it should be noted that the Board recognise that one individual is unlikely to cover all of these skills & experiences, and some accountabilities will be discharged through other team members, or outsourcing. 
+As Executive Director, the job description covers a very broad range of accountabilities. The Board recognises that one individual is unlikely to cover all of these skills and experiences, and some accountabilities will be discharged through other team members, or outsourcing. 
 
-If you feel you meet the essential criteria, we encourage you to apply. 
+If you are intereseted in this key leadership role and meet the essential criteria, we encourage you to apply. 
 
-To apply, download the application resources below and follow the process as outlined.
+Simply download the application resources below and follow the process as outlined.
 
-**Application deadline:** Thursday, 7 January 2021.\
-**Interviews:** Interviews will be held week commencing 18 January 2021.
+**The Application deadline** is Thursday, 7 January 2021.
+
+**Interviews will be held** week commencing 18 January 2021.
+
+Thank you.
