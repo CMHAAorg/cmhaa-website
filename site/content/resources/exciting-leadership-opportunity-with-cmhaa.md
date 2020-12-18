@@ -14,8 +14,9 @@ banner_right_image: img/online-job-search-looking-for-a-job-job-search-apply-now
 banner_cta_text: Download application pack
 date: 2020-12-18T01:10:13.316Z
 description: Following the successful launch of the Corporate Mental Health
-  Alliance (CMHAA) in October 2020, we have an exciting opportunity for someone
-  exceptional to join the Alliance in the new position of Executive Director.
+  Alliance Australia (CMHAA) in October 2020, we have an exciting opportunity
+  for someone exceptional to join the Alliance in the new position of Executive
+  Director.
 image: ""
 category: News & Views
 focus: Support for managers, colleagues and staff
