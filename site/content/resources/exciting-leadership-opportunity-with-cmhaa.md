@@ -15,8 +15,8 @@ banner_cta_text: Download application pack
 date: 2020-12-18T01:10:13.316Z
 description: Following the successful launch of the Corporate Mental Health
   Alliance (CMHAA) in October 2020, we have an exciting opportunity for someone
-  exceptional to lead the Alliance on its next phase in the new position of
-  Executive Director.
+  exceptional to lead the Alliance's next phase in the new position of Executive
+  Director.
 image: ""
 category: News & Views
 focus: Support for managers, colleagues and staff
