@@ -29,6 +29,13 @@ modules:
       We will aim to inform unsuccessful applicants by 7 January 2021. 
     article_email: pia@cmhaa.org.au
     article_fullname: Pia Clinton-Tarestad
+  - type: pdf-downloads
+    pdf_downloads_heading: Download resources
+    pdf_downloads_list:
+      - pdf_downloads_list_heading: Application Pack - Executive Director, CMHAA
+        pdf_downloads_list_file: img/cmhaa-exec-director-application-pack.doc
+        pdf_downloads_list_text: This pack contains a job description, person
+          specification and application form
 ---
 The successful applicant will work with the Board to shape a lean central team, and draw on the resources of member organisations, to successfully deliver our strategic plan, and shape future priorities.
 
