@@ -1,18 +1,22 @@
 ---
-title: "Exciting leadership position: Inviting applications for CMHAA's first
-  Executive Director"
+title: "Exciting leadership opportunity with CMHAA: Inviting applications for
+  our first Executive Director"
 meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
-meta_description: This is a detailed description of the page.
+meta_description: Following the successful launch of the Corporate Mental Health
+  Alliance (CMHAA) in October 2020, we have an exciting opportunity for someone
+  exceptional to lead the Alliance on its next phase in the new position of
+  Executive Director.
 banner_title: Would you like to be CMHAA's first Executive Director?
-banner_description: If you'd like to take a leadership role on improving
-  workplace mental health, this position could be for you.
+banner_description: If you want to take a lead role on improving workplace
+  mental health, this position could be for you.
 banner_image: ""
 banner_right_image: img/online-job-search-looking-for-a-job-job-search-apply-now-dynamic-workplace-searching-internet_t20_nl4a18.jpg
 banner_cta_text: Download application pack
 date: 2020-12-18T01:10:13.316Z
 description: Following the successful launch of the Corporate Mental Health
-  Alliance (CMHAA) in October 2020, we have an exciting new opportunity for
-  someone exceptional to join as Executive Director of the Alliance.
+  Alliance (CMHAA) in October 2020, we have an exciting opportunity for someone
+  exceptional to lead the Alliance on its next phase in the new position of
+  Executive Director.
 image: ""
 category: News & Views
 focus: Support for managers, colleagues and staff
@@ -45,16 +49,18 @@ modules:
         pdf_downloads_list_text: This document provides further background on CMHAA, and
           a summary of our strategic plan.
 ---
-The Executive Director will lead the delivery phase of our program, and work with the Board to shape a lean central team, help shape the agenda and priorities, and draw on the resources of member organisations to successfully deliver CMHAA's strategic plan for the greatest impact on improving mental health and wellbeing in the workplace.
+The Executive Director will lead the delivery of our program, and work with the Board to shape a lean central team, set the agenda and priorities for the Alliance, and draw on the resources of member organisations to successfully deliver CMHAA's strategic plan for the greatest impact on improving workplace mental health.
 
-As Executive Director, the job description covers a very broad range of accountabilities. The Board recognises that one individual is unlikely to cover all of these skills and experiences, and some accountabilities will be discharged through other team members, or outsourcing. 
+As Executive Director, the job description encompasses a very broad range of accountabilities. We recognise that one individual is unlikely to cover all of these skills and experiences, and some accountabilities will be discharged through other team members, or outsourcing. 
 
-If you are intereseted in this key leadership role and meet the essential criteria, we encourage you to apply. 
+If you are intereseted in this key leadership position and you meet the essential criteria, we'd love to hear from you.
 
-Simply download the application resources below and follow the process as outlined.
+Simply download the application resources provided and follow the process as outlined.
 
 **The Application deadline** is Thursday, 7 January 2021.
 
 **Interviews will be held** week commencing 18 January 2021.
+
+We look forward to receiving your application.
 
 Thank you.
