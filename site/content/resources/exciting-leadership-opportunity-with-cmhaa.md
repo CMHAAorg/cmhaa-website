@@ -4,7 +4,7 @@ title: "Exciting leadership opportunity with CMHAA: Inviting applications for
 meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
 meta_description: This is a detailed description of the page.
 banner_title: Would you like to be CMHAA's first Executive Director?
-banner_description: If you'd like to take a lead role on improving workplace
+banner_description: If you want to take a lead role on improving workplace
   mental health, this position could be for you.
 banner_image: ""
 banner_right_image: img/online-job-search-looking-for-a-job-job-search-apply-now-dynamic-workplace-searching-internet_t20_nl4a18.jpg
