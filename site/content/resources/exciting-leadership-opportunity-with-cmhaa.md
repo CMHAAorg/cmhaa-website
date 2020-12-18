@@ -30,8 +30,6 @@ modules:
     article_email: pia@cmhaa.org.au
     article_fullname: Pia Clinton-Tarestad
 ---
-This is a great opportunity to join the CMHAA early in our program delivery phase, following our successful launch in October 2020, and to shape our agenda and priorities to have the greatest impact on improving workplace mental wellbeing.
-
 The successful applicant will work with the Board to shape a lean central team, and draw on the resources of member organisations, to successfully deliver our strategic plan, and shape future priorities.
 
 As Executive Director, the job description covers a very broad range of accountabilities – it should be noted that the Board recognise that one individual is unlikely to cover all of these skills & experiences, and some accountabilities will be discharged through other team members, or outsourcing. Any applicant who meets the essential criteria is encouraged to apply.
