@@ -2,7 +2,10 @@
 title: "Exciting leadership opportunity with CMHAA: Inviting applications for
   our first Executive Director"
 meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
-meta_description: This is a detailed description of the page.
+meta_description: Following the successful launch of the Corporate Mental Health
+  Alliance (CMHAA) in October 2020, we have an exciting opportunity for someone
+  exceptional to lead the Alliance on its next phase in the new position of
+  Executive Director.
 banner_title: Would you like to be CMHAA's first Executive Director?
 banner_description: If you want to take a lead role on improving workplace
   mental health, this position could be for you.
