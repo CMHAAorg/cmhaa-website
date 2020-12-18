@@ -1,6 +1,6 @@
 ---
-title: "Exciting leadership position: Inviting applications for CMHAA's first
-  Executive Director"
+title: "Exciting leadership opportunity with CMHAA: Inviting applications for
+  our first Executive Director"
 meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
 meta_description: This is a detailed description of the page.
 banner_title: Would you like to be CMHAA's first Executive Director?
