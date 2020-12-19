@@ -27,11 +27,11 @@ industry: Business Consulting & Management
 modules:
   - type: want_know_more
     article_title: How to apply
-    article_description: "Please email your completed application form to Pia
-      Clinton-Tarestad by the closing date of Thursday, 7 January 2021. If you
-      have a disability and would like assistance in completing the form, please
-      contact Pia at least three (3) days before the application is due. We will
-      aim to inform unsuccessful applicants by 7 January 2021. "
+    article_description: "Please email your application to Pia Clinton-Tarestad by
+      the closing date of Thursday, 7 January 2021. If you have a disability and
+      would like assistance in completing the form, please contact Pia at least
+      three (3) days before this date. We will aim to inform unsuccessful
+      applicants by 7 January 2021. "
     article_email: pia@cmhaa.org.au
     article_fullname: Pia Clinton-Tarestad
   - type: pdf-downloads
