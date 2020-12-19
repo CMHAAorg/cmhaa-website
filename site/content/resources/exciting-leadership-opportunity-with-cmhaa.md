@@ -38,7 +38,7 @@ modules:
     pdf_downloads_heading: Application resources
     pdf_downloads_list:
       - pdf_downloads_list_heading: "Application pack: CMHAA Executive Director"
-        pdf_downloads_list_file: img/cmhaa-exec-director-application-pack.doc
+        pdf_downloads_list_file: img/cmhaa-executive-director-application-pack.doc
         pdf_downloads_list_text: This pack contains a position description, person
           specification, and application form.
       - pdf_downloads_list_heading: Overview - CMHAA
