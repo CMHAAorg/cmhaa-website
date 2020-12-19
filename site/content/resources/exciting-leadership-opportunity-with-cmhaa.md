@@ -6,14 +6,13 @@ meta_description: Following the successful launch of the Corporate Mental Health
   Alliance (CMHAA) in October 2020, we have an exciting opportunity for someone
   exceptional to lead the Alliance on its next phase in the new position of
   Executive Director.
-banner_title: Would you like to be CMHAA's first Executive Director?
-banner_description: If you want to play a lead role in improving workplace
-  mental health, this position could be for you. Click on the button to hear
-  from the people you'd be working with.
+banner_title: Want to be CMHAA's first Executive Director?
+banner_description: "If you'd like to play a lead role in improving mental
+  health in our workplaces, this position could be for you. "
 banner_image: ""
 banner_right_image: img/online-job-search-looking-for-a-job-job-search-apply-now-dynamic-workplace-searching-internet_t20_nl4a18.jpg
 banner_cta_link: https://vimeo.com/457647049
-banner_cta_text: OUR LEADERS
+banner_cta_text: See who's involved
 date: 2020-12-18T01:10:13.316Z
 description: Following the successful launch of the Corporate Mental Health
   Alliance Australia (CMHAA) in October 2020, we have an exciting opportunity
