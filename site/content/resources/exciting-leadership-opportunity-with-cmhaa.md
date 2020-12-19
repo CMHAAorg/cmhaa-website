@@ -44,6 +44,18 @@ modules:
         pdf_downloads_list_file: img/cmhaa-overview-and-strategic-plan.pdf
         pdf_downloads_list_text: This document provides further background on CMHAA, and
           a summary of our strategic plan.
+  - type: split_title_content
+    title: Leaders from CMHAA's founding members and participants
+    content: In the weeks leading into CMHAA's official launch, we interviewed
+      leaders from within our 15 founding member/participant organisations about
+      what mental health means to them. As business leaders, they recognise the
+      importance of them putting their name, face, and voice to mental health in
+      creating a workplace environment where others feel safe to talk about it
+      too. This video captures short grabs from each of these interviews that,
+      together, tell the story of the Corporate Mental Health Alliance Australia
+      (CMHAA).
+  - type: vimeo
+    vimeo: "76979871"
 ---
 The Executive Director will lead the delivery of our program, and work with the Board to shape a lean central team, set the agenda and priorities for the Alliance, and draw on the resources of member organisations to successfully deliver the strategic plan for the greatest impact on improving workplace mental health.
 
