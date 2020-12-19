@@ -55,8 +55,6 @@ modules:
       too. This video captures short grabs from each of these interviews that,
       together, tell the story of the Corporate Mental Health Alliance Australia
       (CMHAA).
-  - type: vimeo
-    vimeo: "457647049"
 ---
 The Executive Director will lead the delivery of our program, and work with the Board to shape a lean central team, set the agenda and priorities for the Alliance, and draw on the resources of member organisations to successfully deliver the strategic plan for the greatest impact on improving workplace mental health.
 
