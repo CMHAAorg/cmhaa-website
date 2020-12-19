@@ -52,9 +52,9 @@ As Executive Director, the job description encompasses a very broad range of acc
 
 If you are intereseted in this key leadership position and you meet the essential criteria, we'd love to hear from you. Please download the application resources provided and follow the process as outlined below.
 
-**The Application deadline** is Thursday, 7 January 2021.
+**The application deadline** is Thursday, 7 January 2021.
 
-**Interviews will be held** week commencing 18 January 2021.
+**Interviews** will be held week commencing 18 January 2021.
 
 We look forward to receiving your application.
 
