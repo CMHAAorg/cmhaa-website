@@ -39,12 +39,12 @@ modules:
     pdf_downloads_list:
       - pdf_downloads_list_heading: "Application pack: CMHAA Executive Director"
         pdf_downloads_list_file: img/cmhaa-executive-director-application-pack.doc
-        pdf_downloads_list_text: This pack contains a position description, person
-          specification, and application form.
-      - pdf_downloads_list_heading: Overview - CMHAA
+        pdf_downloads_list_text: This pack contains the application form and all you
+          need to know about the role.
+      - pdf_downloads_list_heading: CMHAA overview
         pdf_downloads_list_file: img/cmhaa-overview-and-strategic-plan.pdf
         pdf_downloads_list_text: This document provides further background on CMHAA, and
-          a summary of our strategic plan.
+          a summary of our Strategic Plan 2021-2022.
   - type: split_title_content
     title: Leaders from CMHAA's founding members and participants
     content: In the weeks leading into CMHAA's official launch, we interviewed
