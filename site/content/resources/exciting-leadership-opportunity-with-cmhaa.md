@@ -11,7 +11,8 @@ banner_description: If you want to take a lead role in improving workplace
   mental health, this position could be for you.
 banner_image: ""
 banner_right_image: img/online-job-search-looking-for-a-job-job-search-apply-now-dynamic-workplace-searching-internet_t20_nl4a18.jpg
-banner_cta_text: Download application pack
+banner_cta_link: https://vimeo.com/457647049
+banner_cta_text: See who you'd be working with
 date: 2020-12-18T01:10:13.316Z
 description: Following the successful launch of the Corporate Mental Health
   Alliance Australia (CMHAA) in October 2020, we have an exciting opportunity
@@ -55,7 +56,7 @@ modules:
       together, tell the story of the Corporate Mental Health Alliance Australia
       (CMHAA).
   - type: vimeo
-    vimeo: "76979871"
+    vimeo: "457647049"
 ---
 The Executive Director will lead the delivery of our program, and work with the Board to shape a lean central team, set the agenda and priorities for the Alliance, and draw on the resources of member organisations to successfully deliver the strategic plan for the greatest impact on improving workplace mental health.
 
