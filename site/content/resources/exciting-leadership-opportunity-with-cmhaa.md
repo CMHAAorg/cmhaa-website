@@ -7,7 +7,7 @@ meta_description: Following the successful launch of the Corporate Mental Health
   exceptional to lead the Alliance on its next phase in the new position of
   Executive Director.
 banner_title: Would you like to be CMHAA's first Executive Director?
-banner_description: If you want to take a lead role in improving workplace
+banner_description: If you want to play a lead role in improving workplace
   mental health, this position could be for you.
 banner_image: ""
 banner_right_image: img/online-job-search-looking-for-a-job-job-search-apply-now-dynamic-workplace-searching-internet_t20_nl4a18.jpg
