@@ -16,10 +16,11 @@ modules:
     image: ""
     content: Why? Because as a community, we know that we can do better, and that
       doing better begins with business leaders prioritising the mental health
-      and wellbeing of their people in ways that they experience every day. We
-      also believe that when businesses pool their resources, share openly, and
-      work collaboratively towards a common goal, better, more sustainable
-      mental health outcomes will be achieved for more people, sooner.
+      and wellbeing of their people in ways that they experience in the
+      workplace every day. We also believe that when businesses pool their
+      resources, share openly, and work collaboratively towards a common goal,
+      better, more sustainable mental health outcomes will be achieved for more
+      people, sooner.
   - type: vimeo_with_quote
     vimeo_quote_id: "457647049"
     vimeo_quote_text: We as business leaders could, and should, come together to
