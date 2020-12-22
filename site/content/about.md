@@ -152,23 +152,6 @@ modules:
           leaders stating that mental health is critically important and that in
           a way we're not doing enough, so together we’re going to do more, and
           we’re going to be better in our organisations and together.
-      - our_board_name: Ben Fitzpatrick
-        our_board_image: img/ben-aia.jpg
-        our_board_title: Workplace Health & Safety Manager, AIA Australia
-        our_board_description: >-
-          Ben’s career in Workplace Health and Safety began over 15 years ago.
-          Joining AIA in 2018 because of their commitment to the health and
-          wellbeing of all Australians, mental health has been one of Ben’s key
-          focuses where he is leading the operational planning and execution of
-          the associated framework.
-
-
-          Lived experience has aided Ben to develop a more personalised perspective of the impact mental ill-health has within the workplace setting and within the community more broadly. Being a father, husband and avid watcher of the English Premier League, Ben has his hands full but has found the time to peruse Psychology studies at Monash University.
-        our_board_linkedin: https://www.linkedin.com/in/ben-fitzpatrick-097592160/
-        our_board_quote: My goal is to create an environment that others have created
-          for me. That’s providing an open workplace for people to be
-          themselves, to be vulnerable, and if they need to share their story,
-          they can without being judged.
       - our_board_name: Annette Kimmitt AM
         our_board_image: img/annette-miterellison.jpg
         our_board_title: CEO & Managing Partner of the Firm, MinterEllison
