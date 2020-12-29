@@ -81,11 +81,12 @@ modules:
     padding_bottom: false
   - type: callout-image-text-cta
     callout_image: img/online-job-search-looking-for-a-job-job-search-apply-now-dynamic-workplace-searching-internet_t20_nl4a18.jpg
-    callout_title: Seeking an Executive Director to lead CMHAA's next phase
+    callout_title: "Join our team: Seeking an Executive Director to lead CMHAA's next phase"
     callout_description: Following the successful launch of the Corporate Mental
-      Health Alliance Australia (CMHAA) in October 2020, we have an opportunity
-      for someone to join CMHAA as Executive Director, leading the delivery of
-      CMHAA's member program on the organisation's next phase.
+      Health Alliance Australia in October 2020, we have an opportunity for
+      someone to lead the Alliance's next phase in the role of Executive
+      Director, working with the Board and other key stakeholders to deliver
+      CMHAA's exciting member program.
     callout_cta_text: Find out more
     callout_cta_link: https://cmhaa.org.au/resources/exciting-leadership-opportunity-with-cmhaa/
   - type: our_members
