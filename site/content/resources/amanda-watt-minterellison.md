@@ -12,7 +12,7 @@ date: 2020-09-16T03:41:44.137Z
 description: A successful legal career is often beset with a heavy workload,
   time pressure, significant client demands and regularly focusing on
   problem-solving. These seemingly unrelenting factors have contributed to
-  Australian lawyers reporting significant mental health issues for many years.
+  Australian lawyers reporting significant mental health issues for many years
 category: Personal stories
 focus: Support for managers, colleagues and staff
 role: Champion or advocate
