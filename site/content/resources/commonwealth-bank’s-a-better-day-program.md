@@ -3,7 +3,7 @@ title: "Commonwealth Bank’s A Better Day Program "
 meta_keywords: Commonwealth Bank of Australia, Mental Awareness, CMHAA,
   Corporate Mental Health Alliance Australia, A Better Day, Mental Health,
   Mental Wellbeing
-meta_description: This is a detailed description of the page.
+meta_description: This is a detailed description of the page
 banner_title: "Commonwealth Bank’s 'A Better Day' program "
 banner_description: "A program designed to improve mental wellbeing and
   resilience by assisting employees in better identifying, responding and
