@@ -59,7 +59,7 @@ modules:
       * Actively engage and collaborate with other CMHAA members to share and learn from good practice.
     disable_leftright: false
     cta_text: ENQUIRE ABOUT MEMBERSHIP
-    cta_link: info@cmhaa.org.au
+    cta_link: /contact/
     leadtext: "CMHAA members are responsible for taking action on employee mental
       health and wellbeing within their organisations. In addition to an annual
       membership fee, we ask that our members commit to the following:"
