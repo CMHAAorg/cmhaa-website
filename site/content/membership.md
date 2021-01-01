@@ -13,11 +13,11 @@ modules:
     padding_top: true
     padding_bottom: true
   - type: quote
-    quote_text: At the Alliance, we have found a place where like-minded leaders
-      share best practice. Most times in business you don’t share anything
-      because you’re competing. But with mental health, we’re all competing
-      against a common foe. We are very willing learners and collaborators. We
-      want to share what we’re doing and learn from others.
+    quote_text: At the Alliance, we have found like-minded leaders who are will to
+      share. In business, we're mostly competing, but here we're competing as
+      one against mental ill-health as the common foe. We're all very willing
+      learners and collaborators. We want to share what we’re doing and learn
+      from others.
     quote_author: Michael Schneider, Managing Director, Bunnings Group Limited
   - type: split_title_content
     content: >-
