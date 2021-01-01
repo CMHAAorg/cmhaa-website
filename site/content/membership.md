@@ -57,9 +57,12 @@ modules:
       * Engage in a mental health initiative which encourages employees to share their experiences with mental health.
 
       * Actively engage and collaborate with other CMHAA members to share and learn from good practice.
+
+
+      To find out more about becoming a member of the Corporate Mental Health Alliance Australia, please contact [Pia Clinton-Tarestad](pia@cmhaa.org.au).
     disable_leftright: false
-    cta_text: ENQUIRE ABOUT MEMBERSHIP
-    cta_link: /contact/
+    cta_text: ""
+    cta_link: ""
     leadtext: "CMHAA members are responsible for taking action on employee mental
       health and wellbeing within their organisations. In addition to an annual
       membership fee, we ask that our members commit to the following:"
