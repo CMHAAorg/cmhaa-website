@@ -330,7 +330,7 @@ modules:
           accepted for who you are, and from knowing that you are valued for
           your contribution in all of the settings that are important to you.
           The workplace is one of those settings. For me, it's as simple - and
-          complex - as that.
+          as complex - as that.
         exec_board_linkedin: https://www.linkedin.com/in/vickiforbes/
     our_board_exec_image: img/vicki-forbes.jpg
     our_board_exec_quote: '**Quote "**Lorem ipsum dolor sit amet, consectetur
