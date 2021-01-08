@@ -8,6 +8,7 @@ meta_description: We are an alliance of Australian businesses dedicated to
   the power to change people's experience of the workplace for the better.
 banner_title: Together in the business of workplace mental health
 banner_image: img/gettyimages-173292124.jpg
+banner_cta_link: /about/
 modules:
   - type: split_title_content
     title: Who we are
@@ -78,15 +79,6 @@ modules:
   - type: separator-line
     padding_top: false
     padding_bottom: false
-  - type: callout-image-text-cta
-    callout_image: img/online-job-search-looking-for-a-job-job-search-apply-now-dynamic-workplace-searching-internet_t20_nl4a18.jpg
-    callout_title: "Join our team: Seeking an Executive Director to lead CMHAA's next phase"
-    callout_description: Following the successful launch of the Corporate Mental
-      Health Alliance Australia in October 2020, we have an exciting opportunity
-      for someone to lead the Alliance as Executive Director, working with the
-      Board and other key stakeholders to deliver CMHAA's member program.
-    callout_cta_text: Find out more
-    callout_cta_link: https://cmhaa.org.au/resources/exciting-leadership-opportunity-with-cmhaa/
   - type: our_members
     our_members_title: Our members
     our_members_description: We are grateful to our founding members and
@@ -166,6 +158,5 @@ modules:
       Together,  they are leading a movement for positive change across
       Australia, and the world, as a part of the CMHA Global network.
 slug: homepage
-banner_cta_link: /about/
 banner_cta_text: See who's involved
 ---
