@@ -23,7 +23,7 @@ modules:
       and [Twitter](https://twitter.com/CMHA_Aus). 
 
 
-      If you'd like to know more about membership, please contact [Pia Clinton-Tarestad](pia@cmhaa.org.au).
+      If you'd like to know more about membership, please contact [](pia@cmhaa.org.au)pia@cmhaa.org.au.
 
 
       Please note that we do not provide clinical or other services for people in need of direct mental health or crisis support. If you or someone you know is in distress, please reach out to the relevant support services [here](https://www.lifeline.org.au/get-help/service-finder/).
