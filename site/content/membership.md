@@ -59,7 +59,7 @@ modules:
       * Actively engage and collaborate with other CMHAA members to share and learn from good practice.
 
 
-      To find out more about becoming a member of the Corporate Mental Health Alliance Australia, please contact [Pia Clinton-Tarestad](info@cmhaa.org.au).
+      To find out more about becoming a member of the Corporate Mental Health Alliance Australia, please contact pia@cmhaa.org.au.
     disable_leftright: false
     cta_text: ""
     cta_link: ""
