@@ -305,7 +305,7 @@ modules:
 
           Deborah is married to Michael who together are parents to two teenage boys, and she loves to run, cook and entertain at her home in Sydney after many years of living abroad.
     our_board_title: Our board
-    our_board_exec_name: Vicki Forbes
+    our_board_exec_name: ""
     our_board_description: We are governed by a Board comprised of leaders from
       within our founding member organisations. The Board is supported at an
       operational level through a working group comprising representatives from
