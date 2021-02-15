@@ -1,28 +1,25 @@
 ---
-title: Ben Fitzpatrick, AIA Australia
-meta_keywords: Ben Fitzpatrick, AIA Australia, Mental Awareness, CMHAA, Mental
+title: Skye Crawford, AIA Australia
+meta_keywords: Skye Crawford, AIA Australia, Mental Awareness, CMHAA, Mental
   Health, Corporate Mental Health Alliance, City Mental Health Alliance
 meta_description: This is a detailed description of the page.
-banner_title: Ben Fitzpatrick, AIA Australia
-banner_right_image: img/aia-aus_ben-fitzpatrick.jpg
+banner_title: Skye Crawford, AIA Australia
+banner_right_image: img/profile-picture.jpg
 date: 2020-09-16T02:39:04.178Z
-description: I’ve had my fair share of challenges from my early adulthood until
-  now. Some of these challenges still exist and other challenges have since
-  surfaced. They come in peaks and troughs, but with the right support, I’ve
-  learned to manage them.
+description: Along with the stigma around talking about mental health in the
+  workplace is the inherent fear people have of ‘saying the wrong thing’, giving
+  people the building blocks for a conversation can be powerful.
 category: Personal stories
 focus: Support for managers, colleagues and staff
 role: CEO or leadership role
 organisation_size: Large (250+ employees)
 industry: Financial & Insurance Services
 ---
-[](<>)Unfortunately, I’ve also experienced family members die by suicide. It’s heartbreaking to see people that you love not being able to cope; not being able to manage the situation they are in and thinking there is no way through that particular moment of their life.
+Leading people & culture for AIA Australia, Skye is responsible for creating an employee experience that embodies the AIA promise of healthier, longer, better lives.
 
-Regrettably, I believe mental health is still seen as taboo in some circles. I want to see it openly accepted within the broader community and within workplaces. For this to happen, we need to create an environment that encourages anyone that has any issues, to seek help and be supported.
+With a career focused on driving change in complex organisations, and in particular through large scale transactions, Skye has a passion for building sustainable businesses where people can thrive. Skye also has a strong commitment to coaching other leaders and executives so that they in turn positively impact the people and organisations they lead.
 
-I’ve been fortunate to have leaders that have supported me when my mental health hasn’t been at its peak; leaders who haven’t made a fuss about it. They have normalised it. And it should be normal.
-
-My goal is to create an environment that others have created for me. That’s providing an open workplace for people to be themselves, to be vulnerable, and if they need to share their story, they can without being judged.
+Skye holds an Executive MBA from Melbourne Business School, a Bachelor of Business (QUT) and is a Graduate of the Australian Institute of Company Directors.
 
 **Our mental health lens**
 
@@ -40,6 +37,6 @@ If we can help workplaces develop strategies that positively impact on people's 
 
 It makes sense for us as an organisation to participate in this type of alliance and help shape what could potentially be a driving force in the mental health space.
 
-**Ben Fitzpatrick, Workplace Health and Safety Manager, AIA Australia**
+**Skye Crawford, Chief People & Culture Officer, AIA Australia**
 
 **Board Member, Corporate Mental Health Alliance Australia**
