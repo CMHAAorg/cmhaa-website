@@ -4,7 +4,7 @@ meta_keywords: Skye Crawford, AIA Australia, Mental Awareness, CMHAA, Mental
   Health, Corporate Mental Health Alliance, City Mental Health Alliance
 meta_description: This is a detailed description of the page.
 banner_title: Skye Crawford, AIA Australia
-banner_right_image: img/profile-picture.jpg
+banner_right_image: img/profile-picture_cropped.jpg
 date: 2020-09-16T02:39:04.178Z
 description: Along with the stigma around talking about mental health in the
   workplace is the inherent fear people have of ‘saying the wrong thing’, giving
