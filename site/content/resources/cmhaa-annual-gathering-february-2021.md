@@ -86,6 +86,93 @@ modules:
     leadtext: A series of reports has clearly documented the scale of the mental
       health challenge facing Australia, and in particular the workplace issues
       that organisations must address.
+  - type: split_title_content
+    title: "ACTION PLAN: Tackling the issues"
+    leadtext: Delegates attending the CMHAA annual gathering were reminded that all
+      Australian employers must address the issue of mental health in the
+      workplace – this is not discretionary, this is law.
+    content: >-
+      Some codes are emerging to support employers, such as the NSW Draft Code
+      for Managing the Risks to Psychological Health, which provides useful
+      guidelines for employers seeking to protect, respond and promote mental
+      health and to build more inclusive cultures. 
+
+
+      Meanwhile the National Workplace Initiative is in the planning stages and intended to deliver a consistent approach to mentally health workplaces Australia-wide.
+
+
+      Other practical steps that employers can take immediately include raising the mental health literacy of hiring managers and working with a high-quality Employee Assistance Program provider to develop effective prevention programs.
+
+
+      Without determined action by employers to protect the mental health of employees, regulation in this area is expected to get tighter and harder with the prospect of criminal penalties for inaction.
+  - type: split_title_content_background
+    disable_leftright: false
+    title: THE CHALLENGE
+    content: >-
+      **Data and Measurement**
+
+
+      CMHAA has been considering its data strategy since mid-2020 in order to collect some form of common data set in order to demonstrate impact. While actual metrics are still being determined, and may build on existing measures, they will be designed to track:
+
+
+      * Improved employee mental wellbeing;
+
+      * Employees feeling that leaders are committed to mental wellbeing initiatives; and
+
+      * Leaders feeling confident and competent about their approach to mental health.
+
+
+      That minimum data set will be supplemented with qualitative insights, from focus groups, for example.
+
+
+      Over time CMHAA plans to expand the number of indicators and connect these with lagging indicators such as workplace claims with the ultimate goal of being able to connect indicators to generate predictive data about the future of work. 
+
+
+      There is also appetite among Alliance members to collect data regarding the mental health impact of hybrid workplaces where people, post pandemic, are combining in-office work with remote at-home work.
+
+
+      **Building and rewarding leadership**
+
+
+      Leadership has a critical role to play in fostering mental health in the workplace. There are however significant leadership challenges in large and distributed workplaces where it can be hard to forge direct links between leaders and employees.
+
+
+      Strategies need to be developed to support leaders so that they can be human, authentic and vulnerable AND be accountable and driven to succeed. It is this combination that will deliver maximum impact in building mentally healthy workplaces.
+
+
+      Recognising that this is a journey, with leaders at different stages, the Alliance will seek to support all leaders focusing initially on being human and accountable. The Alliance will also seek to support leaders with better access to data and evidence-based programs.
+
+
+      **Addressing work practices** 
+
+
+      Work design and organisational structure play a critical role in growing healthy workplaces and can make a profound impact on people. Studies have demonstrated time and again that when work is well designed there are both performance and mental health benefits.
+
+
+      Organisations working with the CMHAA have the opportunity to develop a common language to discuss work and work practices, to improve people’s experience of work and to enhance mental health.
+
+
+      CMHAA recognises that post COVID it may prove challenging to encourage wholesale work and job redesigns, but there is the opportunity to review work ecosystems and identify opportunities for reform. If we get this right there is the opportunity for people to genuinely thrive.
+  - type: split_title_content
+    title: "AGENDA: CMHAA’s plans for the year ahead"
+    leadtext: Members of the Alliance have outlined key ambitions for the year
+      ahead, and CMHAA reaffirmed its commitment to advancing mentally healthy
+      workplaces and employee wellbeing.
+    content: >-
+      Over the next 12 months CHMAA members will:
+
+
+      * Support Australia’s Corporate CEOs to understand the role of work as a protective factor in mental wellbeing, and bring a common understanding of the terminology in describing mental wellness, illness, fitness and health, and where workplaces need to focus;
+
+      * Some members will evaluate and test different ways of working and job designs, and share their findings with the Alliance; 
+
+      * Explore the link between job tasks and psychological risk;
+
+      * Explore best practice approaches to psychological risk assessment, and share findings amongst members; 
+
+      * Continue to progress our data strategy, initially adopting a small number of common metrics across all members; and
+
+      * Develop a toolkit of credible practice in developing and rewarding leaders for mentally healthy workplaces, bringing learnings from across sectors.
 ---
 Every employer in Australia must adhere to the Work Health and Safety Act and associated regulations which encompass mental health issues; this is not discretionary, rather a legislated requirement.
 
