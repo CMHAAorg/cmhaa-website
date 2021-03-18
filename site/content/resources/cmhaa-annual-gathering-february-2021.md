@@ -6,12 +6,16 @@ meta_description: In February, the Corporate Mental Health Alliance Australia
   plan for the year ahead.
 banner_title: "UPDATE: CMHAA Annual Gathering February 2021"
 date: 2021-02-26T05:55:02.665Z
-description: In February, the Corporate Mental Health Alliance Australia held
-  its annual gathering, to review progress to date, and craft an action plan for
-  the year ahead. We’ve pulled together highlights from the day and an outline
-  of our priorities for 2021. Mental health must be a priority for every
-  organisation and individual in Australia – please join us on this critically
-  important journey to wellbeing.
+description: >-
+  In February, the Corporate Mental Health Alliance Australia held its annual
+  gathering, to review progress to date, and craft an action plan for the year
+  ahead. We’ve pulled together highlights from the day and an outline of our
+  priorities for 2021. Mental health must be a priority for every organisation
+  and individual in Australia – please join us on this critically important
+  journey to wellbeing.
+
+
+  *\-Steven Worrall, chair CMHAA and managing director, Microsoft Australia*
 category: News & Views
 focus: Developing policy and practice
 role: CEO or leadership role
@@ -172,10 +176,6 @@ modules:
 
       * Develop a toolkit of credible practice in developing and rewarding leaders for mentally healthy workplaces, bringing learnings from across sectors.
 ---
-***\-Steven Worrall, chair CMHAA and managing director, Microsoft Australia***
-
-
-
 Every employer in Australia must adhere to the Work Health and Safety Act and associated regulations which encompass mental health issues; this is not discretionary, rather a legislated requirement.
 
 The Corporate Mental Health Alliance Australia (CMHAA) was formed by some of the nation’s leading employers in 2020 to support mental health in the workplace. With a combined employment base of 400,000+ people the Alliance shares information and insights and is working toward crafting evidence based best practices that foster mentally healthy workplaces.
