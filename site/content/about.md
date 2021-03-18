@@ -8,7 +8,15 @@ meta_description: We are a business-led, expert-guided member organisation
   dedicated to providing mentally healthy workplaces for our people.
 banner_title: Business-led, expert-guided.
 banner_image: img/istock-838338570.jpg
+banner_cta_link: ""
 modules:
+  - type: vimeo_with_quote
+    vimeo_quote_id: "457647049"
+    vimeo_quote_text: We as business leaders could, and should, come together to
+      help normalise this conversation so that we talk about mental health just
+      as regularly and normally as we talk about physical health.
+    vimeo_quote_author: Steven Worrall, Managing Director, Microsoft Australia, and
+      Chair, Corporate Mental Health Alliance Australia
   - type: split_title_content
     leadtext: We are a business-led, expert-guided member organisation dedicated to
       providing mentally healthy workplaces for all people.
@@ -21,13 +29,6 @@ modules:
       resources, share openly, and work collaboratively towards a common goal,
       better, more sustainable mental health outcomes will be achieved for more
       people, sooner.
-  - type: vimeo_with_quote
-    vimeo_quote_id: "457647049"
-    vimeo_quote_text: We as business leaders could, and should, come together to
-      help normalise this conversation so that we talk about mental health just
-      as regularly and normally as we talk about physical health.
-    vimeo_quote_author: Steven Worrall, Managing Director, Microsoft Australia, and
-      Chair, Corporate Mental Health Alliance Australia
   - type: split_title_content
     title: Our origins
     leadtext: The Corporate Mental Health Alliance Australia is part of a growing
