@@ -16,10 +16,11 @@ modules:
     image: ""
     content: Why? Because as a community, we know that we can do better, and that
       doing better begins with business leaders prioritising the mental health
-      and wellbeing of their people in ways that they experience every day. We
-      also believe that when businesses pool their resources, share openly, and
-      work collaboratively towards a common goal, better, more sustainable
-      mental health outcomes will be achieved for more people, sooner.
+      and wellbeing of their people in ways that they experience in the
+      workplace every day. We also believe that when businesses pool their
+      resources, share openly, and work collaboratively towards a common goal,
+      better, more sustainable mental health outcomes will be achieved for more
+      people, sooner.
   - type: vimeo_with_quote
     vimeo_quote_id: "457647049"
     vimeo_quote_text: We as business leaders could, and should, come together to
@@ -92,7 +93,7 @@ modules:
       - our_board_name: Berkeley Cox
         our_board_image: img/berkley-king-wood.jpg
         our_board_title: Chief Executive Partner, King & Wood Mallesons
-        our_board_quote: But by being open about my own challenges, I hope to help
+        our_board_quote: By being open about my own challenges, I hope to help
           destigmatise mental health and wellness in the workplace. I want
           people to appreciate that you can have your own mental health
           struggles, be vulnerable and have a successful and fulfilling career.
@@ -151,23 +152,6 @@ modules:
           leaders stating that mental health is critically important and that in
           a way we're not doing enough, so together we’re going to do more, and
           we’re going to be better in our organisations and together.
-      - our_board_name: Ben Fitzpatrick
-        our_board_image: img/ben-aia.jpg
-        our_board_title: Workplace Health & Safety Manager, AIA Australia
-        our_board_description: >-
-          Ben’s career in Workplace Health and Safety began over 15 years ago.
-          Joining AIA in 2018 because of their commitment to the health and
-          wellbeing of all Australians, mental health has been one of Ben’s key
-          focuses where he is leading the operational planning and execution of
-          the associated framework.
-
-
-          Lived experience has aided Ben to develop a more personalised perspective of the impact mental ill-health has within the workplace setting and within the community more broadly. Being a father, husband and avid watcher of the English Premier League, Ben has his hands full but has found the time to peruse Psychology studies at Monash University.
-        our_board_linkedin: https://www.linkedin.com/in/ben-fitzpatrick-097592160/
-        our_board_quote: My goal is to create an environment that others have created
-          for me. That’s providing an open workplace for people to be
-          themselves, to be vulnerable, and if they need to share their story,
-          they can without being judged.
       - our_board_name: Annette Kimmitt AM
         our_board_image: img/annette-miterellison.jpg
         our_board_title: CEO & Managing Partner of the Firm, MinterEllison
@@ -245,7 +229,7 @@ modules:
         our_board_quote: As a leader, improving mental health starts with a willingness
           to make yourself vulnerable. If you can accept your own short-comings
           and open some of those up to others, people feel less alone. That’s
-          all a lot of people in the world want, to feel less alone.
+          all a lot of people in the world want - to feel less alone.
       - our_board_name: Helen Silver AO
         our_board_title: Chief General Manager, Corporate Governance and Conduct,
           Allianz Australia Insurance Ltd
@@ -321,42 +305,19 @@ modules:
 
           Deborah is married to Michael who together are parents to two teenage boys, and she loves to run, cook and entertain at her home in Sydney after many years of living abroad.
     our_board_title: Our board
-    our_board_exec_name: Vicki Forbes
+    our_board_exec_name: ""
     our_board_description: We are governed by a Board comprised of leaders from
       within our founding member organisations. The Board is supported at an
       operational level through a working group comprising representatives from
       each member organisation.
-    our_board_exec_title: Program leadership
-    exec_board:
-      - exec_board_description: >-
-          Vicki joined the Alliance as Program Director in May 2020. 
-
-
-          Vicki has more than 25 years' experience in senior communication and advisory roles in the not-for-profit sector. A serendipitous conversation with Jack Heath on a flight from Canberra to Sydney in 1997 sparked a professional interest in mental health, and in 1998 she joined him in launching Australia's first online youth mental health service, [ReachOut.com](https://au.reachout.com/).
-
-
-          In 2011 she was a part of the establishment team for the Young and Well Cooperative Research Centre led by Professor Jane Burns. Here she led the Centre's communications and stakeholder engagement function, working with 75 partners across multiple sectors to facilitate the efficient delivery and uptake of the Centre's research outputs generated by 200+ researchers worldwide.  Other key engagements have included SANE Australia, Innowell Pty Ltd, The Kidman Centre UTS, Sydney Opera House, and TEDxSydney. 
-
-
-          She is the proud co-founder of three little people, and while she lives with her family in Sydney, the Murray country on which she grew up still runs fiercely through her veins.
-        exec_board_name: Vicki Forbes
-        exec_board_image: img/vicki-forbes.jpg
-        exec_board_title: Program Director, Corporate Mental Health Alliance Australia
-        exec_board_quote: I think good mental health begins with feeling seen, heard and
-          accepted for who you are, and from knowing that you are valued for
-          your contribution in all of the settings that are important to you.
-          The workplace is one of those settings. For me, it's as simple - and
-          complex - as that.
-        exec_board_linkedin: https://www.linkedin.com/in/vickiforbes/
+    our_board_exec_title: ""
+    exec_board: []
     our_board_exec_image: img/vicki-forbes.jpg
     our_board_exec_quote: '**Quote "**Lorem ipsum dolor sit amet, consectetur
       adipiscing elit. Quisque tincidunt, odio ac lacinia faucibus, orci elit
       finibus nisl, ut ullamcorper enim purus ut nisl."'
     type: our_board
-    our_board_exec_description: Our program director works hand-in-hand with members
-      to support their involvement with the Corporate Mental Health Alliance
-      Australia at a strategic level, and in the day-to-day delivery of our
-      initiatives.
+    our_board_exec_description: ""
   - type: friends_cmhaa
     friends_cmhaa_title: Our advisors
     friends_cmhaa_description: We are privileged to have leading thinkers in mental
@@ -376,7 +337,7 @@ modules:
         friend_link: https://www.linkedin.com/in/pat-dudgeon-767916126/
       - friend_text: Georgie Drury
         friend_link: https://www.linkedin.com/in/georgiedrury/
-      - friend_text: Professor Geoff Gallop
+      - friend_text: Emeritus Professor Geoffrey Gallop AC
         friend_link: https://www.linkedin.com/in/geoff-gallop-10a23b36/
       - friend_text: Georgie Harman
         friend_link: https://www.linkedin.com/in/georgie-harman-720a1688/

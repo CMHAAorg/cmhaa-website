@@ -13,11 +13,11 @@ modules:
     padding_top: true
     padding_bottom: true
   - type: quote
-    quote_text: At the Alliance, we have found a place where like-minded leaders
-      share best practice. Most times in business you don’t share anything
-      because you’re competing. But with mental health, we’re all competing
-      against a common foe. We are very willing learners and collaborators. We
-      want to share what we’re doing and learn from others.
+    quote_text: At the Alliance, we have found like-minded leaders who are will to
+      share. In business, we're mostly competing, but here we're competing as
+      one against mental ill-health as the common foe. We're all very willing
+      learners and collaborators. We want to share what we’re doing and learn
+      from others.
     quote_author: Michael Schneider, Managing Director, Bunnings Group Limited
   - type: split_title_content
     content: >-
@@ -57,9 +57,12 @@ modules:
       * Engage in a mental health initiative which encourages employees to share their experiences with mental health.
 
       * Actively engage and collaborate with other CMHAA members to share and learn from good practice.
+
+
+      To find out more about becoming a member of the Corporate Mental Health Alliance Australia, please contact kimh@cmhaa.org.au.
     disable_leftright: false
-    cta_text: ENQUIRE ABOUT MEMBERSHIP
-    cta_link: /contact/
+    cta_text: ""
+    cta_link: ""
     leadtext: "CMHAA members are responsible for taking action on employee mental
       health and wellbeing within their organisations. In addition to an annual
       membership fee, we ask that our members commit to the following:"

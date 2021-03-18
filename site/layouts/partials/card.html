@@ -19,7 +19,8 @@
   <div>
     <div class="card__content">
       {{ if .item.Params.category }}
-        <span class="card__category {{ .item.Params.category_tag }}">{{ .item.Params.category }}</span>
+        {{- $category_tag := .item.Params.category | urlize -}}
+        <span class="card__category {{ $category_tag }}">{{ .item.Params.category }}</span>
       {{ end }}
       <span class="card__date">{{ dateFormat "Jan 02, 2006" .item.Params.date }}</span>
       <p class="card__title">{{ .item.Params.title }}</p>

@@ -1,3 +1,6 @@
+[context.production]
+  command = "yarn buildandindex"
+  
 [[redirects]]
   from = "/category/"
   to = "/"
