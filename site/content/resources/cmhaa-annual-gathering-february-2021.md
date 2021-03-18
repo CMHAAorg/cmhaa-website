@@ -86,6 +86,8 @@ modules:
     leadtext: A series of reports has clearly documented the scale of the mental
       health challenge facing Australia, and in particular the workplace issues
       that organisations must address.
+  - type: feature_resource
+    resource: commonwealth-bank-thrives
   - type: split_title_content
     title: "ACTION PLAN: Tackling the issues"
     leadtext: Delegates attending the CMHAA annual gathering were reminded that all
