@@ -3,6 +3,8 @@ title: Corporate Mental Health Alliance sets healthy workplace agenda for 2021
 meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
 meta_description: This is a detailed description of the page.
 banner_title: Corporate Mental Health Alliance sets healthy workplace agenda for 2021
+banner_description: A message from Chair, Steven Worrall
+banner_right_image: img/steve-worrall-print.jpg
 date: 2021-03-18T06:42:36.656Z
 description: Workplace mental health is a critically important issue facing
   every employee and employer in Australia. This is not a discretionary ‘nice to
