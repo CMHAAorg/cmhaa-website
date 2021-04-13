@@ -153,7 +153,7 @@ modules:
           a way we're not doing enough, so together we’re going to do more, and
           we’re going to be better in our organisations and together.
       - our_board_name: "To Be Advised "
-        our_board_image: img/minterellison.jpg
+        our_board_image: img/placeholder-noimage.gif
         our_board_title: MinterEllison
         our_board_linkedin: " "
         our_board_description: ""
@@ -288,7 +288,7 @@ modules:
           Deborah is married to Michael who together are parents to two teenage boys, and she loves to run, cook and entertain at her home in Sydney after many years of living abroad.
       - our_board_name: Skye Crawford
         our_board_image: img/profile-picture_cropped.jpg
-        our_board_title: Chief People & Culture Officer
+        our_board_title: Chief People & Culture Officer, AIA Australia
         our_board_quote: Along with the stigma around talking about mental health in the
           workplace is the inherent fear people have of ‘saying the wrong
           thing’, giving people the building blocks for a conversation can be
@@ -304,6 +304,10 @@ modules:
 
           Skye holds an Executive MBA from Melbourne Business School, a Bachelor of Business (QUT) and is a Graduate of the Australian Institute of Company Directors.
         our_board_linkedin: https://www.linkedin.com/in/skye-crawford-3824644/
+      - our_board_name: Ercument Ates
+        our_board_title: Managing Director Australia & NZ, Galderma
+        our_board_linkedin: https://www.linkedin.com/in/ercumentates/
+        our_board_image: img/placeholder-noimage.gif
     our_board_title: Our board
     our_board_exec_name: ""
     our_board_description: We are governed by a Board comprised of leaders from
