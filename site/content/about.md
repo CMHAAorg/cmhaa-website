@@ -153,7 +153,7 @@ modules:
           a way we're not doing enough, so together we’re going to do more, and
           we’re going to be better in our organisations and together.
       - our_board_name: "To Be Advised "
-        our_board_image: img/minterellison.jpg
+        our_board_image: img/placeholder-noimage.gif
         our_board_title: MinterEllison
         our_board_linkedin: " "
         our_board_description: ""
