@@ -314,7 +314,7 @@ modules:
       within our founding member organisations. The Board is supported at an
       operational level through a working group comprising representatives from
       each member organisation.
-    our_board_exec_title: "Our Executive "
+    our_board_exec_title: "Our executive "
     exec_board:
       - exec_board_description: >-
           Kim is a healthcare professional with over 20 years experience working
@@ -328,7 +328,7 @@ modules:
 
           Kim holds a Bachelor of Pharmacy (Hons I) and has a PhD. She lives in Sydney with her husband and teenage son and shares her home with dog Meisie and cat Murphy.
         exec_board_name: Dr Kim Hamrosi
-        exec_board_image: img/kim-deloitte-headshot-2-.jpg
+        exec_board_image: img/kim-deloitte-headshot-large.jpg
         exec_board_title: Executive Director
         exec_board_linkedin: linkedin.com/in/kim-hamrosi-3822184a
         exec_board_quote: I truly believe that collectively through sharing knowledge
