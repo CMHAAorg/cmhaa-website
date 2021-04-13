@@ -152,30 +152,12 @@ modules:
           leaders stating that mental health is critically important and that in
           a way we're not doing enough, so together we’re going to do more, and
           we’re going to be better in our organisations and together.
-      - our_board_name: Annette Kimmitt AM
-        our_board_image: img/annette-miterellison.jpg
-        our_board_title: CEO & Managing Partner of the Firm, MinterEllison
-        our_board_linkedin: " https://www.linkedin.com/in/annettekimmitt/"
-        our_board_description: >-
-          With over 35 years experience, Annette's executive career has included
-          a range of senior roles and she has extensive local and international
-          experience in designing and implementing large, complex
-          transformations, and a strong track record in unlocking organisational
-          potential.
-
-
-          Annette is a member of the Business Council of Australia's Economic Policy and Competitiveness Committee and was appointed in 2019 as 'Pay Equity Ambassador' by the Australian Government's Workplace Gender Equality Agency in recognition of her significant contribution to empowering and supporting women and in advocating for gender pay equity.
-
-
-          Serving as the Victorian Chair of the Institute of Chartered Accountants in 2009 she pioneered the accounting profession's focus on supporting the mental health and wellbeing of its members.
-
-
-          Annette has been married to her husband Rod for over 34 years, and they have two children, Rhys and Courtney.
-        our_board_quote: "Mental health, for me, is all about psychological fitness.
-          Feeling well, enjoying the challenges of life and work, and feeling
-          equipped to deal with what’s in front of you in the workplace. That
-          headspace allows you to support family, friends and colleagues as
-          well. "
+      - our_board_name: "To Be Advised "
+        our_board_image: img/minterellison.jpg
+        our_board_title: MinterEllison
+        our_board_linkedin: " "
+        our_board_description: ""
+        our_board_quote: ""
       - our_board_name: Brian Long
         our_board_image: img/brianlong-woolworths.jpg
         our_board_title: General Manager Safety, Health & Wellbeing, Woolworths Group
@@ -304,14 +286,51 @@ modules:
 
 
           Deborah is married to Michael who together are parents to two teenage boys, and she loves to run, cook and entertain at her home in Sydney after many years of living abroad.
+      - our_board_name: Skye Crawford
+        our_board_image: img/profile-picture_cropped.jpg
+        our_board_title: Chief People & Culture Officer
+        our_board_quote: Along with the stigma around talking about mental health in the
+          workplace is the inherent fear people have of ‘saying the wrong
+          thing’, giving people the building blocks for a conversation can be
+          powerful.
+        our_board_description: >-
+          Leading people & culture for AIA Australia, Skye is responsible for
+          creating an employee experience that embodies the AIA promise of
+          healthier, longer, better lives.
+
+
+          With a career focused on driving change in complex organisations, and in particular through large scale transactions, Skye has a passion for building sustainable businesses where people can thrive. Skye also has a strong commitment to coaching other leaders and executives so that they in turn positively impact the people and organisations they lead.
+
+
+          Skye holds an Executive MBA from Melbourne Business School, a Bachelor of Business (QUT) and is a Graduate of the Australian Institute of Company Directors.
+        our_board_linkedin: https://www.linkedin.com/in/skye-crawford-3824644/
     our_board_title: Our board
     our_board_exec_name: ""
     our_board_description: We are governed by a Board comprised of leaders from
       within our founding member organisations. The Board is supported at an
       operational level through a working group comprising representatives from
       each member organisation.
-    our_board_exec_title: ""
-    exec_board: []
+    our_board_exec_title: "Our Executive "
+    exec_board:
+      - exec_board_description: >-
+          Kim is a healthcare professional with over 20 years experience working
+          in healthcare, initially as a pharmacist in clinical service delivery,
+          and then in academic clinical research, health technology assessment,
+          health economics and patient outcomes research.
+
+
+          Over the last few years Kim has worked in the corporate environment, with a focus on healthcare strategy and implementation delivering multiple large projects in complex stakeholder environments in the areas of health and life sciences working with government, Industry and not for profit.
+
+
+          Kim holds a Bachelor of Pharmacy (Hons I) and has a PhD. She lives in Sydney with her husband and teenage son and shares her home with dog Meisie and cat Murphy.
+        exec_board_name: Dr Kim Hamrosi
+        exec_board_image: img/kim-deloitte-headshot-2-.jpg
+        exec_board_title: Executive Director
+        exec_board_linkedin: linkedin.com/in/kim-hamrosi-3822184a
+        exec_board_quote: I truly believe that collectively through sharing knowledge
+          and learnings, with strategies grounded in evidence we can have a big
+          positive impact on how we think about work and the mental health of
+          the workforce.
     our_board_exec_image: img/vicki-forbes.jpg
     our_board_exec_quote: '**Quote "**Lorem ipsum dolor sit amet, consectetur
       adipiscing elit. Quisque tincidunt, odio ac lacinia faucibus, orci elit
