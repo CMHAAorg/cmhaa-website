@@ -152,11 +152,32 @@ modules:
           leaders stating that mental health is critically important and that in
           a way we're not doing enough, so together we’re going to do more, and
           we’re going to be better in our organisations and together.
-      - our_board_name: "To Be Advised "
-        our_board_image: img/placeholder-noimage.gif
+      - our_board_name: Virginia Briggs
+        our_board_image: img/v-briggs-photo.jpg
         our_board_title: MinterEllison
-        our_board_linkedin: " "
-        our_board_description: ""
+        our_board_linkedin: " https://www.linkedin.com/in/virginia-briggs-307a6155/ "
+        our_board_description: >-
+          Virginia Briggs is recognised within MinterEllison and beyond as a
+          values driven leader. Virginia has held numerous leadership positions
+          within the firm including being a member of the Executive Leadership
+          Team since 2017; a member of the Board Diversity & Inclusion Committee
+          since 2015 and as a Champion of PRiME the firm's LGBT+ inclusion
+          network. Virginia is also the Managing Partner of MinterEllison's
+          Infrastructure, Construction and Property group. She is a
+          market-leading practitioner in the property, development and
+          infrastructure markets acting for both government and private clients.
+          Virginia deals in complex large-scale real estate transactions
+          spanning the development, sale, purchase and leasing of commercial,
+          industrial, residential and retail developments and infrastructure
+          assets.
+
+
+
+          In each of the leadership roles Virginia holds she is committed to creating an inclusive, psychologically safe workplace for all members of the firm. As Acting CEO & Managing Partner Virginia leads a team that recognises that a workplace environment characterised by psychological safety and wellbeing is as fundamentally important as a physically safe workplace, and this focus is critical to sustainable high performance for individuals and the organisation.
+
+
+
+          Throughout Virginia's career she has been a visible champion of the legal profession's resilience@law initiative and over the last two years an executive sponsor of MinterEllison's involvement in the CMHAA. Virginia has also personally supported a number of colleagues within the firm, and in the broader profession, through mental health challenges and looks forward to learning more alongside her CEO peers at the CMHAA and playing a leadership role as an advocate for better mental health for all Australians.
         our_board_quote: ""
       - our_board_name: Brian Long
         our_board_image: img/brianlong-woolworths.jpg
