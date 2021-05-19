@@ -29,6 +29,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "category"
         widget: "select"
         options: [
+          "Blog",
           "News & Views",
           "Personal stories",
           "Case studies",
@@ -65,6 +66,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "organisation_size"
         widget: "select"
         options: [
+          "All Sizes",
           "Micro (<10 employees)",
           "Small (10-49 employees)",
           "Medium (50-249 employees)",
@@ -74,6 +76,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "industry"
         widget: "select"
         options: [
+          "All Industries",
           "Business Consulting & Management",
           "Charity, Not-for-profit",
           "Defence",
@@ -778,7 +781,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Menu"
         name: "mainMenu"
         widget: "list"
-        fields: 
+        fields:
           - {label: Title, name: title, widget: string }
           - label: URL
             name: url
