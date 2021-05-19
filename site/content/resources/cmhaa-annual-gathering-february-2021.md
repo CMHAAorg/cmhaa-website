@@ -16,11 +16,11 @@ description: >-
 
 
   *\-Steven Worrall, chair CMHAA and managing director, Microsoft Australia*
-category: News & Views
+category: Blog
 focus: Developing policy and practice
 role: CEO or leadership role
-organisation_size: Large (250+ employees)
-industry: Business Consulting & Management
+organisation_size: All Sizes
+industry: All Industries
 modules:
   - type: image
     image: img/istock-1185273881.jpg
