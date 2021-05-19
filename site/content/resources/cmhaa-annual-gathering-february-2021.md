@@ -19,8 +19,8 @@ description: >-
 category: Blog
 focus: Developing policy and practice
 role: CEO or leadership role
-organisation_size: All
-industry: All
+organisation_size: All Sizes
+industry: All Industries
 modules:
   - type: image
     image: img/istock-1185273881.jpg
