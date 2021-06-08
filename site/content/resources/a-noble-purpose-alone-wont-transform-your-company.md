@@ -24,4 +24,4 @@ modules:
         pdf_downloads_list_file: img/smr-creating-trust-purpose-and-energy-in-networks.pdf
         pdf_downloads_list_text: Please download full PDF here
 ---
-Please download the full PDF below.
+For the full PDF, please view below.
