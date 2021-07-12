@@ -293,25 +293,12 @@ modules:
         our_board_image: img/steven-microsoft.jpg
         our_board_name: Steven Worrall
         our_board_title: Managing Director, Microsoft Australia & Chair, CMHAA
-      - our_board_name: Deborah Yates
-        our_board_image: img/deb-yates-high-res-head-shot.jpg
-        our_board_title: National Managing Partner People and Corporate Affairs, KPMG Australia
-        our_board_linkedin: " https://www.linkedin.com/in/deborah-yates-68ab768/"
-        our_board_quote: If we can make a difference to the wellbeing of workers, then
-          we can make a difference to the wellbeing of families. And if we do
-          that, we’ve made a real difference to the whole community.
-        our_board_description: >-
-          Deborah has significant experience in leading culture change, large
-          acquisitions from deal negotiation through to full business
-          integration, change management, restructuring and crisis management.
-          Deb is a respected coach and mentor to senior leaders and senior
-          leadership teams.
-
-
-          Since joining KPMG in January 2018 Deb has led the people strategy with particular focus on creating a mentally healthy culture with leaders confident and competent in leading the charge in an inclusive and diverse culture. She also leads the Corporate Affairs strategy which includes the Corporate Citizenship mental health pillar with a focus on partnering with NFPs and peak bodies dedicated to supporting people with mental illness externally in the community. Deborah also sits on the board of The Sanctuary – The Hills Women’s Shelter.
-
-
-          Deborah is married to Michael who together are parents to two teenage boys, and she loves to run, cook and entertain at her home in Sydney after many years of living abroad.
+      - our_board_name: TBC
+        our_board_image: img/kpmg.jpg
+        our_board_title: KPMG Australia
+        our_board_linkedin: ""
+        our_board_quote: ""
+        our_board_description: ""
       - our_board_name: Skye Crawford
         our_board_image: img/profile-picture_cropped.jpg
         our_board_title: Chief People & Culture Officer, AIA Australia
