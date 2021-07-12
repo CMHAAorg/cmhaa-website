@@ -339,6 +339,9 @@ modules:
 
 
           Apart from being a workplace mental health advocate, Ercument is a husband and father to 3 daughters plus a keen soccer player when his knees aren’t playing up!
+      - our_board_name: TBC
+        our_board_title: DLA Piper
+        our_board_image: img/dlapiper.jpg
     our_board_title: Our board
     our_board_exec_name: ""
     our_board_description: We are governed by a Board comprised of leaders from
