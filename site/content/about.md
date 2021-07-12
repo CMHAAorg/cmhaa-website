@@ -234,33 +234,37 @@ modules:
           to make yourself vulnerable. If you can accept your own short-comings
           and open some of those up to others, people feel less alone. That’s
           all a lot of people in the world want - to feel less alone.
-      - our_board_name: Helen Silver AO
-        our_board_title: Chief General Manager, Corporate Governance and Conduct,
-          Allianz Australia Insurance Ltd
-        our_board_image: img/helen-allianz.jpg
-        our_board_linkedin: https://www.linkedin.com/in/silverhelen/
+      - our_board_name: Julie Mitchell
+        our_board_title: Chief General Manager, Personal Injury, Allianz Australia Insurance Ltd
+        our_board_image: img/julie-mitchell.jpg
+        our_board_linkedin: "https://www.linkedin.com/in/julie-mitchell-b3bb3220/ "
         our_board_description: >-
-          Helen Silver is Allianz Australia’s Chief General Manager, Corporate
-          Governance and Conduct.
+          Julie Mitchell is the Chief General Manager Personal Injury and is
+          responsible for personal injury lines CTP, Life and Workers
+          Compensation for Allianz Australia. 
 
 
-          Prior to joining Allianz Australia, Helen had spent more than 25 years in executive roles in the Victoria and Commonwealth public sectors, culminating in the position of Secretary of the Victorian Department of Premier and Cabinet.
+          \
+
+          Across a 20 year career at Allianz, Julie has held a number of key leadership roles including Chief General Manager Workers Compensation, General Manager of Victoria and the NSW Treasury Managed Fund (TMF) businesses. 
 
 
-          Helen also currently serves on a number of boards including the Victorian Arts Centre Trust, the Judicial Commission and the Melbourne Symphony Orchestra.
-        our_board_quote: If we are to get people to seek help early, we need to reduce
-          the stigma associated with asking for that help. As leaders we have a
-          role in that. If leaders open up about mental health, the quicker it
-          will become a part of our everyday and overall health conversations.
+
+          Julie has over 24 years of insurance industry experience across workplace injury, claims and operational management. Prior to joining Allianz Julie held roles at WorkCover NSW and has also spent a number of years within the occupational rehabilitation industry.
+
+
+
+          Julie holds a Bachelor of Health Science (Rehabilitation Counselling) degree from the University of Sydney and a Graduate Diploma of Safety Science through the University of New South Wales.
+        our_board_quote: ""
       - our_board_name: Melinda Upton
         our_board_image: img/melinda-dla.jpg
-        our_board_title: Partner, Global Co-Chair IPT, DLA Piper
+        our_board_title: Independent Board Member
         our_board_linkedin: https://www.linkedin.com/in/melindaupton/
         our_board_description: >-
-          Melinda Upton is a leading intellectual property lawyer and Global
-          Co-Chair of Intellectual Property and Technology (IPT) at global law
-          firm DLA Piper. The firm’s IPT practice group comprises over 500
-          lawyers across 25 countries.
+          Melinda Upton in her previous role was a leading intellectual property
+          lawyer and Global Co-Chair of Intellectual Property and Technology
+          (IPT) at global law firm DLA Piper. The firm’s IPT practice group
+          comprises over 500 lawyers across 25 countries.
 
 
           Melinda is a passionate advocate for workplace health and wellbeing in the legal profession. She established DLA Piper’s first bespoke mental health and wellbeing program called SPEAK, is a founding member of DLA Piper’s International Health & Wellbeing Steering Committee and works tirelessly to raise awareness about mental ill-health and help drive positive change across our industry.
