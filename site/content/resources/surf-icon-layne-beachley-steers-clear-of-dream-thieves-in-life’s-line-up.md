@@ -49,4 +49,4 @@ You don’t have to conquer every wave – you just need to learn to appreciate 
 
 Support is available from Lifeline on 13 11 14 or at lifeline.org.au 
 
-*Layne Beachley is improving workplace culture, resilience and performance at organisations across the country through Awake Academy. For more information visit https://awakeacademy.com.au/*
+Layne Beachley is improving workplace culture, resilience and performance at organisations across the country through Awake Academy. For more information visit https://awakeacademy.com.au/
