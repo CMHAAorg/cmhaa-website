@@ -318,9 +318,27 @@ modules:
           Skye holds an Executive MBA from Melbourne Business School, a Bachelor of Business (QUT) and is a Graduate of the Australian Institute of Company Directors.
         our_board_linkedin: https://www.linkedin.com/in/skye-crawford-3824644/
       - our_board_name: Ercument Ates
-        our_board_title: Managing Director Australia & NZ, Galderma
+        our_board_title: Managing Director Australia & New Zealand, Galderma
         our_board_linkedin: https://www.linkedin.com/in/ercumentates/
-        our_board_image: img/placeholder-noimage.gif
+        our_board_image: img/ates-ecrument.jpg
+        our_board_quote: In my experience, the wellbeing of people is essential to teams
+          and businesses performing at their best. 45% of Australians will
+          experience a mental health condition in their lifetime costing
+          Australian workplaces $10.9 billion a year. As business leaders, I
+          believe we must be part of the solution in prioritizing the mental
+          health and wellbeing of our people.
+        our_board_description: >-
+          Galderma is the leading dermatology company in the world, dedicated to
+          skin health.
+
+
+          Born in Turkey, Ercument has travelled the world in commercial roles that have seen him work in markets like Australia, Canada, UK, Turkey and the US. He brings a global perspective on leadership and a style that values people and culture to deliver exceptional levels of business performance.
+
+
+          One of the things that Ercument has noted in his life and career is the role mental health can play in limiting people’s potential with a flow-on effect on other areas of life. Yet in the right workplace environment, Ercument has seen people overcome mental health challenges and go on to thrive in business and life. 
+
+
+          Apart from being a workplace mental health advocate, Ercument is a husband and father to 3 daughters plus a keen soccer player when his knees aren’t playing up!
     our_board_title: Our board
     our_board_exec_name: ""
     our_board_description: We are governed by a Board comprised of leaders from
