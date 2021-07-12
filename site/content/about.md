@@ -384,14 +384,10 @@ modules:
     friend:
       - friend_text: Ben Bars
         friend_link: https://www.linkedin.com/in/barsy/
-      - friend_text: Michelle Baxter
-        friend_link: https://www.linkedin.com/in/michelle-baxter-b9974967/
       - friend_text: Lucy Brogden AM
         friend_link: https://www.linkedin.com/in/lucindabrogden/
       - friend_text: Rachel Clements
         friend_link: https://www.linkedin.com/in/rachelclements/
-      - friend_text: Professor Pat Dudgeon
-        friend_link: https://www.linkedin.com/in/pat-dudgeon-767916126/
       - friend_text: Georgie Drury
         friend_link: https://www.linkedin.com/in/georgiedrury/
       - friend_text: Emeritus Professor Geoffrey Gallop AC
@@ -400,14 +396,8 @@ modules:
         friend_link: https://www.linkedin.com/in/georgie-harman-720a1688/
       - friend_text: Associate Professor Samuel Harvey
         friend_link: https://www.linkedin.com/in/samuel-harvey-758356ab/
-      - friend_text: Jack Heath
-        friend_link: https://www.linkedin.com/in/jackheath/
       - friend_text: Professor Ian Hickie
         friend_link: https://www.linkedin.com/in/ian-hickie-0b299a69/
-      - friend_text: Dawn Hough
-        friend_link: https://www.linkedin.com/in/dawnhoughpid/
-      - friend_text: Professor David Kavanagh
-        friend_link: https://www.linkedin.com/in/david-kavanagh-4a406b30/
       - friend_text: Dr Angela Martin
         friend_link: https://www.linkedin.com/in/angela-martin-a988b622/
       - friend_text: Greg Miller
@@ -416,6 +406,8 @@ modules:
         friend_link: https://www.linkedin.com/in/colin-seery-94851b42/
       - friend_text: Mitch Wallis
         friend_link: https://www.linkedin.com/in/mitchwallis/
+      - friend_text: Claire Allen
+        friend_link: https://www.linkedin.com/in/claire-allen-she-her/
   - type: separator-line
     padding_top: false
     padding_bottom: false
