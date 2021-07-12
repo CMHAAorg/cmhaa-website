@@ -412,6 +412,8 @@ modules:
         friend_link: "https://www.linkedin.com/in/margo-lydon-567b1018/ "
       - friend_text: Rachel Green
         friend_link: "https://www.linkedin.com/in/rachel-green-a60377110/ "
+      - friend_text: Professor Sharon Parker
+        friend_link: https://www.linkedin.com/in/sharonkparker/
   - type: separator-line
     padding_top: false
     padding_bottom: false
