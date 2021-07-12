@@ -408,6 +408,10 @@ modules:
         friend_link: https://www.linkedin.com/in/mitchwallis/
       - friend_text: Claire Allen
         friend_link: https://www.linkedin.com/in/claire-allen-she-her/
+      - friend_text: Margo Lydon
+        friend_link: "https://www.linkedin.com/in/margo-lydon-567b1018/ "
+      - friend_text: Rachel Green
+        friend_link: "https://www.linkedin.com/in/rachel-green-a60377110/ "
   - type: separator-line
     padding_top: false
     padding_bottom: false
