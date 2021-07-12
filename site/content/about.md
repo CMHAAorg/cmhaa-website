@@ -234,33 +234,37 @@ modules:
           to make yourself vulnerable. If you can accept your own short-comings
           and open some of those up to others, people feel less alone. That’s
           all a lot of people in the world want - to feel less alone.
-      - our_board_name: Helen Silver AO
-        our_board_title: Chief General Manager, Corporate Governance and Conduct,
-          Allianz Australia Insurance Ltd
-        our_board_image: img/helen-allianz.jpg
-        our_board_linkedin: https://www.linkedin.com/in/silverhelen/
+      - our_board_name: Julie Mitchell
+        our_board_title: Chief General Manager, Personal Injury, Allianz Australia Insurance Ltd
+        our_board_image: img/julie-mitchell.jpg
+        our_board_linkedin: "https://www.linkedin.com/in/julie-mitchell-b3bb3220/ "
         our_board_description: >-
-          Helen Silver is Allianz Australia’s Chief General Manager, Corporate
-          Governance and Conduct.
+          Julie Mitchell is the Chief General Manager Personal Injury and is
+          responsible for personal injury lines CTP, Life and Workers
+          Compensation for Allianz Australia. 
 
 
-          Prior to joining Allianz Australia, Helen had spent more than 25 years in executive roles in the Victoria and Commonwealth public sectors, culminating in the position of Secretary of the Victorian Department of Premier and Cabinet.
+          \
+
+          Across a 20 year career at Allianz, Julie has held a number of key leadership roles including Chief General Manager Workers Compensation, General Manager of Victoria and the NSW Treasury Managed Fund (TMF) businesses. 
 
 
-          Helen also currently serves on a number of boards including the Victorian Arts Centre Trust, the Judicial Commission and the Melbourne Symphony Orchestra.
-        our_board_quote: If we are to get people to seek help early, we need to reduce
-          the stigma associated with asking for that help. As leaders we have a
-          role in that. If leaders open up about mental health, the quicker it
-          will become a part of our everyday and overall health conversations.
+
+          Julie has over 24 years of insurance industry experience across workplace injury, claims and operational management. Prior to joining Allianz Julie held roles at WorkCover NSW and has also spent a number of years within the occupational rehabilitation industry.
+
+
+
+          Julie holds a Bachelor of Health Science (Rehabilitation Counselling) degree from the University of Sydney and a Graduate Diploma of Safety Science through the University of New South Wales.
+        our_board_quote: ""
       - our_board_name: Melinda Upton
         our_board_image: img/melinda-dla.jpg
-        our_board_title: Partner, Global Co-Chair IPT, DLA Piper
+        our_board_title: Independent Board Member
         our_board_linkedin: https://www.linkedin.com/in/melindaupton/
         our_board_description: >-
-          Melinda Upton is a leading intellectual property lawyer and Global
-          Co-Chair of Intellectual Property and Technology (IPT) at global law
-          firm DLA Piper. The firm’s IPT practice group comprises over 500
-          lawyers across 25 countries.
+          Melinda Upton in her previous role was a leading intellectual property
+          lawyer and Global Co-Chair of Intellectual Property and Technology
+          (IPT) at global law firm DLA Piper. The firm’s IPT practice group
+          comprises over 500 lawyers across 25 countries.
 
 
           Melinda is a passionate advocate for workplace health and wellbeing in the legal profession. She established DLA Piper’s first bespoke mental health and wellbeing program called SPEAK, is a founding member of DLA Piper’s International Health & Wellbeing Steering Committee and works tirelessly to raise awareness about mental ill-health and help drive positive change across our industry.
@@ -289,25 +293,12 @@ modules:
         our_board_image: img/steven-microsoft.jpg
         our_board_name: Steven Worrall
         our_board_title: Managing Director, Microsoft Australia & Chair, CMHAA
-      - our_board_name: Deborah Yates
-        our_board_image: img/deb-yates-high-res-head-shot.jpg
-        our_board_title: National Managing Partner People and Corporate Affairs, KPMG Australia
-        our_board_linkedin: " https://www.linkedin.com/in/deborah-yates-68ab768/"
-        our_board_quote: If we can make a difference to the wellbeing of workers, then
-          we can make a difference to the wellbeing of families. And if we do
-          that, we’ve made a real difference to the whole community.
-        our_board_description: >-
-          Deborah has significant experience in leading culture change, large
-          acquisitions from deal negotiation through to full business
-          integration, change management, restructuring and crisis management.
-          Deb is a respected coach and mentor to senior leaders and senior
-          leadership teams.
-
-
-          Since joining KPMG in January 2018 Deb has led the people strategy with particular focus on creating a mentally healthy culture with leaders confident and competent in leading the charge in an inclusive and diverse culture. She also leads the Corporate Affairs strategy which includes the Corporate Citizenship mental health pillar with a focus on partnering with NFPs and peak bodies dedicated to supporting people with mental illness externally in the community. Deborah also sits on the board of The Sanctuary – The Hills Women’s Shelter.
-
-
-          Deborah is married to Michael who together are parents to two teenage boys, and she loves to run, cook and entertain at her home in Sydney after many years of living abroad.
+      - our_board_name: TBC
+        our_board_image: img/kpmg.jpg
+        our_board_title: KPMG Australia
+        our_board_linkedin: ""
+        our_board_quote: ""
+        our_board_description: ""
       - our_board_name: Skye Crawford
         our_board_image: img/profile-picture_cropped.jpg
         our_board_title: Chief People & Culture Officer, AIA Australia
@@ -327,9 +318,30 @@ modules:
           Skye holds an Executive MBA from Melbourne Business School, a Bachelor of Business (QUT) and is a Graduate of the Australian Institute of Company Directors.
         our_board_linkedin: https://www.linkedin.com/in/skye-crawford-3824644/
       - our_board_name: Ercument Ates
-        our_board_title: Managing Director Australia & NZ, Galderma
+        our_board_title: Managing Director Australia & New Zealand, Galderma
         our_board_linkedin: https://www.linkedin.com/in/ercumentates/
-        our_board_image: img/placeholder-noimage.gif
+        our_board_image: img/ates-ecrument.jpg
+        our_board_quote: In my experience, the wellbeing of people is essential to teams
+          and businesses performing at their best. 45% of Australians will
+          experience a mental health condition in their lifetime costing
+          Australian workplaces $10.9 billion a year. As business leaders, I
+          believe we must be part of the solution in prioritizing the mental
+          health and wellbeing of our people.
+        our_board_description: >-
+          Galderma is the leading dermatology company in the world, dedicated to
+          skin health.
+
+
+          Born in Turkey, Ercument has travelled the world in commercial roles that have seen him work in markets like Australia, Canada, UK, Turkey and the US. He brings a global perspective on leadership and a style that values people and culture to deliver exceptional levels of business performance.
+
+
+          One of the things that Ercument has noted in his life and career is the role mental health can play in limiting people’s potential with a flow-on effect on other areas of life. Yet in the right workplace environment, Ercument has seen people overcome mental health challenges and go on to thrive in business and life. 
+
+
+          Apart from being a workplace mental health advocate, Ercument is a husband and father to 3 daughters plus a keen soccer player when his knees aren’t playing up!
+      - our_board_name: TBC
+        our_board_title: DLA Piper
+        our_board_image: img/dlapiper.jpg
     our_board_title: Our board
     our_board_exec_name: ""
     our_board_description: We are governed by a Board comprised of leaders from
@@ -372,14 +384,10 @@ modules:
     friend:
       - friend_text: Ben Bars
         friend_link: https://www.linkedin.com/in/barsy/
-      - friend_text: Michelle Baxter
-        friend_link: https://www.linkedin.com/in/michelle-baxter-b9974967/
       - friend_text: Lucy Brogden AM
         friend_link: https://www.linkedin.com/in/lucindabrogden/
       - friend_text: Rachel Clements
         friend_link: https://www.linkedin.com/in/rachelclements/
-      - friend_text: Professor Pat Dudgeon
-        friend_link: https://www.linkedin.com/in/pat-dudgeon-767916126/
       - friend_text: Georgie Drury
         friend_link: https://www.linkedin.com/in/georgiedrury/
       - friend_text: Emeritus Professor Geoffrey Gallop AC
@@ -388,14 +396,8 @@ modules:
         friend_link: https://www.linkedin.com/in/georgie-harman-720a1688/
       - friend_text: Associate Professor Samuel Harvey
         friend_link: https://www.linkedin.com/in/samuel-harvey-758356ab/
-      - friend_text: Jack Heath
-        friend_link: https://www.linkedin.com/in/jackheath/
       - friend_text: Professor Ian Hickie
         friend_link: https://www.linkedin.com/in/ian-hickie-0b299a69/
-      - friend_text: Dawn Hough
-        friend_link: https://www.linkedin.com/in/dawnhoughpid/
-      - friend_text: Professor David Kavanagh
-        friend_link: https://www.linkedin.com/in/david-kavanagh-4a406b30/
       - friend_text: Dr Angela Martin
         friend_link: https://www.linkedin.com/in/angela-martin-a988b622/
       - friend_text: Greg Miller
@@ -404,6 +406,14 @@ modules:
         friend_link: https://www.linkedin.com/in/colin-seery-94851b42/
       - friend_text: Mitch Wallis
         friend_link: https://www.linkedin.com/in/mitchwallis/
+      - friend_text: Claire Allen
+        friend_link: https://www.linkedin.com/in/claire-allen-she-her/
+      - friend_text: Margo Lydon
+        friend_link: "https://www.linkedin.com/in/margo-lydon-567b1018/ "
+      - friend_text: Rachel Green
+        friend_link: "https://www.linkedin.com/in/rachel-green-a60377110/ "
+      - friend_text: Professor Sharon Parker
+        friend_link: https://www.linkedin.com/in/sharonkparker/
   - type: separator-line
     padding_top: false
     padding_bottom: false
