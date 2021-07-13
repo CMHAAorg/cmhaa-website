@@ -33,7 +33,7 @@ The first group she dubbed “the dream thieves” the second were her “dream 
 
 We all have these people in our lives. I’d like to think that at Microsoft we’re mostly dream team, but we’ve all come across dream thieves.
 
-What Layne learned was to tell the difference between the two early on. As she shared with us ; “The law of proximity states that we become the sum of the top five people we spend the most amount of time with. So when you think about the fact that there's dream team members and there's dream thieves, how many of you are surrounded by dream thieves, and how many of you are surrounded by your dream team?”
+What Layne learned was to tell the difference between the two early on. As she shared with us; “The law of proximity states that we become the sum of the top five people we spend the most amount of time with. So when you think about the fact that there's dream team members and there's dream thieves, how many of you are surrounded by dream thieves, and how many of you are surrounded by your dream team?”
 
 We can be our own dream thief – telling ourselves we are not worthy, perhaps also downplaying someone else’s success and aspirations. If we want to be on the dream team, we bring our best selves to everything we do and support the people around us as best we can. When something is wrong we call it out bravely and honestly.
 
