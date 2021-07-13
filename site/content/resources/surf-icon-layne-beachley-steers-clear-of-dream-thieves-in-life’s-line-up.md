@@ -7,6 +7,7 @@ meta_description: Layne recently spoke to Microsoft Australia employees about
   navigated the ebbs and flows that we all face during the course of our lives
   and found safe harbour.
 banner_title: Surf icon Layne Beachley steers clear of dream thieves in life’s line-up
+banner_description: From the Chair, Steven Worrall
 banner_image: img/sunrise-opening-image.jpg
 date: 2021-07-12T05:36:15.196Z
 description: Imagine being so good at something that you are named world
