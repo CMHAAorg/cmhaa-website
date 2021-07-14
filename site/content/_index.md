@@ -8,7 +8,6 @@ meta_description: We are an alliance of Australian businesses dedicated to
   the power to change people's experience of the workplace for the better.
 banner_title: Together in the business of workplace mental health
 banner_image: img/gettyimages-173292124.jpg
-banner_cta_link: /about/
 modules:
   - type: split_title_content
     title: Who we are
@@ -116,6 +115,8 @@ modules:
         our_member_image: img/pwc200142067_v3_final.jpg
       - our_member_image: img/woolworths-group_rgb_positive_logo.png
         our_member_link: https://www.woolworthsgroup.com.au/
+      - our_member_image: img/galderma_logo_black_cmyk.jpg
+        our_member_link: https://www.galderma.com/
   - type: stacked-content-top-image
     stacked_image: img/istock-1172976280.jpg
     stacked_description: We are at the very beginning of our work together. Come be
@@ -158,5 +159,6 @@ modules:
       Together,  they are leading a movement for positive change across
       Australia, and the world, as a part of the CMHA Global network.
 slug: homepage
+banner_cta_link: /about/
 banner_cta_text: See who's involved
 ---
