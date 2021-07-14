@@ -293,12 +293,30 @@ modules:
         our_board_image: img/steven-microsoft.jpg
         our_board_name: Steven Worrall
         our_board_title: Managing Director, Microsoft Australia & Chair, CMHAA
-      - our_board_name: TBC
-        our_board_image: img/kpmg.jpg
-        our_board_title: KPMG Australia
-        our_board_linkedin: ""
+      - our_board_name: Sarah Vega
+        our_board_image: img/sarah-vega-bio-picture-002-.jpg
+        our_board_title: National Managing Partner, Innovation, Solutions & Ventures,
+          KPMG Australia
+        our_board_linkedin: https://www.linkedin.com/in/sarah-vega-25690013/
         our_board_quote: ""
-        our_board_description: ""
+        our_board_description: >-
+          Sarah is the National Managing Partner of KPMG’s Innovation, Solutions
+          & Ventures portfolio. This team helps shape the future of KPMG by
+          exploring and embedding new forms of growth.
+
+          Sarah’s passion for technology was driven at a young age by her father who worked in signals intelligence for the British Government. Her father’s influence led her to study computing and management before joining Accenture in the UK where she spent 12 years of her career working on large scale business and technology transformation programs across utilities, telco and financial services.
+
+
+
+          After arriving in Australia in 2008, Sarah spent a decade in executive leadership roles developing and executing joint business and IT strategies in complex environments. Sarah joined KPMG in 2018 in a return to professional services and chose KPMG for three key reasons: the trusted brand, the smart and very human people, and the ambitious growth and development aspirations.
+
+
+
+          Sarah has managed just about every work/life integration challenge: emigrating around the world, maternity leave (twice), working part-time, working flex-time, working full-time in two jobs (one at home and one at the office), juggling kids, work, friends, family. Sarah is an outspoken advocate of women in leadership and women in IT.
+
+
+
+          Outside of KPMG, she has a passion for understanding how human beings work physically and mentally with a specific interest in longevity and the science of health and fitness. Sarah is a parent to four children and her passions include weightlifting, skiing, road biking and reading sci-fi and fantasy.
       - our_board_name: Skye Crawford
         our_board_image: img/profile-picture_cropped.jpg
         our_board_title: Chief People & Culture Officer, AIA Australia
