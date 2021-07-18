@@ -8,7 +8,7 @@ meta_description: Layne recently spoke to Microsoft Australia employees about
   and found safe harbour.
 banner_title: Surf icon Layne Beachley steers clear of dream thieves in life’s line-up
 banner_description: From the Chair, Steven Worrall
-banner_image: img/sunrise-opening-image.jpg
+banner_image: img/lachlan-dempsey-o14abktz5iy-unsplash_1.jpg
 date: 2021-07-12T05:36:15.196Z
 description: Imagine being so good at something that you are named world
   champion seven times. Layne Beachley doesn’t have to imagine – she is that
