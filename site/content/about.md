@@ -155,7 +155,7 @@ modules:
           we’re going to be better in our organisations and together.
       - our_board_name: Virginia Briggs
         our_board_image: img/v-briggs-photo.jpg
-        our_board_title: MinterEllison
+        our_board_title: CEO MinterEllison
         our_board_linkedin: " https://www.linkedin.com/in/virginia-briggs-307a6155/ "
         our_board_description: >-
           Virginia Briggs is recognised within MinterEllison and beyond as a
@@ -357,8 +357,8 @@ modules:
 
 
           Apart from being a workplace mental health advocate, Ercument is a husband and father to 3 daughters plus a keen soccer player when his knees aren’t playing up!
-      - our_board_name: TBC
-        our_board_title: DLA Piper
+      - our_board_name: Amber Matthews
+        our_board_title: Managing Partner Australia, DLA Piper
         our_board_image: img/dlapiper.jpg
     our_board_title: Our board
     our_board_exec_name: ""
