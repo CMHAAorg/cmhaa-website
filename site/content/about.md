@@ -155,7 +155,7 @@ modules:
           we’re going to be better in our organisations and together.
       - our_board_name: Virginia Briggs
         our_board_image: img/v-briggs-photo.jpg
-        our_board_title: MinterEllison
+        our_board_title: CEO MinterEllison
         our_board_linkedin: " https://www.linkedin.com/in/virginia-briggs-307a6155/ "
         our_board_description: >-
           Virginia Briggs is recognised within MinterEllison and beyond as a
