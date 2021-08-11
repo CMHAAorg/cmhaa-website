@@ -359,7 +359,25 @@ modules:
           Apart from being a workplace mental health advocate, Ercument is a husband and father to 3 daughters plus a keen soccer player when his knees aren’t playing up!
       - our_board_name: Amber Matthews
         our_board_title: Managing Partner Australia, DLA Piper
-        our_board_image: img/dlapiper.jpg
+        our_board_image: img/photo_amber-matthews.jpeg
+        our_board_description: >-
+          Amber is the Managing Partner of DLA Piper, Australia. DLA Piper is a
+          global law firm with offices in more than 40 countries throughout the
+          Americas, Europe, the Middle East, Africa and Asia Pacific.
+
+
+          Amber has been with DLA Piper for over 20 years in various roles, starting as a corporate lawyer in their Sydney and then London offices, before becoming the firm’s international General Counsel in 2011, a role which she held until 2019, when she took on the Managing Partner role in Australia.
+
+
+          Amber is a collaborative and values driven leader. She believes in developing and empowering others and creating a workplace culture that is inclusive for all. This includes ensuring that everyone has the tools to do their jobs to the best of their ability. Optimising wellbeing and managing stress are critical tools for anyone to have a fulfilling and successful career. 
+
+
+          Amber is a member of the firm’s international Health & Wellbeing Steering Committee, a SPEAK (DLA Piper’s mental health programme) Ambassador and Chair of the Australian and Asia-Pacific Diversity & Inclusion Committees.
+        our_board_quote: "There are inevitably times in life when we are stretched and
+          overwhelmed, sometimes to a point when we can’t cope. Workplaces need
+          to support their people through these times and do all they can to
+          ensure that the work environment is not the cause of the problem.  "
+        our_board_linkedin: "https://www.linkedin.com/in/amber-matthews-8b8568/ "
     our_board_title: Our board
     our_board_exec_name: ""
     our_board_description: We are governed by a Board comprised of leaders from
