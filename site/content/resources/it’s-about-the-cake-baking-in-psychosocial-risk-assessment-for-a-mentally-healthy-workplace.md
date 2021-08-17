@@ -68,7 +68,7 @@ modules:
       compensate for a terrible ‘cake’ underneath. It is essential that
       organisations prioritise the fundamental organisational and structural
       issues that make ‘good work good for you’.
-    title2: Dr Caponecchia offered direction for companies starting out…
+    title2: Direction for companies starting out…
     content2: >-
       1. The Commonwealth Government’s People at Work portal, which steps
       organisations through psychosocial risk assessment using Australian
