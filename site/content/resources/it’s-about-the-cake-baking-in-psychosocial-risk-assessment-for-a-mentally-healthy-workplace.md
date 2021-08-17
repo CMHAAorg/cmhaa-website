@@ -140,7 +140,7 @@ modules:
       **Going forward…**
 
 
-      KWM still has a distance to go to embed these new insights deeply into company policies, practices, and culture, said Chief Executive Partner Berkeley Cox, but the work to date has created a positive foundation. Listening to employees was not only about being open to constructive feedback, he said, but inviting them to recount positive experiences too. “It’s about a strengths-based approach, and aspiration for the future. If you get this stuff right, you’re going to get better outcomes.”
+      KWM still has a distance to go to embed these new insights deeply into company policies, practices, and culture, said Chief Executive Partner Berkeley Cox, but the work to date has created a positive foundation. Listening to employees was not only about being open to constructive feedback, he said, but inviting them to recount positive experiences too.
   - type: quote
     quote_text: “It’s about a strengths-based approach, and aspiration for the
       future. If you get this stuff right, you’re going to get better outcomes.”
