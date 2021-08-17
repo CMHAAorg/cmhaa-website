@@ -38,14 +38,7 @@ modules:
       result in a distinct mental health disorder. The ‘social’ part of
       psychosocial highlights the importance of interpersonal factors, not just
       how people respond individually to their workplace.
-    leadtext: >-
-      **psychosocial**
-
-
-      *adjective*
-
-
-      1. relating to the interrelation of social factors and individual thought and behaviour.
+    leadtext: "![](img/picture3.png)"
     image: ""
   - type: split_title_content
     title: Build on what you have already
@@ -88,12 +81,11 @@ modules:
       issues that make ‘good work good for you’.
     title2: Dr Caponecchia offered direction for companies starting out…
     content2: >-
-      \- The Commonwealth Government’s People at Work portal, which steps
+      1. The Commonwealth Government’s People at Work portal, which steps
       organisations through psychosocial risk assessment using Australian
-      language and terminology, and supports them to tailor a response.
+      language and terminology, and supports them to tailor a response. 
 
-
-      \- The new (June 2021) ISO 45003 standard for managing psychosocial risks in the workplace, which highlights the opportunity not just to avoid harm but also to increase job satisfaction, employee commitment and productivity: “Everything you do to manage risk is working at more than one level. You’re not only controlling the risks but communicating something about your values, telling people what you’re actually about.”
+      2. The new (June 2021) ISO 45003 standard for managing psychosocial risks in the workplace, which highlights the opportunity not just to avoid harm but also to increase job satisfaction, employee commitment and productivity: “Everything you do to manage risk is working at more than one level. You’re not only controlling the risks but communicating something about your values, telling people what you’re actually about.”
   - type: split_title_content
     title: "Putting it into Practice "
     leadtext: The CMHAA is made up of many member organisations who come together
@@ -103,9 +95,9 @@ modules:
   - type: split_title_content_background
     disable_leftright: false
     title: King & Wood Mallesons
-    leadtext: "**Berkeley Cox**, Chief Executive Partner, and **Jo McAlpine**, Head
-      of Talent and Capability outlined how they introduced psychosocial risk
-      assessment at the leading corporate law firm."
+    leadtext: Berkeley Cox, Chief Executive Partner, and Jo McAlpine, Head of Talent
+      and Capability outlined how they introduced psychosocial risk assessment
+      at the leading corporate law firm.
     content: >-
       **Identifying the need**
 
@@ -155,10 +147,10 @@ modules:
   - type: split_title_content_background
     disable_leftright: false
     title: PwC Australia
-    leadtext: "**Kate Connors**, Chief Mental Health Officer, and **Nicola Lynch**,
-      Partner, Trust and Risk, Assurance, described how they are tailoring an
+    leadtext: Kate Connors, Chief Mental Health Officer, and Nicola Lynch, Partner,
+      Trust and Risk, Assurance, described how they are tailoring an
       off-the-shelf psychosocial risk assessment tool to assess PwC’s existing
-      people systems."
+      people systems.
     content: >-
       **Identifying the need**
 
@@ -214,5 +206,8 @@ modules:
       University to assess our systems with rigour, evidence base and a
       commitment to best practice.”
     quote_author: Kate Connors, Chief Mental Health Officer, PwC
+  - type: split_title_content
+    title: We would like to thank our member, Johnson & Johnson, for hosting this
+      event
 ---
 At a recent CMHAA member event, we spoke with Dr Carlo Caponecchia, a Senior Lecturer and Associate Dean for Equity, Diversity and Inclusion at the University of NSW’s Faculty of Science. Dr Caponecchia has a background in psychology, human factors and safety, with expertise in psychosocial risks and safe systems of work. He described the latest developments in the emerging discipline of psychosocial risk assessment.  Here we share four of his key take-outs.
