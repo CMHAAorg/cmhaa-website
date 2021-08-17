@@ -7,6 +7,8 @@ meta_description: "Organisations that have a strong, supportive workplace, with
   a sense of shared purpose, clear objectives, manageable workload and
   responsive leadership, can help people thrive in their lives as well as their
   careers. "
+banner_title: "It’s about the cake: baking in psychosocial risk assessment for a
+  mentally healthy workplace"
 banner_image: img/istock-1127397327.jpg
 date: 2021-08-17T05:10:27.857Z
 description: >-
