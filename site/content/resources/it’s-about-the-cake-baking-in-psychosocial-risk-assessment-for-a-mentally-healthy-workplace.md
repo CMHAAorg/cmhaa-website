@@ -134,12 +134,12 @@ modules:
       The findings were aligned to the three workplace wellbeing components:
 
 
-      * Belonging, loyalty and job satisfaction
-        Lawyers who had regular conversations with their Partner regarding their career progression were more likely to report that their Partner cared about their wellbeing. Those who felt they could have an attractive career at KWM, or access to other ways to grow their skills and experience with the firm, demonstrated a higher sense of belonging, loyalty and job satisfaction.
-      * Fairness, recognition, and authenticity
-        “People wanted to hear from their Partner or Manager that the fairness agenda is important to them,” Ms McAlpine said. “It’s not just the awards and $100 vouchers. It’s about the application of policies, getting time back and rest and recovery, whether these were being applied consistently.”
-      * Autonomy, workload perception, and flexibility
-        People’s relationships with their Partner or Manager determined whether they felt empowered in their work and ability to manage the workload. Closer individual relationships promoted mutual trust, improving people’s sense of autonomy, coping and the perception that they can work flexibly.
+      * Belonging, loyalty and job satisfaction: Lawyers who had regular conversations with their Partner regarding their career progression were more likely to report that their Partner cared about their wellbeing. Those who felt they could have an attractive career at KWM, or access to other ways to grow their skills and experience with the firm, demonstrated a higher sense of belonging, loyalty and job satisfaction.
+
+      * Fairness, recognition, and authenticity: “People wanted to hear from their Partner or Manager that the fairness agenda is important to them,” Ms McAlpine said. “It’s not just the awards and $100 vouchers. It’s about the application of policies, getting time back and rest and recovery, whether these were being applied consistently.”
+
+      * Autonomy, workload perception, and flexibility: People’s relationships with their Partner or Manager determined whether they felt empowered in their work and ability to manage the workload. Closer individual relationships promoted mutual trust, improving people’s sense of autonomy, coping and the perception that they can work flexibly.
+
 
       **Going forward…**
 
