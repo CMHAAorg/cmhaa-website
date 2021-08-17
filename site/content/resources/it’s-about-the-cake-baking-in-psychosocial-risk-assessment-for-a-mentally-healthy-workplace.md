@@ -74,7 +74,7 @@ modules:
       “People often think they have knowledge and expertise in this area by
       virtue of being human.”"
   - type: spotlight_image_content
-    image: img/alex-loup-on2vsehudxw-unsplash.jpg
+    image: img/annie-spratt-6shd7q-l1uq-unsplash.jpg
     title1: Put the cake before the icing
     content1: Dr Caponecchia used a simple analogy of making a cake when describing
       how to think about psychological safety in the workplace. He stressed that
