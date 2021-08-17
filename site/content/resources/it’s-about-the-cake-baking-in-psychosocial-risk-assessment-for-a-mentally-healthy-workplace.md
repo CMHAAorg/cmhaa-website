@@ -30,13 +30,8 @@ organisation_size: All Sizes
 industry: All Industries
 modules:
   - type: quote
-    quote_text: >-
-      **psychosocial** 
-
-      *adjective*
-
-
-      1. relating to the interrelation of social factors and individual thought and behaviour.
+    quote_text: "Psychosocial (adjective): relating to the interrelation of social
+      factors and individual thought and behaviour."
   - type: split_title_content
     content: Dr Caponecchia prefers to speak about psychosocial safety, hazards and
       risks rather than about mental health. This avoids the stigma that
