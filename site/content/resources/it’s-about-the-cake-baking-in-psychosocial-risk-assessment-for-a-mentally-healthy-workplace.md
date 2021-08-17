@@ -74,6 +74,8 @@ modules:
       organisations through psychosocial risk assessment using Australian
       language and terminology, and supports them to tailor a response. 
 
+
+
       2. The new (June 2021) ISO 45003 standard for managing psychosocial risks in the workplace, which highlights the opportunity not just to avoid harm but also to increase job satisfaction, employee commitment and productivity: “Everything you do to manage risk is working at more than one level. You’re not only controlling the risks but communicating something about your values, telling people what you’re actually about.”
   - type: split_title_content
     title: "Putting it into Practice "
