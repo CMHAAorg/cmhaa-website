@@ -38,8 +38,11 @@ modules:
       result in a distinct mental health disorder. The ‘social’ part of
       psychosocial highlights the importance of interpersonal factors, not just
       how people respond individually to their workplace.
-    leadtext: "![](img/picture3.png)"
-    image: ""
+    leadtext: |-
+      
+
+      ![]()
+    image: img/picture3.png
   - type: split_title_content
     title: Build on what you have already
     leadtext: ""
@@ -92,10 +95,6 @@ modules:
       with the purpose of sharing insights and learning. We were fortunate to
       have two members share their experiences of implementing psychosocial risk
       assessment in their organisations.
-  - type: quote
-    quote_text: “It’s about a strengths-based approach, and aspiration for the
-      future. If you get this stuff right, you’re going to get better outcomes.”
-    quote_author: Berkeley Cox, Chief Executive Partner KWM
   - type: split_title_content_background
     disable_leftright: false
     title: King & Wood Mallesons
@@ -145,11 +144,9 @@ modules:
 
       KWM still has a distance to go to embed these new insights deeply into company policies, practices, and culture, said Chief Executive Partner Berkeley Cox, but the work to date has created a positive foundation. Listening to employees was not only about being open to constructive feedback, he said, but inviting them to recount positive experiences too. “It’s about a strengths-based approach, and aspiration for the future. If you get this stuff right, you’re going to get better outcomes.”
   - type: quote
-    quote_text: “We have established a great foundation for conversations about
-      mental health in our workplace, and are excited to collaborate with Curtin
-      University to assess our systems with rigour, evidence base and a
-      commitment to best practice.”
-    quote_author: Kate Connors, Chief Mental Health Officer, PwC
+    quote_text: “It’s about a strengths-based approach, and aspiration for the
+      future. If you get this stuff right, you’re going to get better outcomes.”
+    quote_author: Berkeley Cox, Chief Executive Partner KWM
   - type: split_title_content_background
     disable_leftright: false
     title: PwC Australia
@@ -206,6 +203,12 @@ modules:
       * validate and identify new and emerging mental health risks and controls for inclusion in the PwC risk register
 
       * continue collaboration with Curtin University to develop an 18-month roadmap, to embed the Thrive at Work framework, inform best practice and embed evidence-based workplace mental health strategies throughout the organisation.
+  - type: quote
+    quote_text: “We have established a great foundation for conversations about
+      mental health in our workplace, and are excited to collaborate with Curtin
+      University to assess our systems with rigour, evidence base and a
+      commitment to best practice.”
+    quote_author: Kate Connors, Chief Mental Health Officer, PwC
   - type: split_title_content
     title: We would like to thank our member, Johnson & Johnson, for hosting this
       event
