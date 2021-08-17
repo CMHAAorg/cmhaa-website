@@ -79,11 +79,11 @@ modules:
       issues that make ‘good work good for you’.
     title2: Dr Caponecchia offered direction for companies starting out…
     content2: >-
-      * The Commonwealth Government’s People at Work portal, which steps
+      1. The Commonwealth Government’s People at Work portal, which steps
       organisations through psychosocial risk assessment using Australian
       language and terminology, and supports them to tailor a response.
 
-      * The new (June 2021) ISO 45003 standard for managing psychosocial risks in the workplace, which highlights the opportunity not just to avoid harm but also to increase job satisfaction, employee commitment and productivity: “Everything you do to manage risk is working at more than one level. You’re not only controlling the risks but communicating something about your values, telling people what you’re actually about.”
+      2. The new (June 2021) ISO 45003 standard for managing psychosocial risks in the workplace, which highlights the opportunity not just to avoid harm but also to increase job satisfaction, employee commitment and productivity: “Everything you do to manage risk is working at more than one level. You’re not only controlling the risks but communicating something about your values, telling people what you’re actually about.”
   - type: split_title_content
     title: "Putting it into Practice "
     leadtext: The CMHAA is made up of many member organisations who come together
