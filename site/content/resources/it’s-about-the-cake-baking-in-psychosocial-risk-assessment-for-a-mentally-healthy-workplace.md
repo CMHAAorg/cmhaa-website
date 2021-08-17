@@ -36,13 +36,8 @@ modules:
       result in a distinct mental health disorder. The ‘social’ part of
       psychosocial highlights the importance of interpersonal factors, not just
       how people respond individually to their workplace.
-    leadtext: >-
-      **psychosocial**
-
-      *adjective*
-
-
-      1. relating to the interrelation of social factors and individual thought and behaviour.
+    leadtext: ""
+    image: img/picture2.png
   - type: split_title_content
     title: Build on what you have already
     leadtext: ""
@@ -95,14 +90,12 @@ modules:
       with the purpose of sharing insights and learning. We were fortunate to
       have two members share their experiences of implementing psychosocial risk
       assessment in their organisations.
-  - type: image
-    image: img/kingwood.jpg
   - type: split_title_content_background
     disable_leftright: false
     title: King & Wood Mallesons
-    leadtext: "***Berkeley Cox**, Chief Executive Partner, and **Jo McAlpine**, Head
+    leadtext: "**Berkeley Cox**, Chief Executive Partner, and **Jo McAlpine**, Head
       of Talent and Capability outlined how they introduced psychosocial risk
-      assessment at the leading corporate law firm.*"
+      assessment at the leading corporate law firm."
     content: >-
       **Identifying the need**
 
@@ -149,15 +142,13 @@ modules:
     quote_text: “It’s about a strengths-based approach, and aspiration for the
       future. If you get this stuff right, you’re going to get better outcomes.”
     quote_author: Berkeley Cox, Chief Executive Partner KWM
-  - type: image
-    image: img/pwc200142067_v3_final.jpg
   - type: split_title_content_background
     disable_leftright: false
     title: PwC Australia
-    leadtext: "***Kate Connors**, Chief Mental Health Officer, and **Nicola Lynch**,
+    leadtext: "**Kate Connors**, Chief Mental Health Officer, and **Nicola Lynch**,
       Partner, Trust and Risk, Assurance, described how they are tailoring an
       off-the-shelf psychosocial risk assessment tool to assess PwC’s existing
-      people systems.*"
+      people systems."
     content: >-
       **Identifying the need**
 
@@ -213,9 +204,5 @@ modules:
       University to assess our systems with rigour, evidence base and a
       commitment to best practice.”
     quote_author: Kate Connors, Chief Mental Health Officer, PwC
-  - type: image
-    image: img/johnson.png
-    image_caption: "With thanks to our CMHAA member Johnson & Johnson for hosting
-      the session. "
 ---
 At a recent CMHAA member event, we spoke with Dr Carlo Caponecchia, a Senior Lecturer and Associate Dean for Equity, Diversity and Inclusion at the University of NSW’s Faculty of Science. Dr Caponecchia has a background in psychology, human factors and safety, with expertise in psychosocial risks and safe systems of work. He described the latest developments in the emerging discipline of psychosocial risk assessment.  Here we share four of his key take-outs.
