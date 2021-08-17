@@ -36,8 +36,15 @@ modules:
       result in a distinct mental health disorder. The ‘social’ part of
       psychosocial highlights the importance of interpersonal factors, not just
       how people respond individually to their workplace.
-    leadtext: ""
-    image: img/picture2.png
+    leadtext: >-
+      **psychosocial**
+
+
+      *adjective*
+
+
+      1. relating to the interrelation of social factors and individual thought and behaviour.
+    image: ""
   - type: split_title_content
     title: Build on what you have already
     leadtext: ""
