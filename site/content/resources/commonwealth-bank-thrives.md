@@ -7,6 +7,7 @@ meta_description: The health and wellbeing of its 45,000 employees has long been
   a priority for the Commonwealth Bank and in recent years it has significantly
   expanded its focus on mental health.
 banner_title: Commonwealth Bank Thrives
+banner_image: img/tim-mossholder-b3rw6npp1ue-unsplash.jpg
 date: 2021-03-18T06:20:41.010Z
 description: The health and wellbeing of its 45,000 employees has long been a
   priority for the Commonwealth Bank and in recent years it has significantly
