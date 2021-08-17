@@ -210,7 +210,8 @@ modules:
       commitment to best practice.”
     quote_author: Kate Connors, Chief Mental Health Officer, PwC
   - type: split_title_content
-    title: We would like to thank our member, Johnson & Johnson, for hosting this
-      event
+    title: Event Host
+    leadtext: We would like to thank our member organisation, Johnson & Johnson, for
+      kindly hosting this event
 ---
 At a recent CMHAA member event, we spoke with Dr Carlo Caponecchia, a Senior Lecturer and Associate Dean for Equity, Diversity and Inclusion at the University of NSW’s Faculty of Science. Dr Caponecchia has a background in psychology, human factors and safety, with expertise in psychosocial risks and safe systems of work. He described the latest developments in the emerging discipline of psychosocial risk assessment.  Here we share four of his key take-outs.
