@@ -236,7 +236,7 @@ modules:
         our_board_linkedin: https://www.linkedin.com/in/andrew-culleton-757aab2/
       - our_board_name: Ellen Derrick
         our_board_image: img/ellen-deliotte.jpg
-        our_board_title: National Leader for Public Sector & Public Policy, Deloitte Australia
+        our_board_title: Managing Partner - Consulting, Deloitte Australia
         our_board_linkedin: https://www.linkedin.com/in/ellen-derrick-33126030/
         our_board_description: >-
           Ellen is responsible for driving market growth and brand eminence
