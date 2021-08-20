@@ -418,8 +418,6 @@ modules:
       the alliance at an individual level rather than through their affiliation
       with any one organisation.
     friend:
-      - friend_text: Ben Bars
-        friend_link: https://www.linkedin.com/in/barsy/
       - friend_text: Lucy Brogden AM
         friend_link: https://www.linkedin.com/in/lucindabrogden/
       - friend_text: Rachel Clements
@@ -434,8 +432,6 @@ modules:
         friend_link: https://www.linkedin.com/in/samuel-harvey-758356ab/
       - friend_text: Professor Ian Hickie
         friend_link: https://www.linkedin.com/in/ian-hickie-0b299a69/
-      - friend_text: Dr Angela Martin
-        friend_link: https://www.linkedin.com/in/angela-martin-a988b622/
       - friend_text: Greg Miller
         friend_link: https://www.linkedin.com/in/millergj/
       - friend_text: Colin Seery
