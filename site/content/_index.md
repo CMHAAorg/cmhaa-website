@@ -89,6 +89,8 @@ modules:
         our_member_link: http://www.aia.com.au/
       - our_member_image: img/allianz_logo_positive_cmyk_c.jpg
         our_member_link: https://www.allianz.com.au/business/workers-compensation/mental-health
+      - our_member_image: img/avanade-color-logo-rgb-2-.png
+        our_member_link: "https://www.avanade.com/en-au/about-avanade "
       - our_member_image: img/bunnings_warehouse_colour_pos.png
         our_member_link: https://www.bunnings.com.au/
       - our_member_image: img/clayton_utz_logo_tab_mono.jpg
@@ -101,6 +103,8 @@ modules:
         our_member_link: https://www2.deloitte.com/au/en.html
       - our_member_image: img/dlapiper.jpg
         our_member_link: https://www.dlapiper.com/en/australia/
+      - our_member_image: img/galderma_logo_black_cmyk.jpg
+        our_member_link: https://www.galderma.com/
       - our_member_image: img/johnson.png
         our_member_link: https://www.jnj.com.au/
       - our_member_image: img/kingwood.jpg
@@ -111,12 +115,12 @@ modules:
         our_member_link: https://www.microsoft.com/en-au
       - our_member_image: img/minterellison.jpg
         our_member_link: https://www.minterellison.com/
+      - our_member_image: img/nib-core-logo_boxed-web.jpg
+        our_member_link: https://www.nib.com.au/about-us
       - our_member_link: https://www.pwc.com.au/
         our_member_image: img/pwc200142067_v3_final.jpg
       - our_member_image: img/woolworths-group_rgb_positive_logo.png
         our_member_link: https://www.woolworthsgroup.com.au/
-      - our_member_image: img/galderma_logo_black_cmyk.jpg
-        our_member_link: https://www.galderma.com/
   - type: stacked-content-top-image
     stacked_image: img/istock-1172976280.jpg
     stacked_description: We are at the very beginning of our work together. Come be
