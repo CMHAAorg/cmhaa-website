@@ -54,6 +54,62 @@ modules:
       facilitated by PwC's Impact Assembly, January 2020.
   - our_board_exec_linkedin: https://www.linkedin.com/
     board:
+      - our_board_linkedin: https://www.linkedin.com/in/stevenworrallmicrosoft/
+        our_board_description: >-
+          As Managing Director, Steven Worrall is responsible for Microsoft’s
+          overall business in Australia. He ensures the company meets the needs
+          of its customers and the more than 11,000 partners and independent
+          software vendors that sell or build on the Microsoft platform.
+
+
+          Steven joined Microsoft in March 2014 as Director, Enterprise and Partner Group, responsible for driving business growth and building strong customer and partner relationships in the Australian Commercial and Public Sector markets.
+
+
+          Steven holds an Honours degree in Electrical Engineering and a Master’s in Business Administration. He is a member of the Australian Institute of Company Directors and lives in Sydney with his wife and three children.
+        our_board_quote: None of us think we have all the answers, but we're all doing
+          lots of things and in many cases lots of really good things [to
+          support mental health]. The idea is to get together and share what's
+          working with each other.
+        our_board_image: img/steven-microsoft.jpg
+        our_board_name: Steven Worrall
+        our_board_title: Managing Director, Microsoft Australia & Chair, CMHAA
+      - our_board_name: Martin Adlington
+        our_board_image: img/marty.jpg
+        our_board_title: "Group Chief People Officer, nib "
+        our_board_description: >-
+          Martin joined nib in 2013 and has worked in senior leadership roles
+          across nib’s Retail, Corporate Sales and Corporate Health businesses.
+          He also led the successful integration of GU Health, our corporate
+          health business, into the nib Group following its acquisition in 2017.
+
+          In 2020, Martin was promoted to Group Chief People Officer where he is responsible for driving and leading our people agenda, including our diversity and inclusion strategy.
+
+          He previously held several senior management positions at Telstra over a 17 year period in which he was responsible for leading hundreds of sales and service employees located across Australia. Martin is a proud advocate for Regional and Rural Australia and is an Alumni of the Australian Rural Leadership Foundation.
+
+          Martin has over 30 years’ experience in business development, operational and change management roles across the health insurance, telecommunications and hospitality industries. He is highly skilled at motivating and leading larger and complex teams through significant change and has a strong track record in building leadership capability and delivering strategic operational outcomes.
+        our_board_linkedin: "https://www.linkedin.com/in/martin-adlington-945a1442/ "
+      - our_board_name: Ercument Ates
+        our_board_title: Managing Director Australia & New Zealand, Galderma
+        our_board_linkedin: https://www.linkedin.com/in/ercumentates/
+        our_board_image: img/ates-ecrument.jpg
+        our_board_quote: In my experience, the wellbeing of people is essential to teams
+          and businesses performing at their best. 45% of Australians will
+          experience a mental health condition in their lifetime costing
+          Australian workplaces $10.9 billion a year. As business leaders, I
+          believe we must be part of the solution in prioritizing the mental
+          health and wellbeing of our people.
+        our_board_description: >-
+          Galderma is the leading dermatology company in the world, dedicated to
+          skin health.
+
+
+          Born in Turkey, Ercument has travelled the world in commercial roles that have seen him work in markets like Australia, Canada, UK, Turkey and the US. He brings a global perspective on leadership and a style that values people and culture to deliver exceptional levels of business performance.
+
+
+          One of the things that Ercument has noted in his life and career is the role mental health can play in limiting people’s potential with a flow-on effect on other areas of life. Yet in the right workplace environment, Ercument has seen people overcome mental health challenges and go on to thrive in business and life. 
+
+
+          Apart from being a workplace mental health advocate, Ercument is a husband and father to 3 daughters plus a keen soccer player when his knees aren’t playing up!
       - our_board_image: img/david-coles.jpg
         our_board_name: David Brewster
         our_board_title: Chief Legal & Safety Officer, Coles Group
@@ -71,6 +127,33 @@ modules:
           member of the board of Queensland Venue Company, a joint venture
           operating hotels and retail liquor outlets throughout Queensland.
         our_board_linkedin: https://www.linkedin.com/in/davidabrewster/
+      - our_board_name: Virginia Briggs
+        our_board_image: img/v-briggs-photo.jpg
+        our_board_title: CEO MinterEllison
+        our_board_linkedin: " https://www.linkedin.com/in/virginia-briggs-307a6155/ "
+        our_board_description: >-
+          Virginia Briggs is recognised within MinterEllison and beyond as a
+          values driven leader. Virginia has held numerous leadership positions
+          within the firm including being a member of the Executive Leadership
+          Team since 2017; a member of the Board Diversity & Inclusion Committee
+          since 2015 and as a Champion of PRiME the firm's LGBT+ inclusion
+          network. Virginia is also the Managing Partner of MinterEllison's
+          Infrastructure, Construction and Property group. She is a
+          market-leading practitioner in the property, development and
+          infrastructure markets acting for both government and private clients.
+          Virginia deals in complex large-scale real estate transactions
+          spanning the development, sale, purchase and leasing of commercial,
+          industrial, residential and retail developments and infrastructure
+          assets.
+
+
+
+          In each of the leadership roles Virginia holds she is committed to creating an inclusive, psychologically safe workplace for all members of the firm. As Acting CEO & Managing Partner Virginia leads a team that recognises that a workplace environment characterised by psychological safety and wellbeing is as fundamentally important as a physically safe workplace, and this focus is critical to sustainable high performance for individuals and the organisation.
+
+
+
+          Throughout Virginia's career she has been a visible champion of the legal profession's resilience@law initiative and over the last two years an executive sponsor of MinterEllison's involvement in the CMHAA. Virginia has also personally supported a number of colleagues within the firm, and in the broader profession, through mental health challenges and looks forward to learning more alongside her CEO peers at the CMHAA and playing a leadership role as an advocate for better mental health for all Australians.
+        our_board_quote: ""
       - our_board_name: Bruce Cooper
         our_board_image: img/bruce-clayton.jpg
         our_board_title: Chief Executive Partner, Clayton Utz
@@ -115,6 +198,24 @@ modules:
 
           Berkeley enjoys spending time with his family and with the rich and diverse natural environment that we are fortunate to share in this country.
         our_board_linkedin: https://www.linkedin.com/in/berkeley-cox-004372a2/
+      - our_board_name: Skye Crawford
+        our_board_image: img/profile-picture_cropped.jpg
+        our_board_title: Chief People & Culture Officer, AIA Australia
+        our_board_quote: Along with the stigma around talking about mental health in the
+          workplace is the inherent fear people have of ‘saying the wrong
+          thing’, giving people the building blocks for a conversation can be
+          powerful.
+        our_board_description: >-
+          Leading people & culture for AIA Australia, Skye is responsible for
+          creating an employee experience that embodies the AIA promise of
+          healthier, longer, better lives.
+
+
+          With a career focused on driving change in complex organisations, and in particular through large scale transactions, Skye has a passion for building sustainable businesses where people can thrive. Skye also has a strong commitment to coaching other leaders and executives so that they in turn positively impact the people and organisations they lead.
+
+
+          Skye holds an Executive MBA from Melbourne Business School, a Bachelor of Business (QUT) and is a Graduate of the Australian Institute of Company Directors.
+        our_board_linkedin: https://www.linkedin.com/in/skye-crawford-3824644/
       - our_board_image: img/andrew-commbank.jpg
         our_board_name: Andrew Culleton
         our_board_title: Executive General Manager Group People Services, Commonwealth
@@ -153,33 +254,10 @@ modules:
           leaders stating that mental health is critically important and that in
           a way we're not doing enough, so together we’re going to do more, and
           we’re going to be better in our organisations and together.
-      - our_board_name: Virginia Briggs
-        our_board_image: img/v-briggs-photo.jpg
-        our_board_title: CEO MinterEllison
-        our_board_linkedin: " https://www.linkedin.com/in/virginia-briggs-307a6155/ "
-        our_board_description: >-
-          Virginia Briggs is recognised within MinterEllison and beyond as a
-          values driven leader. Virginia has held numerous leadership positions
-          within the firm including being a member of the Executive Leadership
-          Team since 2017; a member of the Board Diversity & Inclusion Committee
-          since 2015 and as a Champion of PRiME the firm's LGBT+ inclusion
-          network. Virginia is also the Managing Partner of MinterEllison's
-          Infrastructure, Construction and Property group. She is a
-          market-leading practitioner in the property, development and
-          infrastructure markets acting for both government and private clients.
-          Virginia deals in complex large-scale real estate transactions
-          spanning the development, sale, purchase and leasing of commercial,
-          industrial, residential and retail developments and infrastructure
-          assets.
-
-
-
-          In each of the leadership roles Virginia holds she is committed to creating an inclusive, psychologically safe workplace for all members of the firm. As Acting CEO & Managing Partner Virginia leads a team that recognises that a workplace environment characterised by psychological safety and wellbeing is as fundamentally important as a physically safe workplace, and this focus is critical to sustainable high performance for individuals and the organisation.
-
-
-
-          Throughout Virginia's career she has been a visible champion of the legal profession's resilience@law initiative and over the last two years an executive sponsor of MinterEllison's involvement in the CMHAA. Virginia has also personally supported a number of colleagues within the firm, and in the broader profession, through mental health challenges and looks forward to learning more alongside her CEO peers at the CMHAA and playing a leadership role as an advocate for better mental health for all Australians.
-        our_board_quote: ""
+      - our_board_name: Mac Ghani
+        our_board_image: img/avanade-color-logo-rgb-2-.png
+        our_board_title: Managing Director, Avanade
+        our_board_linkedin: "https://www.linkedin.com/in/macghani/ "
       - our_board_name: Brian Long
         our_board_image: img/brianlong-woolworths.jpg
         our_board_title: General Manager Safety, Health & Wellbeing, Woolworths Group
@@ -199,6 +277,27 @@ modules:
           the genuine life I wanted to live. I added things outside of work that
           gave me joy and fulfilment. Mental health is now a crucial element in
           my whole being. "
+      - our_board_name: Amber Matthews
+        our_board_title: Managing Partner Australia, DLA Piper
+        our_board_image: img/photo_amber-matthews.jpeg
+        our_board_description: >-
+          Amber is the Managing Partner of DLA Piper, Australia. DLA Piper is a
+          global law firm with offices in more than 40 countries throughout the
+          Americas, Europe, the Middle East, Africa and Asia Pacific.
+
+
+          Amber has been with DLA Piper for over 20 years in various roles, starting as a corporate lawyer in their Sydney and then London offices, before becoming the firm’s international General Counsel in 2011, a role which she held until 2019, when she took on the Managing Partner role in Australia.
+
+
+          Amber is a collaborative and values driven leader. She believes in developing and empowering others and creating a workplace culture that is inclusive for all. This includes ensuring that everyone has the tools to do their jobs to the best of their ability. Optimising wellbeing and managing stress are critical tools for anyone to have a fulfilling and successful career. 
+
+
+          Amber is a member of the firm’s international Health & Wellbeing Steering Committee, a SPEAK (DLA Piper’s mental health programme) Ambassador and Chair of the Australian and Asia-Pacific Diversity & Inclusion Committees.
+        our_board_quote: "There are inevitably times in life when we are stretched and
+          overwhelmed, sometimes to a point when we can’t cope. Workplaces need
+          to support their people through these times and do all they can to
+          ensure that the work environment is not the cause of the problem.  "
+        our_board_linkedin: "https://www.linkedin.com/in/amber-matthews-8b8568/ "
       - our_board_name: Felicity McDowell
         our_board_description: >-
           Felicity McDowell is the Legal Director of the Consumer Health
@@ -217,23 +316,6 @@ modules:
         our_board_title: Legal Director - Consumer Health, Johnson & Johnson Family of Companies
         our_board_image: img/felicity-j-j.jpg
         our_board_linkedin: ""
-      - our_board_name: Michael Schneider
-        our_board_image: img/mark-bunnings.jpg
-        our_board_title: Managing Director, Bunnings Group Limited
-        our_board_linkedin: https://www.linkedin.com/in/michael-schneider-72116917/
-        our_board_description: >-
-          Michael Schneider was appointed Managing Director Bunnings Australia
-          and New Zealand in March 2016.
-
-
-          He is committed to developing diverse teams that challenge the status quo and embrace innovation to drive high performance which is critical in today’s competitive retail environment. As a leader, he is known for his collaborative, genuine and honest style and for having a real passion and energy for the Bunnings business.
-
-
-          Michael believes that team members’ ability to connect with customers and the local community is key to the business’ success and that this requires an ongoing investment in building the best team as well as creating a culture that builds trust, inspires action, develops people and drives performance.
-        our_board_quote: As a leader, improving mental health starts with a willingness
-          to make yourself vulnerable. If you can accept your own short-comings
-          and open some of those up to others, people feel less alone. That’s
-          all a lot of people in the world want - to feel less alone.
       - our_board_name: Julie Mitchell
         our_board_title: Chief General Manager, Personal Injury, Allianz Australia Insurance Ltd
         our_board_image: img/julie-mitchell.jpg
@@ -256,6 +338,23 @@ modules:
 
           Julie holds a Bachelor of Health Science (Rehabilitation Counselling) degree from the University of Sydney and a Graduate Diploma of Safety Science through the University of New South Wales.
         our_board_quote: ""
+      - our_board_name: Michael Schneider
+        our_board_image: img/mark-bunnings.jpg
+        our_board_title: Managing Director, Bunnings Group Limited
+        our_board_linkedin: https://www.linkedin.com/in/michael-schneider-72116917/
+        our_board_description: >-
+          Michael Schneider was appointed Managing Director Bunnings Australia
+          and New Zealand in March 2016.
+
+
+          He is committed to developing diverse teams that challenge the status quo and embrace innovation to drive high performance which is critical in today’s competitive retail environment. As a leader, he is known for his collaborative, genuine and honest style and for having a real passion and energy for the Bunnings business.
+
+
+          Michael believes that team members’ ability to connect with customers and the local community is key to the business’ success and that this requires an ongoing investment in building the best team as well as creating a culture that builds trust, inspires action, develops people and drives performance.
+        our_board_quote: As a leader, improving mental health starts with a willingness
+          to make yourself vulnerable. If you can accept your own short-comings
+          and open some of those up to others, people feel less alone. That’s
+          all a lot of people in the world want - to feel less alone.
       - our_board_name: Melinda Upton
         our_board_image: img/melinda-dla.jpg
         our_board_title: Independent Board Member
@@ -274,25 +373,6 @@ modules:
         our_board_quote: By showing our vulnerability as leaders, we teach to our people
           that it’s okay to not be okay. We start to erode the barriers that
           have kept people silent for so long.
-      - our_board_linkedin: https://www.linkedin.com/in/stevenworrallmicrosoft/
-        our_board_description: >-
-          As Managing Director, Steven Worrall is responsible for Microsoft’s
-          overall business in Australia. He ensures the company meets the needs
-          of its customers and the more than 11,000 partners and independent
-          software vendors that sell or build on the Microsoft platform.
-
-
-          Steven joined Microsoft in March 2014 as Director, Enterprise and Partner Group, responsible for driving business growth and building strong customer and partner relationships in the Australian Commercial and Public Sector markets.
-
-
-          Steven holds an Honours degree in Electrical Engineering and a Master’s in Business Administration. He is a member of the Australian Institute of Company Directors and lives in Sydney with his wife and three children.
-        our_board_quote: None of us think we have all the answers, but we're all doing
-          lots of things and in many cases lots of really good things [to
-          support mental health]. The idea is to get together and share what's
-          working with each other.
-        our_board_image: img/steven-microsoft.jpg
-        our_board_name: Steven Worrall
-        our_board_title: Managing Director, Microsoft Australia & Chair, CMHAA
       - our_board_name: Sarah Vega
         our_board_image: img/sarah-vega-bio-picture-002-.jpg
         our_board_title: National Managing Partner, Innovation, Solutions & Ventures,
@@ -317,67 +397,6 @@ modules:
 
 
           Outside of KPMG, she has a passion for understanding how human beings work physically and mentally with a specific interest in longevity and the science of health and fitness. Sarah is a parent to four children and her passions include weightlifting, skiing, road biking and reading sci-fi and fantasy.
-      - our_board_name: Skye Crawford
-        our_board_image: img/profile-picture_cropped.jpg
-        our_board_title: Chief People & Culture Officer, AIA Australia
-        our_board_quote: Along with the stigma around talking about mental health in the
-          workplace is the inherent fear people have of ‘saying the wrong
-          thing’, giving people the building blocks for a conversation can be
-          powerful.
-        our_board_description: >-
-          Leading people & culture for AIA Australia, Skye is responsible for
-          creating an employee experience that embodies the AIA promise of
-          healthier, longer, better lives.
-
-
-          With a career focused on driving change in complex organisations, and in particular through large scale transactions, Skye has a passion for building sustainable businesses where people can thrive. Skye also has a strong commitment to coaching other leaders and executives so that they in turn positively impact the people and organisations they lead.
-
-
-          Skye holds an Executive MBA from Melbourne Business School, a Bachelor of Business (QUT) and is a Graduate of the Australian Institute of Company Directors.
-        our_board_linkedin: https://www.linkedin.com/in/skye-crawford-3824644/
-      - our_board_name: Ercument Ates
-        our_board_title: Managing Director Australia & New Zealand, Galderma
-        our_board_linkedin: https://www.linkedin.com/in/ercumentates/
-        our_board_image: img/ates-ecrument.jpg
-        our_board_quote: In my experience, the wellbeing of people is essential to teams
-          and businesses performing at their best. 45% of Australians will
-          experience a mental health condition in their lifetime costing
-          Australian workplaces $10.9 billion a year. As business leaders, I
-          believe we must be part of the solution in prioritizing the mental
-          health and wellbeing of our people.
-        our_board_description: >-
-          Galderma is the leading dermatology company in the world, dedicated to
-          skin health.
-
-
-          Born in Turkey, Ercument has travelled the world in commercial roles that have seen him work in markets like Australia, Canada, UK, Turkey and the US. He brings a global perspective on leadership and a style that values people and culture to deliver exceptional levels of business performance.
-
-
-          One of the things that Ercument has noted in his life and career is the role mental health can play in limiting people’s potential with a flow-on effect on other areas of life. Yet in the right workplace environment, Ercument has seen people overcome mental health challenges and go on to thrive in business and life. 
-
-
-          Apart from being a workplace mental health advocate, Ercument is a husband and father to 3 daughters plus a keen soccer player when his knees aren’t playing up!
-      - our_board_name: Amber Matthews
-        our_board_title: Managing Partner Australia, DLA Piper
-        our_board_image: img/photo_amber-matthews.jpeg
-        our_board_description: >-
-          Amber is the Managing Partner of DLA Piper, Australia. DLA Piper is a
-          global law firm with offices in more than 40 countries throughout the
-          Americas, Europe, the Middle East, Africa and Asia Pacific.
-
-
-          Amber has been with DLA Piper for over 20 years in various roles, starting as a corporate lawyer in their Sydney and then London offices, before becoming the firm’s international General Counsel in 2011, a role which she held until 2019, when she took on the Managing Partner role in Australia.
-
-
-          Amber is a collaborative and values driven leader. She believes in developing and empowering others and creating a workplace culture that is inclusive for all. This includes ensuring that everyone has the tools to do their jobs to the best of their ability. Optimising wellbeing and managing stress are critical tools for anyone to have a fulfilling and successful career. 
-
-
-          Amber is a member of the firm’s international Health & Wellbeing Steering Committee, a SPEAK (DLA Piper’s mental health programme) Ambassador and Chair of the Australian and Asia-Pacific Diversity & Inclusion Committees.
-        our_board_quote: "There are inevitably times in life when we are stretched and
-          overwhelmed, sometimes to a point when we can’t cope. Workplaces need
-          to support their people through these times and do all they can to
-          ensure that the work environment is not the cause of the problem.  "
-        our_board_linkedin: "https://www.linkedin.com/in/amber-matthews-8b8568/ "
     our_board_title: Our board
     our_board_exec_name: ""
     our_board_description: We are governed by a Board comprised of leaders from
