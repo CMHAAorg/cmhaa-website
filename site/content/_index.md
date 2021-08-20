@@ -79,7 +79,7 @@ modules:
     padding_top: false
     padding_bottom: false
   - type: our_members
-    our_members_title: Our members
+    our_members_title: Our Founding members
     our_members_description: We are grateful to our founding members and
       participants for their leadership on workplace mental health, and for
       their support in establishing the Corporate Mental Health Alliance
