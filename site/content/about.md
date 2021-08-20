@@ -378,6 +378,25 @@ modules:
           to support their people through these times and do all they can to
           ensure that the work environment is not the cause of the problem.  "
         our_board_linkedin: "https://www.linkedin.com/in/amber-matthews-8b8568/ "
+      - our_board_name: Martin Adlington
+        our_board_image: img/marty.jpg
+        our_board_title: "Group Chief People Officer, nib "
+        our_board_description: >-
+          Martin joined nib in 2013 and has worked in senior leadership roles
+          across nib’s Retail, Corporate Sales and Corporate Health businesses.
+          He also led the successful integration of GU Health, our corporate
+          health business, into the nib Group following its acquisition in 2017.
+
+          In 2020, Martin was promoted to Group Chief People Officer where he is responsible for driving and leading our people agenda, including our diversity and inclusion strategy.
+
+          He previously held several senior management positions at Telstra over a 17 year period in which he was responsible for leading hundreds of sales and service employees located across Australia. Martin is a proud advocate for Regional and Rural Australia and is an Alumni of the Australian Rural Leadership Foundation.
+
+          Martin has over 30 years’ experience in business development, operational and change management roles across the health insurance, telecommunications and hospitality industries. He is highly skilled at motivating and leading larger and complex teams through significant change and has a strong track record in building leadership capability and delivering strategic operational outcomes.
+        our_board_linkedin: "https://www.linkedin.com/in/martin-adlington-945a1442/ "
+      - our_board_name: Mac Ghani
+        our_board_image: img/avanade-color-logo-rgb-2-.png
+        our_board_title: Managing Director, Avanade
+        our_board_linkedin: "https://www.linkedin.com/in/macghani/ "
     our_board_title: Our board
     our_board_exec_name: ""
     our_board_description: We are governed by a Board comprised of leaders from
