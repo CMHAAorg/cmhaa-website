@@ -255,9 +255,22 @@ modules:
           a way we're not doing enough, so together we’re going to do more, and
           we’re going to be better in our organisations and together.
       - our_board_name: Mac Ghani
-        our_board_image: img/avanade-color-logo-rgb-2-.png
+        our_board_image: img/mac-ghani.jpg
         our_board_title: Managing Director, Avanade
         our_board_linkedin: "https://www.linkedin.com/in/macghani/ "
+        our_board_description: >-
+          As Managing Director of Avanade Australia, Mac leads a team of more
+          than 500 professionals who are passionate about making a genuine human
+          impact through the power of people and digital innovation. 
+
+
+          Prior to his current role, Mac served as General Manager for Avanade’s business in Western and Central Canada. Throughout his career at Avanade, Mac has served in various leadership positions including Malaysia Country Manager, Australia Chief Technology Officer, and Canberra Capability Lead. 
+
+
+          Mac is deeply committed towards cultivating a safe and inclusive environment where everyone can be their true selves. Mac believes diversity fuels innovation, and prioritizing employees’ health and wellbeing would enable them to realise their full potential. To support employees’ needs in all aspects of their lives and ensure they feel cared for, Mac and his team introduced the Gender Transition Leave Benefit and No Meeting Fridays, among other programs and initiatives. Under his leadership, Avanade Australia received the WGEA Employer of Choice for Gender Equality (EOCGE) citation three years in a row and TechDiversity’s 2020 Hall of Fame.
+
+
+          Mac holds a Masters in Business and Technology from the University of South Wales. He lives in Sydney with his wife and two young daughters.
       - our_board_name: Brian Long
         our_board_image: img/brianlong-woolworths.jpg
         our_board_title: General Manager Safety, Health & Wellbeing, Woolworths Group
