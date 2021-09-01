@@ -5,6 +5,7 @@ meta_description: "The Corporate Mental health Alliance Australia (CMHAA) are
   delighted to welcome three new member organisations. "
 banner_title: Welcoming our newest Founding members
 banner_image: img/new-member_tall.png
+banner_right_image: img/istockphoto-943479036-1024x1024_membership.jpg
 date: 2021-09-01T02:45:07.353Z
 description: The Corporate Mental health Alliance Australia (CMHAA) might be a
   new organisation, but we are growing every day, and were delighted to recently
