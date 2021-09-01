@@ -1,6 +1,6 @@
 ---
 title: Welcoming our newest Founding members
-meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
+meta_keywords: Mental Awareness, CMHAA, nib Group, Avanade, Galderma
 meta_description: "The Corporate Mental health Alliance Australia (CMHAA) are
   delighted to recently welcome three new member organisations. "
 banner_title: Welcoming our newest Founding members
