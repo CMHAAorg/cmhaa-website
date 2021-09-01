@@ -4,7 +4,7 @@ meta_keywords: Mental Awareness, Workplace Mental Health, CMHAA, nib Group, Avan
 meta_description: "The Corporate Mental health Alliance Australia (CMHAA) are
   delighted to welcome three new member organisations. "
 banner_title: Welcoming our newest Founding members
-banner_image: img/new-member_tall.png
+banner_image: img/new-member_4.png
 banner_right_image: img/istockphoto-943479036-1024x1024_membership.jpg
 date: 2021-09-01T02:45:07.353Z
 description: The Corporate Mental health Alliance Australia (CMHAA) might be a
