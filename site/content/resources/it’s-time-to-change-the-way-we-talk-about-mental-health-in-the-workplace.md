@@ -5,12 +5,13 @@ meta_description: This is a detailed description of the page.
 banner_title: It’s time to change the way we talk about mental health in the workplace
 banner_description: Becoming a signatory to the National Communications Charter
 banner_image: img/cmhaa_ncc-photo.png
-banner_right_image: img/lim-quote-lucy-brogden.png
+banner_right_image: ""
 date: 2021-09-01T02:51:27.359Z
 description: >-
   Happy pills. Shrinks. Jitters. The blues. 
 
   Talking about mental health is hard, and it’s not surprising that many people reach for euphemisms in the hope of making it easier. But did you know that this sort of language can actually lessen people’s willingness to get help, by trivialising the challenges they’re grappling with?
+image: img/lim-quote-lucy-brogden.png
 category: News & Views
 focus: Developing policy and practice
 role: CEO or leadership role
