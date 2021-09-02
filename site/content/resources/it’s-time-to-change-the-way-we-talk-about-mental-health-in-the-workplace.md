@@ -5,7 +5,7 @@ meta_description: This is a detailed description of the page.
 banner_title: It’s time to change the way we talk about mental health in the workplace
 banner_description: Becoming a signatory to the National Communications Charter
 banner_image: ""
-banner_right_image: img/ncc-new-members.jpg
+banner_right_image: img/picture11.png
 date: 2021-09-01T02:51:27.359Z
 description: >-
   Happy pills. Shrinks. Jitters. The blues. 
