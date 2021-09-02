@@ -7,8 +7,8 @@ meta_description: CMHAA has become a signatory to the National Communications
   reducing workplace stigma and promoting help-seeking behaviour.
 banner_title: It’s time to change the way we talk about mental health in the workplace
 banner_description: Becoming a signatory to the National Communications Charter
-banner_image: img/picture11.png
-banner_right_image: ""
+banner_image: ""
+banner_right_image: img/picture11.png
 date: 2021-09-01T02:51:27.359Z
 description: >-
   Happy pills. Shrinks. Jitters. The blues. 
