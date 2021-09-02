@@ -1,7 +1,10 @@
 ---
 title: It’s time to change the way we talk about mental health in the workplace
-meta_keywords: Mental Awareness, CMHAA, Keyword, Keyword.
-meta_description: This is a detailed description of the page.
+meta_keywords: "Mental Awareness, CMHAA, National Communications Charter, "
+meta_description: CMHAA has become a signatory to the National Communications
+  Charter, a resource that guides the way organisations talk about mental health
+  and suicide prevention. It promotes safe, inclusive language with the aim of
+  reducing workplace stigma and promoting help-seeking behaviour.
 banner_title: It’s time to change the way we talk about mental health in the workplace
 banner_description: Becoming a signatory to the National Communications Charter
 banner_image: ""
