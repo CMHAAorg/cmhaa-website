@@ -17,7 +17,7 @@ role: Employee
 organisation_size: All Sizes
 industry: All Industries
 ---
-One of CMHAA’s long-term missions is to normalise the workplace discussion around mental health ¬– a vision shared by the founders of RUOK Day. 
+One of CMHAA’s long-term missions is to normalise the workplace discussion around mental health – a vision shared by the founders of RUOK Day. 
 
 This week CMHAA spoke to RUOK’s board member, Aya Larkin about how to have life-saving conversations, as well as fun ways to boost your team’s spirit even when you’re apart. 
 
