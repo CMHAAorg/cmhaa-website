@@ -3,7 +3,7 @@ title: Make RUOK DAY Every Day – Not Just September 9
 meta_keywords: Mental Awareness, CMHAA, RUOK, Mental Health, Suicide,
 meta_description: This is a detailed description of the page.
 banner_title: Make RUOK DAY Every Day – Not Just September 9
-banner_image: img/artem-kovalev-fk3xucftavk-unsplash.jpg
+banner_image: img/jason-strull-kq0c6wteglo-unsplash.jpg
 date: 2021-09-08T22:38:08.452Z
 description: For more than a decade, [RUOK
   Day](https://www.ruok.org.au/join-r-u-ok-day) has been encouraging questions
