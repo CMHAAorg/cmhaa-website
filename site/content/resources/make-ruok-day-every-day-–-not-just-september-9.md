@@ -31,11 +31,11 @@ During Sydney’s lockdown Aya has made it a priority to maintain regular weekly
 
 Unfortunately, many people claim they don’t have the confidence to ask a colleague personal questions, which is why RUOK has developed some simple and effective conversation steps to:
 
-* look for signs that someone might be struggling;
-* ask RUOK? to gauge how they’re faring; 
-* listen openly, without judgement or trying to fix things; 
-* encourage them to take positive action;
-* check in a few days later with a follow up chat.
+* **look** for signs that someone might be struggling;
+* **ask RUOK?** to gauge how they’re faring; 
+* **listen** openly, without judgement or trying to fix things; 
+* **encourage** them to take positive action;
+* **check in** a few days later with a follow up chat.
 
 You’ll find useful resources, videos and advice on how to be an RUOK workplace champion [here](https://www.ruok.org.au/workplace-champions-resources). 
 
