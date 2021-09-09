@@ -10,6 +10,7 @@ description: For more than a decade, [RUOK
   that change lives, and with half of all Australians in prolonged lockdown, the
   suicide prevention group says it’s more important than ever to check in with
   your work mates.
+image: img/ruok-graphic.png
 category: Blog
 focus: Support for managers, colleagues and staff
 role: Employee
