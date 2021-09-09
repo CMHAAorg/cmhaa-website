@@ -18,19 +18,14 @@ industry: All Industries
 ---
 One of CMHAA’s long-term missions is to normalise the workplace discussion around mental health ¬– a vision shared by the founders of RUOK Day. 
 
-
 This week CMHAA spoke to RUOK’s board member, Aya Larkin about how to have life-saving conversations, as well as fun ways to boost your team’s spirit even when you’re apart. 
-For more than a decade, RUOK Day has been encouraging questions that change lives, and with half of all Australians in prolonged lockdown, the suicide prevention group says it’s more important than ever to check in with your work mates. 
-
 
 Aya’s brother, Gavin Larkin started RUOK in 2009 in response to their father’s suicide when they were growing up. Gavin lost his own battle with cancer in 2011 but his legacy to save lives is going strong. 
 “Gavin always said, ‘a conversation can stop small problems becoming big ones,’” Aya said, via zoom from the hotel he manages in Bondi, which is now closed.
 
 Aya is a musician as well as hotelier. With both his industries wiped out by lockdowns, he’s seen first-hand the toll that job losses and isolation are having on people’s mental health. “Anecdotally, there’s a huge unreported epidemic of general disorientation… I think a lot of people are struggling,” says Larkin. 
 
-
 “Being engaged in a daily practice of work …and belonging to a group... regardless of what you’re making or how you’re serving … fulfils a basic human need. Without that, it starts to bite.” 
-
 
 During Sydney’s lockdown Aya has made it a priority to maintain regular weekly contact with his full-time and casual staff members, who are waiting it out at home. He doubles his efforts to reach out, “if anyone starts to retract and go quiet”. 
 
@@ -44,12 +39,9 @@ Unfortunately, many people claim they don’t have the confidence to ask a colle
 
 You’ll find useful resources, videos and advice on how to be an RUOK workplace champion [here](https://www.ruok.org.au/workplace-champions-resources). 
 
-
 But not all conversations need to be heavy.  Aya’s staff regularly enjoy Friday online quiz nights and order food and wine from the same restaurant for a shared experience. Workplaces can create fun virtual team activities with games and competitions such as Kahoot, Scribble, Quiplash and Fibbage.
 
-
 According to Aya, it doesn’t matter what the activity is, the important thing is to stay connected. “I would also encourage anyone who is leading a team to have one-on-one meetings. Everyone should have responsibility to check in on a few people in an honest and meaningful way,” Aya said. 
-
 
 **And finally let’s remember the RUOK way is not just for September 9, it’s for every day.**
 
