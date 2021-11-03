@@ -2,8 +2,10 @@
 title: Annual Report 2021
 meta_keywords: Mental Awareness, CMHAA, Annual Report, Thriving at Work,
   Workplace Mental Health
-meta_description: This is a detailed description of the page.
-date: 2021-11-03T12:07:02.724Z
+meta_description: The Corporate Mental Health Alliance Annual Report 2021
+banner_title: Annual Report 2021
+banner_right_image: img/capture.jpg
+date: 2021-11-03T12:14:20.365Z
 description: Our vision, at the highest level, is that the Alliance serves not
   just its members but all 13 million working Australians. Our ‘open’ approach
   means our intellectual property, research and learnings are available to all
