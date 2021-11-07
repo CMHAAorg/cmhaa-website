@@ -21,7 +21,7 @@ modules:
     pdf_downloads_heading: Download resources
     pdf_downloads_list:
       - pdf_downloads_list_heading: Corporate Mental Health Alliance Australia Annual Report 2021
-        pdf_downloads_list_file: img/final-127084201_cmhaa-report-p2_v6.pdf
+        pdf_downloads_list_file: img/final_cmhaa-report_2021.pdf
 ---
 CMHAA officially launched in October 2020. In its first year, the Alliance and its members have come together on a number of occasions to discuss the important topic of mental health and learn from one another.
 
