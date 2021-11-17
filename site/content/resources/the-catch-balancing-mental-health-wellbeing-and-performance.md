@@ -71,10 +71,7 @@ modules:
     quote_author: Josephine Sukkar AM
   - type: spotlight_image_content
     image: img/womens_au_rowing_article.jpg
-    content3: |-
-      
-
-      All images courtesy of Rowing Australia
+    content3: ""
     content2: >-
       Australia’s elite athletes are a small group of people, with lives that
       are very different to the majority of ours. Yet they carry our hopes and
@@ -83,12 +80,15 @@ modules:
       matters. 
 
 
-
       As Sukkar said to the panel, “sport is just a microcosm of the whole community”. And if this is the case, we at the CMHAA sense change in the air.
 
 
-
       From Simone Biles to Naomi Osaka, more athletes are opening up about their mental health and prioritising self-care than ever before. In doing so, they are normalising conversations about wellbeing that are long overdue – and teaching us some important lessons that we can bring to our own workplaces too.
+
+
+
+
+      *All images courtesy of Rowing Australia*
     title2: Normalise the difficult conversations
     title1: Empower people to choose their own course
     content1: >-
