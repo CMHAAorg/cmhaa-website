@@ -4,7 +4,7 @@ meta_keywords: Mental Awareness, CMHAA, Annual Report, Thriving at Work,
   Workplace Mental Health
 meta_description: "Early in Career Employees Research Report "
 banner_title: "Early in career: laying the foundations for good mental health"
-banner_right_image: img/istock-629667248.jpg
+banner_right_image: img/picture16.jpg
 date: 2021-12-16T05:00:48.306Z
 description: The Corporate Mental Health Alliance Australia ‘Thriving from the
   Start’ Early in Career (EIC) Program was developed in order to understand the
