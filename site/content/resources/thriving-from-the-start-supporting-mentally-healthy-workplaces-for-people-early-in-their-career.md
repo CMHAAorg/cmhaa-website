@@ -25,10 +25,8 @@ organisation_size: All Sizes
 industry: All Industries
 modules:
   - type: quote
-    quote_text: By investing in creating mentally healthy, resilient and aware
-      employees who are early in their careers, you’re really setting up your
-      culture for your whole organisation into the future
-    quote_author: Dr Melina Georgousakis
+    quote_text: Mental health and wellbeing is not a ‘nice to have’ – it’s a need to have
+    quote_author: Jerome Doraisamy
   - type: split_title_content
     content: >-
       To kick off the program, EIC volunteers from Corporate Mental Health
@@ -78,6 +76,11 @@ modules:
 
 
       “That’s going to have a ripple effect, because in five to ten years they will be the middle managers.”
+  - type: quote
+    quote_text: By investing in creating mentally healthy, resilient and aware
+      employees who are early in their careers, you’re really setting up your
+      culture for your whole organisation into the future
+    quote_author: Dr Melina Georgousakis
   - type: split_title_content
     title: Aware of mental health, but hesitant to speak out
     content: >-
@@ -137,6 +140,10 @@ modules:
 
 
       Doraisamy also argued that fostering professional development – even in areas outside an employee’s role – can prevent feelings of being “trapped” and empower them to feel more comfortable with their career prospects and have greater resilience in turbulent times.
+  - type: quote
+    quote_text: The best questions are really bespoke to the person and make it
+      evident that you’ve really listened to them in the past
+    quote_author: Xavier Eales
   - type: split_title_content_background
     disable_leftright: false
     title: Building strength through vulnerability
@@ -168,9 +175,6 @@ modules:
 
       To register for our next event tailored to EIC individuals, join the Thriving from the Start Network by getting in touch at earlycareer@cmhaa.org.au.
     content: ""
-  - type: quote
-    quote_text: Mental health and wellbeing is not a ‘nice to have’ – it’s a need to have
-    quote_author: Jerome Doraisamy
 ---
 Today, mental health in young people has never been in sharper focus. The pandemic has caused a surge in anxiety, isolation, uncertainty, financial hardship and other challenges, highlighting the need for open, honest conversations about these issues – especially in the workplace.
 
