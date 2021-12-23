@@ -11,7 +11,7 @@ description: The Corporate Mental Health Alliance Australia ‘Thriving from the
   challenges and concerns young employees face as they embark on their careers,
   and to highlight to organisations the impact workplace experiences can have on
   the mental health of early in career employees.
-category: News & Views
+category: Research
 focus: Improving workplace culture
 role: CEO or leadership role
 organisation_size: All Sizes
