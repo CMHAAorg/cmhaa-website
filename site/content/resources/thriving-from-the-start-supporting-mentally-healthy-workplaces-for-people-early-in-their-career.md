@@ -18,7 +18,7 @@ description: >-
 
 
   The words of Xavier Eales, former school captain of Sydney’s St Ignatius’ College, ring true to this day. They came moments before he candidly described, in front of his peers at a school assembly in 2015, his struggles with depression. A video of his speech quickly went viral, with every share proving his disarmingly honest testimony had touched hearts around Australia.
-category: Research
+category: News & Views
 focus: Support for managers, colleagues and staff
 role: CEO or leadership role
 organisation_size: All Sizes
