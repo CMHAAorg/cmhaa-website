@@ -7,7 +7,7 @@ meta_description: We are an alliance of Australian businesses dedicated to
   expert-guided. We share our insights and experience openly. Together, we have
   the power to change people's experience of the workplace for the better.
 banner_title: Together in the business of workplace mental health
-banner_image: img/istock-1169096513.jpg
+banner_image: img/istock-1169096513_cropped.jpg
 modules:
   - type: split_title_content
     title: Who we are
@@ -120,6 +120,17 @@ modules:
         our_member_image: img/pwc200142067_v3_final.jpg
       - our_member_image: img/woolworths-group_rgb_positive_logo.png
         our_member_link: https://www.woolworthsgroup.com.au/
+  - type: our_members
+    our_members_title: Our Members
+    our_members_description: All our members form part of an alliance of businesses
+      championing workplace mental health and employee wellbeing.
+    member:
+      - our_member_link: https://www.latrobehealth.com.au/
+        our_member_image: img/latrobe-logo.png
+      - our_member_image: img/reagroup-logo-rgb-h.jpg
+        our_member_link: https://www.rea-group.com/
+      - our_member_image: img/twe_logo.png
+        our_member_link: "https://www.tweglobal.com/ "
   - type: stacked-content-top-image
     stacked_image: img/istock-1172976280.jpg
     stacked_description: We are at the very beginning of our work together. Come be
@@ -161,17 +172,6 @@ modules:
       support and create mentally healthy workplaces for their people.
       Together,  they are leading a movement for positive change across
       Australia, and the world, as a part of the CMHA Global network.
-  - type: our_members
-    our_members_title: Our Members
-    our_members_description: All our members form part of an alliance of businesses
-      championing workplace mental health and employee wellbeing.
-    member:
-      - our_member_link: https://www.latrobehealth.com.au/
-        our_member_image: img/latrobe-logo.png
-      - our_member_image: img/reagroup-logo-rgb-h.jpg
-        our_member_link: https://www.rea-group.com/
-      - our_member_image: img/twe_logo.png
-        our_member_link: "https://www.tweglobal.com/ "
 slug: homepage
 banner_cta_link: /about/
 banner_cta_text: See who's involved
