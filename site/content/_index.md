@@ -7,7 +7,7 @@ meta_description: We are an alliance of Australian businesses dedicated to
   expert-guided. We share our insights and experience openly. Together, we have
   the power to change people's experience of the workplace for the better.
 banner_title: Together in the business of workplace mental health
-banner_image: img/gettyimages-173292124.jpg
+banner_image: img/istock-1169096513.jpg
 modules:
   - type: split_title_content
     title: Who we are
