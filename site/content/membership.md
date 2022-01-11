@@ -41,7 +41,7 @@ modules:
       members. By becoming a member of the Corporate Mental Health Alliance
       Australia, your business will:"
     title: Membership benefits
-    image: img/greenhouse-crop.png
+    image: img/picture22_cropped.jpg
   - type: split_title_content_background
     title: Membership requirements
     content: >-
