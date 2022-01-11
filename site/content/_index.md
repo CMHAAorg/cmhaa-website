@@ -80,10 +80,9 @@ modules:
     padding_bottom: false
   - type: our_members
     our_members_title: Our Founding members
-    our_members_description: We are grateful to our founding members and
-      participants for their leadership on workplace mental health, and for
-      their support in establishing the Corporate Mental Health Alliance
-      Australia.
+    our_members_description: We are grateful to our founding members for their
+      leadership on workplace mental health, and for their support in
+      establishing the Corporate Mental Health Alliance Australia.
     member:
       - our_member_image: img/aia_corporate_logo_rgb.png
         our_member_link: http://www.aia.com.au/
@@ -162,6 +161,17 @@ modules:
       support and create mentally healthy workplaces for their people.
       Together,  they are leading a movement for positive change across
       Australia, and the world, as a part of the CMHA Global network.
+  - type: our_members
+    our_members_title: Our Members
+    our_members_description: All our members form part of an alliance of businesses
+      championing workplace mental health and employee wellbeing.
+    member:
+      - our_member_link: https://www.latrobehealth.com.au/
+        our_member_image: img/latrobe-logo.png
+      - our_member_image: img/reagroup-logo-rgb-h.jpg
+        our_member_link: https://www.rea-group.com/
+      - our_member_image: img/twe_logo.png
+        our_member_link: "https://www.tweglobal.com/ "
 slug: homepage
 banner_cta_link: /about/
 banner_cta_text: See who's involved
