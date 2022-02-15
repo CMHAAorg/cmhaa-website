@@ -6,6 +6,7 @@ meta_keywords: Mental Awareness, CMHAA, Upstream interventions, mental health,
 meta_description: The case for a more proactive approach to mental health in the workplace
 banner_title: "Moving Upstream: The case for a more proactive approach to mental
   health in the workplace"
+banner_image: img/pexels-joshua-woroniecki-2607956.jpg
 date: 2022-02-15T05:56:15.593Z
 description: A person is walking along a riverbank and notices a man dragging
   people from the water. The man brings each person to safety on the bank and
