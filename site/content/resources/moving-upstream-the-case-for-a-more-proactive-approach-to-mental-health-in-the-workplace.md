@@ -6,7 +6,7 @@ meta_keywords: Mental Awareness, CMHAA, Upstream interventions, mental health,
 meta_description: The case for a more proactive approach to mental health in the workplace
 banner_title: "Moving Upstream: The case for a more proactive approach to mental
   health in the workplace"
-banner_image: img/pexels-joshua-woroniecki-2607956.jpg
+banner_image: img/kazuend-ccthplhmrzi-unsplash.jpg
 date: 2022-02-15T05:56:15.593Z
 description: A person is walking along a riverbank and notices a man dragging
   people from the water. The man brings each person to safety on the bank and
@@ -20,6 +20,12 @@ role: CEO or leadership role
 organisation_size: All Sizes
 industry: All Industries
 modules:
+  - type: quote
+    quote_text: If I’m feeling good, flourishing and feeling well, my cognitive
+      function will be optimal. I can get the best from my brain. My creativity,
+      innovation, interest, dynamism and motivation will be good. My physical
+      health improves and my behaviour is more prosocial and supportive.
+    quote_author: Dr Brian Marien
   - type: split_title_content
     title: The mental health continuum
     content: >-
@@ -74,6 +80,13 @@ modules:
 
 
       For Dr Marien, this must start with education.
+    image: img/pexels-andrea-piacquadio-3755755.jpg
+  - type: quote
+    quote_text: We need to begin normalising psychological health and periods of
+      psychological distress. This has to start with leadership. There has to be
+      an investment in prevention. It has to be valued, rewarded and seen to be
+      important.
+    quote_author: "Dr Brian Marien "
   - type: split_title_content
     title: Psychological education is key
     content: >-
