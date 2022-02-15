@@ -275,9 +275,9 @@ modules:
 
 
           Mac holds a Masters in Business and Technology from the University of South Wales. He lives in Sydney with his wife and three young daughters.
-      - our_board_name: Brian Long
-        our_board_image: img/brianlong-woolworths.jpg
-        our_board_title: General Manager Safety, Health & Wellbeing, Woolworths Group
+      - our_board_name: To be advised
+        our_board_image: img/woolworths-group_rgb_positive_logo.png
+        our_board_title: Woolworths Group
         our_board_linkedin: https://www.linkedin.com/in/brian-long-6710469/
         our_board_description: >-
           Brian joined the Woolworth's Group as the General Manager, Safety,
