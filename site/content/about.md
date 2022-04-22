@@ -315,23 +315,31 @@ modules:
           to support their people through these times and do all they can to
           ensure that the work environment is not the cause of the problem.  "
         our_board_linkedin: "https://www.linkedin.com/in/amber-matthews-8b8568/ "
-      - our_board_name: Felicity McDowell
+      - our_board_name: Alison Crosweller
         our_board_description: >-
-          Felicity McDowell is the Legal Director of the Consumer Health
-          business of the Johnson & Johnson family of companies in Australia and
-          New Zealand and has held this role for many years.
+          Alison Crosweller is a government affairs and public policy specialist
+          with over 20 years-experience working across state and federal
+          governments, the private sector leading corporate affairs, policy and
+          journalism.
 
 
-          She is passionate about people and mental wellbeing and openly shares her lived experience. Felicity co-leads the companies’ Mental Health Diplomats Employee Resource Group and is an Accredited Mental Health First Aider.
+          Before joining Johnson & Johnson as Senior Director, Government Affairs and Policy, Alison held senior positions in large-listed companies running corporate and government affairs functions, and previous to that was Communications Director to two Premiers and a Treasurer. She began her career as a journalist with The Australian newspaper.
 
 
-          Felicity loves being in and around the water and is learning synchronised swimming with her daughter.
+          Alison is experienced developing and executing engagement strategies to help individuals, corporations and industry bodies promote their agendas, build relationships and enhance reputations, seize commercial opportunities and achieve their goals.  She has been a company representative on several industry bodies across the health care, infrastructure and resource recovery space as well as a member of her organisation’s Reconciliation Action Plan committees.
+
+
+          Alison is the Johnson & Johnson ANZ lead for the Alliance for Adverse Abilities, an employee resource group focusing on inclusion and belonging for people with diverse abilities in the company. She is passionate about mental health in teenagers.
+
+
+          In her spare time she is driving children to swimming squads, AFL and gymnastics training.
         our_board_quote: It’s a chance for businesses to come together as a united voice
           to pursue a vision of improving workplace mental health, where
           everyone feels safe to talk about their mental health without fear of
           stigma or discrimination.
-        our_board_title: Legal Director - Consumer Health, Johnson & Johnson Family of Companies
-        our_board_image: img/felicity-j-j.jpg
+        our_board_title: Senior Director, Government Affairs and Policy, Johnson &
+          Johnson Family of Companies
+        our_board_image: img/johnson.png
         our_board_linkedin: ""
       - our_board_name: Julie Mitchell
         our_board_title: Chief General Manager, Personal Injury, Allianz Australia Insurance Ltd
