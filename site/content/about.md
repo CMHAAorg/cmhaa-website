@@ -174,30 +174,20 @@ modules:
 
           Outside law, Bruce is the Deputy Chair of the Australian String Quartet, skis, collects vintage land rovers and WW1 militaria (both mostly while his wife, Bronwyn, is not looking) and acts as a hired hand in her cattle business.
         our_board_linkedin: https://www.linkedin.com/in/bruce-cooper-960934b/
-      - our_board_name: Berkeley Cox
-        our_board_image: img/berkley-king-wood.jpg
+      - our_board_name: Renae Lattey
+        our_board_image: img/renae-lattey-headshot.png
         our_board_title: Chief Executive Partner, King & Wood Mallesons
-        our_board_quote: By being open about my own challenges, I hope to help
-          destigmatise mental health and wellness in the workplace. I want
-          people to appreciate that you can have your own mental health
-          struggles, be vulnerable and have a successful and fulfilling career.
+        our_board_quote: ""
         our_board_description: >-
-          Berkeley Cox is the Chief Executive Partner of the Australian
-          operations of King & Wood Mallesons, a global law firm headquartered
-          in Asia. He leads the strategic direction of the Australian firm
-          (comprising approximately 1,000 lawyers and 600 shared services and
-          support personnel) and drives execution against firm priorities and on
-          its client, people, international, innovation and community agenda.
+          Renae Lattey is the Chief Executive Partner, Australia for King & Wood
+          Mallesons, a top tier international law firm, from Asia, for the
+          world. In her role, Renae is responsible for the development of the
+          firm’s strategy as the Australian practice continues to build on its
+          strong foundation and vision. 
 
 
-          King & Wood Mallesons is seeking to challenge traditional ‘big law’ notions by creating a workplace where all individuals and teams can maximise their performance and wellbeing in a sustainable way by focussing on both systemic and proximate change and on improving the everyday experience for all.
-
-
-          He currently serves as a Director on the Boards of Workplace Giving Australia (WGA) and Act for Kids.
-
-
-          Berkeley enjoys spending time with his family and with the rich and diverse natural environment that we are fortunate to share in this country.
-        our_board_linkedin: https://www.linkedin.com/in/berkeley-cox-004372a2/
+          KWM continues to focus on building an inclusive and respectful workplace where all individuals and teams can maximise their performance and wellbeing in a sustainable way.
+        our_board_linkedin: "https://www.linkedin.com/in/renae-lattey-19441a16/ "
       - our_board_name: Skye Crawford
         our_board_image: img/profile-picture_cropped.jpg
         our_board_title: Chief People & Culture Officer, AIA Australia
