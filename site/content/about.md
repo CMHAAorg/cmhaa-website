@@ -329,7 +329,7 @@ modules:
           stigma or discrimination.
         our_board_title: Senior Director, Government Affairs and Policy, Johnson &
           Johnson Family of Companies
-        our_board_image: img/johnson.png
+        our_board_image: img/alison-crosweller-headshot.jpg
         our_board_linkedin: ""
       - our_board_name: Julie Mitchell
         our_board_title: Chief General Manager, Personal Injury, Allianz Australia Insurance Ltd
