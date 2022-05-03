@@ -8,8 +8,8 @@ mainMenu:
   - title: Resources
     url: /resources/
     newtab: false
-  - title: Contact
-    url: /contact/
   - title: Early Career
     url: /earlycareer/
+  - title: Contact
+    url: /contact/
 ---
