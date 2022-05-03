@@ -9,7 +9,7 @@ mainMenu:
     url: /resources/
     newtab: false
   - title: Early Career
-    url: /earlycareer/
+    url: /early-career/
   - title: Contact
     url: /contact/
 ---
