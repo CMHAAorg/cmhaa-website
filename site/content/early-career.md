@@ -7,7 +7,7 @@ meta_description: The CMHA Thriving From The Start (TFTS) Network is a mental
   education and applying for jobs.
 banner_title: "Driving Understanding: CMHAA ‘Thriving from the Start’ Early in
   Career Program"
-banner_image: img/picture22_cropped.jpg
+banner_image: img/picture23.jpg
 banner_cta_link: ""
 modules:
   - type: split_title_content
@@ -29,6 +29,7 @@ modules:
 
 
       \- Transforming business and creating best practice on delivering support to young, early in career workers.
+    image: img/pexels-pixabay-209728-2-.jpg
   - type: spotlight_image_content
     image: img/picture23.jpg
     title1: Who is the CMHA Thriving from The Start Network for?
