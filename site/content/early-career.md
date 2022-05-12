@@ -33,8 +33,8 @@ modules:
     image: ""
   - type: split_title_content
     title: "Early in Career Event: Imposter Syndrome"
-    leadtext: "#### The Thriving from the Start Network held their first official
-      event on 28 April – Feeling like a Fraud? Overcoming Imposter Syndrome"
+    leadtext: The Thriving from the Start Network held their first official event on
+      28 April – Feeling like a Fraud? Overcoming Imposter Syndrome
     content: >-
       Hosted by a member of our Early in Career Committee, the Event featured
       panellists Hugh Kearns, public speaker, educator and researcher at
