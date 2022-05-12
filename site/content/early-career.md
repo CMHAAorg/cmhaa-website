@@ -7,7 +7,8 @@ meta_description: The CMHA Thriving From The Start (TFTS) Network is a mental
   education and applying for jobs.
 banner_title: "Driving Understanding: CMHAA ‘Thriving from the Start’ Early in
   Career Program"
-banner_image: img/picture23.jpg
+banner_image: ""
+banner_right_image: img/picture5.jpg
 banner_cta_link: ""
 modules:
   - type: split_title_content
@@ -33,7 +34,7 @@ modules:
   - type: split_title_content
     title: "Early in Career Event: Imposter Syndrome"
     leadtext: "##### The Thriving from the Start Network held their first official
-      event on 28 April – Feeling like a Fraud? Overcoming Imposter Syndrome."
+      event on 28 April -Feeling like a Fraud? Overcoming Imposter Syndrome"
     content: >-
       Hosted by a member of our Early in Career Committee, the Event featured
       panellists Hugh Kearns, public speaker, educator and researcher at
