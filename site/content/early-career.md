@@ -52,7 +52,7 @@ modules:
 
       2. Mind your language - don’t discount your achievements. Just say “Thank you”
 
-      3. Create a fact file and a brag file Make a file that contains evidence about your achievements
+      3. Create a fact file and a brag file that contains evidence about your achievements
 
       4. Set objective standards - don’t move the goalposts after the event
 
