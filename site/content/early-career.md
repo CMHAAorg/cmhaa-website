@@ -29,9 +29,44 @@ modules:
 
 
       \- Transforming business and creating best practice on delivering support to young, early in career workers.
-    image: img/pexels-pixabay-209728-2-.jpg
+    image: ""
+  - type: split_title_content
+    title: "Early in Career Event: Imposter Syndrome"
+    leadtext: "##### The Thriving from the Start Network held their first official
+      event on 28 April – Feeling like a Fraud? Overcoming Imposter Syndrome."
+    content: >-
+      Hosted by a member of our Early in Career Committee, the Event featured
+      panellists Hugh Kearns, public speaker, educator and researcher at
+      Flinders University and Tiffany Wright, Director of Education, Microsoft
+      Australia. 
+
+
+      Through a combination of scientific evidence and lived experience the speakers explored what Imposter Syndrome looks and feels like, why it occurs, how it can manifest and ways to move past it. 
+
+
+      Hugh’s 6 practical strategies to overcome Imposter Syndrome were a particular standout, namely: 
+
+
+      1. Imposter feelings are normal - most people will occasionally feel like an imposter, especially in new situations
+
+      2. Mind your language - don’t discount your achievements. Just say “Thank you”
+
+      3. Create a fact file and a brag file Make a file that contains evidence about your achievements
+
+      4. Set objective standards - don’t move the goalposts after the event
+
+      5. Get used to your imposter feelings - they don’t go away but you get used to them
+
+      6. Be brave and take action
+
+         To learn more, you can access the recording of the Event below.
+  - type: vimeo_with_quote
+    vimeo_quote_id: "705309382"
+    vimeo_quote_text: This phenomenon of capable people being plagued by self-doubt
+      has a name - the Imposter Syndrome
+    vimeo_quote_author: Sheryl Sandberg
   - type: spotlight_image_content
-    image: img/picture23.jpg
+    image: img/pexels-jopwell-2422293.jpg
     title1: Who is the CMHA Thriving from The Start Network for?
     content1: >-
       If you are a graduate, intern, apprentice or school leaver or in the first
