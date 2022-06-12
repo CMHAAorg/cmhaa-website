@@ -370,6 +370,24 @@ modules:
           to make yourself vulnerable. If you can accept your own short-comings
           and open some of those up to others, people feel less alone. That’s
           all a lot of people in the world want - to feel less alone.
+      - our_board_name: Fiona Thompson
+        our_board_image: img/fiona-tompson-101-headshot_crop.jpg
+        our_board_title: Group Executive, People, Culture & Advocacy
+        our_board_description: >-
+          Fiona has been Suncorp’s Group Executive, People, Culture & Advocacy
+          since January 2021. In this role, she is responsible for the functions
+          of People & Culture, Corporate Affairs, Customer Advocate and
+          Regulatory Affairs. Fiona previously spent five years as Suncorp’s
+          Chief Risk Officer. Prior to this, Fiona was Chief Risk Officer –
+          Insurance and Associate General Counsel and has held several
+          leadership roles within legal, risk management, compliance, internal
+          audit and customer advocate functions since joining Suncorp in 2001.
+
+
+          Fiona has led Suncorp through significant strategic projects, including risk transformation, mergers and acquisitions, capital raisings, regulatory change, remediation activity and licence consolidation.
+
+
+          Fiona has also been integral in leading her teams through periods of significant change and is passionate about the creation and maintenance of high performing, healthy and supportive workplaces and is an advocate for diversity and inclusion.
       - our_board_name: Melinda Upton
         our_board_image: img/melinda-dla.jpg
         our_board_title: Independent Board Member
@@ -412,24 +430,6 @@ modules:
 
 
           Outside of KPMG, she has a passion for understanding how human beings work physically and mentally with a specific interest in longevity and the science of health and fitness. Sarah is a parent to four children and her passions include weightlifting, skiing, road biking and reading sci-fi and fantasy.
-      - our_board_name: Fiona Thompson
-        our_board_image: img/fiona-tompson-101-headshot.jpg
-        our_board_title: Group Executive, People, Culture & Advocacy
-        our_board_description: >-
-          Fiona has been Suncorp’s Group Executive, People, Culture & Advocacy
-          since January 2021. In this role, she is responsible for the functions
-          of People & Culture, Corporate Affairs, Customer Advocate and
-          Regulatory Affairs. Fiona previously spent five years as Suncorp’s
-          Chief Risk Officer. Prior to this, Fiona was Chief Risk Officer –
-          Insurance and Associate General Counsel and has held several
-          leadership roles within legal, risk management, compliance, internal
-          audit and customer advocate functions since joining Suncorp in 2001.
-
-
-          Fiona has led Suncorp through significant strategic projects, including risk transformation, mergers and acquisitions, capital raisings, regulatory change, remediation activity and licence consolidation.
-
-
-          Fiona has also been integral in leading her teams through periods of significant change and is passionate about the creation and maintenance of high performing, healthy and supportive workplaces and is an advocate for diversity and inclusion.
     our_board_title: Our board
     our_board_exec_name: ""
     our_board_description: We are governed by a Board comprised of leaders from
