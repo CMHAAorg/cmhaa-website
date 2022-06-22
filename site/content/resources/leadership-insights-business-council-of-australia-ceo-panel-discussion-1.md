@@ -16,7 +16,7 @@ description: >-
   Shame and discrimination are powerful foes in the battle for better mental health, but they are not unbeatable. In fact, there are many strategies your organisation can implement to stem stigma at its source and create a safer working environment.  
 
 
-  > ‘The dangerous moments are when we take people for granted.’
+  > The dangerous moments are when we take people for granted.
 
   > Australia’s experts weigh in on vulnerability, stigma and fostering psychological safety at work. 
 
@@ -55,7 +55,7 @@ modules:
 
 Good evening and good morning if you’re in another part of the world. We’ve got a fantastic line-up of panellists, and I know their conversations will give us lots to think about.  We all share a common purpose: to make sure our workplaces are doing everything possible to support positive mental health and wellbeing. As recently pointed out, our actions – as individuals and collectively as a nation – meant that last year, amazingly, fewer people died from suicide than during the year before.  
 
-> ‘Through greater community understanding of just how important mental health is, and with additional support, we saved 179 lives from suicide during the height of the pandemic.’ 
+> Through greater community understanding of just how important mental health is, and with additional support, we saved 179 lives from suicide during the height of the pandemic.
 
 This is not to diminish the unacceptable toll of more than 3,000 Australians a year dying by suicide. One life is too many.
 
@@ -76,7 +76,7 @@ Julie, do you have any views about why it took a pandemic for us to realise just
 **Julie Mitchell**\
 If I went back to our 2020 research into mental health, we found that eight in 10 people felt more comfortable talking to their employer about having a physical illness that caused them to need time off work, than they did in letting the manager know they had a psychological condition. But if you fast-forward to this year, that number is now four in 10. 
 
-> ‘We have seen people talking more openly about their mental health, and we would put that down to the fact that people are bringing their whole selves to work.’ 
+> We have seen people talking more openly about their mental health, and we would put that down to the fact that people are bringing their whole selves to work. 
 
 You are really seeing, for those working at home, those conversations between colleagues have become richer, as we’ve had to work harder at things like social connections since we’ve been away from the office.  
 
@@ -93,7 +93,7 @@ We’ve been seeing an ongoing trend in the rise of active claims for primary ps
 
 What we’re seeing among people who do lodge a psychological claim is that the return-to-work efforts, the access to the right treatment and getting the correct diagnoses, are incredibly costly. 
 
-> ‘The costs associated with psychological claims far outweigh the cost of physical injuries claims – they are about 3.5 times higher, in fact.’ 
+> The costs associated with psychological claims far outweigh the cost of physical injuries claims – they are about 3.5 times higher, in fact. 
 
 The return-to-work rate is also much lower for people with psychological injuries, and we’re seeing that the average time these claimants take off work is rising quite significantly. That’s often to do with COVID-19 challenges such as access to treatment becoming more difficult, and business shutdowns that prevent people from coming back to work performing suitable duties. 
 
@@ -112,7 +112,7 @@ I should say that toilet paper is so 2020. We’ve actually had a surge in clean
 
 Take something like putting glass screens checkout areas. The health authorities would advise that you don’t need them. But in those early days, our team felt they needed them, and there’s been a really interesting conversation about how you take what are true, clear, science-based physical factors, but also address the psychological factors. 
 
-> ‘It’s been incredibly important for us to take heed of what our teams think will keep them psychologically safe.’ 
+> It’s been incredibly important for us to take heed of what our teams think will keep them psychologically safe. 
 
 It’s been inspiring to see our customers treating essential workers with the respect and recognition they deserve. At the same time, we’ve had 14,000 people isolate just in the last 14 weeks, but because our customers can’t see it, they don’t get the same recognition. 
 
@@ -126,7 +126,7 @@ In May this year, the majority of the ministers agreed to amend the workplace he
 
 In August 2018, we received a notice from WorkSafe Victoria in connection with work we were doing for a client around the Royal Commission in the financial services sector. The demands on us at that time were extreme, and they affected our ability to create a safe work environment for our people.  
 
-> ‘That was a wake-up call for us. And dare I say - it was a blessing in disguise in that it forced us to confront the issue of psychological safety in the workplace. ’
+> That was a wake-up call for us. And dare I say - it was a blessing in disguise in that it forced us to confront the issue of psychological safety in the workplace. 
 
 We were determined to unpack it at a deeper level. We reviewed not only our systems and processes, particularly on extremely high-demand matters, but analysed our culture at a deeper level. This work set us up well for COVID-19 lockdowns, in that our leaders were more deliberate and intentional about creating supportive teams.  
 
@@ -136,7 +136,7 @@ Penny, the mental health system is often seen as something in hospitals or clini
 **Penny Armytage**\
 My first thought is the important role business leaders can play in encouraging governments to invest in adequate downstream and upstream responses to mental health. Beyond your own organisation, can you make this a part of your corporate social responsibility agenda?
 
-> ‘That investment will bring economic returns through improved workforce participation and increased productivity, as well as a reduction in the burden of disease on our community, improved life expectancy and better outcomes in all measures of quality of life.’ 
+> That investment will bring economic returns through improved workforce participation and increased productivity, as well as a reduction in the burden of disease on our community, improved life expectancy and better outcomes in all measures of quality of life.
 
 You all lead sectors that have enormous capacity to do that analysis, and opportunities to present that analysis both to your communities and to government. Then, think about creative ways you can partner, whether that’s with government, with experts or with others within your industry to build an evidence base about what works. We haven’t got the years of expertise here that we’ve accumulated in responding to other issues. We’re still in relative infancy when it comes to understanding what gives you the best results for your investment. So, it pays to collaborate and benefit from others’ insights. 
 
@@ -150,7 +150,7 @@ At the same time, we’re all going to fall in the water at some point – very 
 
 I think what we need to do is something that’s actually already happening with a lot of our clients in the UK. We’re starting to move upstream, so that it’s not just about falling in the water. It’s about teaching people to swim to the bank. But if they do fall, which a lot of us will, it’s looking at how you can get out of the water a bit quicker. A big part of COVID distress came from our poor tolerance of uncertainty.  
 
-> ‘We need to educate people to be tolerant of uncertainty, tolerant of ambiguity, because we’re going to see exponential change over the next few decades.’ 
+> We need to educate people to be tolerant of uncertainty, tolerant of ambiguity, because we’re going to see exponential change over the next few decades. 
 
 **Jennifer Westacott**\
 How important is organisational design? What’s the role of research and data here?  
@@ -161,7 +161,7 @@ The sociologist Nicholas Christakis’s work on social networks shows how cultur
 
 Whereas leaders who have low tolerance for uncertainty often generate spooky stories that cascade through the group so that everyone becomes more anxious. I think leadership has an amazing capacity to reduce stress in the people they’re managing. 
 
-> I’m not saying it’s perfect; it isn’t a panacea. But it can be incredibly powerful.’
+> I’m not saying it’s perfect; it isn’t a panacea. But it can be incredibly powerful.
 
 **Jennifer Westacott**\
 Brad, in your organisation you’ve got a very data-savvy approach. How are you using that combination of values and data to support people in the workplace? 
