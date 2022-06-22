@@ -44,6 +44,12 @@ focus: Support for managers, colleagues and staff
 role: Health and/or wellbeing lead
 organisation_size: All Sizes
 industry: All Industries
+modules:
+  - type: quote
+    quote_text: >-
+      > The dangerous moments are when we take people for granted.’
+
+      > Australia’s experts weigh in on vulnerability, stigma and fostering psychological safety at work.
 ---
 **Jennifer Westacott**
 
