@@ -2,7 +2,7 @@
 title: "Leadership Insights    Business Council of Australia: CEO Panel Discussion"
 meta_keywords: Leadership, Mental Awareness, CMHAA, Keyword, Keyword.
 meta_description: A discussion among senior thought leaders on mental health in the workplace
-banner_title: Leadership Insights
+banner_title: "Leadership Insights - Business Council of Australia: CEO Panel Discussion"
 banner_image: img/istock-924520276.jpg
 date: 2022-06-22T06:24:12.014Z
 description: >-
