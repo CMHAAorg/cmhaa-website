@@ -2,6 +2,7 @@
 title: It's the Office - But not as we know it
 meta_keywords: Mental Awareness, CMHAA, injuries, COVID, Keyword, Keyword.
 meta_description: A blog about mental health and rising injury due to ill mental health
+banner_image: img/about-us.jpg
 date: 2022-06-22T22:52:22.583Z
 description: >-
   **It’s the Office – But Not As We Know It**
@@ -22,17 +23,17 @@ organisation_size: All Sizes
 industry: All Industries
 modules:
   - type: quote
-    quote_text: Creating mentally healthy workplaces is a shared responsibility and
-      does not fall solely on employers. Insurers, healthcare professionals and
-      government organisations also have an important role to play in a rapidly
-      changing work environment, which now encompasses a surge in remote
-      working.
+    quote_text: "> Creating mentally healthy workplaces is a shared responsibility
+      and does not fall solely on employers. Insurers, healthcare professionals
+      and government organisations also have an important role to play in a
+      rapidly changing work environment, which now encompasses a surge in remote
+      working."
 ---
 The cost of mental illness is indisputable. According to the 2020 Productivity Commission report, psychological injury in the workplace costs the Australian economy $39 billion each year in lost productivity and participation.
 
 Leading workers’ compensation insurer, Allianz, has reported workplace mental health injuries are on the rise – with active psychological claims increasing by 12% since the pandemic began1. Allianz Australia’s 2021 report, Finding the Balance in the Modern Workplace, is Allianz’s third annual online survey of 1,050 Australian employees, from middle managers, down.
 
-**Chief General Manager of Personal Injury at Allianz Australia**, **Julie Mitchell**, says the loss of routine during the pandemic has affected people’s recovery and holistic wellbeing. ‘What’s more, the pandemic hindered some injured workers’ return to work, with their treatments and appointments delayed due to lockdowns.’
+**Chief General Manager of Personal Injury** at **Allianz Australia**, **Julie Mitchell**, says the loss of routine during the pandemic has affected people’s recovery and holistic wellbeing. ‘What’s more, the pandemic hindered some injured workers’ return to work, with their treatments and appointments delayed due to lockdowns.’
 
 As of June 2021, the Families in Australia Survey: Towards COVID Normal conducted by the Australian Institute of Family Studies found two thirds of employed respondents were sometimes or always working from home, compared to 42% pre-COVID.
 
@@ -64,7 +65,7 @@ For the benefit of all employees, managers can benefit from completing evidence-
 
 Training and the right support systems protect employees, as well as assist in attracting the best and brightest recruits. According to research by SuperFriend, 87% of the most attractive places to work have mental health programs and flexible work arrangements.
 
-Recommendations for employers
+**Recommendations for employers**
 
 · Provide managers with evidence-based mental health training to improve their recognition of and response to mental ill health and related risk factors in the workplace.
 
@@ -76,7 +77,7 @@ Take immediate and preventative action against workplace bullying, sexual harass
 
 · Account for a steady post-pandemic workplace transition.
 
-Recommendations for employees
+**Recommendations for employees**
 
 · Initiate discussions with managers regarding clear parameters around work/life balance.
 
