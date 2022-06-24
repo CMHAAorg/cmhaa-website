@@ -7,10 +7,10 @@ banner_image: ""
 banner_right_image: img/istock-1221364691.jpg
 date: 2022-06-22T22:52:22.583Z
 description: >-
-  **It’s the Office – But Not As We Know It**
-
-
-  As many employees transition back into the office after prolonged lockdowns, the challenge is to retain some of the beneficial aspects gained from working at home to positively transform our workplaces into more flexible, and most importantly, mentally safe environments.
+  As many employees transition back into the office after prolonged lockdowns,
+  the challenge is to retain some of the beneficial aspects gained from working
+  at home to positively transform our workplaces into more flexible, and most
+  importantly, mentally safe environments.
 
 
   Recent reports from Allianz Insurance and Black Dog Institute offer evidenced-based recommendations to promote and protect mental health at work, as well as flagging the potential consequences for organisations that don’t make the shift.
