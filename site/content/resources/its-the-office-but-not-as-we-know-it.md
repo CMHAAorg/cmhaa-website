@@ -2,6 +2,7 @@
 title: It's the Office - But not as we know it
 meta_keywords: Mental Awareness, CMHAA, injuries, COVID, Keyword, Keyword.
 meta_description: A blog about mental health and rising injury due to ill mental health
+banner_title: It's the Office - But not as we know it
 banner_image: ""
 banner_right_image: img/istock-1221364691.jpg
 date: 2022-06-22T22:52:22.583Z
@@ -33,40 +34,24 @@ modules:
   - type: spotlight_image_content
     title1: Recommendations for employers
     content1: >-
-      \- Provide managers with evidence-based mental health training to improve
+      1. Provide managers with evidence-based mental health training to improve
       their recognition of and response to mental ill health and related risk
-      factors in the workplace.
+      factors in the workplace. 
 
+         Build mentally healthy workplaces through organisational-level strategies to boost worker autonomy, improved job control, and flexible work. 
 
-      \- Build mentally healthy workplaces through organisational-level strategies to boost worker autonomy, improved job control, and flexible work.
+         Take immediate and preventative action against workplace bullying, sexual harassment and assault. 
 
+         Apply evidence-based protective mental health and wellbeing interventions for all employees. 
 
-      \- Take immediate and preventative action against workplace bullying, sexual harassment and assault.
-
-
-      \- Apply evidence-based protective mental health and wellbeing interventions for all employees.
-
-
-      \- Account for a steady post-pandemic workplace transition.
+         Account for a steady post-pandemic workplace transition.
     title2: Recommendations for employees
-    content2: >-
-      \- Initiate discussions with managers regarding clear parameters around
-      work/life balance.
-
-
-      \- Set clear expectations about working hours.
-
-
-      \- Make time to transition from work to personal life.
-
-
-      \- Turn off notifications on devices outside work hours.
-
-
-      \- Take scheduled breaks away from the desk for lunch and exercise.
-
-
-      \- Provide feedback for managers on how mental health programs are working.
+    content2: 1. Initiate discussions with managers regarding clear parameters
+      around work/life balance. 2. Set clear expectations about working hours.
+      3. Make time to transition from work to personal life. 4. Turn off
+      notifications on devices outside work hours. 5. Take scheduled breaks away
+      from the desk for lunch and exercise. 6. Provide feedback for managers on
+      how mental health programs are working.
     image: img/istock-654774714.jpg
 ---
 The cost of mental illness is indisputable. According to the 2020 Productivity Commission report, psychological injury in the workplace costs the Australian economy $39 billion each year in lost productivity and participation.
