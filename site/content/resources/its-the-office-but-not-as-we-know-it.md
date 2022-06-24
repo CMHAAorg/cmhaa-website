@@ -2,7 +2,8 @@
 title: It's the Office - But not as we know it
 meta_keywords: Mental Awareness, CMHAA, injuries, COVID, Keyword, Keyword.
 meta_description: A blog about mental health and rising injury due to ill mental health
-banner_image: img/about-us.jpg
+banner_image: ""
+banner_right_image: img/istock-1221364691.jpg
 date: 2022-06-22T22:52:22.583Z
 description: >-
   **It’s the Office – But Not As We Know It**
