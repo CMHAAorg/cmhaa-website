@@ -33,18 +33,14 @@ modules:
     quote_author: Julie Mitchell
   - type: spotlight_image_content
     title1: Recommendations for employers
-    content1: >-
-      1. Provide managers with evidence-based mental health training to improve
-      their recognition of and response to mental ill health and related risk
-      factors in the workplace. 
-
-         Build mentally healthy workplaces through organisational-level strategies to boost worker autonomy, improved job control, and flexible work. 
-
-         Take immediate and preventative action against workplace bullying, sexual harassment and assault. 
-
-         Apply evidence-based protective mental health and wellbeing interventions for all employees. 
-
-         Account for a steady post-pandemic workplace transition.
+    content1: 1. Provide managers with evidence-based mental health training to
+      improve their recognition of and response to mental ill health and related
+      risk factors in the workplace. 2. Build mentally healthy workplaces
+      through organisational-level strategies to boost worker autonomy, improved
+      job control, and flexible work. 3. Take immediate and preventative action
+      against workplace bullying, sexual harassment and assault. 4. Apply
+      evidence-based protective mental health and wellbeing interventions for
+      all employees. 5. Account for a steady post-pandemic workplace transition.
     title2: Recommendations for employees
     content2: 1. Initiate discussions with managers regarding clear parameters
       around work/life balance. 2. Set clear expectations about working hours.
