@@ -1,5 +1,5 @@
 ---
-title: "Leadership Insights    Business Council of Australia: CEO Panel Discussion"
+title: "Leadership Insights: CEO Panel Discussion"
 meta_keywords: Leadership, Mental Awareness, CMHAA, Keyword, Keyword.
 meta_description: A discussion among senior thought leaders on mental health in the workplace
 banner_title: "Leadership Insights - Business Council of Australia: CEO Panel Discussion"
@@ -13,12 +13,11 @@ description: >-
   unfavourably because of their condition.
 
 
-  Shame and discrimination are powerful foes in the battle for better mental health, but they are not unbeatable. In fact, there are many strategies your organisation can implement to stem stigma at its source and create a safer working environment.  
+  Shame and discrimination are powerful foes in the battle for better mental health, but they are not unbeatable. In fact, there are many strategies your organisation can implement to stem stigma at its source and create a safer working environment.  The dangerous moments are when we take people for granted.
 
 
-  > The dangerous moments are when we take people for granted.
 
-  > Australia’s experts weigh in on vulnerability, stigma and fostering psychological safety at work. 
+  **Australia’s experts weigh in on vulnerability, stigma and fostering psychological safety at work.** 
 
 
   How do compensation claims for psychological injury diverge from those for physical injury? Why might businesses invest in health and safety measures that scientific experts say are useless? What are the unique challenges facing carers in our workforce? And most importantly, why did it take a global pandemic for us to start paying attention to mental health? 
@@ -46,10 +45,10 @@ organisation_size: All Sizes
 industry: All Industries
 modules:
   - type: quote
-    quote_text: >-
-      > The dangerous moments are when we take people for granted.’
-
-      > Australia’s experts weigh in on vulnerability, stigma and fostering psychological safety at work.
+    quote_text: We have seen people talking more openly about their mental health,
+      and we would put that down to the fact that people are bringing their
+      whole selves to work.
+    quote_author: Julie Mitchell
 ---
 **Jennifer Westacott**
 
