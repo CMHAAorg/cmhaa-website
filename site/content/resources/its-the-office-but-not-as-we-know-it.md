@@ -23,11 +23,11 @@ organisation_size: All Sizes
 industry: All Industries
 modules:
   - type: quote
-    quote_text: "> Creating mentally healthy workplaces is a shared responsibility
-      and does not fall solely on employers. Insurers, healthcare professionals
-      and government organisations also have an important role to play in a
-      rapidly changing work environment, which now encompasses a surge in remote
-      working."
+    quote_text: Creating mentally healthy workplaces is a shared responsibility and
+      does not fall solely on employers. Insurers, healthcare professionals and
+      government organisations also have an important role to play in a rapidly
+      changing work environment, which now encompasses a surge in remote
+      working.
 ---
 The cost of mental illness is indisputable. According to the 2020 Productivity Commission report, psychological injury in the workplace costs the Australian economy $39 billion each year in lost productivity and participation.
 
