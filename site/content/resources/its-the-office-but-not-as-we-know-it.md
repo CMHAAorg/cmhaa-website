@@ -16,7 +16,7 @@ description: >-
 
 
   The incidence of workplace mental health injuries is rising.
-image: ""
+image: img/istock-1163725879.jpg
 category: Blog
 focus: Improving workplace culture
 role: Health and/or wellbeing lead
