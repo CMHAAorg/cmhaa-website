@@ -114,10 +114,12 @@ modules:
         our_member_link: https://www.microsoft.com/en-au
       - our_member_image: img/minterellison.jpg
         our_member_link: https://www.minterellison.com/
-      - our_member_image: img/nib-core-logo_boxed-web.jpg
+      - our_member_image: img/nib_rgb_primarylogo_truegreen-9-.png
         our_member_link: https://www.nib.com.au/about-us
       - our_member_link: https://www.pwc.com.au/
         our_member_image: img/pwc200142067_v3_final.jpg
+      - our_member_image: img/suncorphorizontal_primaryrgb.jpg
+        our_member_link: https://www.suncorp.com.au/
       - our_member_image: img/woolworths-group_rgb_positive_logo.png
         our_member_link: https://www.woolworthsgroup.com.au/
   - type: our_members
