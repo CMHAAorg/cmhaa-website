@@ -13,8 +13,8 @@ modules:
     padding_top: true
     padding_bottom: true
   - type: quote
-    quote_text: At the Alliance, we have found like-minded leaders who are will to
-      share. In business, we're mostly competing, but here we're competing as
+    quote_text: At the Alliance, we have found like-minded leaders who are willing
+      to share. In business, we're mostly competing, but here we're competing as
       one against mental ill-health as the common foe. We're all very willing
       learners and collaborators. We want to share what we’re doing and learn
       from others.
