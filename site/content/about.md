@@ -265,25 +265,27 @@ modules:
 
 
           Mac holds a Masters in Business and Technology from the University of South Wales. He lives in Sydney with his wife and three young daughters.
-      - our_board_name: To be advised
-        our_board_image: img/woolworths-logo-1.gif
-        our_board_title: Woolworths Group
-        our_board_linkedin: https://www.linkedin.com/in/brian-long-6710469/
+      - our_board_name: Annette Karantoni
+        our_board_image: img/ja900311_cropped.jpg
+        our_board_title: Chief Supply Chain Officer, Woolworths Group & Managing
+          Director, Primary Connect
+        our_board_linkedin: "https://www.linkedin.com/in/akarantoni/ "
         our_board_description: >-
-          Brian joined the Woolworth's Group as the General Manager, Safety,
-          Health and Wellbeing, with mental health and wellbeing identified as
-          one of Brian's key priorities.
+          Annette has spent the last 20 years working across Woolworths Group.
+          Annette's roles over the years have included eCommerce, logistics,
+          buying, marketing and replenishment. Annette also led the redesign of
+          our supply chain network which laid out our development and investment
+          roadmap.
 
 
-          Throughout his career, Brian has played a pivotal role in engendering a culture of care.
+          Most recently, Annette has been part of the WooliesX scale-up and has spent the last few years building capabilities for our customers and teams in her role as Director of B2C eCommerce. In this role, she grew a highly capable team and worked closely with our supply chain and store operations teams to navigate huge acceleration in this space. During her time in the role, Annette oversaw growth of the WooliesX eCommerce platform from 2% to 11% of our total business.
 
 
-          As a globally influential Safety, Resilience, Wellbeing and Sustainability Leader, with a proven track record in delivering tangible business outcomes, whilst maintaining an unflinching commitment to improving the lives of the people he interacts with.
-        our_board_quote: "I learnt the importance of being vulnerable and getting
-          support. I reflected on myself and my work. I created space to live
-          the genuine life I wanted to live. I added things outside of work that
-          gave me joy and fulfilment. Mental health is now a crucial element in
-          my whole being. "
+          In her current tole, Annette is responsible for leading Primary Connect, the supply chain arm of Woolworths Group. Annette's team of more than 10,000 support Woolworths, BIG W, BWS and Dan Murphy's stores across the country, providing them with our customer's favourite food, drink and everyday needs items. 
+
+
+          Passionate about our customers and team, Annette brings a wealth of experience and passion to the Group Executive team, with a track record of delivering customer-led strategies, delivering change , innovation and scalable ways of working.
+        our_board_quote: ""
       - our_board_name: Amber Matthews
         our_board_title: Managing Partner Australia, DLA Piper
         our_board_image: img/photo_amber-matthews.jpeg
