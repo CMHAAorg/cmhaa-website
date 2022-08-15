@@ -206,6 +206,32 @@ modules:
 
           Skye holds an Executive MBA from Melbourne Business School, a Bachelor of Business (QUT) and is a Graduate of the Australian Institute of Company Directors.
         our_board_linkedin: https://www.linkedin.com/in/skye-crawford-3824644/
+      - our_board_name: Alison Crosweller
+        our_board_description: >-
+          Alison Crosweller is a government affairs and public policy specialist
+          with over 20 years-experience working across state and federal
+          governments, the private sector leading corporate affairs, policy and
+          journalism.
+
+
+          Before joining Johnson & Johnson as Senior Director, Government Affairs and Policy, Alison held senior positions in large-listed companies running corporate and government affairs functions, and previous to that was Communications Director to two Premiers and a Treasurer. She began her career as a journalist with The Australian newspaper.
+
+
+          Alison is experienced developing and executing engagement strategies to help individuals, corporations and industry bodies promote their agendas, build relationships and enhance reputations, seize commercial opportunities and achieve their goals.  She has been a company representative on several industry bodies across the health care, infrastructure and resource recovery space as well as a member of her organisation’s Reconciliation Action Plan committees.
+
+
+          Alison is the Johnson & Johnson ANZ lead for the Alliance for Adverse Abilities, an employee resource group focusing on inclusion and belonging for people with diverse abilities in the company. She is passionate about mental health in teenagers.
+
+
+          In her spare time she is driving children to swimming squads, AFL and gymnastics training.
+        our_board_quote: It’s a chance for businesses to come together as a united voice
+          to pursue a vision of improving workplace mental health, where
+          everyone feels safe to talk about their mental health without fear of
+          stigma or discrimination.
+        our_board_title: Senior Director, Government Affairs and Policy, Johnson &
+          Johnson Family of Companies
+        our_board_image: img/alison-crosweller-headshot.jpg
+        our_board_linkedin: ""
       - our_board_image: img/andrew-commbank.jpg
         our_board_name: Andrew Culleton
         our_board_title: Executive General Manager Group People Services, Commonwealth
@@ -265,25 +291,27 @@ modules:
 
 
           Mac holds a Masters in Business and Technology from the University of South Wales. He lives in Sydney with his wife and three young daughters.
-      - our_board_name: To be advised
-        our_board_image: img/woolworths-logo-1.gif
-        our_board_title: Woolworths Group
-        our_board_linkedin: https://www.linkedin.com/in/brian-long-6710469/
+      - our_board_name: Annette Karantoni
+        our_board_image: img/ja900311_cropped.jpg
+        our_board_title: Chief Supply Chain Officer, Woolworths Group & Managing
+          Director, Primary Connect
+        our_board_linkedin: "https://www.linkedin.com/in/akarantoni/ "
         our_board_description: >-
-          Brian joined the Woolworth's Group as the General Manager, Safety,
-          Health and Wellbeing, with mental health and wellbeing identified as
-          one of Brian's key priorities.
+          Annette has spent the last 20 years working across Woolworths Group.
+          Annette's roles over the years have included eCommerce, logistics,
+          buying, marketing and replenishment. Annette also led the redesign of
+          our supply chain network which laid out our development and investment
+          roadmap.
 
 
-          Throughout his career, Brian has played a pivotal role in engendering a culture of care.
+          Most recently, Annette has been part of the WooliesX scale-up and has spent the last few years building capabilities for our customers and teams in her role as Director of B2C eCommerce. In this role, she grew a highly capable team and worked closely with our supply chain and store operations teams to navigate huge acceleration in this space. During her time in the role, Annette oversaw growth of the WooliesX eCommerce platform from 2% to 11% of our total business.
 
 
-          As a globally influential Safety, Resilience, Wellbeing and Sustainability Leader, with a proven track record in delivering tangible business outcomes, whilst maintaining an unflinching commitment to improving the lives of the people he interacts with.
-        our_board_quote: "I learnt the importance of being vulnerable and getting
-          support. I reflected on myself and my work. I created space to live
-          the genuine life I wanted to live. I added things outside of work that
-          gave me joy and fulfilment. Mental health is now a crucial element in
-          my whole being. "
+          In her current tole, Annette is responsible for leading Primary Connect, the supply chain arm of Woolworths Group. Annette's team of more than 10,000 support Woolworths, BIG W, BWS and Dan Murphy's stores across the country, providing them with our customer's favourite food, drink and everyday needs items. 
+
+
+          Passionate about our customers and team, Annette brings a wealth of experience and passion to the Group Executive team, with a track record of delivering customer-led strategies, delivering change , innovation and scalable ways of working.
+        our_board_quote: ""
       - our_board_name: Amber Matthews
         our_board_title: Managing Partner Australia, DLA Piper
         our_board_image: img/photo_amber-matthews.jpeg
@@ -305,32 +333,6 @@ modules:
           to support their people through these times and do all they can to
           ensure that the work environment is not the cause of the problem.  "
         our_board_linkedin: "https://www.linkedin.com/in/amber-matthews-8b8568/ "
-      - our_board_name: Alison Crosweller
-        our_board_description: >-
-          Alison Crosweller is a government affairs and public policy specialist
-          with over 20 years-experience working across state and federal
-          governments, the private sector leading corporate affairs, policy and
-          journalism.
-
-
-          Before joining Johnson & Johnson as Senior Director, Government Affairs and Policy, Alison held senior positions in large-listed companies running corporate and government affairs functions, and previous to that was Communications Director to two Premiers and a Treasurer. She began her career as a journalist with The Australian newspaper.
-
-
-          Alison is experienced developing and executing engagement strategies to help individuals, corporations and industry bodies promote their agendas, build relationships and enhance reputations, seize commercial opportunities and achieve their goals.  She has been a company representative on several industry bodies across the health care, infrastructure and resource recovery space as well as a member of her organisation’s Reconciliation Action Plan committees.
-
-
-          Alison is the Johnson & Johnson ANZ lead for the Alliance for Adverse Abilities, an employee resource group focusing on inclusion and belonging for people with diverse abilities in the company. She is passionate about mental health in teenagers.
-
-
-          In her spare time she is driving children to swimming squads, AFL and gymnastics training.
-        our_board_quote: It’s a chance for businesses to come together as a united voice
-          to pursue a vision of improving workplace mental health, where
-          everyone feels safe to talk about their mental health without fear of
-          stigma or discrimination.
-        our_board_title: Senior Director, Government Affairs and Policy, Johnson &
-          Johnson Family of Companies
-        our_board_image: img/alison-crosweller-headshot.jpg
-        our_board_linkedin: ""
       - our_board_name: Julie Mitchell
         our_board_title: Chief General Manager, Personal Injury, Allianz Australia Insurance Ltd
         our_board_image: img/julie-mitchell.jpg
