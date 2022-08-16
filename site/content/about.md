@@ -301,10 +301,10 @@ modules:
           Annette's roles over the years have included eCommerce, logistics,
           buying, marketing and replenishment. Annette also led the redesign of
           our supply chain network which laid out our development and investment
-          roadmap.
+          roadmap. 
 
 
-          Most recently, Annette has been part of the WooliesX scale-up and has spent the last few years building capabilities for our customers and teams in her role as Director of B2C eCommerce. In this role, she grew a highly capable team and worked closely with our supply chain and store operations teams to navigate huge acceleration in this space. During her time in the role, Annette oversaw growth of the WooliesX eCommerce platform from 2% to 11% of our total business.
+          Most recently, Annette has been part of the WooliesX scale-up and has spent the last few years building capabilities for our customers and teams in her role as Director of B2C eCommerce. In this role, she grew a highly capable team and worked closely with our supply chain and store operations teams to navigate huge acceleration in this space. During her time in the role, Annette oversaw growth of the WooliesX eCommerce platform from 2% to 11% of our total business. 
 
 
           In her current tole, Annette is responsible for leading Primary Connect, the supply chain arm of Woolworths Group. Annette's team of more than 10,000 support Woolworths, BIG W, BWS and Dan Murphy's stores across the country, providing them with our customer's favourite food, drink and everyday needs items. 
